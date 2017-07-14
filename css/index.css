@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E3;
-	background-color: #34418A;
+	color: #000007;
+	background-color: #CB568E;
 }
 
 #muse_css_mq
@@ -37,7 +37,7 @@
 
 #u2430-28
 {
-	z-index: 43;
+	z-index: 44;
 	min-height: 318px;
 	background-color: transparent;
 	position: relative;
@@ -351,14 +351,39 @@
 	left: 61px;
 }
 
+#pu104
+{
+	z-index: 2;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: -164px;
+	width: 53.86%;
+	margin-left: 23.13%;
+}
+
 #u104
 {
 	z-index: 2;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: -164px;
-	width: 53.86%;
-	left: 23.13%;
+	width: 100%;
+}
+
+#u3585
+{
+	z-index: 43;
+	height: 1px;
+	margin-top: 152px;
+	position: relative;
+	width: 0.2%;
+	margin-left: 23.6%;
+}
+
+.ie #u3585
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
 }
 
 .css_verticalspacer .verticalspacer
@@ -374,7 +399,7 @@
 body
 {
 	position: relative;
-	min-width: 320px;
+	min-width: 720px;
 	padding-top: 155px;
 }
 

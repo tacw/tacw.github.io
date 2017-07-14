@@ -1,7 +1,7 @@
 .version.misc /* version checker */
 {
-	color: #0000FC;
-	background-color: #22F149;
+	color: #000018;
+	background-color: #17666B;
 }
 
 #muse_css_mq
@@ -352,19 +352,44 @@
 	left: 61px;
 }
 
+#pu104
+{
+	z-index: 2;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: -164px;
+	width: 53.86%;
+	margin-left: 23.13%;
+}
+
 #u104
 {
 	z-index: 2;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: -164px;
-	width: 53.86%;
-	left: 23.13%;
+	width: 100%;
+}
+
+#u3585
+{
+	z-index: 43;
+	height: 1px;
+	margin-top: 152px;
+	position: relative;
+	width: 0.2%;
+	margin-left: 23.6%;
+}
+
+.ie #u3585
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 762px);
+	height: calc(100vh - 806px);
 }
 
 .html
@@ -375,7 +400,7 @@
 body
 {
 	position: relative;
-	min-width: 320px;
+	min-width: 720px;
 	padding-top: 155px;
 }
 
