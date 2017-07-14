@@ -1,0 +1,365 @@
+#u3304
+{
+	background-color: #565656;
+	background-color: rgba(68,68,68,0.9);
+	-pie-background: rgba(68,68,68,0.9);
+}
+
+#u3305
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EDEDED;
+}
+
+#u3314
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #0071BC;
+}
+
+#buttonu3323
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu3323:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u3326-4
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u3326-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3324
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3324::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu3323.ButtonSelected,#buttonu3323:hover #u3324
+{
+	background-color: transparent;
+}
+
+#buttonu3323:active #u3324
+{
+	background-color: transparent;
+}
+
+#buttonu3306
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu3306:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u3307-4
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u3307-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3308
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3308::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu3323.ButtonSelected #u3324,#buttonu3306.ButtonSelected,#buttonu3306:hover #u3308
+{
+	background-color: transparent;
+}
+
+#buttonu3306:active #u3308
+{
+	background-color: transparent;
+}
+
+#buttonu3310
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu3310:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u3311-4
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u3311-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3312
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3312::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu3306.ButtonSelected #u3308,#buttonu3310.ButtonSelected,#buttonu3310:hover #u3312
+{
+	background-color: transparent;
+}
+
+#buttonu3310:active #u3312
+{
+	background-color: transparent;
+}
+
+#buttonu3315
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu3315:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u3316-4
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u3316-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3317
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3317::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu3310.ButtonSelected #u3312,#buttonu3315.ButtonSelected,#buttonu3315:hover #u3317
+{
+	background-color: transparent;
+}
+
+#buttonu3315:active #u3317
+{
+	background-color: transparent;
+}
+
+#buttonu3319
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu3319:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u3322-4
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u3322-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3326,#u3307,#u3311,#u3316,#u3322
+{
+	line-height: 19px;
+}
+
+#u3320
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3320::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu3315.ButtonSelected #u3317,#buttonu3319.ButtonSelected,#buttonu3319:hover #u3320
+{
+	background-color: transparent;
+}
+
+#buttonu3319:active #u3320
+{
+	background-color: transparent;
+}
+
+#buttonu3563
+{
+	border-color: #787878;
+	background-color: #0071BC;
+	border-radius: 10px;
+}
+
+#buttonu3563:hover
+{
+	background-color: #296AE2;
+}
+
+#buttonu3563.ButtonSelected
+{
+	background-color: #0071BC;
+}
+
+#u3564-4
+{
+	background-color: transparent;
+	color: #3C3C3C;
+	text-align: center;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-family: dosis, sans-serif;
+	font-weight: 300;
+}
+
+#buttonu3563:hover #u3564-4 p,#buttonu3563:hover #u3564-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu3563.ButtonSelected #u3564-4 p,#buttonu3563.ButtonSelected #u3564-4 span
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
+#u3564
+{
+	font-family: dosis, sans-serif;
+	font-weight: 300;
+}
+
+#u3330
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u3333
+{
+	vertical-align: top;
+	background: transparent url("../images/u3333.png?crc=3926963553") no-repeat 0px 0px;
+}
+
+#u3330.PamphletThumbSelected #u3333
+{
+	background: transparent url("../images/u3333-a.png?crc=21366187") no-repeat 0px 0px;
+}
+
+#buttonu3319.ButtonSelected #u3320,#u3331
+{
+	background-color: transparent;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+

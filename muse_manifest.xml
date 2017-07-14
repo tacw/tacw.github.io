@@ -1,36 +1,50 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1499995675888">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1499998116992">
+  <folder name="assets">
+    <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
+    <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="205954113"/>
-    <file name="master_a-master.css" crc="464695029" ref="index:misc:games:school"/>
-    <file name="index.css" crc="4045184067" ref="index"/>
-    <file name="misc.css" crc="374924106" ref="misc"/>
-    <file name="games.css" crc="374924106" ref="games"/>
-    <file name="school.css" crc="3943642171" ref="school"/>
+    <file name="site_global.css" crc="215612431"/>
+    <file name="master_a-master.css" crc="251770648" ref="index:misc:games:school:apush:calculus:english:chinese-2:chemistry"/>
+    <file name="index.css" crc="3811852682" ref="index"/>
+    <file name="misc.css" crc="4230148425" ref="misc"/>
+    <file name="games.css" crc="4230148425" ref="games"/>
+    <file name="school.css" crc="349347504" ref="school"/>
+    <file name="master_b-master.css" crc="3892367336" ref="apush:calculus:english:chinese-2:school:chemistry"/>
+    <file name="apush.css" crc="494643494" ref="apush"/>
+    <file name="calculus.css" crc="494643494" ref="calculus"/>
+    <file name="english.css" crc="494643494" ref="english"/>
+    <file name="chinese-2.css" crc="4257740999" ref="chinese-2"/>
+    <file name="chemistry.css" crc="494643494" ref="chemistry"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc"/>
-    <file name="museutils.js" crc="163421577" ref="index:school:games:misc"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc"/>
-    <file name="museconfig.js" crc="168988563" ref="index:school:games:misc"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:school:games:misc"/>
-    <file name="require.js" crc="244322403" ref="index:school:games:misc"/>
-    <file name="webpro.js" crc="3848665353" ref="school"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="school"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="school"/>
-    <file name="touchswipe.js" crc="404375771" ref="school"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="museutils.js" crc="163421577" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="museconfig.js" crc="168988563" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="require.js" crc="244322403" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="webpro.js" crc="3848665353" ref="school:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="school:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="school:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2"/>
   </folder>
   <folder name="images">
-    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc"/>
-    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc"/>
-    <file name="pointer.png" crc="3760686964" seo="true" ref="school"/>
-    <file name="logow.png" crc="245199859" seo="true" ref="school"/>
-    <file name="logo2_line_light.png" crc="4148212642" seo="true" ref="school"/>
-    <file name="u2695.png" crc="3926963553" ref="school"/>
-    <file name="u2695-a.png" crc="21366187" ref="school"/>
-    <file name="menu_icon_04_white_3line-crop-u2693.png" crc="4158053167" ref="school"/>
+    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="u3333.png" crc="3926963553" ref="school:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="u3333-a.png" crc="21366187" ref="school:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="menu_icon_04_white_3line-crop-u3331.png" crc="4158053167" ref="school:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="favicon.ico" crc="4117084711" ref="index"/>
   </folder>
-  <file name="index.html" crc="285311060" seo="true" mt="1499995487933" redirect="true"/>
-  <file name="school.html" crc="4077430644" seo="true" mt="1499995664971" redirect="true"/>
-  <file name="games.html" crc="529602143" seo="true" mt="1499995302870" redirect="true"/>
-  <file name="misc.html" crc="4177081537" seo="true" mt="1499995302870" redirect="true"/>
+  <file name="index.html" crc="425887106" seo="true" mt="1499998102850" redirect="true"/>
+  <file name="school.html" crc="4193006780" seo="true" mt="1499998102850" redirect="true"/>
+  <file name="games.html" crc="380043427" seo="true" mt="1499998102850" redirect="true"/>
+  <file name="misc.html" crc="3865675634" seo="true" mt="1499998102850" redirect="true"/>
+  <file name="apush.html" crc="492770169" seo="true" mt="1499998102850" redirect="true"/>
+  <file name="calculus.html" crc="82710589" seo="true" mt="1499998102850" redirect="true"/>
+  <file name="chemistry.html" crc="4207485431" seo="true" mt="1499998102850" redirect="true"/>
+  <file name="english.html" crc="172715980" seo="true" mt="1499998102850" redirect="true"/>
+  <file name="chinese-2.html" crc="453611100" seo="true" mt="1499998102850" redirect="true"/>
 </manifest>
