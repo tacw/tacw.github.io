@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1499995417905">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1499995675888">
   <folder name="css">
     <file name="site_global.css" crc="205954113"/>
     <file name="master_a-master.css" crc="464695029" ref="index:misc:games:school"/>
     <file name="index.css" crc="4045184067" ref="index"/>
     <file name="misc.css" crc="374924106" ref="misc"/>
     <file name="games.css" crc="374924106" ref="games"/>
-    <file name="school.css" crc="4250886833" ref="school"/>
+    <file name="school.css" crc="3943642171" ref="school"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc"/>
@@ -29,8 +29,8 @@
     <file name="u2695-a.png" crc="21366187" ref="school"/>
     <file name="menu_icon_04_white_3line-crop-u2693.png" crc="4158053167" ref="school"/>
   </folder>
-  <file name="index.html" crc="208825242" seo="true" mt="1499995302870" redirect="true"/>
-  <file name="school.html" crc="183633629" seo="true" mt="1499995379014" redirect="true"/>
+  <file name="index.html" crc="285311060" seo="true" mt="1499995487933" redirect="true"/>
+  <file name="school.html" crc="4077430644" seo="true" mt="1499995664971" redirect="true"/>
   <file name="games.html" crc="529602143" seo="true" mt="1499995302870" redirect="true"/>
   <file name="misc.html" crc="4177081537" seo="true" mt="1499995302870" redirect="true"/>
 </manifest>
