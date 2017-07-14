@@ -1,0 +1,36 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1499995417905">
+  <folder name="css">
+    <file name="site_global.css" crc="205954113"/>
+    <file name="master_a-master.css" crc="464695029" ref="index:misc:games:school"/>
+    <file name="index.css" crc="4045184067" ref="index"/>
+    <file name="misc.css" crc="374924106" ref="misc"/>
+    <file name="games.css" crc="374924106" ref="games"/>
+    <file name="school.css" crc="4250886833" ref="school"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc"/>
+    <file name="museutils.js" crc="163421577" ref="index:school:games:misc"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc"/>
+    <file name="museconfig.js" crc="168988563" ref="index:school:games:misc"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:school:games:misc"/>
+    <file name="require.js" crc="244322403" ref="index:school:games:misc"/>
+    <file name="webpro.js" crc="3848665353" ref="school"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="school"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="school"/>
+    <file name="touchswipe.js" crc="404375771" ref="school"/>
+  </folder>
+  <folder name="images">
+    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc"/>
+    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc"/>
+    <file name="pointer.png" crc="3760686964" seo="true" ref="school"/>
+    <file name="logow.png" crc="245199859" seo="true" ref="school"/>
+    <file name="logo2_line_light.png" crc="4148212642" seo="true" ref="school"/>
+    <file name="u2695.png" crc="3926963553" ref="school"/>
+    <file name="u2695-a.png" crc="21366187" ref="school"/>
+    <file name="menu_icon_04_white_3line-crop-u2693.png" crc="4158053167" ref="school"/>
+  </folder>
+  <file name="index.html" crc="208825242" seo="true" mt="1499995302870" redirect="true"/>
+  <file name="school.html" crc="183633629" seo="true" mt="1499995379014" redirect="true"/>
+  <file name="games.html" crc="529602143" seo="true" mt="1499995302870" redirect="true"/>
+  <file name="misc.html" crc="4177081537" seo="true" mt="1499995302870" redirect="true"/>
+</manifest>
