@@ -19,6 +19,9 @@
 
 #u4341-5
 {
+	border-style: solid;
+	border-width: 2px;
+	border-color: #F15A24;
 	background-color: transparent;
 	font-size: 14px;
 	letter-spacing: 1px;
@@ -26,62 +29,60 @@
 	line-height: 27px;
 }
 
-#u4341-2
+#u4341-5:hover
+{
+	background-color: #29ABE2;
+}
+
+#u4401-5
+{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #F15A24;
+	background-color: transparent;
+	color: #FC6B02;
+	line-height: 27px;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u4404-5
+{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #F15A24;
+	background-color: transparent;
+	font-size: 14px;
+	letter-spacing: 1px;
+	color: #FC6B02;
+	line-height: 27px;
+}
+
+#u4401-5:hover,#u4404-5:hover
+{
+	background-color: #0071BC;
+}
+
+#u4341-2,#u4401,#u4404-2
 {
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 }
 
-#u4341-3
+#u4341-3,#u4404-3
 {
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 }
 
-#u4401-5
-{
-	background-color: transparent;
-	color: #FC6B02;
-	line-height: 27px;
-	font-size: 14px;
-	letter-spacing: 1px;
-	font-family: open-sans, sans-serif;
-	font-weight: 700;
-}
-
-#u4343
+#u5217
 {
 	border-style: solid;
-	border-width: 1px;
-	border-color: #FFFFFF;
+	border-width: 2px;
+	border-color: #F15A24;
 	background-color: transparent;
-}
-
-#u4407-4,#u4417-4
-{
-	background-color: transparent;
-	color: #FFFFFF;
-}
-
-#u4407,#u4417
-{
-	color: #FFFFFF;
-}
-
-#u4404-5
-{
-	background-color: transparent;
-	color: #FC6B02;
-	line-height: 27px;
-	font-size: 14px;
-	letter-spacing: 1px;
-	font-family: open-sans, sans-serif;
-	font-weight: 700;
-}
-
-#u4341-5:hover,#u4401-5:hover,#u4404-5:hover
-{
-	background-color: #0071BC;
 }
 
 #u4450,#u4346

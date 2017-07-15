@@ -1,0 +1,68 @@
+#pu6357.PamphletThumbSelected #u6357
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #22B573;
+}
+
+#u6344
+{
+	border-color: #000000;
+	background-color: #00406D;
+}
+
+#u6351
+{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #FC6B02;
+	background-color: #000000;
+}
+
+#u6352-4,#u6710-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 32px;
+	font-size: 27px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u6350,#u6434,#u6422,#u6436,#u6410,#u6424,#u6412,#u6428,#u6426,#u6430,#u6466,#u6420,#u6414,#u6432,#u6418,#u6416,#u6438,#u6440,#u6442,#u6446,#u6448,#u6450,#u6454,#u6456,#u6458,#u6462,#u6464,#u6468,#u6444,#u6452,#u6460
+{
+	background-color: transparent;
+}
+
+#u6713,#u6357
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u6346-4
+{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #ED1C24;
+	background-color: transparent;
+	font-size: 18px;
+	letter-spacing: 2px;
+	color: #ED1C24;
+	line-height: 22px;
+	text-align: center;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+}
+
+#u6346-2
+{
+	padding-top: 6px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
