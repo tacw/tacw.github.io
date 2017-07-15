@@ -159,6 +159,15 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.S001---Caption
+{
+	color: #FFFFFF;
+	font-family: josefin-sans, sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	padding: 0px;
+}
+
 .Menu-Buttons
 {
 	color: #383838;

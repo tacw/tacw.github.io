@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500075150027">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500079405654">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="215612431"/>
+    <file name="site_global.css" crc="4160065970"/>
     <file name="master_a-master.css" crc="251770648" ref="index:misc:games:school:apush:calculus:english:chinese-2:chemistry:torrenting"/>
-    <file name="index.css" crc="130766478" ref="index"/>
+    <file name="index.css" crc="94781588" ref="index"/>
     <file name="misc.css" crc="4110154857" ref="misc"/>
     <file name="games.css" crc="404186731" ref="games"/>
     <file name="school.css" crc="464486309" ref="school"/>
@@ -26,10 +26,11 @@
     <file name="museconfig.js" crc="168988563" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
     <file name="jquery.watch.js" crc="104486786" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
     <file name="require.js" crc="244322403" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
-    <file name="webpro.js" crc="3848665353" ref="school:apush:calculus:chemistry:english:chinese-2"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="school:apush:calculus:chemistry:english:chinese-2"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="school:apush:calculus:chemistry:english:chinese-2"/>
-    <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2"/>
+    <file name="webpro.js" crc="3848665353" ref="school:apush:calculus:chemistry:english:chinese-2:index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="school:apush:calculus:chemistry:english:chinese-2:index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="school:apush:calculus:chemistry:english:chinese-2:index"/>
+    <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
   </folder>
   <folder name="images">
     <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
@@ -39,8 +40,12 @@
     <file name="u3333-a.png" crc="21366187" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="menu_icon_04_white_3line-crop-u3331.png" crc="4158053167" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="favicon.ico" crc="4117084711" ref="index:misc:torrenting"/>
+    <file name="actualalbum.jpg" crc="3764500425" ref="index"/>
+    <file name="vicnent.jpg" crc="4025757287" ref="index"/>
+    <file name="aagard.jpg" crc="4147394462" ref="index"/>
+    <file name="car.jpg" crc="113882937" ref="index"/>
   </folder>
-  <file name="index.html" crc="3899381351" seo="true" mt="1500068502255" redirect="true"/>
+  <file name="index.html" crc="512301060" seo="true" mt="1500079398691" redirect="true"/>
   <file name="school.html" crc="84959411" seo="true" mt="1500068509713" redirect="true"/>
   <file name="games.html" crc="337922462" seo="true" mt="1500068502255" redirect="true"/>
   <file name="misc.html" crc="4205695739" seo="true" mt="1500075011067" redirect="true"/>

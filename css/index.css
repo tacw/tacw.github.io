@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000007;
-	background-color: #CB568E;
+	color: #000005;
+	background-color: #A64094;
 }
 
 #muse_css_mq
@@ -37,7 +37,7 @@
 
 #u2430-28
 {
-	z-index: 44;
+	z-index: 66;
 	min-height: 318px;
 	background-color: transparent;
 	position: relative;
@@ -47,30 +47,36 @@
 	left: 1.98%;
 }
 
-#u3573
+#pu3573
 {
-	z-index: 42;
-	width: 40px;
-	min-height: 40px;
-	position: relative;
+	z-index: 64;
+	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: -45px;
-	left: 49px;
+	margin-left: 28px;
+}
+
+#u3573
+{
+	z-index: 64;
+	width: 40px;
+	min-height: 40px;
+	margin-left: 21px;
+	position: relative;
 }
 
 #u1571
 {
-	z-index: 5;
+	z-index: 27;
 	width: 557px;
+	margin-left: 173px;
+	margin-top: 51px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 46px;
-	left: 201px;
 }
 
 #pbuttonu1588
 {
-	z-index: 7;
+	z-index: 29;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 417px;
@@ -78,7 +84,7 @@
 
 #buttonu1588
 {
-	z-index: 7;
+	z-index: 29;
 	width: 138px;
 	height: 61px;
 	position: relative;
@@ -87,7 +93,7 @@
 
 #u1589-4
 {
-	z-index: 8;
+	z-index: 30;
 	width: 122px;
 	min-height: 24px;
 }
@@ -106,7 +112,7 @@
 
 #u1590
 {
-	z-index: 12;
+	z-index: 34;
 	width: 20px;
 }
 
@@ -121,7 +127,7 @@
 
 #pbuttonu1592
 {
-	z-index: 16;
+	z-index: 38;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 278px;
@@ -129,7 +135,7 @@
 
 #buttonu1592
 {
-	z-index: 16;
+	z-index: 38;
 	width: 138px;
 	height: 61px;
 	position: relative;
@@ -138,7 +144,7 @@
 
 #u1595-4
 {
-	z-index: 17;
+	z-index: 39;
 	width: 122px;
 	min-height: 24px;
 }
@@ -157,7 +163,7 @@
 
 #u1593
 {
-	z-index: 21;
+	z-index: 43;
 	width: 20px;
 }
 
@@ -180,7 +186,7 @@
 
 #pbuttonu1576
 {
-	z-index: 25;
+	z-index: 47;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 138px;
@@ -188,7 +194,7 @@
 
 #buttonu1576
 {
-	z-index: 25;
+	z-index: 47;
 	width: 139px;
 	height: 61px;
 	position: relative;
@@ -209,7 +215,7 @@
 
 #u1577-4
 {
-	z-index: 26;
+	z-index: 48;
 	width: 122px;
 	min-height: 24px;
 }
@@ -237,7 +243,7 @@
 
 #u1578
 {
-	z-index: 30;
+	z-index: 52;
 	width: 20px;
 }
 
@@ -260,14 +266,14 @@
 
 #pbuttonu1580
 {
-	z-index: 34;
+	z-index: 56;
 	width: 0.01px;
 	margin-right: -10000px;
 }
 
 #buttonu1580
 {
-	z-index: 34;
+	z-index: 56;
 	width: 138px;
 	height: 61px;
 	position: relative;
@@ -288,7 +294,7 @@
 
 #u1581-4
 {
-	z-index: 35;
+	z-index: 57;
 	width: 122px;
 	min-height: 24px;
 }
@@ -324,7 +330,7 @@
 
 #u1582
 {
-	z-index: 39;
+	z-index: 61;
 	width: 20px;
 }
 
@@ -351,6 +357,321 @@
 	left: 61px;
 }
 
+#u3808
+{
+	z-index: 5;
+	width: 900px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 385px;
+	position: relative;
+}
+
+#pamphletu3809
+{
+	z-index: 6;
+	width: 0.01px;
+	height: 11px;
+	padding-bottom: 415px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u3816
+{
+	z-index: 7;
+	width: 72px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 399px;
+}
+
+#u3817
+{
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #00BFF3;
+	background-color: #00BFF3;
+	border-radius: 50px;
+}
+
+#u3817:hover
+{
+	border-color: #00BFF3;
+	background-color: #FFFFFF;
+	border-radius: 50px;
+	width: 8px;
+	height: 8px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3818
+{
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #00BFF3;
+	background-color: #00BFF3;
+	border-radius: 50px;
+	left: 20px;
+}
+
+#u3818:hover
+{
+	border-color: #00BFF3;
+	background-color: #FFFFFF;
+	border-radius: 50px;
+	width: 8px;
+	height: 8px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3820
+{
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #00BFF3;
+	background-color: #00BFF3;
+	border-radius: 50px;
+	left: 40px;
+}
+
+#u3820:hover
+{
+	border-color: #00BFF3;
+	background-color: #FFFFFF;
+	border-radius: 50px;
+	width: 8px;
+	height: 8px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3819
+{
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #00BFF3;
+	background-color: #00BFF3;
+	border-radius: 50px;
+	left: 60px;
+}
+
+#u3819:hover
+{
+	border-color: #00BFF3;
+	background-color: #FFFFFF;
+	border-radius: 50px;
+	width: 8px;
+	height: 8px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3817.PamphletThumbSelected,#u3818.PamphletThumbSelected,#u3820.PamphletThumbSelected,#u3819.PamphletThumbSelected
+{
+	border-color: #00BFF3;
+	background-color: #FFFFFF;
+	border-radius: 100px;
+	width: 8px;
+	height: 8px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3821
+{
+	position: absolute;
+	width: 900px;
+	background-color: transparent;
+	top: 26px;
+}
+
+#u3821popup
+{
+	z-index: 12;
+}
+
+#u3834
+{
+	z-index: 13;
+	width: 900px;
+	height: 399px;
+	border-color: #464646;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin-right: -10000px;
+	position: relative;
+	background: #6B6B6B url("../images/actualalbum.jpg?crc=3764500425") no-repeat left top;
+	background-size: cover;
+}
+
+#u3822
+{
+	z-index: 14;
+	width: 900px;
+	height: 399px;
+	border-color: #464646;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin-right: -10000px;
+	position: relative;
+	background: #6B6B6B url("../images/vicnent.jpg?crc=4025757287") no-repeat center center;
+	background-size: cover;
+}
+
+#u3826
+{
+	z-index: 15;
+	width: 900px;
+	height: 399px;
+	border-color: #464646;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin-right: -10000px;
+	position: relative;
+	background: #6B6B6B url("../images/aagard.jpg?crc=4147394462") no-repeat center center;
+	background-size: cover;
+}
+
+#u3830
+{
+	z-index: 16;
+	width: 900px;
+	height: 399px;
+	border-color: #464646;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin-right: -10000px;
+	position: relative;
+	background: #6B6B6B url("../images/car.jpg?crc=113882937") no-repeat left top;
+	background-size: cover;
+}
+
+#u3810
+{
+	position: absolute;
+	width: 41px;
+	border-color: #C4C4C4;
+	background-color: transparent;
+	padding-bottom: 5px;
+	top: 226px;
+}
+
+#u3810:hover
+{
+	border-color: #999999;
+	width: 41px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3811-4
+{
+	z-index: 18;
+	width: 38px;
+	min-height: 34px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-top: 12px;
+	color: #FFFFFF;
+	line-height: 30px;
+	font-size: 30px;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3811-4:hover
+{
+	padding-top: 12px;
+	padding-bottom: 0px;
+	min-height: 34px;
+	width: 38px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3812
+{
+	position: absolute;
+	width: 39px;
+	border-color: #C4C4C4;
+	background-color: transparent;
+	border-radius: 2px 0px 0px 2px ;
+	top: 209px;
+	left: 861px;
+}
+
+#u3812:hover
+{
+	border-color: #999999;
+	width: 39px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3813-4
+{
+	z-index: 23;
+	width: 37px;
+	min-height: 39px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-top: 12px;
+	color: #959595;
+	line-height: 30px;
+	font-size: 30px;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3813-4:hover
+{
+	padding-top: 12px;
+	padding-bottom: 0px;
+	min-height: 39px;
+	width: 37px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3811-4:hover p,#u3813-4:hover p
+{
+	color: #BFBDBD;
+	visibility: inherit;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
 #pu104
 {
 	z-index: 2;
@@ -370,7 +691,7 @@
 
 #u3585
 {
-	z-index: 43;
+	z-index: 65;
 	height: 1px;
 	margin-top: 152px;
 	position: relative;
@@ -388,7 +709,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 687px);
+	height: calc(100vh - 1134px);
 }
 
 .html
@@ -407,4 +728,5 @@ body
 {
 	width: 100%;
 }
+
 
