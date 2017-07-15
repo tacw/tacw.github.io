@@ -25,25 +25,25 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://tacw.github.io/torrenting.html</loc>
+    <lastmod>2017-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://tacw.github.io/chinese-2.html</loc>
     <lastmod>2017-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tacw.github.io/english.html</loc>
+    <loc>http://tacw.github.io/rainbowsix.html</loc>
     <lastmod>2017-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tacw.github.io/school.html</loc>
-    <lastmod>2017-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tacw.github.io/torrenting.html</loc>
     <lastmod>2017-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,13 +61,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tacw.github.io/assets/mouse.png</loc>
-    <lastmod>2017-04-17</lastmod>
+    <loc>http://tacw.github.io/english.html</loc>
+    <lastmod>2017-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tacw.github.io/assets/mouse2.png</loc>
+    <lastmod>2017-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tacw.github.io/images/genericgameicon.png</loc>
+    <lastmod>2017-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tacw.github.io/assets/mouse.png</loc>
     <lastmod>2017-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

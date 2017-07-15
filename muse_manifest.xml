@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500080108868">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500087898533">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4160065970"/>
-    <file name="master_a-master.css" crc="251770648" ref="index:misc:games:school:apush:calculus:english:chinese-2:chemistry:torrenting"/>
+    <file name="master_a-master.css" crc="251770648" ref="index:misc:games:school:apush:calculus:english:chinese-2:chemistry:torrenting:rainbowsix"/>
     <file name="index.css" crc="4195590630" ref="index"/>
-    <file name="misc.css" crc="4110154857" ref="misc"/>
-    <file name="games.css" crc="404186731" ref="games"/>
+    <file name="misc.css" crc="3880754338" ref="misc"/>
+    <file name="games.css" crc="4239216217" ref="games"/>
     <file name="school.css" crc="464486309" ref="school"/>
     <file name="master_b-master.css" crc="110400599" ref="apush:calculus:english:chinese-2:school:chemistry"/>
     <file name="apush.css" crc="4083196468" ref="apush"/>
@@ -17,42 +17,47 @@
     <file name="chinese-2.css" crc="3985674884" ref="chinese-2"/>
     <file name="chemistry.css" crc="4083196468" ref="chemistry"/>
     <file name="master_c-master.css" crc="474753156" ref="misc:torrenting"/>
-    <file name="torrenting.css" crc="4134498411" ref="torrenting"/>
+    <file name="torrenting.css" crc="3998239403" ref="torrenting"/>
+    <file name="master_d-master.css" crc="4023949965" ref="games:rainbowsix"/>
+    <file name="rainbowsix.css" crc="214397453" ref="rainbowsix"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
-    <file name="museutils.js" crc="163421577" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
-    <file name="museconfig.js" crc="168988563" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
-    <file name="require.js" crc="244322403" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
-    <file name="webpro.js" crc="3848665353" ref="school:apush:calculus:chemistry:english:chinese-2:index"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="school:apush:calculus:chemistry:english:chinese-2:index"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="school:apush:calculus:chemistry:english:chinese-2:index"/>
-    <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix"/>
+    <file name="museutils.js" crc="163421577" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix"/>
+    <file name="museconfig.js" crc="168988563" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix"/>
+    <file name="require.js" crc="244322403" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix"/>
+    <file name="webpro.js" crc="3848665353" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix"/>
+    <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
-    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting"/>
+    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix"/>
+    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix"/>
     <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="u3333.png" crc="3926963553" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="u3333-a.png" crc="21366187" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="menu_icon_04_white_3line-crop-u3331.png" crc="4158053167" ref="school:apush:calculus:chemistry:english:chinese-2"/>
-    <file name="favicon.ico" crc="4117084711" ref="index:misc:torrenting"/>
+    <file name="favicon.ico" crc="4117084711" ref="index:school:games:rainbowsix"/>
     <file name="actualalbum.jpg" crc="3764500425" ref="index"/>
     <file name="vicnent.jpg" crc="4025757287" ref="index"/>
     <file name="aagard.jpg" crc="4147394462" ref="index"/>
     <file name="car.jpg" crc="113882937" ref="index"/>
+    <file name="genericgameicon.png" crc="4187175949" seo="true" ref="games:rainbowsix"/>
+    <file name="musethemes-logo-crop-u4332.jpg" crc="3814523729" ref="games:rainbowsix"/>
   </folder>
   <file name="index.html" crc="3950698796" seo="true" mt="1500080105213" redirect="true"/>
-  <file name="school.html" crc="84959411" seo="true" mt="1500068509713" redirect="true"/>
-  <file name="games.html" crc="337922462" seo="true" mt="1500068502255" redirect="true"/>
-  <file name="misc.html" crc="4205695739" seo="true" mt="1500075011067" redirect="true"/>
-  <file name="apush.html" crc="388641159" seo="true" mt="1500068502255" redirect="true"/>
-  <file name="calculus.html" crc="18242576" seo="true" mt="1500068502255" redirect="true"/>
-  <file name="chemistry.html" crc="4095005025" seo="true" mt="1500068502255" redirect="true"/>
-  <file name="english.html" crc="90007852" seo="true" mt="1500068502255" redirect="true"/>
-  <file name="chinese-2.html" crc="167647723" seo="true" mt="1500068502255" redirect="true"/>
-  <file name="torrenting.html" crc="70531710" seo="true" mt="1500075129952" redirect="true"/>
+  <file name="school.html" crc="4121762110" seo="true" mt="1500087709317" redirect="true"/>
+  <file name="games.html" crc="4058747953" seo="true" mt="1500087831907" redirect="true"/>
+  <file name="misc.html" crc="4150765279" seo="true" mt="1500086708061" redirect="true"/>
+  <file name="apush.html" crc="529915199" seo="true" mt="1500087709317" redirect="true"/>
+  <file name="calculus.html" crc="29139746" seo="true" mt="1500087709317" redirect="true"/>
+  <file name="chemistry.html" crc="4225608865" seo="true" mt="1500087709317" redirect="true"/>
+  <file name="english.html" crc="4220681710" seo="true" mt="1500087709317" redirect="true"/>
+  <file name="chinese-2.html" crc="4201876221" seo="true" mt="1500087709317" redirect="true"/>
+  <file name="torrenting.html" crc="3867546634" seo="true" mt="1500086708061" redirect="true"/>
+  <file name="rainbowsix.html" crc="3955070710" seo="true" mt="1500087894990" redirect="true"/>
 </manifest>
