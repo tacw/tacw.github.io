@@ -19,14 +19,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4160065970"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=251770648"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=94781588" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4195590630" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/dosis:n3:default;quicksand:n7:default.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/quicksand:n7:default;source-sans-pro:n4:default;dosis:n3:default.js" type="text/javascript">\x3C/script>');
 </script>
     <!--HTML Widget code-->
   
@@ -52,8 +52,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 		</div>
 	
    </div>
-   <div class="clearfix grpelem" id="u2430-28"><!-- content -->
+   <div class="clearfix grpelem" id="u2430-34"><!-- content -->
     <p>Welcome to the new Asian council website!</p>
+    <p>This is still in the early development stages, therefore Vincent will also be a contributer</p>
     <p>&nbsp;</p>
     <p>The TAC <a class="nonblock" href="https://discord.gg/BhF82Cz">discord</a> (I will announce everything in there)</p>
     <p>&nbsp;</p>
@@ -64,9 +65,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <p>Differences from last years website:</p>
     <p>Has sophomore stuff</p>
     <p>looks a little better?</p>
-    <p>No more phone specific website (therefore narrowing the website by 820)</p>
+    <p>No more phone specific website (therefore narrowing the website by 820 pixels)</p>
     <p>&nbsp;</p>
     <p>I might be a little slower on putting stuff on the website, so PLEASE help by sending in misc stuff to me :)</p>
+    <p>&nbsp;</p>
+    <p>TAC Gallery (send me ANY picture that you want on here, it WILL go on here)</p>
+    <p>&nbsp;</p>
    </div>
    <div class="clearfix grpelem" id="pu3573"><!-- column -->
     <div class="size_fixed colelem" id="u3573"><!-- custom html -->
@@ -103,10 +107,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
       <div class="popup_anchor" id="u3821popup">
        <div class="ContainerGroup clearfix" id="u3821"><!-- stack box -->
-        <a class="nonblock nontext Container museBGSize grpelem" id="u3834" href="https://www.youtube.com/watch?v=q0ZRKaUC_iE"><!-- simple frame --></a>
+        <a class="nonblock nontext Container museBGSize clearfix grpelem" id="u3834" href="https://www.youtube.com/watch?v=q0ZRKaUC_iE"><!-- group --><div class="rgba-background S001---Caption clearfix grpelem" id="u4301-4"><!-- content --><p>Click for TAC song!</p></div></a>
         <div class="Container invi museBGSize grpelem" id="u3822"><!-- simple frame --></div>
         <div class="Container invi museBGSize grpelem" id="u3826"><!-- simple frame --></div>
-        <div class="Container invi museBGSize grpelem" id="u3830"><!-- simple frame --></div>
+        <div class="Container invi museBGSize clearfix grpelem" id="u3830"><!-- group -->
+         <div class="rgba-background S001---Caption clearfix grpelem" id="u4304-4"><!-- content -->
+          <p>1st place MESA car :D</p>
+         </div>
+        </div>
        </div>
       </div>
       <div class="popup_anchor" id="u3810popup">
@@ -152,7 +160,7 @@ window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.initWidget('#pamphletu3809', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'horizontal',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu3809 */
+Muse.Utils.initWidget('#pamphletu3809', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'none',autoPlay:true,displayInterval:5000,transitionStyle:'horizontal',transitionDuration:800,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu3809 */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
