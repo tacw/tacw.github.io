@@ -19,8 +19,8 @@
 
 .version.blackbeard /* version checker */
 {
-	color: #00000F;
-	background-color: #DAF373;
+	color: #00001C;
+	background-color: #99915B;
 }
 
 #muse_css_mq
@@ -893,7 +893,7 @@
 
 .html
 {
-	background-color: #00406D;
+	background: #00406D url("../images/-48250c359eb83d7a8efb1405f5d03a28fedf7961031de568da-pimgpsh_fullsize_distr.jpg?crc=4202790864") repeat left top scroll;
 }
 
 body
@@ -907,4 +907,5 @@ body
 {
 	width: 100%;
 }
+
 
