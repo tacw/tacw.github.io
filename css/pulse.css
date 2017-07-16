@@ -19,8 +19,8 @@
 
 .version.pulse /* version checker */
 {
-	color: #000011;
-	background-color: #C0AA6B;
+	color: #0000E6;
+	background-color: #B7BC0F;
 }
 
 #muse_css_mq
@@ -908,8 +908,8 @@
 
 .html
 {
-	background: #00406D url("../images/r6_swat_pulse.jpg?crc=416512746") no-repeat center center scroll;
-	background-size: contain;
+	background: #00406D url("../images/pulse2.jpg?crc=137522468") no-repeat left center scroll;
+	background-size: cover;
 }
 
 body
@@ -923,4 +923,5 @@ body
 {
 	width: 100%;
 }
+
 

@@ -19,8 +19,8 @@
 
 .version.iq /* version checker */
 {
-	color: #0000FB;
-	background-color: #D23675;
+	color: #0000E7;
+	background-color: #07BA80;
 }
 
 #muse_css_mq
@@ -908,7 +908,8 @@
 
 .html
 {
-	background: #00406D url("../images/r6_gsg9_iq_4k.jpg?crc=531516261") repeat center center scroll;
+	background: #00406D url("../images/iq2.jpg?crc=4228620643") no-repeat left center fixed;
+	background-size: cover;
 }
 
 body
@@ -922,4 +923,5 @@ body
 {
 	width: 100%;
 }
+
 

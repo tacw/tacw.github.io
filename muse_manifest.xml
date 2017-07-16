@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500156499013">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500170584009">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -25,7 +25,7 @@
     <file name="hibana.css" crc="4261032582" ref="hibana"/>
     <file name="ash.css" crc="4261032582" ref="ash"/>
     <file name="caveira.css" crc="4261032582" ref="caveira"/>
-    <file name="iq.css" crc="4224857717" ref="iq"/>
+    <file name="iq.css" crc="3876043392" ref="iq"/>
     <file name="fuze.css" crc="4261032582" ref="fuze"/>
     <file name="montagne.css" crc="4261032582" ref="montagne"/>
     <file name="smoke.css" crc="4261032582" ref="smoke"/>
@@ -38,7 +38,7 @@
     <file name="frost.css" crc="4261032582" ref="frost"/>
     <file name="captitao.css" crc="4261032582" ref="captitao"/>
     <file name="valkyrie.css" crc="4261032582" ref="valkyrie"/>
-    <file name="doc.css" crc="488102252" ref="doc"/>
+    <file name="doc.css" crc="4247749265" ref="doc"/>
     <file name="thermite.css" crc="4261032582" ref="thermite"/>
     <file name="mira.css" crc="351394484" ref="mira"/>
     <file name="blitz.css" crc="3851007499" ref="blitz"/>
@@ -46,7 +46,7 @@
     <file name="sledge.css" crc="4261032582" ref="sledge"/>
     <file name="jackal.css" crc="4261032582" ref="jackal"/>
     <file name="kapkan.css" crc="4261032582" ref="kapkan"/>
-    <file name="pulse.css" crc="297839211" ref="pulse"/>
+    <file name="pulse.css" crc="3870800911" ref="pulse"/>
     <file name="tachanka.css" crc="4261032582" ref="tachanka"/>
     <file name="echo.css" crc="4261032582" ref="echo"/>
     <file name="jager.css" crc="4261032582" ref="jager"/>
@@ -54,7 +54,7 @@
     <file name="civilization.css" crc="4042037655" ref="civilization"/>
     <file name="bns.css" crc="466123332" ref="bns"/>
     <file name="combatguide.css" crc="416544310" ref="combatguide"/>
-    <file name="master_rainow.css" crc="4270419754" ref="blackbeard:rook:hibana:ash:caveira:iq:fuze:montagne:smoke:mute:thatcher:twitch:bandit:glaz:castle:frost:rainbowsix:captitao:valkyrie:doc:thermite:mira:blitz:buck:sledge:jackal:kapkan:pulse:tachanka:echo:jager"/>
+    <file name="master_rainow.css" crc="531371337" ref="blackbeard:rook:hibana:ash:caveira:iq:fuze:montagne:smoke:mute:thatcher:twitch:bandit:glaz:castle:frost:rainbowsix:captitao:valkyrie:doc:thermite:mira:blitz:buck:sledge:jackal:kapkan:pulse:tachanka:echo:jager"/>
     <file name="master_civ.css" crc="4119103858" ref="civilization:combatguide"/>
     <file name="master_bns.css" crc="3925399535" ref="dungeonguides:bns"/>
   </folder>
@@ -69,7 +69,7 @@
     <file name="musewpslideshow.js" crc="4041717617" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
     <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:pulse:doc"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:doc:pulse:iq"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="civilization:bns:dungeonguides:combatguide"/>
     <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide"/>
   </folder>
@@ -80,7 +80,7 @@
     <file name="u3333.png" crc="3926963553" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="u3333-a.png" crc="21366187" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="menu_icon_04_white_3line-crop-u3331.png" crc="4158053167" ref="school:apush:calculus:chemistry:english:chinese-2"/>
-    <file name="favicon.ico" crc="4117084711" ref="index:games:rainbowsix"/>
+    <file name="favicon.ico" crc="4117084711" ref="index:games:rainbowsix:pulse:doc:iq"/>
     <file name="actualalbum.jpg" crc="3764500425" ref="index"/>
     <file name="vicnent.jpg" crc="4025757287" ref="index"/>
     <file name="aagard.jpg" crc="4147394462" ref="index"/>
@@ -118,9 +118,9 @@
     <file name="tachanka.png" crc="6820915" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira"/>
     <file name="valkyrie_visible_wings.png" crc="4241601486" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira"/>
     <file name="-48250c359eb83d7a8efb1405f5d03a28fedf7961031de568da-pimgpsh_fullsize_distr.jpg" crc="4202790864" ref="blackbeard"/>
-    <file name="r6_gsg9_iq_4k.jpg" crc="531516261" ref="iq"/>
-    <file name="r6_swat_pulse.jpg" crc="416512746" ref="pulse"/>
-    <file name="doc_gign.jpg" crc="4292493028" ref="doc"/>
+    <file name="docpic2.jpg" crc="3781130070" ref="doc"/>
+    <file name="pulse2.jpg" crc="137522468" ref="pulse"/>
+    <file name="iq2.jpg" crc="4228620643" ref="iq"/>
   </folder>
   <file name="index.html" crc="4033106139" seo="true" mt="1500145854183" redirect="true"/>
   <file name="school.html" crc="4121762110" seo="true" mt="1500145854179" redirect="true"/>
@@ -133,7 +133,7 @@
   <file name="chinese-2.html" crc="4201876221" seo="true" mt="1500145854179" redirect="true"/>
   <file name="torrenting.html" crc="4222174154" seo="true" mt="1500145854170" redirect="true"/>
   <file name="rainbowsix.html" crc="50950537" seo="true" mt="1500156429630" redirect="true"/>
-  <file name="iq.html" crc="4005667595" seo="true" mt="1500156352516" redirect="true"/>
+  <file name="iq.html" crc="117930232" seo="true" mt="1500170562519" redirect="true"/>
   <file name="blitz.html" crc="3818527975" seo="true" mt="1500156329317" redirect="true"/>
   <file name="jager.html" crc="467478058" seo="true" mt="1500156329317" redirect="true"/>
   <file name="sledge.html" crc="4147607731" seo="true" mt="1500156329317" redirect="true"/>
@@ -144,10 +144,10 @@
   <file name="castle.html" crc="4052805274" seo="true" mt="1500156329317" redirect="true"/>
   <file name="bandit.html" crc="419272212" seo="true" mt="1500156329317" redirect="true"/>
   <file name="mute.html" crc="270333705" seo="true" mt="1500156329317" redirect="true"/>
-  <file name="pulse.html" crc="427612579" seo="true" mt="1500156374031" redirect="true"/>
+  <file name="pulse.html" crc="83278885" seo="true" mt="1500170273419" redirect="true"/>
   <file name="twitch.html" crc="4005633219" seo="true" mt="1500156329317" redirect="true"/>
   <file name="montagne.html" crc="3965314362" seo="true" mt="1500156329317" redirect="true"/>
-  <file name="doc.html" crc="3844167680" seo="true" mt="1500156416946" redirect="true"/>
+  <file name="doc.html" crc="55869621" seo="true" mt="1500169955366" redirect="true"/>
   <file name="rook.html" crc="4026967863" seo="true" mt="1500156329317" redirect="true"/>
   <file name="glaz.html" crc="118334140" seo="true" mt="1500156329317" redirect="true"/>
   <file name="fuze.html" crc="3929495587" seo="true" mt="1500156329317" redirect="true"/>

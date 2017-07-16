@@ -19,8 +19,8 @@
 
 .version.doc /* version checker */
 {
-	color: #00001D;
-	background-color: #17D96C;
+	color: #0000FD;
+	background-color: #2F8291;
 }
 
 #muse_css_mq
@@ -908,8 +908,8 @@
 
 .html
 {
-	background: #00406D url("../images/doc_gign.jpg?crc=4292493028") no-repeat center center scroll;
-	background-size: contain;
+	background: #00406D url("../images/docpic2.jpg?crc=3781130070") no-repeat left center scroll;
+	background-size: cover;
 }
 
 body
@@ -923,4 +923,5 @@ body
 {
 	width: 100%;
 }
+
 
