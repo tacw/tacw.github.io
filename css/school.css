@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #00001B;
-	background-color: #AF7FA5;
+	color: #000017;
+	background-color: #1EECA5;
 }
 
 #muse_css_mq
@@ -35,7 +35,7 @@
 	left: 21px;
 }
 
-#u3545-14
+#u3545-16
 {
 	z-index: 5;
 	min-height: 461px;
@@ -49,7 +49,7 @@
 
 #pu3573
 {
-	z-index: 57;
+	z-index: 59;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: -45px;
@@ -58,7 +58,7 @@
 
 #u3573
 {
-	z-index: 57;
+	z-index: 59;
 	width: 40px;
 	min-height: 40px;
 	margin-left: 29px;
@@ -67,7 +67,7 @@
 
 #u1571
 {
-	z-index: 20;
+	z-index: 22;
 	width: 557px;
 	margin-left: 181px;
 	margin-top: 51px;
@@ -76,7 +76,7 @@
 
 #pbuttonu1588
 {
-	z-index: 22;
+	z-index: 24;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 417px;
@@ -84,7 +84,7 @@
 
 #buttonu1588
 {
-	z-index: 22;
+	z-index: 24;
 	width: 138px;
 	height: 61px;
 	position: relative;
@@ -93,7 +93,7 @@
 
 #u1589-4
 {
-	z-index: 23;
+	z-index: 25;
 	width: 122px;
 	min-height: 24px;
 }
@@ -112,7 +112,7 @@
 
 #u1590
 {
-	z-index: 27;
+	z-index: 29;
 	width: 20px;
 }
 
@@ -127,7 +127,7 @@
 
 #pbuttonu1592
 {
-	z-index: 31;
+	z-index: 33;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 278px;
@@ -135,7 +135,7 @@
 
 #buttonu1592
 {
-	z-index: 31;
+	z-index: 33;
 	width: 138px;
 	height: 61px;
 	position: relative;
@@ -144,7 +144,7 @@
 
 #u1595-4
 {
-	z-index: 32;
+	z-index: 34;
 	width: 122px;
 	min-height: 24px;
 }
@@ -163,7 +163,7 @@
 
 #u1593
 {
-	z-index: 36;
+	z-index: 38;
 	width: 20px;
 }
 
@@ -186,7 +186,7 @@
 
 #pbuttonu1576
 {
-	z-index: 40;
+	z-index: 42;
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 138px;
@@ -194,7 +194,7 @@
 
 #buttonu1576
 {
-	z-index: 40;
+	z-index: 42;
 	width: 139px;
 	height: 61px;
 	position: relative;
@@ -215,7 +215,7 @@
 
 #u1577-4
 {
-	z-index: 41;
+	z-index: 43;
 	width: 122px;
 	min-height: 24px;
 }
@@ -243,7 +243,7 @@
 
 #u1578
 {
-	z-index: 45;
+	z-index: 47;
 	width: 20px;
 }
 
@@ -266,14 +266,14 @@
 
 #pbuttonu1580
 {
-	z-index: 49;
+	z-index: 51;
 	width: 0.01px;
 	margin-right: -10000px;
 }
 
 #buttonu1580
 {
-	z-index: 49;
+	z-index: 51;
 	width: 138px;
 	height: 61px;
 	position: relative;
@@ -294,7 +294,7 @@
 
 #u1581-4
 {
-	z-index: 50;
+	z-index: 52;
 	width: 122px;
 	min-height: 24px;
 }
@@ -330,7 +330,7 @@
 
 #u1582
 {
-	z-index: 54;
+	z-index: 56;
 	width: 20px;
 }
 
@@ -359,7 +359,7 @@
 
 #u3553
 {
-	z-index: 19;
+	z-index: 21;
 	width: 565px;
 	min-height: 109px;
 	border-width: 0px;
@@ -388,7 +388,7 @@
 
 #u3585
 {
-	z-index: 58;
+	z-index: 60;
 	height: 1px;
 	margin-top: 152px;
 	position: relative;
@@ -406,7 +406,7 @@
 
 #pamphletu3301
 {
-	z-index: 59;
+	z-index: 61;
 	width: 0.01px;
 	height: 254px;
 	position: fixed;
@@ -425,12 +425,12 @@
 
 #u3304popup
 {
-	z-index: 60;
+	z-index: 62;
 }
 
 #u3305
 {
-	z-index: 61;
+	z-index: 63;
 	width: 315px;
 	height: 1383px;
 	margin-right: -10000px;
@@ -441,7 +441,7 @@
 
 #pu3314
 {
-	z-index: 62;
+	z-index: 64;
 	width: 0.01px;
 	padding-bottom: 0px;
 	margin-right: -10000px;
@@ -449,7 +449,7 @@
 
 #u3314
 {
-	z-index: 62;
+	z-index: 64;
 	width: 314px;
 	height: 159px;
 	position: relative;
@@ -457,7 +457,7 @@
 
 #buttonu3323
 {
-	z-index: 63;
+	z-index: 65;
 	width: 313px;
 	padding-bottom: 24px;
 	top: -1px;
@@ -481,7 +481,7 @@
 
 #u3326-4
 {
-	z-index: 64;
+	z-index: 66;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -501,7 +501,7 @@
 
 #u3324
 {
-	z-index: 68;
+	z-index: 70;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -525,7 +525,7 @@
 
 #buttonu3306
 {
-	z-index: 77;
+	z-index: 79;
 	width: 313px;
 	padding-bottom: 24px;
 	position: relative;
@@ -540,7 +540,7 @@
 
 #u3307-4
 {
-	z-index: 78;
+	z-index: 80;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -560,7 +560,7 @@
 
 #u3308
 {
-	z-index: 82;
+	z-index: 84;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -584,7 +584,7 @@
 
 #buttonu3310
 {
-	z-index: 84;
+	z-index: 86;
 	width: 313px;
 	padding-bottom: 24px;
 	position: relative;
@@ -599,7 +599,7 @@
 
 #u3311-4
 {
-	z-index: 85;
+	z-index: 87;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -619,7 +619,7 @@
 
 #u3312
 {
-	z-index: 89;
+	z-index: 91;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -643,7 +643,7 @@
 
 #buttonu3315
 {
-	z-index: 91;
+	z-index: 93;
 	width: 313px;
 	padding-bottom: 24px;
 	position: relative;
@@ -665,7 +665,7 @@
 
 #u3316-4
 {
-	z-index: 92;
+	z-index: 94;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -685,7 +685,7 @@
 
 #u3317
 {
-	z-index: 96;
+	z-index: 98;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -709,7 +709,7 @@
 
 #buttonu3319
 {
-	z-index: 70;
+	z-index: 72;
 	width: 313px;
 	padding-bottom: 24px;
 	margin-top: 1px;
@@ -732,7 +732,7 @@
 
 #u3322-4
 {
-	z-index: 71;
+	z-index: 73;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -761,7 +761,7 @@
 
 #u3320
 {
-	z-index: 75;
+	z-index: 77;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -792,7 +792,7 @@
 
 #buttonu3563
 {
-	z-index: 98;
+	z-index: 100;
 	padding-bottom: 9px;
 	position: relative;
 	margin-right: -10000px;
@@ -817,7 +817,7 @@
 
 #u3564-4
 {
-	z-index: 99;
+	z-index: 101;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -846,7 +846,7 @@
 
 #u3329
 {
-	z-index: 103;
+	z-index: 105;
 	width: 46px;
 	padding-bottom: 254px;
 	position: relative;
@@ -863,7 +863,7 @@
 
 #u3333
 {
-	z-index: 106;
+	z-index: 108;
 	height: 254px;
 	width: 46px;
 	position: relative;
@@ -872,7 +872,7 @@
 
 #u3331
 {
-	z-index: 108;
+	z-index: 110;
 	width: 33px;
 	position: relative;
 	margin-right: -10000px;
@@ -908,4 +908,5 @@ body
 {
 	width: 100%;
 }
+
 

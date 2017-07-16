@@ -19,7 +19,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4160065970"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=251770648"/>
-  <link rel="stylesheet" type="text/css" href="css/master_d-master.css?crc=4183915865"/>
+  <link rel="stylesheet" type="text/css" href="css/master_d-master.css?crc=4272671743"/>
   <link rel="stylesheet" type="text/css" href="css/games.css?crc=4254693103" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -27,7 +27,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/asap:n7:default;dosis:n3:default.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/dosis:n3:default;asap:n7:default.js" type="text/javascript">\x3C/script>');
 </script>
     <!--HTML Widget code-->
   
@@ -49,7 +49,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 		</style>
 	
 		<div id="display-text1">
-			<p id="text-text1">Welcome to the new TAC website.still under construction </p>
+			<p id="text-text1">Welcome to the new TAC website! Should be up and running once school starts :D</p>
 		</div>
 	
    </div>
@@ -158,7 +158,7 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 				}
 				else {
 					time = (parseInt(b.position().left, 10) - end_pos) *
-						(60000 / (start_pos - end_pos) / 4);
+						(60000 / (start_pos - end_pos) / 5);
 					b.animate({'left': -width}, time, 'linear', function() {
 						scroll();
 					});

@@ -1,7 +1,7 @@
 .version.bns /* version checker */
 {
-	color: #00001B;
-	background-color: #C87A44;
+	color: #0000F7;
+	background-color: #28ACB8;
 }
 
 #muse_css_mq
@@ -714,7 +714,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1207px);
+	height: calc(100vh - 1057px);
 }
 
 .html
