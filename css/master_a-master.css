@@ -1,4 +1,11 @@
-#buttonu1588
+#u3573,#u900,#u7673
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu7682
 {
 	border-style: solid;
 	border-color: #29ABE2;
@@ -6,25 +13,25 @@
 	border-width: 0px 1px;
 }
 
-#u1589-4
+#u7685-4
 {
 	background-color: transparent;
 	text-align: center;
 }
 
-#pbuttonu1588:hover #u1589-4 p,#pbuttonu1588:hover #u1589-4 span
+#pbuttonu7682:hover #u7685-4 p,#pbuttonu7682:hover #u7685-4 span
 {
 	color: #2C2C2C;
 	visibility: inherit;
 }
 
-#u1589-2
+#u7685-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u1590
+#u7683
 {
 	background-color: transparent;
 	opacity: 0;
@@ -32,14 +39,14 @@
 	filter: alpha(opacity=0);
 }
 
-#pbuttonu1588:hover #u1590
+#pbuttonu7682:hover #u7683
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 }
 
-#buttonu1592
+#buttonu7674
 {
 	border-style: solid;
 	border-color: #29ABE2;
@@ -47,25 +54,25 @@
 	border-width: 0px 1px;
 }
 
-#u1595-4
+#u7677-4
 {
 	background-color: transparent;
 	text-align: center;
 }
 
-#pbuttonu1592:hover #u1595-4 p,#pbuttonu1592:hover #u1595-4 span
+#pbuttonu7674:hover #u7677-4 p,#pbuttonu7674:hover #u7677-4 span
 {
 	color: #2C2C2C;
 	visibility: inherit;
 }
 
-#u1595-2
+#u7677-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u1593
+#u7675
 {
 	background-color: transparent;
 	opacity: 0;
@@ -73,14 +80,14 @@
 	filter: alpha(opacity=0);
 }
 
-#pbuttonu1592:hover #u1593
+#pbuttonu7674:hover #u7675
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 }
 
-#buttonu1576
+#buttonu7678
 {
 	border-style: solid;
 	border-color: #29ABE2;
@@ -88,25 +95,25 @@
 	border-width: 0px 1px;
 }
 
-#u1577-4
+#u7681-4
 {
 	background-color: transparent;
 	text-align: center;
 }
 
-#pbuttonu1576:hover #u1577-4 p,#pbuttonu1576:hover #u1577-4 span
+#pbuttonu7678:hover #u7681-4 p,#pbuttonu7678:hover #u7681-4 span
 {
 	color: #2C2C2C;
 	visibility: inherit;
 }
 
-#u1577-2
+#u7681-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u1578
+#u7679
 {
 	background-color: transparent;
 	opacity: 0;
@@ -114,14 +121,14 @@
 	filter: alpha(opacity=0);
 }
 
-#pbuttonu1576:hover #u1578
+#pbuttonu7678:hover #u7679
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 }
 
-#buttonu1580
+#buttonu7686
 {
 	border-style: solid;
 	border-color: #29ABE2;
@@ -129,45 +136,45 @@
 	border-width: 0px 1px;
 }
 
-#pbuttonu1588:hover #buttonu1588,#pbuttonu1592:hover #buttonu1592,#pbuttonu1576:hover #buttonu1576,#pbuttonu1580:hover #buttonu1580
+#pbuttonu7682:hover #buttonu7682,#pbuttonu7674:hover #buttonu7674,#pbuttonu7678:hover #buttonu7678,#pbuttonu7686:hover #buttonu7686
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #EDEDED;
 }
 
-#u1581-4
+#u7689-4
 {
 	background-color: transparent;
 	text-align: center;
 }
 
-#pbuttonu1580:hover #u1581-4 p,#pbuttonu1580:hover #u1581-4 span
+#pbuttonu7686:hover #u7689-4 p,#pbuttonu7686:hover #u7689-4 span
 {
 	color: #2C2C2C;
 	visibility: inherit;
 }
 
-#pbuttonu1588.ButtonSelected #u1589-4 p,#pbuttonu1588.ButtonSelected #u1589-4 span,#pbuttonu1592.ButtonSelected #u1595-4 p,#pbuttonu1592.ButtonSelected #u1595-4 span,#pbuttonu1576.ButtonSelected #u1577-4 p,#pbuttonu1576.ButtonSelected #u1577-4 span,#pbuttonu1580.ButtonSelected #u1581-4 p,#pbuttonu1580.ButtonSelected #u1581-4 span
+#pbuttonu7682.ButtonSelected #u7685-4 p,#pbuttonu7682.ButtonSelected #u7685-4 span,#pbuttonu7674.ButtonSelected #u7677-4 p,#pbuttonu7674.ButtonSelected #u7677-4 span,#pbuttonu7678.ButtonSelected #u7681-4 p,#pbuttonu7678.ButtonSelected #u7681-4 span,#pbuttonu7686.ButtonSelected #u7689-4 p,#pbuttonu7686.ButtonSelected #u7689-4 span
 {
 	color: #E4E4E4;
 	visibility: inherit;
 }
 
-#u1581-2
+#u7689-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u1589,#u1595,#u1577,#u1581
+#u7685,#u7677,#u7681,#u7689
 {
 	font-size: 13px;
 	color: #E4E4E4;
 	line-height: 16px;
 }
 
-#u1582
+#u7687
 {
 	background-color: transparent;
 	opacity: 0;
@@ -175,35 +182,18 @@
 	filter: alpha(opacity=0);
 }
 
-#pbuttonu1580:hover #u1582
+#pbuttonu7686:hover #u7687
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 }
 
-#pbuttonu1588.ButtonSelected #u1590,#pbuttonu1592.ButtonSelected #u1593,#pbuttonu1576.ButtonSelected #u1578,#pbuttonu1580.ButtonSelected #u1582
+#pbuttonu7682.ButtonSelected #u7683,#pbuttonu7674.ButtonSelected #u7675,#pbuttonu7678.ButtonSelected #u7679,#pbuttonu7686.ButtonSelected #u7687
 {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-}
-
-#u3573,#u900,#u6920,#u1571,#u6928
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#u104,#u6919,#u6997
-{
-	background-color: transparent;
-}
-
-.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
-{
-	cursor: pointer;
 }
 
 #u6883
@@ -218,7 +208,7 @@
 	max-width: 960px;
 }
 
-#u6898
+#u104,#u6898
 {
 	background-color: transparent;
 }
@@ -229,9 +219,9 @@
 	border-width: 2px;
 	border-color: #FFCA00;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 }

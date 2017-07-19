@@ -1,86 +1,87 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500431961052">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500487425155">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4160065970"/>
-    <file name="master_a-master.css" crc="3892824270" ref="index:misc:games:school:apush:calculus:english:chinese-2:chemistry:torrenting:rainbowsix:blackbeard:rook:hibana:ash:caveira:iq:fuze:montagne:smoke:mute:thatcher:twitch:bandit:glaz:castle:frost:captitao:valkyrie:doc:thermite:mira:blitz:buck:sledge:jackal:kapkan:pulse:tachanka:echo:jager:dungeonguides:civilization:bns:combatguide"/>
-    <file name="index.css" crc="3933970631" ref="index"/>
-    <file name="misc.css" crc="4109780800" ref="misc"/>
-    <file name="games.css" crc="4138864811" ref="games"/>
-    <file name="school.css" crc="225084366" ref="school"/>
+    <file name="master_a-master.css" crc="3886390675" ref="index:misc:games:school:apush:calculus:english:chinese-2:chemistry:torrenting:rainbowsix:blackbeard:rook:hibana:ash:caveira:iq:fuze:montagne:smoke:mute:thatcher:twitch:bandit:glaz:castle:frost:captitao:valkyrie:doc:thermite:mira:blitz:buck:sledge:jackal:kapkan:pulse:tachanka:echo:jager:dungeonguides:civilization:bns:combatguide:change-log"/>
+    <file name="index.css" crc="3837285628" ref="index"/>
+    <file name="misc.css" crc="284439327" ref="misc"/>
+    <file name="games.css" crc="76938896" ref="games"/>
+    <file name="school.css" crc="429224048" ref="school"/>
     <file name="master_b-master.css" crc="110400599" ref="apush:calculus:english:chinese-2:school:chemistry"/>
-    <file name="apush.css" crc="4046503842" ref="apush"/>
-    <file name="calculus.css" crc="4046503842" ref="calculus"/>
-    <file name="english.css" crc="4046503842" ref="english"/>
-    <file name="chinese-2.css" crc="285144296" ref="chinese-2"/>
-    <file name="chemistry.css" crc="4046503842" ref="chemistry"/>
-    <file name="master_c-master.css" crc="474753156" ref="misc:torrenting"/>
-    <file name="torrenting.css" crc="231583798" ref="torrenting"/>
-    <file name="master_d-master.css" crc="4272671743" ref="games:dungeonguides:civilization:bns:combatguide"/>
-    <file name="rainbowsix.css" crc="3783194669" ref="rainbowsix"/>
-    <file name="blackbeard.css" crc="4205154873" ref="blackbeard"/>
-    <file name="rook.css" crc="4025842692" ref="rook"/>
-    <file name="hibana.css" crc="4025842692" ref="hibana"/>
-    <file name="ash.css" crc="4025842692" ref="ash"/>
-    <file name="caveira.css" crc="4025842692" ref="caveira"/>
-    <file name="iq.css" crc="446505156" ref="iq"/>
-    <file name="fuze.css" crc="4025842692" ref="fuze"/>
-    <file name="montagne.css" crc="4025842692" ref="montagne"/>
-    <file name="smoke.css" crc="4025842692" ref="smoke"/>
-    <file name="mute.css" crc="4025842692" ref="mute"/>
-    <file name="thatcher.css" crc="4025842692" ref="thatcher"/>
-    <file name="twitch.css" crc="4025842692" ref="twitch"/>
-    <file name="bandit.css" crc="4025842692" ref="bandit"/>
-    <file name="glaz.css" crc="4025842692" ref="glaz"/>
-    <file name="castle.css" crc="4025842692" ref="castle"/>
-    <file name="frost.css" crc="4025842692" ref="frost"/>
-    <file name="captitao.css" crc="4025842692" ref="captitao"/>
-    <file name="valkyrie.css" crc="4025842692" ref="valkyrie"/>
-    <file name="doc.css" crc="3903165109" ref="doc"/>
-    <file name="thermite.css" crc="4025842692" ref="thermite"/>
-    <file name="mira.css" crc="3948230646" ref="mira"/>
-    <file name="blitz.css" crc="79799100" ref="blitz"/>
-    <file name="buck.css" crc="4025842692" ref="buck"/>
-    <file name="sledge.css" crc="4025842692" ref="sledge"/>
-    <file name="jackal.css" crc="4025842692" ref="jackal"/>
-    <file name="kapkan.css" crc="4025842692" ref="kapkan"/>
-    <file name="pulse.css" crc="3996286674" ref="pulse"/>
-    <file name="tachanka.css" crc="4025842692" ref="tachanka"/>
-    <file name="echo.css" crc="4025842692" ref="echo"/>
-    <file name="jager.css" crc="4025842692" ref="jager"/>
-    <file name="dungeonguides.css" crc="3962003498" ref="dungeonguides"/>
-    <file name="civilization.css" crc="219536576" ref="civilization"/>
-    <file name="bns.css" crc="181312149" ref="bns"/>
-    <file name="combatguide.css" crc="495886828" ref="combatguide"/>
-    <file name="master_rainow.css" crc="4144871282" ref="blackbeard:rook:hibana:ash:caveira:iq:fuze:montagne:smoke:mute:thatcher:twitch:bandit:glaz:castle:frost:rainbowsix:captitao:valkyrie:doc:thermite:mira:blitz:buck:sledge:jackal:kapkan:pulse:tachanka:echo:jager"/>
+    <file name="apush.css" crc="240514519" ref="apush"/>
+    <file name="calculus.css" crc="240514519" ref="calculus"/>
+    <file name="english.css" crc="240514519" ref="english"/>
+    <file name="chinese-2.css" crc="3916305425" ref="chinese-2"/>
+    <file name="chemistry.css" crc="240514519" ref="chemistry"/>
+    <file name="master_c-master.css" crc="506145544" ref="misc:torrenting:change-log"/>
+    <file name="torrenting.css" crc="3974294719" ref="torrenting"/>
+    <file name="master_d-master.css" crc="4256460385" ref="games:dungeonguides:civilization:bns:combatguide"/>
+    <file name="rainbowsix.css" crc="377171115" ref="rainbowsix"/>
+    <file name="blackbeard.css" crc="4098716754" ref="blackbeard"/>
+    <file name="rook.css" crc="182890120" ref="rook"/>
+    <file name="hibana.css" crc="182890120" ref="hibana"/>
+    <file name="ash.css" crc="182890120" ref="ash"/>
+    <file name="caveira.css" crc="182890120" ref="caveira"/>
+    <file name="iq.css" crc="281076088" ref="iq"/>
+    <file name="fuze.css" crc="182890120" ref="fuze"/>
+    <file name="montagne.css" crc="182890120" ref="montagne"/>
+    <file name="smoke.css" crc="182890120" ref="smoke"/>
+    <file name="mute.css" crc="182890120" ref="mute"/>
+    <file name="thatcher.css" crc="182890120" ref="thatcher"/>
+    <file name="twitch.css" crc="182890120" ref="twitch"/>
+    <file name="bandit.css" crc="182890120" ref="bandit"/>
+    <file name="glaz.css" crc="182890120" ref="glaz"/>
+    <file name="castle.css" crc="182890120" ref="castle"/>
+    <file name="frost.css" crc="182890120" ref="frost"/>
+    <file name="captitao.css" crc="182890120" ref="captitao"/>
+    <file name="valkyrie.css" crc="182890120" ref="valkyrie"/>
+    <file name="doc.css" crc="4077544606" ref="doc"/>
+    <file name="thermite.css" crc="182890120" ref="thermite"/>
+    <file name="mira.css" crc="4173261615" ref="mira"/>
+    <file name="blitz.css" crc="115211375" ref="blitz"/>
+    <file name="buck.css" crc="182890120" ref="buck"/>
+    <file name="sledge.css" crc="182890120" ref="sledge"/>
+    <file name="jackal.css" crc="182890120" ref="jackal"/>
+    <file name="kapkan.css" crc="182890120" ref="kapkan"/>
+    <file name="pulse.css" crc="3977947883" ref="pulse"/>
+    <file name="tachanka.css" crc="182890120" ref="tachanka"/>
+    <file name="echo.css" crc="182890120" ref="echo"/>
+    <file name="jager.css" crc="182890120" ref="jager"/>
+    <file name="dungeonguides.css" crc="336856594" ref="dungeonguides"/>
+    <file name="civilization.css" crc="3856423677" ref="civilization"/>
+    <file name="bns.css" crc="3882758092" ref="bns"/>
+    <file name="combatguide.css" crc="394568304" ref="combatguide"/>
+    <file name="master_rainow.css" crc="4137423558" ref="blackbeard:rook:hibana:ash:caveira:iq:fuze:montagne:smoke:mute:thatcher:twitch:bandit:glaz:castle:frost:rainbowsix:captitao:valkyrie:doc:thermite:mira:blitz:buck:sledge:jackal:kapkan:pulse:tachanka:echo:jager"/>
     <file name="master_civ.css" crc="4119103858" ref="civilization:combatguide"/>
     <file name="master_bns.css" crc="3925399535" ref="dungeonguides:bns"/>
+    <file name="change-log.css" crc="524643417" ref="change-log"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
-    <file name="museutils.js" crc="163421577" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
-    <file name="museconfig.js" crc="168988563" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
-    <file name="require.js" crc="244322403" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
-    <file name="webpro.js" crc="3848665353" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:misc:torrenting"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:misc:torrenting"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:misc:torrenting"/>
-    <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:misc:torrenting"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log"/>
+    <file name="museutils.js" crc="163421577" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log"/>
+    <file name="museconfig.js" crc="168988563" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log"/>
+    <file name="require.js" crc="244322403" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log"/>
+    <file name="webpro.js" crc="3848665353" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
+    <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="doc:pulse:iq"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="civilization:bns:dungeonguides:combatguide"/>
-    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide"/>
+    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide:change-log"/>
   </folder>
   <folder name="images">
-    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
-    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
+    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log"/>
+    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log"/>
     <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="u3333.png" crc="3926963553" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="u3333-a.png" crc="21366187" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="menu_icon_04_white_3line-crop-u3331.png" crc="4158053167" ref="school:apush:calculus:chemistry:english:chinese-2"/>
-    <file name="favicon.ico" crc="4117084711" ref="index"/>
+    <file name="favicon.ico" crc="4117084711" ref="index:games"/>
     <file name="actualalbum.jpg" crc="3764500425" ref="index" seo="true"/>
     <file name="vicnent.jpg" crc="4025757287" ref="index" seo="true"/>
     <file name="aagard.jpg" crc="4147394462" ref="index" seo="true"/>
@@ -121,54 +122,54 @@
     <file name="docpic2.jpg" crc="3781130070" ref="doc"/>
     <file name="pulse2.jpg" crc="137522468" ref="pulse"/>
     <file name="iq2.jpg" crc="4228620643" ref="iq"/>
-    <file name="logomakr_1jtcoh.png" crc="374159385" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
-    <file name="menu3.jpg" crc="4041423341" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide"/>
+    <file name="logomakr_1jtcoh.png" crc="374159385" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="276223778" seo="true" mt="1500431955468" redirect="true"/>
-  <file name="school.html" crc="42350513" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="games.html" crc="3925990680" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="misc.html" crc="3793488813" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="apush.html" crc="3767709341" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="calculus.html" crc="472831589" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="chemistry.html" crc="253972828" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="english.html" crc="3991612082" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="chinese-2.html" crc="199634306" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="torrenting.html" crc="3991623758" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="rainbowsix.html" crc="208390478" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="iq.html" crc="212603566" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="blitz.html" crc="125625950" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="jager.html" crc="3952311636" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="sledge.html" crc="81963013" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="thatcher.html" crc="433116502" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="smoke.html" crc="448759222" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="ash.html" crc="4229700284" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="thermite.html" crc="341880855" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="castle.html" crc="3876113030" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="bandit.html" crc="168225389" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="mute.html" crc="3938003018" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="pulse.html" crc="531931491" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="twitch.html" crc="203740690" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="montagne.html" crc="4067099034" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="doc.html" crc="4260425782" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="rook.html" crc="3817499061" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="glaz.html" crc="4275622262" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="fuze.html" crc="4167150529" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="kapkan.html" crc="313692736" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="tachanka.html" crc="3913718059" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="buck.html" crc="1562819" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="frost.html" crc="396263211" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="blackbeard.html" crc="254728290" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="valkyrie.html" crc="423557130" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="captitao.html" crc="312674419" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="caveira.html" crc="4002226587" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="hibana.html" crc="3824653313" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="echo.html" crc="176121400" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="jackal.html" crc="245885179" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="mira.html" crc="239592727" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="civilization.html" crc="4139704578" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="bns.html" crc="157961615" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="dungeonguides.html" crc="424768388" seo="true" mt="1500431665951" redirect="true"/>
-  <file name="combatguide.html" crc="4097509070" seo="true" mt="1500431665951" redirect="true"/>
+  <file name="index.html" crc="4160247070" seo="true" mt="1500485803102" redirect="true"/>
+  <file name="school.html" crc="282211422" seo="true" mt="1500475954916" redirect="true"/>
+  <file name="games.html" crc="127078310" seo="true" mt="1500486079489" redirect="true"/>
+  <file name="misc.html" crc="281985211" seo="true" mt="1500487387818" redirect="true"/>
+  <file name="apush.html" crc="224760779" seo="true" mt="1500475954916" redirect="true"/>
+  <file name="calculus.html" crc="4196085622" seo="true" mt="1500475954916" redirect="true"/>
+  <file name="chemistry.html" crc="493836598" seo="true" mt="1500475954916" redirect="true"/>
+  <file name="english.html" crc="4131249657" seo="true" mt="1500475954916" redirect="true"/>
+  <file name="chinese-2.html" crc="3847233695" seo="true" mt="1500475954916" redirect="true"/>
+  <file name="torrenting.html" crc="506245659" seo="true" mt="1500487387818" redirect="true"/>
+  <file name="rainbowsix.html" crc="488900140" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="iq.html" crc="486291847" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="blitz.html" crc="4076630010" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="jager.html" crc="417268740" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="sledge.html" crc="85807915" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="thatcher.html" crc="458317760" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="smoke.html" crc="3970978098" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="ash.html" crc="337064400" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="thermite.html" crc="319877459" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="castle.html" crc="4281344155" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="bandit.html" crc="156224054" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="mute.html" crc="4078977448" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="pulse.html" crc="4049793073" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="twitch.html" crc="19177934" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="montagne.html" crc="4285756422" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="doc.html" crc="362556887" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="rook.html" crc="429485825" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="glaz.html" crc="405688674" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="fuze.html" crc="4134241107" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="kapkan.html" crc="277700036" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="tachanka.html" crc="479448896" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="buck.html" crc="159541078" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="frost.html" crc="4174913152" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="blackbeard.html" crc="3764010157" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="valkyrie.html" crc="3971358158" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="captitao.html" crc="435041620" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="caveira.html" crc="522998950" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="hibana.html" crc="3925020343" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="echo.html" crc="3791220777" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="jackal.html" crc="530658593" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="mira.html" crc="337278599" seo="true" mt="1500485875443" redirect="true"/>
+  <file name="civilization.html" crc="4131591329" seo="true" mt="1500486079489" redirect="true"/>
+  <file name="bns.html" crc="9985259" seo="true" mt="1500486079489" redirect="true"/>
+  <file name="dungeonguides.html" crc="3837578873" seo="true" mt="1500486079489" redirect="true"/>
+  <file name="combatguide.html" crc="495883591" seo="true" mt="1500486079489" redirect="true"/>
+  <file name="change-log.html" crc="287730045" seo="true" mt="1500487413213" redirect="true"/>
 </manifest>

@@ -22,9 +22,9 @@
 #u6352-4,#u6710-4
 {
 	background-color: transparent;
-	line-height: 32px;
 	color: #FFFFFF;
 	font-size: 27px;
+	line-height: 32px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 }
@@ -47,11 +47,11 @@
 	border-width: 2px;
 	border-color: #ED1C24;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	text-align: center;
 	letter-spacing: 2px;
 	color: #ED1C24;
-	text-align: center;
+	line-height: 22px;
 	font-family: asap, sans-serif;
 	font-weight: 700;
 }
