@@ -1,7 +1,7 @@
 .version.english /* version checker */
 {
-	color: #0000F0;
-	background-color: #B96562;
+	color: #0000EB;
+	background-color: #740E58;
 }
 
 #muse_css_mq
@@ -539,10 +539,11 @@
 	margin: 108px -10000px 0px 0px;
 }
 
-#u900
+#pu900
 {
 	z-index: 4;
-	min-height: 40px;
+	margin-top: 21px;
+	width: 100%;
 }
 
 .js body
@@ -555,11 +556,10 @@
 	visibility: visible;
 }
 
-#u900-bw
+#u900,#u900-bw
 {
 	z-index: 4;
 	min-height: 40px;
-	margin-top: 21px;
 }
 
 #pamphletu6916
@@ -567,11 +567,12 @@
 	z-index: 25;
 	width: 0.01px;
 	height: 75px;
-	padding-bottom: 81px;
-	top: -8px;
-	margin-bottom: -8px;
+	padding-bottom: 3px;
 	position: relative;
-	left: -4.48%;
+	margin-right: -10000px;
+	margin-top: 20px;
+	margin-left: 50%;
+	left: -115px;
 }
 
 #u6919
@@ -579,6 +580,7 @@
 	position: absolute;
 	width: 920px;
 	top: 75px;
+	left: -371px;
 }
 
 #u6919popup
@@ -895,7 +897,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
-	left: 405px;
+	left: 34px;
 }
 
 #u6928
@@ -1014,7 +1016,7 @@
 {
 	z-index: 5;
 	min-height: 223px;
-	margin-top: 622px;
+	margin-top: 712px;
 }
 
 .html

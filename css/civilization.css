@@ -1,7 +1,7 @@
 .version.civilization /* version checker */
 {
-	color: #000006;
-	background-color: #BB1C3B;
+	color: #00001B;
+	background-color: #1CD93A;
 }
 
 #muse_css_mq
@@ -56,10 +56,11 @@
 	left: 23.13%;
 }
 
-#u900
+#pu900
 {
 	z-index: 4;
-	min-height: 40px;
+	margin-top: 21px;
+	width: 100%;
 }
 
 .js body
@@ -72,11 +73,10 @@
 	visibility: visible;
 }
 
-#u900-bw
+#u900,#u900-bw
 {
 	z-index: 4;
 	min-height: 40px;
-	margin-top: 21px;
 }
 
 #pamphletu6916
@@ -84,11 +84,12 @@
 	z-index: 72;
 	width: 0.01px;
 	height: 75px;
-	padding-bottom: 81px;
-	top: -8px;
-	margin-bottom: -8px;
+	padding-bottom: 3px;
 	position: relative;
-	left: -4.48%;
+	margin-right: -10000px;
+	margin-top: 20px;
+	margin-left: 50%;
+	left: -115px;
 }
 
 #u6919
@@ -96,6 +97,7 @@
 	position: absolute;
 	width: 920px;
 	top: 75px;
+	left: -371px;
 }
 
 #u6919popup
@@ -412,7 +414,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
-	left: 405px;
+	left: 34px;
 }
 
 #u6928
@@ -452,8 +454,8 @@
 {
 	z-index: 37;
 	min-height: 29px;
-	top: -95px;
-	margin-bottom: -29px;
+	top: -5px;
+	margin-bottom: -5px;
 	position: relative;
 	width: 96.05%;
 	margin-left: 2.3%;
@@ -462,8 +464,7 @@
 #menuu5488
 {
 	z-index: 24;
-	top: -49px;
-	margin-bottom: -34px;
+	margin-top: 17px;
 	position: relative;
 	width: 46.46%;
 	margin-left: 26.36%;
@@ -603,8 +604,7 @@
 	z-index: 41;
 	width: 923px;
 	padding-bottom: 1px;
-	top: -11px;
-	margin-bottom: -11px;
+	margin-top: 4px;
 	position: relative;
 	margin-left: 2.19%;
 }

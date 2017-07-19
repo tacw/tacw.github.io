@@ -23,8 +23,8 @@
 	border-width: 2px;
 	border-color: #F15A24;
 	background-color: transparent;
-	font-size: 14px;
 	line-height: 27px;
+	font-size: 14px;
 	letter-spacing: 1px;
 	color: #FC6B02;
 }
@@ -40,10 +40,10 @@
 	border-width: 2px;
 	border-color: #F15A24;
 	background-color: transparent;
-	letter-spacing: 1px;
+	line-height: 27px;
 	color: #FC6B02;
 	font-size: 14px;
-	line-height: 27px;
+	letter-spacing: 1px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 }
@@ -54,8 +54,8 @@
 	border-width: 2px;
 	border-color: #F15A24;
 	background-color: transparent;
-	font-size: 14px;
 	line-height: 27px;
+	font-size: 14px;
 	letter-spacing: 1px;
 	color: #FC6B02;
 }
@@ -99,10 +99,10 @@
 	border-color: #FC6B02;
 	background-color: transparent;
 	line-height: 22px;
-	text-align: center;
+	font-size: 18px;
 	letter-spacing: 2px;
 	color: #FC6B02;
-	font-size: 18px;
+	text-align: center;
 	font-family: asap, sans-serif;
 	font-weight: 700;
 }

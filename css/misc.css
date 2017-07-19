@@ -1,7 +1,7 @@
 .version.misc /* version checker */
 {
-	color: #000000;
-	background-color: #5DA0C4;
+	color: #00000C;
+	background-color: #42D221;
 }
 
 #muse_css_mq
@@ -56,10 +56,11 @@
 	left: 23.13%;
 }
 
-#u900
+#pu900
 {
 	z-index: 4;
-	min-height: 40px;
+	margin-top: 21px;
+	width: 100%;
 }
 
 .js body
@@ -72,11 +73,10 @@
 	visibility: visible;
 }
 
-#u900-bw
+#u900,#u900-bw
 {
 	z-index: 4;
 	min-height: 40px;
-	margin-top: 21px;
 }
 
 #pamphletu6916
@@ -84,11 +84,12 @@
 	z-index: 31;
 	width: 0.01px;
 	height: 75px;
-	padding-bottom: 81px;
-	top: -8px;
-	margin-bottom: -8px;
+	padding-bottom: 3px;
 	position: relative;
-	left: -4.48%;
+	margin-right: -10000px;
+	margin-top: 20px;
+	margin-left: 50%;
+	left: -115px;
 }
 
 #u6919
@@ -96,6 +97,7 @@
 	position: absolute;
 	width: 920px;
 	top: 75px;
+	left: -371px;
 }
 
 #u6919popup
@@ -412,7 +414,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
-	left: 405px;
+	left: 34px;
 }
 
 #u6928
@@ -452,8 +454,7 @@
 {
 	z-index: 24;
 	padding-bottom: 8px;
-	top: -32px;
-	margin-bottom: -32px;
+	margin-top: 58px;
 	position: relative;
 	width: 24.07%;
 	margin-left: 38.03%;
@@ -463,14 +464,14 @@
 {
 	min-height: 0px;
 	width: 24.07%;
-	margin: 0px 0px -32px 38.02083333333333%;
+	margin: 58px 0px 0px 38.02083333333333%;
 }
 
 #buttonu3637.ButtonSelected
 {
 	min-height: 0px;
 	width: 24.07%;
-	margin: 0px 0px -32px 38.02083333333333%;
+	margin: 58px 0px 0px 38.02083333333333%;
 }
 
 #u3638-4
