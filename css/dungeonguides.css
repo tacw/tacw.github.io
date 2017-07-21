@@ -1,7 +1,7 @@
 .version.dungeonguides /* version checker */
 {
-	color: #000014;
-	background-color: #140612;
+	color: #0000EB;
+	background-color: #1A7B3E;
 }
 
 #muse_css_mq
@@ -26,19 +26,19 @@
 #page_position_content
 {
 	margin-top: -164px;
-	margin-bottom: -224px;
+	margin-bottom: -232px;
 	width: 100%;
 }
 
 #pu3573
 {
-	z-index: 338;
+	z-index: 322;
 	width: 100%;
 }
 
 #u3573
 {
-	z-index: 338;
+	z-index: 322;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
@@ -81,7 +81,7 @@
 
 #u7673
 {
-	z-index: 339;
+	z-index: 323;
 	top: -4px;
 	margin-bottom: -4px;
 	position: relative;
@@ -91,7 +91,7 @@
 
 #pbuttonu7682
 {
-	z-index: 341;
+	z-index: 325;
 	margin-right: -10000px;
 	width: 25.73%;
 	margin-left: 74.28%;
@@ -99,7 +99,7 @@
 
 #buttonu7682
 {
-	z-index: 341;
+	z-index: 325;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -108,7 +108,7 @@
 
 #u7685-4
 {
-	z-index: 342;
+	z-index: 326;
 	min-height: 24px;
 	width: 76.34%;
 }
@@ -127,7 +127,7 @@
 
 #u7683
 {
-	z-index: 346;
+	z-index: 330;
 	width: 20px;
 }
 
@@ -140,17 +140,9 @@
 	min-height: 0px;
 }
 
-#pbuttonu7682 #u7683
-{
-	position: relative;
-	margin-right: -10000px;
-	width: 20px;
-	left: 61px;
-}
-
 #pbuttonu7674
 {
-	z-index: 350;
+	z-index: 334;
 	margin-right: -10000px;
 	width: 25.73%;
 	margin-left: 49.52%;
@@ -158,7 +150,7 @@
 
 #buttonu7674
 {
-	z-index: 350;
+	z-index: 334;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -167,7 +159,7 @@
 
 #u7677-4
 {
-	z-index: 351;
+	z-index: 335;
 	min-height: 24px;
 	width: 76.34%;
 }
@@ -195,7 +187,7 @@
 
 #u7675
 {
-	z-index: 355;
+	z-index: 339;
 	width: 20px;
 }
 
@@ -208,17 +200,9 @@
 	min-height: 0px;
 }
 
-#pbuttonu7674 #u7675
-{
-	position: relative;
-	margin-right: -10000px;
-	width: 20px;
-	left: 52px;
-}
-
 #pbuttonu7678
 {
-	z-index: 359;
+	z-index: 343;
 	margin-right: -10000px;
 	width: 25.73%;
 	margin-left: 25.15%;
@@ -226,28 +210,16 @@
 
 #buttonu7678
 {
-	z-index: 359;
+	z-index: 343;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
 	width: 98.5%;
 }
 
-#pbuttonu7682:hover #buttonu7682,#pbuttonu7674:hover #buttonu7674,#pbuttonu7678:hover #buttonu7678
-{
-	height: 70px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 0px;
-	min-height: 0px;
-	width: 99.25%;
-	left: 0%;
-	margin-left: 0%;
-}
-
 #u7681-4
 {
-	z-index: 360;
+	z-index: 344;
 	min-height: 24px;
 	width: 76.34%;
 }
@@ -264,26 +236,9 @@
 	width: 76.34%;
 }
 
-#pbuttonu7682.ButtonSelected #u7685-4,#pbuttonu7674.ButtonSelected #u7677-4,#pbuttonu7678.ButtonSelected #u7681-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 24px;
-	width: 76.34%;
-}
-
-#pbuttonu7678 #u7681-4
-{
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 17px;
-	left: 15px;
-	width: 76.34%;
-}
-
 #u7679
 {
-	z-index: 364;
+	z-index: 348;
 	width: 20px;
 }
 
@@ -296,45 +251,25 @@
 	min-height: 0px;
 }
 
-#pbuttonu7678 #u7679
-{
-	position: relative;
-	margin-right: -10000px;
-	width: 20px;
-	left: 51px;
-}
-
 #pbuttonu7686
 {
-	z-index: 368;
+	z-index: 352;
 	margin-right: -10000px;
 	width: 25.92%;
 }
 
 #buttonu7686
 {
-	z-index: 368;
+	z-index: 352;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
 	width: 98.51%;
 }
 
-#pbuttonu7686:hover #buttonu7686
-{
-	height: 70px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 0px;
-	min-height: 0px;
-	width: 99.26%;
-	left: 0%;
-	margin-left: 0%;
-}
-
 #u7689-4
 {
-	z-index: 369;
+	z-index: 353;
 	min-height: 24px;
 	width: 75.76%;
 }
@@ -351,26 +286,9 @@
 	width: 75.76%;
 }
 
-#pbuttonu7686.ButtonSelected #u7689-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 24px;
-	width: 75.76%;
-}
-
-#pbuttonu7686 #u7689-4
-{
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 17px;
-	left: 6px;
-	width: 75.76%;
-}
-
 #u7687
 {
-	z-index: 373;
+	z-index: 357;
 	width: 20px;
 }
 
@@ -383,30 +301,16 @@
 	min-height: 0px;
 }
 
-#pbuttonu7682.ButtonSelected #u7683,#pbuttonu7674.ButtonSelected #u7675,#pbuttonu7678.ButtonSelected #u7679,#pbuttonu7686.ButtonSelected #u7687
-{
-	width: 20px;
-	min-height: 0px;
-}
-
-#pbuttonu7686 #u7687
-{
-	position: relative;
-	margin-right: -10000px;
-	width: 20px;
-	left: 55px;
-}
-
 #pmenuu5615
 {
-	z-index: 24;
+	z-index: 8;
 	margin-top: 2px;
 	width: 100%;
 }
 
 #menuu5615
 {
-	z-index: 24;
+	z-index: 8;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 27px;
@@ -545,7 +449,7 @@
 
 #u5326-271
 {
-	z-index: 37;
+	z-index: 21;
 	min-height: 625px;
 	background-color: transparent;
 	position: relative;
@@ -556,7 +460,7 @@
 
 #u4450
 {
-	z-index: 308;
+	z-index: 292;
 	padding-bottom: 1px;
 	position: relative;
 	margin-right: -10000px;
@@ -567,7 +471,7 @@
 
 #u4329
 {
-	z-index: 309;
+	z-index: 293;
 	padding-bottom: 22px;
 	position: relative;
 	margin-right: -10000px;
@@ -576,7 +480,7 @@
 
 #u4332
 {
-	z-index: 310;
+	z-index: 294;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 25px;
@@ -586,7 +490,7 @@
 
 #pamphletu4334
 {
-	z-index: 312;
+	z-index: 296;
 	width: 0.01px;
 	height: 49px;
 	padding-bottom: 265px;
@@ -606,12 +510,12 @@
 
 #u4339popup
 {
-	z-index: 313;
+	z-index: 297;
 }
 
 #u4340
 {
-	z-index: 314;
+	z-index: 298;
 	width: 918px;
 	height: 234px;
 	margin-right: -10000px;
@@ -620,7 +524,7 @@
 
 #u4341-5
 {
-	z-index: 315;
+	z-index: 299;
 	width: 345px;
 	min-height: 45px;
 	position: relative;
@@ -640,7 +544,7 @@
 
 #pu4401-5
 {
-	z-index: 320;
+	z-index: 304;
 	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 87px;
@@ -650,7 +554,7 @@
 
 #u4401-5
 {
-	z-index: 320;
+	z-index: 304;
 	width: 345px;
 	min-height: 45px;
 	position: relative;
@@ -667,7 +571,7 @@
 
 #u4404-5
 {
-	z-index: 325;
+	z-index: 309;
 	width: 345px;
 	min-height: 45px;
 	margin-top: 2px;
@@ -685,7 +589,7 @@
 
 #u5217
 {
-	z-index: 330;
+	z-index: 314;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 20px;
@@ -695,7 +599,7 @@
 
 #u4345
 {
-	z-index: 332;
+	z-index: 316;
 	width: 225px;
 	position: relative;
 	margin-right: -10000px;
@@ -721,7 +625,7 @@
 
 #u4331-4
 {
-	z-index: 334;
+	z-index: 318;
 	width: 221px;
 	min-height: 35px;
 	position: relative;
@@ -747,8 +651,8 @@
 #u6883
 {
 	z-index: 5;
-	min-height: 223px;
-	padding-bottom: 64px;
+	min-height: 236px;
+	padding-bottom: 60px;
 }
 
 #u6883_align_to_page
@@ -759,70 +663,389 @@
 	margin-bottom: -1px;
 }
 
-#pu6898
-{
-	z-index: 18;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 103px;
-	width: 19.28%;
-	margin-left: 3.55%;
-}
-
 #u6898
 {
-	z-index: 18;
-	position: relative;
-	width: 96.22%;
-}
-
-#u6889-4
-{
 	z-index: 6;
-	min-height: 39px;
-	margin-top: 29px;
-	position: relative;
-	width: 67.57%;
-	margin-left: 30.28%;
-}
-
-#u6892-4
-{
-	z-index: 10;
-	min-height: 39px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 180px;
-	width: 13.03%;
-	left: 25.32%;
+	margin-top: 103px;
+	width: 18.55%;
+	left: 3.55%;
 }
 
-#u6895-4
+#u7909
 {
-	z-index: 14;
-	min-height: 39px;
+	z-index: 360;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 180px;
-	width: 13.03%;
-	left: 40.73%;
+	margin-top: 165px;
+	width: 54.07%;
+	left: 22.92%;
 }
 
-#u6908-4
+#ppbuttonu7918
 {
-	z-index: 20;
-	min-height: 39px;
+	z-index: 379;
+	margin-right: -10000px;
+	width: 50.87%;
+}
+
+#pbuttonu7918
+{
+	z-index: 380;
+	margin-right: -10000px;
+	width: 50.38%;
+	margin-left: 50%;
+}
+
+#buttonu7918
+{
+	z-index: 380;
+	height: 70px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 180px;
-	width: 13.03%;
-	left: 56.25%;
+	width: 98.5%;
+}
+
+#pbuttonu7682:hover #buttonu7682,#pbuttonu7674:hover #buttonu7674,#pbuttonu7678:hover #buttonu7678,#pbuttonu7918:hover #buttonu7918
+{
+	height: 70px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	min-height: 0px;
+	width: 99.25%;
+	left: 0%;
+	margin-left: 0%;
+}
+
+#u7921-4
+{
+	z-index: 381;
+	min-height: 24px;
+	width: 76.34%;
+}
+
+#pbuttonu7918:hover #u7921-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 16px;
+	min-height: 24px;
+	width: 76.34%;
+}
+
+#pbuttonu7682.ButtonSelected #u7685-4,#pbuttonu7674.ButtonSelected #u7677-4,#pbuttonu7678.ButtonSelected #u7681-4,#pbuttonu7918.ButtonSelected #u7921-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 76.34%;
+}
+
+#pbuttonu7678 #u7681-4,#pbuttonu7918 #u7921-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 15px;
+	width: 76.34%;
+}
+
+#u7919
+{
+	z-index: 385;
+	width: 20px;
+}
+
+#pbuttonu7918:hover #u7919
+{
+	position: relative;
+	margin-right: -10000px;
+	width: 20px;
+	left: 52px;
+	min-height: 0px;
+}
+
+#pbuttonu7678 #u7679,#pbuttonu7918 #u7919
+{
+	position: relative;
+	margin-right: -10000px;
+	width: 20px;
+	left: 51px;
+}
+
+#pbuttonu7910
+{
+	z-index: 389;
+	margin-right: -10000px;
+	width: 50.76%;
+}
+
+#buttonu7910
+{
+	z-index: 389;
+	height: 70px;
+	position: relative;
+	margin-right: -10000px;
+	width: 98.51%;
+}
+
+#pbuttonu7686:hover #buttonu7686,#pbuttonu7910:hover #buttonu7910
+{
+	height: 70px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	min-height: 0px;
+	width: 99.26%;
+	left: 0%;
+	margin-left: 0%;
+}
+
+#u7913-4
+{
+	z-index: 390;
+	min-height: 24px;
+	width: 75.76%;
+}
+
+#pbuttonu7910:hover #u7913-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 7px;
+	min-height: 24px;
+	width: 75.76%;
+}
+
+#pbuttonu7686.ButtonSelected #u7689-4,#pbuttonu7910.ButtonSelected #u7913-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 75.76%;
+}
+
+#pbuttonu7686 #u7689-4,#pbuttonu7910 #u7913-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 6px;
+	width: 75.76%;
+}
+
+#u7911
+{
+	z-index: 394;
+	width: 20px;
+}
+
+#pbuttonu7910:hover #u7911
+{
+	position: relative;
+	margin-right: -10000px;
+	width: 20px;
+	left: 56px;
+	min-height: 0px;
+}
+
+#pbuttonu7686 #u7687,#pbuttonu7910 #u7911
+{
+	position: relative;
+	margin-right: -10000px;
+	width: 20px;
+	left: 55px;
+}
+
+#ppbuttonu7922
+{
+	z-index: 361;
+	margin-right: -10000px;
+	width: 48.75%;
+	margin-left: 51.06%;
+}
+
+#pbuttonu7922
+{
+	z-index: 362;
+	margin-right: -10000px;
+	width: 50.6%;
+	margin-left: 49.81%;
+}
+
+#buttonu7922
+{
+	z-index: 362;
+	height: 70px;
+	position: relative;
+	margin-right: -10000px;
+	width: 98.44%;
+}
+
+#u7925-4
+{
+	z-index: 363;
+	min-height: 24px;
+	width: 79.37%;
+}
+
+#pbuttonu7922:hover #u7925-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 17px;
+	min-height: 24px;
+	width: 79.37%;
+}
+
+#pbuttonu7922.ButtonSelected #u7925-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 79.37%;
+}
+
+#pbuttonu7922 #u7925-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 16px;
+	width: 79.37%;
+}
+
+#u7923
+{
+	z-index: 367;
+	width: 20px;
+}
+
+#pbuttonu7922:hover #u7923
+{
+	position: relative;
+	margin-right: -10000px;
+	width: 20px;
+	left: 62px;
+	min-height: 0px;
+}
+
+#pbuttonu7682 #u7683,#pbuttonu7922 #u7923
+{
+	position: relative;
+	margin-right: -10000px;
+	width: 20px;
+	left: 61px;
+}
+
+#pbuttonu7914
+{
+	z-index: 371;
+	margin-right: -10000px;
+	width: 50.6%;
+}
+
+#buttonu7914
+{
+	z-index: 371;
+	height: 70px;
+	position: relative;
+	margin-right: -10000px;
+	width: 98.44%;
+}
+
+#pbuttonu7922:hover #buttonu7922,#pbuttonu7914:hover #buttonu7914
+{
+	height: 70px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	min-height: 0px;
+	width: 99.22%;
+	left: 0%;
+	margin-left: 0%;
+}
+
+#u7917-4
+{
+	z-index: 372;
+	min-height: 24px;
+	width: 86.51%;
+}
+
+#pbuttonu7914:hover #u7917-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 9px;
+	min-height: 24px;
+	width: 86.51%;
+}
+
+#pbuttonu7914.ButtonSelected #u7917-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 86.51%;
+}
+
+#pbuttonu7914 #u7917-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 8px;
+	width: 86.51%;
+}
+
+#u7915
+{
+	z-index: 376;
+	width: 20px;
+}
+
+#pbuttonu7914:hover #u7915
+{
+	position: relative;
+	margin-right: -10000px;
+	width: 20px;
+	left: 53px;
+	min-height: 0px;
+}
+
+#pbuttonu7682.ButtonSelected #u7683,#pbuttonu7674.ButtonSelected #u7675,#pbuttonu7678.ButtonSelected #u7679,#pbuttonu7686.ButtonSelected #u7687,#pbuttonu7918.ButtonSelected #u7919,#pbuttonu7910.ButtonSelected #u7911,#pbuttonu7922.ButtonSelected #u7923,#pbuttonu7914.ButtonSelected #u7915
+{
+	width: 20px;
+	min-height: 0px;
+}
+
+#pbuttonu7674 #u7675,#pbuttonu7914 #u7915
+{
+	position: relative;
+	margin-right: -10000px;
+	width: 20px;
+	left: 52px;
 }
 
 #u6883-bw
 {
 	z-index: 5;
-	min-height: 223px;
+	min-height: 236px;
 	margin-top: -1px;
 }
 
