@@ -1,7 +1,7 @@
 .version.trashed_ideas /* version checker */
 {
-	color: #0000F5;
-	background-color: #64F6CA;
+	color: #0000EF;
+	background-color: #CA0468;
 }
 
 #muse_css_mq
@@ -856,18 +856,6 @@
 	width: 98.44%;
 }
 
-#pbuttonu7922:hover #buttonu7922,#pbuttonu7914:hover #buttonu7914
-{
-	height: 70px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 0px;
-	min-height: 0px;
-	width: 99.22%;
-	left: 0%;
-	margin-left: 0%;
-}
-
 #u7917-4
 {
 	z-index: 76;
@@ -938,15 +926,15 @@
 #buttonu8082
 {
 	z-index: 102;
-	height: 71px;
+	height: 70px;
 	position: relative;
 	margin-right: -10000px;
 	width: 98.44%;
 }
 
-#pbuttonu8082:hover #buttonu8082
+#pbuttonu7922:hover #buttonu7922,#pbuttonu7914:hover #buttonu7914,#pbuttonu8082:hover #buttonu8082
 {
-	height: 71px;
+	height: 70px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 0px;
@@ -1045,4 +1033,5 @@ body
 {
 	width: 100%;
 }
+
 

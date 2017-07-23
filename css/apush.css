@@ -1,7 +1,7 @@
 .version.apush /* version checker */
 {
-	color: #0000F7;
-	background-color: #79730B;
+	color: #00000D;
+	background-color: #FD0270;
 }
 
 #muse_css_mq
@@ -1087,18 +1087,6 @@
 	width: 98.44%;
 }
 
-#pbuttonu7922:hover #buttonu7922,#pbuttonu7914:hover #buttonu7914
-{
-	height: 70px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 0px;
-	min-height: 0px;
-	width: 99.22%;
-	left: 0%;
-	margin-left: 0%;
-}
-
 #u7917-4
 {
 	z-index: 59;
@@ -1169,15 +1157,15 @@
 #buttonu8082
 {
 	z-index: 85;
-	height: 71px;
+	height: 70px;
 	position: relative;
 	margin-right: -10000px;
 	width: 98.44%;
 }
 
-#pbuttonu8082:hover #buttonu8082
+#pbuttonu7922:hover #buttonu7922,#pbuttonu7914:hover #buttonu7914,#pbuttonu8082:hover #buttonu8082
 {
-	height: 71px;
+	height: 70px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 0px;
