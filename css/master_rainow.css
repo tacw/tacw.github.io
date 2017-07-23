@@ -23,8 +23,8 @@
 {
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 27px;
 	line-height: 32px;
+	font-size: 27px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 }
@@ -48,9 +48,9 @@
 	border-color: #ED1C24;
 	background-color: transparent;
 	font-size: 18px;
-	line-height: 22px;
 	letter-spacing: 2px;
 	color: #ED1C24;
+	line-height: 22px;
 	text-align: center;
 	font-family: asap, sans-serif;
 	font-weight: 700;

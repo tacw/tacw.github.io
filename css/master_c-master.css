@@ -7,14 +7,16 @@
 
 #u7819
 {
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	background-color: #005800;
 }
 
 #buttonu3637
 {
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	border-color: #787878;
 	background-color: #228E73;
-	border-radius: 10px;
+	border-radius: 0px 10px 0px 10px ;
 }
 
 #buttonu3637:hover
@@ -52,9 +54,10 @@
 
 #buttonu7810
 {
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
 	border-color: #787878;
 	background-color: #228E73;
-	border-radius: 10px;
+	border-radius: 0px 10px 0px 10px ;
 }
 
 #buttonu7810:hover

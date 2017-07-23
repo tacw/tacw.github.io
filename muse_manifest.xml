@@ -1,86 +1,88 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500672656176">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500777176486">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4160065970"/>
-    <file name="master_a-master.css" crc="4112266152" ref="index:misc:games:school:apush:calculus:english:chinese-2:chemistry:torrenting:rainbowsix:blackbeard:rook:hibana:ash:caveira:iq:fuze:montagne:smoke:mute:thatcher:twitch:bandit:glaz:castle:frost:captitao:valkyrie:doc:thermite:mira:blitz:buck:sledge:jackal:kapkan:pulse:tachanka:echo:jager:dungeonguides:civilization:bns:combatguide:change-log:bank:hereford-base:house:trashed-ideas"/>
-    <file name="index.css" crc="443893943" ref="index"/>
-    <file name="misc.css" crc="287479620" ref="misc"/>
-    <file name="games.css" crc="4040639944" ref="games"/>
-    <file name="school.css" crc="433255545" ref="school"/>
+    <file name="master_a-master.css" crc="4052561004" ref="index:misc:games:school:apush:calculus:english:chinese-2:chemistry:torrenting:rainbowsix:blackbeard:rook:hibana:ash:caveira:iq:fuze:montagne:smoke:mute:thatcher:twitch:bandit:glaz:castle:frost:captitao:valkyrie:doc:thermite:mira:blitz:buck:sledge:jackal:kapkan:pulse:tachanka:echo:jager:dungeonguides:civilization:bns:combatguide:change-log:bank:hereford-base:house:trashed-ideas:skyscraper:consulate"/>
+    <file name="index.css" crc="3816555721" ref="index"/>
+    <file name="misc.css" crc="127958145" ref="misc"/>
+    <file name="games.css" crc="127652098" ref="games"/>
+    <file name="school.css" crc="279265433" ref="school"/>
     <file name="master_b-master.css" crc="110400599" ref="apush:calculus:english:chinese-2:school:chemistry"/>
-    <file name="apush.css" crc="220159742" ref="apush"/>
-    <file name="calculus.css" crc="220159742" ref="calculus"/>
-    <file name="english.css" crc="220159742" ref="english"/>
-    <file name="chinese-2.css" crc="3856647894" ref="chinese-2"/>
-    <file name="chemistry.css" crc="220159742" ref="chemistry"/>
-    <file name="master_c-master.css" crc="506145544" ref="misc:torrenting:change-log:trashed-ideas"/>
-    <file name="torrenting.css" crc="347957830" ref="torrenting"/>
-    <file name="master_d-master.css" crc="4169552482" ref="games:dungeonguides:civilization:bns:combatguide"/>
-    <file name="rainbowsix.css" crc="228425943" ref="rainbowsix"/>
-    <file name="blackbeard.css" crc="4138417220" ref="blackbeard"/>
-    <file name="rook.css" crc="25656827" ref="rook"/>
-    <file name="hibana.css" crc="25656827" ref="hibana"/>
-    <file name="ash.css" crc="25656827" ref="ash"/>
-    <file name="caveira.css" crc="25656827" ref="caveira"/>
-    <file name="iq.css" crc="4088001624" ref="iq"/>
-    <file name="fuze.css" crc="25656827" ref="fuze"/>
-    <file name="montagne.css" crc="25656827" ref="montagne"/>
-    <file name="smoke.css" crc="25656827" ref="smoke"/>
-    <file name="mute.css" crc="25656827" ref="mute"/>
-    <file name="thatcher.css" crc="25656827" ref="thatcher"/>
-    <file name="twitch.css" crc="25656827" ref="twitch"/>
-    <file name="bandit.css" crc="25656827" ref="bandit"/>
-    <file name="glaz.css" crc="25656827" ref="glaz"/>
-    <file name="castle.css" crc="25656827" ref="castle"/>
-    <file name="frost.css" crc="25656827" ref="frost"/>
-    <file name="captitao.css" crc="25656827" ref="captitao"/>
-    <file name="valkyrie.css" crc="25656827" ref="valkyrie"/>
-    <file name="doc.css" crc="185969726" ref="doc"/>
-    <file name="thermite.css" crc="25656827" ref="thermite"/>
-    <file name="mira.css" crc="25656827" ref="mira"/>
-    <file name="blitz.css" crc="3897588913" ref="blitz"/>
-    <file name="buck.css" crc="25656827" ref="buck"/>
-    <file name="sledge.css" crc="25656827" ref="sledge"/>
-    <file name="jackal.css" crc="25656827" ref="jackal"/>
-    <file name="kapkan.css" crc="25656827" ref="kapkan"/>
-    <file name="pulse.css" crc="121068217" ref="pulse"/>
-    <file name="tachanka.css" crc="25656827" ref="tachanka"/>
-    <file name="echo.css" crc="25656827" ref="echo"/>
-    <file name="jager.css" crc="25656827" ref="jager"/>
-    <file name="dungeonguides.css" crc="3944381246" ref="dungeonguides"/>
-    <file name="civilization.css" crc="4062891151" ref="civilization"/>
-    <file name="bns.css" crc="51170876" ref="bns"/>
-    <file name="combatguide.css" crc="4208298720" ref="combatguide"/>
-    <file name="master_rainow.css" crc="361603173" ref="blackbeard:rook:hibana:ash:caveira:iq:fuze:montagne:smoke:mute:thatcher:twitch:bandit:glaz:castle:frost:rainbowsix:captitao:valkyrie:doc:thermite:mira:blitz:buck:sledge:jackal:kapkan:pulse:tachanka:echo:jager:bank:hereford-base:house"/>
+    <file name="apush.css" crc="4151931659" ref="apush"/>
+    <file name="calculus.css" crc="4151931659" ref="calculus"/>
+    <file name="english.css" crc="4151931659" ref="english"/>
+    <file name="chinese-2.css" crc="4059211368" ref="chinese-2"/>
+    <file name="chemistry.css" crc="4151931659" ref="chemistry"/>
+    <file name="master_c-master.css" crc="248405088" ref="misc:torrenting:change-log:trashed-ideas"/>
+    <file name="torrenting.css" crc="4043326732" ref="torrenting"/>
+    <file name="master_d-master.css" crc="4183915865" ref="games:dungeonguides:civilization:bns:combatguide"/>
+    <file name="rainbowsix.css" crc="3855856162" ref="rainbowsix"/>
+    <file name="blackbeard.css" crc="4121266254" ref="blackbeard"/>
+    <file name="rook.css" crc="512732956" ref="rook"/>
+    <file name="hibana.css" crc="512732956" ref="hibana"/>
+    <file name="ash.css" crc="512732956" ref="ash"/>
+    <file name="caveira.css" crc="512732956" ref="caveira"/>
+    <file name="iq.css" crc="320052408" ref="iq"/>
+    <file name="fuze.css" crc="512732956" ref="fuze"/>
+    <file name="montagne.css" crc="512732956" ref="montagne"/>
+    <file name="smoke.css" crc="512732956" ref="smoke"/>
+    <file name="mute.css" crc="512732956" ref="mute"/>
+    <file name="thatcher.css" crc="512732956" ref="thatcher"/>
+    <file name="twitch.css" crc="512732956" ref="twitch"/>
+    <file name="bandit.css" crc="512732956" ref="bandit"/>
+    <file name="glaz.css" crc="512732956" ref="glaz"/>
+    <file name="castle.css" crc="512732956" ref="castle"/>
+    <file name="frost.css" crc="512732956" ref="frost"/>
+    <file name="captitao.css" crc="512732956" ref="captitao"/>
+    <file name="valkyrie.css" crc="512732956" ref="valkyrie"/>
+    <file name="doc.css" crc="296564113" ref="doc"/>
+    <file name="thermite.css" crc="512732956" ref="thermite"/>
+    <file name="mira.css" crc="512732956" ref="mira"/>
+    <file name="blitz.css" crc="366956034" ref="blitz"/>
+    <file name="buck.css" crc="512732956" ref="buck"/>
+    <file name="sledge.css" crc="512732956" ref="sledge"/>
+    <file name="jackal.css" crc="512732956" ref="jackal"/>
+    <file name="kapkan.css" crc="512732956" ref="kapkan"/>
+    <file name="pulse.css" crc="4159954141" ref="pulse"/>
+    <file name="tachanka.css" crc="512732956" ref="tachanka"/>
+    <file name="echo.css" crc="512732956" ref="echo"/>
+    <file name="jager.css" crc="512732956" ref="jager"/>
+    <file name="dungeonguides.css" crc="421355663" ref="dungeonguides"/>
+    <file name="civilization.css" crc="245393116" ref="civilization"/>
+    <file name="bns.css" crc="3861944451" ref="bns"/>
+    <file name="combatguide.css" crc="111963390" ref="combatguide"/>
+    <file name="master_rainow.css" crc="371772689" ref="blackbeard:rook:hibana:ash:caveira:iq:fuze:montagne:smoke:mute:thatcher:twitch:bandit:glaz:castle:frost:rainbowsix:captitao:valkyrie:doc:thermite:mira:blitz:buck:sledge:jackal:kapkan:pulse:tachanka:echo:jager:bank:hereford-base:house:skyscraper:consulate"/>
     <file name="master_civ.css" crc="4119103858" ref="civilization:combatguide"/>
     <file name="master_bns.css" crc="3925399535" ref="dungeonguides:bns"/>
-    <file name="change-log.css" crc="3963501714" ref="change-log"/>
-    <file name="bank.css" crc="25466764" ref="bank"/>
-    <file name="hereford-base.css" crc="4235197600" ref="hereford-base"/>
-    <file name="house.css" crc="3775752188" ref="house"/>
-    <file name="trashed-ideas.css" crc="3782607716" ref="trashed-ideas"/>
+    <file name="change-log.css" crc="396414017" ref="change-log"/>
+    <file name="bank.css" crc="519119823" ref="bank"/>
+    <file name="hereford-base.css" crc="394984689" ref="hereford-base"/>
+    <file name="house.css" crc="23606891" ref="house"/>
+    <file name="trashed-ideas.css" crc="4117034698" ref="trashed-ideas"/>
+    <file name="skyscraper.css" crc="411160986" ref="skyscraper"/>
+    <file name="consulate.css" crc="3899716811" ref="consulate"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas"/>
-    <file name="museutils.js" crc="163421577" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas"/>
-    <file name="museconfig.js" crc="168988563" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas"/>
-    <file name="require.js" crc="244322403" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas"/>
-    <file name="webpro.js" crc="3848665353" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank"/>
-    <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate"/>
+    <file name="museutils.js" crc="163421577" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate"/>
+    <file name="museconfig.js" crc="168988563" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate"/>
+    <file name="require.js" crc="244322403" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate"/>
+    <file name="webpro.js" crc="3848665353" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="doc:pulse:iq"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="civilization:bns:dungeonguides:combatguide"/>
-    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas"/>
+    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate"/>
   </folder>
   <folder name="images">
-    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas"/>
-    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas"/>
+    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate"/>
+    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate"/>
     <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="u3333.png" crc="3926963553" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="u3333-a.png" crc="21366187" ref="school:apush:calculus:chemistry:english:chinese-2"/>
@@ -92,92 +94,94 @@
     <file name="car.jpg" crc="113882937" ref="index" seo="true"/>
     <file name="musethemes-logo-crop-u4332.jpg" crc="3814523729" ref="games:civilization:bns:dungeonguides:combatguide"/>
     <file name="genericgameicon.jpg" crc="132268762" seo="true" ref="games:civilization:bns:dungeonguides:combatguide"/>
-    <file name="blackbeard.png" crc="60862657" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="iq.png" crc="3763951682" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="thermite.png" crc="3851442132" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="twitch.png" crc="524588619" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="ash.png" crc="107497372" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="blitz.png" crc="4263957374" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="montagne.png" crc="4076047619" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="hibana.png" crc="4137338509" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="pasted image 978x768.jpg" crc="70064493" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="sledge.png" crc="86188661" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="glaz.png" crc="3821787575" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="buck.png" crc="3971445948" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="thatcher.png" crc="153384878" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="fuze.png" crc="4004184222" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="capitao.png" crc="3907830393" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="smoke.png" crc="126865174" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="doc.png" crc="4021733576" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="jager.png" crc="521230367" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="caveira.png" crc="206243403" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="mute.png" crc="3838828162" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="rook.png" crc="3891680501" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="bandit.png" crc="4222569628" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="echo.png" crc="451687740" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="castle.png" crc="352642569" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="kapkan.png" crc="47222682" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="frost.png" crc="4094348133" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="pasted image 224x223.jpg" crc="378880702" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="pulse.png" crc="172419121" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="tachanka.png" crc="6820915" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
-    <file name="valkyrie_visible_wings.png" crc="4241601486" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank"/>
+    <file name="blackbeard.png" crc="60862657" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="iq.png" crc="3763951682" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="thermite.png" crc="3851442132" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="twitch.png" crc="524588619" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="ash.png" crc="107497372" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="blitz.png" crc="4263957374" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="montagne.png" crc="4076047619" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="hibana.png" crc="4137338509" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="pasted image 978x768.jpg" crc="70064493" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="sledge.png" crc="86188661" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="glaz.png" crc="3821787575" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="buck.png" crc="3971445948" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="thatcher.png" crc="153384878" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="fuze.png" crc="4004184222" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="capitao.png" crc="3907830393" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="smoke.png" crc="126865174" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="doc.png" crc="4021733576" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="jager.png" crc="521230367" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="caveira.png" crc="206243403" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="mute.png" crc="3838828162" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="rook.png" crc="3891680501" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="bandit.png" crc="4222569628" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="echo.png" crc="451687740" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="castle.png" crc="352642569" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="kapkan.png" crc="47222682" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="frost.png" crc="4094348133" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="pasted image 224x223.jpg" crc="378880702" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="pulse.png" crc="172419121" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="tachanka.png" crc="6820915" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
+    <file name="valkyrie_visible_wings.png" crc="4241601486" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
     <file name="-48250c359eb83d7a8efb1405f5d03a28fedf7961031de568da-pimgpsh_fullsize_distr.jpg" crc="4202790864" ref="blackbeard"/>
     <file name="docpic2.jpg" crc="3781130070" ref="doc"/>
     <file name="pulse2.jpg" crc="137522468" ref="pulse"/>
     <file name="iq2.jpg" crc="4228620643" ref="iq"/>
-    <file name="logomakr_1jtcoh.png" crc="374159385" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas"/>
+    <file name="logomakr_1jtcoh.png" crc="374159385" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="289159108" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="school.html" crc="72029016" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="games.html" crc="4128229479" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="misc.html" crc="3759482152" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="apush.html" crc="536137737" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="calculus.html" crc="4226830676" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="chemistry.html" crc="3940422716" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="english.html" crc="331597093" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="chinese-2.html" crc="178846276" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="torrenting.html" crc="143198331" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="rainbowsix.html" crc="3799689035" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="iq.html" crc="3939982445" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="blitz.html" crc="4096560972" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="jager.html" crc="444918380" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="sledge.html" crc="4202010073" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="thatcher.html" crc="3936288664" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="smoke.html" crc="4274249099" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="ash.html" crc="389293602" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="thermite.html" crc="132378901" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="castle.html" crc="86361279" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="bandit.html" crc="408892587" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="mute.html" crc="4035352488" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="pulse.html" crc="221430390" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="twitch.html" crc="490605350" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="montagne.html" crc="3954211152" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="doc.html" crc="347711112" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="rook.html" crc="3834125004" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="glaz.html" crc="4037351612" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="fuze.html" crc="120076739" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="kapkan.html" crc="3997405244" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="tachanka.html" crc="230600101" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="buck.html" crc="4159642158" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="frost.html" crc="378477546" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="blackbeard.html" crc="4029701043" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="valkyrie.html" crc="3830684449" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="captitao.html" crc="4168529544" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="caveira.html" crc="416835080" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="hibana.html" crc="3771515937" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="echo.html" crc="453281195" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="jackal.html" crc="3970590036" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="mira.html" crc="3992785676" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="civilization.html" crc="113657896" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="bns.html" crc="424345758" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="dungeonguides.html" crc="3985869047" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="combatguide.html" crc="293627301" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="change-log.html" crc="3829870682" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="hereford-base.html" crc="3861420795" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="house.html" crc="250760201" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="bank.html" crc="4138209064" seo="true" mt="1500672399718" redirect="true"/>
-  <file name="trashed-ideas.html" crc="3848599525" seo="true" mt="1500672399718" redirect="true"/>
+  <file name="index.html" crc="4089292841" seo="true" mt="1500776815167" redirect="true"/>
+  <file name="school.html" crc="265756359" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="games.html" crc="3969029350" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="misc.html" crc="3979366496" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="apush.html" crc="4136161557" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="calculus.html" crc="4254365495" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="chemistry.html" crc="398254482" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="english.html" crc="3774338943" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="chinese-2.html" crc="4100081826" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="torrenting.html" crc="4024764969" seo="true" mt="1500776972776" redirect="true"/>
+  <file name="rainbowsix.html" crc="3829225264" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="iq.html" crc="483841034" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="blitz.html" crc="4167749396" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="jager.html" crc="345471564" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="sledge.html" crc="377163944" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="thatcher.html" crc="79396067" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="smoke.html" crc="316865161" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="ash.html" crc="252273840" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="thermite.html" crc="354121299" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="castle.html" crc="360159701" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="bandit.html" crc="468347921" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="mute.html" crc="332835822" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="pulse.html" crc="3884631815" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="twitch.html" crc="4122642314" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="montagne.html" crc="174823953" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="doc.html" crc="331871172" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="rook.html" crc="505038067" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="glaz.html" crc="491289518" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="fuze.html" crc="477960660" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="kapkan.html" crc="386554403" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="tachanka.html" crc="3772527304" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="buck.html" crc="3814944401" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="frost.html" crc="4127551882" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="blackbeard.html" crc="200456908" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="valkyrie.html" crc="26310416" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="captitao.html" crc="3963105999" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="caveira.html" crc="145849714" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="hibana.html" crc="112546321" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="echo.html" crc="3803481897" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="jackal.html" crc="127918435" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="mira.html" crc="4193700908" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="civilization.html" crc="321922845" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="bns.html" crc="3844836768" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="dungeonguides.html" crc="151761660" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="combatguide.html" crc="373992333" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="change-log.html" crc="3922450695" seo="true" mt="1500776758199" redirect="true"/>
+  <file name="hereford-base.html" crc="248588904" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="house.html" crc="4047367866" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="bank.html" crc="240888309" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="trashed-ideas.html" crc="20671374" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="skyscraper.html" crc="3862072755" seo="true" mt="1500776724927" redirect="true"/>
+  <file name="consulate.html" crc="287007632" seo="true" mt="1500776724927" redirect="true"/>
 </manifest>
