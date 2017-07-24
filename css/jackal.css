@@ -19,8 +19,8 @@
 
 .version.jackal /* version checker */
 {
-	color: #000005;
-	background-color: #0BF860;
+	color: #0000F0;
+	background-color: #66C11B;
 }
 
 #muse_css_mq
@@ -1239,7 +1239,7 @@
 
 .html
 {
-	background: #00406D url("../images/jaaackal.jpg?crc=3813415877") no-repeat left top fixed;
+	background: #00406D url("../images/png.jpg?crc=4089623699") no-repeat left top fixed;
 	background-size: contain;
 }
 

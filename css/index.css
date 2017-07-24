@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E8;
-	background-color: #D642D5;
+	color: #0000FD;
+	background-color: #B2900A;
 }
 
 #muse_css_mq
@@ -414,6 +414,18 @@
 	margin-bottom: -18px;
 }
 
+#u8367
+{
+	z-index: 220;
+	width: 892px;
+	height: 360px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	margin-right: -10000px;
+	position: relative;
+}
+
 #u7125
 {
 	position: absolute;
@@ -424,12 +436,12 @@
 
 #u7125popup
 {
-	z-index: 220;
+	z-index: 222;
 }
 
 #u7126-4
 {
-	z-index: 221;
+	z-index: 223;
 	width: 154px;
 	min-height: 40px;
 	border-width: 0px;
@@ -445,7 +457,7 @@
 
 #u7198-4
 {
-	z-index: 225;
+	z-index: 227;
 	width: 154px;
 	min-height: 40px;
 	border-width: 0px;
@@ -461,7 +473,7 @@
 
 #u7232-4
 {
-	z-index: 229;
+	z-index: 231;
 	width: 154px;
 	min-height: 40px;
 	border-width: 0px;
@@ -477,7 +489,23 @@
 
 #u7266-3
 {
-	z-index: 233;
+	z-index: 235;
+	width: 154px;
+	min-height: 40px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	color: #999999;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8379-4
+{
+	z-index: 238;
 	width: 154px;
 	min-height: 40px;
 	border-width: 0px;
@@ -511,7 +539,7 @@
 
 #u7123-4popup
 {
-	z-index: 236;
+	z-index: 242;
 }
 
 #u7124-4
@@ -534,7 +562,7 @@
 
 #u7124-4popup
 {
-	z-index: 240;
+	z-index: 246;
 }
 
 #u7122-4
@@ -557,7 +585,7 @@
 
 #u7122-4popup
 {
-	z-index: 244;
+	z-index: 250;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
