@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500845726050">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1500857593343">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -44,7 +44,7 @@
     <file name="blitz.css" crc="4145005089" ref="blitz"/>
     <file name="buck.css" crc="4112744588" ref="buck"/>
     <file name="sledge.css" crc="4112744588" ref="sledge"/>
-    <file name="jackal.css" crc="149259672" ref="jackal"/>
+    <file name="jackal.css" crc="84670560" ref="jackal"/>
     <file name="kapkan.css" crc="4112744588" ref="kapkan"/>
     <file name="pulse.css" crc="4063148329" ref="pulse"/>
     <file name="tachanka.css" crc="4112744588" ref="tachanka"/>
@@ -87,7 +87,7 @@
     <file name="u3333.png" crc="3926963553" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="u3333-a.png" crc="21366187" ref="school:apush:calculus:chemistry:english:chinese-2"/>
     <file name="menu_icon_04_white_3line-crop-u3331.png" crc="4158053167" ref="school:apush:calculus:chemistry:english:chinese-2"/>
-    <file name="favicon.ico" crc="4117084711" ref="index:games:civilization"/>
+    <file name="favicon.ico" crc="4117084711" ref="index:games:civilization:jackal"/>
     <file name="actualalbum.jpg" crc="3764500425" ref="index" seo="true"/>
     <file name="vicnent.jpg" crc="4025757287" ref="index" seo="true"/>
     <file name="aagard.jpg" crc="4147394462" ref="index" seo="true"/>
@@ -172,7 +172,7 @@
   <file name="caveira.html" crc="188734515" seo="true" mt="1500833870456" redirect="true"/>
   <file name="hibana.html" crc="3793049358" seo="true" mt="1500833870456" redirect="true"/>
   <file name="echo.html" crc="3809106998" seo="true" mt="1500833870456" redirect="true"/>
-  <file name="jackal.html" crc="3864016018" seo="true" mt="1500834159018" redirect="true"/>
+  <file name="jackal.html" crc="412042012" seo="true" mt="1500857584891" redirect="true"/>
   <file name="mira.html" crc="383140085" seo="true" mt="1500833870456" redirect="true"/>
   <file name="civilization.html" crc="4104458863" seo="true" mt="1500838691148" redirect="true"/>
   <file name="bns.html" crc="224998552" seo="true" mt="1500832662194" redirect="true"/>
