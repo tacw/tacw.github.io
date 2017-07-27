@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1501180157335">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1501180286113">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -12,7 +12,7 @@
   <folder name="css">
     <file name="site_global.css" crc="4160065970"/>
     <file name="master_a-master.css" crc="503837229" ref="index:misc:games:school:apush:calculus:english:chinese-2:chemistry:torrenting:dungeonguides:civilization:bns:combatguide:change-log:trashed-ideas"/>
-    <file name="index.css" crc="315015570" ref="index"/>
+    <file name="index.css" crc="137775910" ref="index"/>
     <file name="misc.css" crc="99551820" ref="misc"/>
     <file name="games.css" crc="332857179" ref="games"/>
     <file name="school.css" crc="55750444" ref="school"/>
@@ -140,7 +140,7 @@
     <file name="-b0534574de4973f52eba0f0bff4c515b5778e026d921bfb68b-pimgpsh_fullsize_distr-crop-u8367.jpg" crc="4147050442" ref="index"/>
     <file name="png.jpg" crc="4089623699" ref="jackal"/>
   </folder>
-  <file name="index.html" crc="4286110716" seo="true" mt="1501176395531" redirect="true"/>
+  <file name="index.html" crc="80525887" seo="true" mt="1501180280126" redirect="true"/>
   <file name="school.html" crc="409828094" seo="true" mt="1501180149018" redirect="true"/>
   <file name="games.html" crc="19628020" seo="true" mt="1501176395531" redirect="true"/>
   <file name="misc.html" crc="76102650" seo="true" mt="1501176395531" redirect="true"/>
