@@ -1,7 +1,7 @@
 .version.torrenting /* version checker */
 {
-	color: #00000C;
-	background-color: #017010;
+	color: #00001C;
+	background-color: #3D143D;
 }
 
 #muse_css_mq
@@ -491,7 +491,7 @@
 	z-index: 171;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 69px;
+	margin-top: 32px;
 	width: 36.78%;
 	left: 31.25%;
 }
@@ -499,7 +499,7 @@
 #u7819
 {
 	z-index: 172;
-	padding-top: 10px;
+	padding-top: 47px;
 	padding-bottom: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -612,15 +612,6 @@
 	margin: 13px -10000px 0px 0%;
 }
 
-#buttonu7810.ButtonSelected #u7812-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 51.52%;
-	margin: 13px -10000px 0px 0%;
-}
-
 #u7811
 {
 	z-index: 184;
@@ -640,7 +631,80 @@
 	margin: 15px -10000px 0px 0%;
 }
 
-#buttonu7810.ButtonSelected #u7811
+#buttonu8589
+{
+	z-index: 185;
+	padding-bottom: 8px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+	width: 24.07%;
+	left: 37.71%;
+}
+
+#buttonu8589:hover
+{
+	min-height: 0px;
+	width: 24.07%;
+	margin: 35px -10000px 0px 0%;
+}
+
+#buttonu8589.ButtonSelected
+{
+	min-height: 0px;
+	width: 24.07%;
+	margin: 35px -10000px 0px 0%;
+}
+
+#u8590-4
+{
+	z-index: 186;
+	min-height: 23px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	width: 51.52%;
+	left: 29.44%;
+}
+
+#buttonu7810.ButtonSelected #u7812-4,#buttonu8589:hover #u8590-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 51.52%;
+	margin: 13px -10000px 0px 0%;
+}
+
+#buttonu8589.ButtonSelected #u8590-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 51.52%;
+	margin: 13px -10000px 0px 0%;
+}
+
+#u8591
+{
+	z-index: 190;
+	height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	width: 7.8%;
+	left: 22.08%;
+}
+
+#buttonu7810.ButtonSelected #u7811,#buttonu8589:hover #u8591
+{
+	height: 17px;
+	min-height: 0px;
+	width: 7.8%;
+	margin: 15px -10000px 0px 0%;
+}
+
+#buttonu8589.ButtonSelected #u8591
 {
 	height: 17px;
 	min-height: 0px;
