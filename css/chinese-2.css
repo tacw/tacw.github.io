@@ -1,7 +1,7 @@
 .version.chinese_2 /* version checker */
 {
-	color: #0000E4;
-	background-color: #A8C434;
+	color: #00000D;
+	background-color: #174DC6;
 }
 
 #muse_css_mq
@@ -95,6 +95,7 @@
 {
 	z-index: 96;
 	width: 0.01px;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 1px;
 }
