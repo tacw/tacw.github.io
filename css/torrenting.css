@@ -1,7 +1,7 @@
 .version.torrenting /* version checker */
 {
-	color: #00001C;
-	background-color: #3D143D;
+	color: #000002;
+	background-color: #3EE50D;
 }
 
 #muse_css_mq
@@ -491,16 +491,16 @@
 	z-index: 171;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 32px;
-	width: 36.78%;
-	left: 31.25%;
+	margin-top: 30px;
+	width: 27.4%;
+	left: 36.05%;
 }
 
 #u7819
 {
 	z-index: 172;
-	padding-top: 47px;
-	padding-bottom: 17px;
+	padding-top: 46px;
+	padding-bottom: 7px;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
@@ -509,24 +509,24 @@
 #buttonu3637
 {
 	z-index: 173;
-	padding-bottom: 8px;
+	padding-bottom: 4px;
 	position: relative;
-	width: 65.44%;
-	margin-left: 17.85%;
+	width: 87.84%;
+	margin-left: 6.09%;
 }
 
 #buttonu3637:hover
 {
 	min-height: 0px;
-	width: 65.44%;
-	margin: 0px 0px 0px 17.847025495750707%;
+	width: 87.84%;
+	margin: 0px 0px 0px 6.083650190114068%;
 }
 
 #buttonu3637.ButtonSelected
 {
 	min-height: 0px;
-	width: 65.44%;
-	margin: 0px 0px 0px 17.847025495750707%;
+	width: 87.84%;
+	margin: 0px 0px 0px 6.083650190114068%;
 }
 
 #u3638-4
@@ -571,25 +571,24 @@
 #buttonu7810
 {
 	z-index: 179;
-	padding-bottom: 8px;
-	margin-top: 1px;
+	padding-bottom: 4px;
 	position: relative;
-	width: 65.44%;
-	margin-left: 17.85%;
+	width: 87.84%;
+	margin-left: 6.47%;
 }
 
 #buttonu7810:hover
 {
 	min-height: 0px;
-	width: 65.44%;
-	margin: 1px 0px 0px 17.847025495750707%;
+	width: 87.84%;
+	margin: 0px 0px 0px 6.4638783269961975%;
 }
 
 #buttonu7810.ButtonSelected
 {
 	min-height: 0px;
-	width: 65.44%;
-	margin: 1px 0px 0px 17.847025495750707%;
+	width: 87.84%;
+	margin: 0px 0px 0px 6.4638783269961975%;
 }
 
 #u7812-4
@@ -604,6 +603,15 @@
 }
 
 #buttonu3637.ButtonSelected #u3638-4,#buttonu7810:hover #u7812-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 51.52%;
+	margin: 13px -10000px 0px 0%;
+}
+
+#buttonu7810.ButtonSelected #u7812-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -631,29 +639,37 @@
 	margin: 15px -10000px 0px 0%;
 }
 
+#buttonu7810.ButtonSelected #u7811
+{
+	height: 17px;
+	min-height: 0px;
+	width: 7.8%;
+	margin: 15px -10000px 0px 0%;
+}
+
 #buttonu8589
 {
 	z-index: 185;
-	padding-bottom: 8px;
+	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 35px;
-	width: 24.07%;
+	margin-top: 36px;
+	width: 23.96%;
 	left: 37.71%;
 }
 
 #buttonu8589:hover
 {
 	min-height: 0px;
-	width: 24.07%;
-	margin: 35px -10000px 0px 0%;
+	width: 23.96%;
+	margin: 36px -10000px 0px 0%;
 }
 
 #buttonu8589.ButtonSelected
 {
 	min-height: 0px;
-	width: 24.07%;
-	margin: 35px -10000px 0px 0%;
+	width: 23.96%;
+	margin: 36px -10000px 0px 0%;
 }
 
 #u8590-4
@@ -663,16 +679,16 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
-	width: 51.52%;
-	left: 29.44%;
+	width: 51.74%;
+	left: 29.57%;
 }
 
-#buttonu7810.ButtonSelected #u7812-4,#buttonu8589:hover #u8590-4
+#buttonu8589:hover #u8590-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 23px;
-	width: 51.52%;
+	width: 51.74%;
 	margin: 13px -10000px 0px 0%;
 }
 
@@ -681,7 +697,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 23px;
-	width: 51.52%;
+	width: 51.74%;
 	margin: 13px -10000px 0px 0%;
 }
 
@@ -692,15 +708,15 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 15px;
-	width: 7.8%;
-	left: 22.08%;
+	width: 7.83%;
+	left: 22.18%;
 }
 
-#buttonu7810.ButtonSelected #u7811,#buttonu8589:hover #u8591
+#buttonu8589:hover #u8591
 {
 	height: 17px;
 	min-height: 0px;
-	width: 7.8%;
+	width: 7.83%;
 	margin: 15px -10000px 0px 0%;
 }
 
@@ -708,7 +724,7 @@
 {
 	height: 17px;
 	min-height: 0px;
-	width: 7.8%;
+	width: 7.83%;
 	margin: 15px -10000px 0px 0%;
 }
 
