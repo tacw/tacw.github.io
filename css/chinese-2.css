@@ -1,7 +1,7 @@
 .version.chinese_2 /* version checker */
 {
-	color: #0000EC;
-	background-color: #13822F;
+	color: #0000E3;
+	background-color: #62A254;
 }
 
 #muse_css_mq
@@ -71,8 +71,8 @@
 	position: absolute;
 	width: 359px;
 	padding-bottom: 44px;
-	top: -76px;
-	left: -591px;
+	top: -48px;
+	left: -604px;
 }
 
 #u3304popup
@@ -84,7 +84,7 @@
 {
 	z-index: 110;
 	width: 315px;
-	height: 1331px;
+	height: 1300px;
 	margin-right: -10000px;
 	position: relative;
 	top: 22px;
@@ -97,7 +97,7 @@
 	width: 0.01px;
 	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-top: 1px;
+	margin-left: 1px;
 }
 
 #u3314
@@ -113,7 +113,8 @@
 	z-index: 112;
 	width: 313px;
 	padding-bottom: 24px;
-	margin-top: 4px;
+	top: -1px;
+	margin-bottom: -1px;
 	position: relative;
 }
 
@@ -121,14 +122,7 @@
 {
 	width: 313px;
 	min-height: 0px;
-	margin: 4px 0px 0px;
-}
-
-#buttonu3323.ButtonSelected
-{
-	width: 313px;
-	min-height: 0px;
-	margin: 4px 0px 0px;
+	margin: 0px 0px -1px;
 }
 
 #u3326-4
@@ -244,7 +238,7 @@
 	position: relative;
 }
 
-#buttonu3310:hover
+#buttonu3323.ButtonSelected,#buttonu3310:hover
 {
 	width: 313px;
 	min-height: 0px;
@@ -454,26 +448,26 @@
 #buttonu3563
 {
 	z-index: 147;
-	padding-bottom: 9px;
+	padding-bottom: 11px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 20px;
+	margin-top: 25px;
 	width: 73.34%;
-	left: 10.8%;
+	left: 14.29%;
 }
 
 #buttonu3563:hover
 {
 	min-height: 0px;
 	width: 73.34%;
-	margin: 20px -10000px 0px 0%;
+	margin: 25px -10000px 0px 0%;
 }
 
 #buttonu3563.ButtonSelected
 {
 	min-height: 0px;
 	width: 73.34%;
-	margin: 20px -10000px 0px 0%;
+	margin: 25px -10000px 0px 0%;
 }
 
 #u3564-4
@@ -482,9 +476,9 @@
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 18px;
+	margin-top: 16px;
 	width: 51.52%;
-	left: 29.44%;
+	left: 24.25%;
 }
 
 #buttonu3563:hover #u3564-4
@@ -493,7 +487,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 51.52%;
-	margin: 18px -10000px 0px 0%;
+	margin: 16px -10000px 0px 0%;
 }
 
 #buttonu3563.ButtonSelected #u3564-4
@@ -502,7 +496,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 51.52%;
-	margin: 18px -10000px 0px 0%;
+	margin: 16px -10000px 0px 0%;
 }
 
 #u3329
