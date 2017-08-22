@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1503370653361">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1503443731320">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -15,7 +15,7 @@
     <file name="index.css" crc="3839089825" ref="index"/>
     <file name="misc.css" crc="180999300" ref="misc"/>
     <file name="games.css" crc="4025556579" ref="games"/>
-    <file name="school.css" crc="465547542" ref="school"/>
+    <file name="school.css" crc="4083342870" ref="school"/>
     <file name="master_b-master.css" crc="3768276670" ref="apush:calculus:english:chinese-2:school:chemistry:physics"/>
     <file name="apush.css" crc="9697926" ref="apush"/>
     <file name="calculus.css" crc="75108364" ref="calculus"/>
@@ -144,7 +144,7 @@
     <file name="png.jpg" crc="4089623699" ref="jackal"/>
   </folder>
   <file name="index.html" crc="3949409925" seo="true" mt="1503362986346" redirect="true"/>
-  <file name="school.html" crc="509788401" seo="true" mt="1503364322399" redirect="true"/>
+  <file name="school.html" crc="466377179" seo="true" mt="1503443719770" redirect="true"/>
   <file name="games.html" crc="439648539" seo="true" mt="1503362245598" redirect="true"/>
   <file name="misc.html" crc="4034403238" seo="true" mt="1503362245598" redirect="true"/>
   <file name="apush.html" crc="431475532" seo="true" mt="1503364144776" redirect="true"/>
