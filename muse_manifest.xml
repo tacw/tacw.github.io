@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1503363042178">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1503364026941">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -18,7 +18,7 @@
     <file name="school.css" crc="465547542" ref="school"/>
     <file name="master_b-master.css" crc="3768276670" ref="apush:calculus:english:chinese-2:school:chemistry:physics"/>
     <file name="apush.css" crc="3955255591" ref="apush"/>
-    <file name="calculus.css" crc="4045144749" ref="calculus"/>
+    <file name="calculus.css" crc="3808323056" ref="calculus"/>
     <file name="english.css" crc="4053377653" ref="english"/>
     <file name="chinese-2.css" crc="3808669189" ref="chinese-2"/>
     <file name="chemistry.css" crc="435959548" ref="chemistry"/>
@@ -96,7 +96,7 @@
     <file name="u3333.png" crc="3926963553" ref="school:apush:calculus:chemistry:english:chinese-2:physics"/>
     <file name="u3333-a.png" crc="21366187" ref="school:apush:calculus:chemistry:english:chinese-2:physics"/>
     <file name="menu_icon_04_white_3line-crop-u3331.png" crc="4158053167" ref="school:apush:calculus:chemistry:english:chinese-2:physics"/>
-    <file name="favicon.ico" crc="4117084711" ref="index"/>
+    <file name="favicon.ico" crc="4117084711" ref="index:apush"/>
     <file name="actualalbum.jpg" crc="3764500425" ref="index" seo="true"/>
     <file name="vicnent.jpg" crc="4025757287" ref="index" seo="true"/>
     <file name="aagard.jpg" crc="4147394462" ref="index" seo="true"/>
@@ -147,8 +147,8 @@
   <file name="school.html" crc="446186119" seo="true" mt="1503362842129" redirect="true"/>
   <file name="games.html" crc="439648539" seo="true" mt="1503362245598" redirect="true"/>
   <file name="misc.html" crc="4034403238" seo="true" mt="1503362245598" redirect="true"/>
-  <file name="apush.html" crc="510942872" seo="true" mt="1503362842129" redirect="true"/>
-  <file name="calculus.html" crc="474457269" seo="true" mt="1503362842129" redirect="true"/>
+  <file name="apush.html" crc="39848110" seo="true" mt="1503364016219" redirect="true"/>
+  <file name="calculus.html" crc="334357883" seo="true" mt="1503363961887" redirect="true"/>
   <file name="chemistry.html" crc="4090415574" seo="true" mt="1503362842129" redirect="true"/>
   <file name="english.html" crc="489648473" seo="true" mt="1503362842129" redirect="true"/>
   <file name="chinese-2.html" crc="497838173" seo="true" mt="1503362842129" redirect="true"/>
