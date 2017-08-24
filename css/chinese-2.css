@@ -1,7 +1,7 @@
 .version.chinese_2 /* version checker */
 {
-	color: #0000F7;
-	background-color: #533309;
+	color: #000018;
+	background-color: #133728;
 }
 
 #muse_css_mq
@@ -440,9 +440,9 @@
 	z-index: 109;
 	width: 0.01px;
 	height: 62px;
-	margin-top: 7px;
+	margin-top: 10px;
 	position: relative;
-	margin-left: 38.03%;
+	margin-left: 37.61%;
 }
 
 #u8707
@@ -450,8 +450,8 @@
 	position: absolute;
 	width: 359px;
 	padding-bottom: 44px;
-	top: 75px;
-	left: -293px;
+	top: 72px;
+	left: -289px;
 }
 
 #u8707popup
@@ -974,9 +974,9 @@
 	width: 253px;
 	height: 62px;
 	position: fixed;
-	top: 288px;
+	top: 291px;
 	left: 50%;
-	margin-left: -115px;
+	margin-left: -119px;
 }
 
 .ie #u8702
@@ -990,11 +990,11 @@
 #u8932
 {
 	z-index: 8;
-	top: -58px;
+	top: -57px;
 	margin-bottom: -47px;
 	position: relative;
 	width: 26.15%;
-	margin-left: 38.03%;
+	margin-left: 37.4%;
 }
 
 #u8640-14
@@ -1002,8 +1002,8 @@
 	z-index: 10;
 	min-height: 465px;
 	background-color: transparent;
-	top: -1px;
-	margin-bottom: -1px;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
 	width: 94.69%;
 	margin-left: 2.3%;
