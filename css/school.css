@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #00000E;
-	background-color: #4BAC64;
+	color: #000007;
+	background-color: #F810B2;
 }
 
 #muse_css_mq
@@ -440,9 +440,9 @@
 	z-index: 230;
 	width: 0.01px;
 	height: 62px;
-	margin-left: 360px;
-	margin-top: 6px;
+	margin-top: 7px;
 	position: relative;
+	margin-left: 38.03%;
 }
 
 #u8707
@@ -974,9 +974,9 @@
 	width: 253px;
 	height: 62px;
 	position: fixed;
-	top: 287px;
+	top: 288px;
 	left: 50%;
-	margin-left: -120px;
+	margin-left: -115px;
 }
 
 .ie #u8702
@@ -990,7 +990,7 @@
 #pu8932
 {
 	z-index: 8;
-	margin-top: -57px;
+	margin-top: -58px;
 	width: 100%;
 }
 

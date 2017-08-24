@@ -1,7 +1,7 @@
 .version.apush /* version checker */
 {
-	color: #000004;
-	background-color: #401BAD;
+	color: #00000C;
+	background-color: #9C7512;
 }
 
 #muse_css_mq
@@ -457,9 +457,9 @@
 	z-index: 249;
 	width: 0.01px;
 	height: 62px;
-	margin-left: 360px;
-	margin-top: 6px;
+	margin-top: 7px;
 	position: relative;
+	margin-left: 38.03%;
 }
 
 #u8707
@@ -991,9 +991,9 @@
 	width: 253px;
 	height: 62px;
 	position: fixed;
-	top: 287px;
+	top: 288px;
 	left: 50%;
-	margin-left: -120px;
+	margin-left: -115px;
 }
 
 .ie #u8702
@@ -1007,7 +1007,7 @@
 #u8932
 {
 	z-index: 8;
-	top: -57px;
+	top: -58px;
 	margin-bottom: -47px;
 	position: relative;
 	width: 26.15%;
@@ -1017,7 +1017,7 @@
 #pu8628-148
 {
 	z-index: 10;
-	margin-top: -1px;
+	margin-top: -2px;
 	width: 100%;
 }
 
