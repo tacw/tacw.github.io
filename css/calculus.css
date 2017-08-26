@@ -1,7 +1,7 @@
 .version.calculus /* version checker */
 {
-	color: #000014;
-	background-color: #52F62C;
+	color: #0000FB;
+	background-color: #402FE9;
 }
 
 #muse_css_mq
@@ -440,9 +440,9 @@
 	z-index: 276;
 	width: 0.01px;
 	height: 72px;
-	margin-top: 3px;
+	margin-top: 6px;
 	position: relative;
-	margin-left: 36.98%;
+	margin-left: 37.4%;
 }
 
 #u8707
@@ -450,8 +450,8 @@
 	position: absolute;
 	width: 359px;
 	padding-bottom: 44px;
-	top: 92px;
-	left: -289px;
+	top: 11px;
+	left: -295px;
 }
 
 #u8707popup
@@ -986,7 +986,7 @@
 #u8932
 {
 	z-index: 8;
-	top: -60px;
+	top: -63px;
 	margin-bottom: -47px;
 	position: relative;
 	width: 26.15%;
@@ -996,7 +996,7 @@
 #pu8634-171
 {
 	z-index: 10;
-	margin-top: -11px;
+	margin-top: -14px;
 	width: 100%;
 }
 

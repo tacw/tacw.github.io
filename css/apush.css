@@ -1,7 +1,7 @@
 .version.apush /* version checker */
 {
-	color: #00001C;
-	background-color: #72C59A;
+	color: #00000D;
+	background-color: #F09D28;
 }
 
 #muse_css_mq
@@ -457,9 +457,9 @@
 	z-index: 249;
 	width: 0.01px;
 	height: 72px;
-	margin-top: 3px;
+	margin-top: 6px;
 	position: relative;
-	margin-left: 36.98%;
+	margin-left: 37.4%;
 }
 
 #u8707
@@ -467,8 +467,8 @@
 	position: absolute;
 	width: 359px;
 	padding-bottom: 44px;
-	top: 92px;
-	left: -289px;
+	top: 11px;
+	left: -295px;
 }
 
 #u8707popup
@@ -1003,7 +1003,7 @@
 #u8932
 {
 	z-index: 8;
-	top: -60px;
+	top: -63px;
 	margin-bottom: -47px;
 	position: relative;
 	width: 26.15%;
@@ -1013,7 +1013,7 @@
 #pu8628-148
 {
 	z-index: 10;
-	margin-top: -8px;
+	margin-top: -11px;
 	width: 100%;
 }
 

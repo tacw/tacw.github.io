@@ -1,7 +1,7 @@
 .version.english /* version checker */
 {
-	color: #0000E1;
-	background-color: #D83C20;
+	color: #00000E;
+	background-color: #E064B8;
 }
 
 #muse_css_mq
@@ -440,9 +440,9 @@
 	z-index: 121;
 	width: 0.01px;
 	height: 72px;
-	margin-top: 3px;
+	margin-top: 6px;
 	position: relative;
-	margin-left: 36.98%;
+	margin-left: 37.4%;
 }
 
 #u8707
@@ -450,8 +450,8 @@
 	position: absolute;
 	width: 359px;
 	padding-bottom: 44px;
-	top: 92px;
-	left: -289px;
+	top: 11px;
+	left: -295px;
 }
 
 #u8707popup
@@ -986,7 +986,7 @@
 #u8932
 {
 	z-index: 8;
-	top: -60px;
+	top: -63px;
 	margin-bottom: -47px;
 	position: relative;
 	width: 26.15%;
@@ -998,8 +998,8 @@
 	z-index: 10;
 	min-height: 425px;
 	background-color: transparent;
-	top: -4px;
-	margin-bottom: -4px;
+	top: -7px;
+	margin-bottom: -7px;
 	position: relative;
 	width: 94.8%;
 	margin-left: 3.13%;
