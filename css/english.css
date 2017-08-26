@@ -1,7 +1,7 @@
 .version.english /* version checker */
 {
-	color: #0000E8;
-	background-color: #C98443;
+	color: #0000E1;
+	background-color: #D83C20;
 }
 
 #muse_css_mq
@@ -440,10 +440,9 @@
 	z-index: 121;
 	width: 0.01px;
 	height: 72px;
-	position: fixed;
-	top: 284px;
-	left: 50%;
-	margin-left: -125px;
+	margin-top: 3px;
+	position: relative;
+	margin-left: 36.98%;
 }
 
 #u8707
@@ -965,19 +964,15 @@
 {
 	z-index: 173;
 	width: 253px;
-	padding-bottom: 72px;
 	position: relative;
 	margin-right: -10000px;
 }
 
 #u8702
 {
+	position: absolute;
 	width: 253px;
 	height: 72px;
-	position: fixed;
-	top: 284px;
-	left: 50%;
-	margin-left: -125px;
 }
 
 .ie #u8702
@@ -991,7 +986,8 @@
 #u8932
 {
 	z-index: 8;
-	margin-top: 15px;
+	top: -60px;
+	margin-bottom: -47px;
 	position: relative;
 	width: 26.15%;
 	margin-left: 37.4%;
@@ -1002,7 +998,8 @@
 	z-index: 10;
 	min-height: 425px;
 	background-color: transparent;
-	margin-top: 9px;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
 	width: 94.8%;
 	margin-left: 3.13%;

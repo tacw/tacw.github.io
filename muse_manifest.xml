@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1503765599681">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1503781667055">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -15,13 +15,13 @@
     <file name="index.css" crc="5056970" ref="index"/>
     <file name="misc.css" crc="180999300" ref="misc"/>
     <file name="games.css" crc="4025556579" ref="games"/>
-    <file name="school.css" crc="3779332191" ref="school"/>
+    <file name="school.css" crc="4145226806" ref="school"/>
     <file name="master_b-master.css" crc="86795218" ref="apush:calculus:english:chinese-2:school:chemistry:physics"/>
-    <file name="apush.css" crc="4237186023" ref="apush"/>
-    <file name="calculus.css" crc="269676557" ref="calculus"/>
-    <file name="english.css" crc="3905520707" ref="english"/>
-    <file name="chinese-2.css" crc="76190157" ref="chinese-2"/>
-    <file name="chemistry.css" crc="421312442" ref="chemistry"/>
+    <file name="apush.css" crc="477283738" ref="apush"/>
+    <file name="calculus.css" crc="340981292" ref="calculus"/>
+    <file name="english.css" crc="3789044768" ref="english"/>
+    <file name="chinese-2.css" crc="4050737364" ref="chinese-2"/>
+    <file name="chemistry.css" crc="3902885395" ref="chemistry"/>
     <file name="master_c-master.css" crc="4035809834" ref="misc:torrenting:change-log:trashed-ideas:calc-programs"/>
     <file name="torrenting.css" crc="32199757" ref="torrenting"/>
     <file name="master_d-master.css" crc="4169552482" ref="games:dungeonguides:civilization:bns:combatguide:civ6-guide"/>
@@ -72,7 +72,7 @@
     <file name="consulate.css" crc="4175417920" ref="consulate"/>
     <file name="calc-programs.css" crc="491224899" ref="calc-programs"/>
     <file name="civ6-guide.css" crc="61894899" ref="civ6-guide"/>
-    <file name="physics.css" crc="425362011" ref="physics"/>
+    <file name="physics.css" crc="248808850" ref="physics"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics"/>
@@ -147,14 +147,14 @@
     <file name="chrome_2017-08-26_09-21-57.jpg" crc="236971442" seo="true" ref="calculus"/>
   </folder>
   <file name="index.html" crc="4269904979" seo="true" mt="1503765593641" redirect="true"/>
-  <file name="school.html" crc="4187444720" seo="true" mt="1503765306087" redirect="true"/>
+  <file name="school.html" crc="32507788" seo="true" mt="1503781633940" redirect="true"/>
   <file name="games.html" crc="424390765" seo="true" mt="1503761016809" redirect="true"/>
   <file name="misc.html" crc="44607935" seo="true" mt="1503761016809" redirect="true"/>
-  <file name="apush.html" crc="289828903" seo="true" mt="1503765306087" redirect="true"/>
-  <file name="calculus.html" crc="471572362" seo="true" mt="1503765306087" redirect="true"/>
-  <file name="chemistry.html" crc="4256735206" seo="true" mt="1503765306087" redirect="true"/>
-  <file name="english.html" crc="340611052" seo="true" mt="1503765306087" redirect="true"/>
-  <file name="chinese-2.html" crc="3787140719" seo="true" mt="1503765306087" redirect="true"/>
+  <file name="apush.html" crc="4053898774" seo="true" mt="1503781633940" redirect="true"/>
+  <file name="calculus.html" crc="8094958" seo="true" mt="1503781633940" redirect="true"/>
+  <file name="chemistry.html" crc="4165583269" seo="true" mt="1503781633940" redirect="true"/>
+  <file name="english.html" crc="360822832" seo="true" mt="1503781633940" redirect="true"/>
+  <file name="chinese-2.html" crc="3881620952" seo="true" mt="1503781633940" redirect="true"/>
   <file name="torrenting.html" crc="181911411" seo="true" mt="1503761016809" redirect="true"/>
   <file name="rainbowsix.html" crc="4232093235" seo="true" mt="1503761015843" redirect="true"/>
   <file name="iq.html" crc="218513601" seo="true" mt="1503761015843" redirect="true"/>
@@ -200,5 +200,5 @@
   <file name="consulate.html" crc="4058500977" seo="true" mt="1503761015843" redirect="true"/>
   <file name="calc-programs.html" crc="3861665167" seo="true" mt="1503761016809" redirect="true"/>
   <file name="civ6-guide.html" crc="3813569102" seo="true" mt="1503761016809" redirect="true"/>
-  <file name="physics.html" crc="4238138301" seo="true" mt="1503765306087" redirect="true"/>
+  <file name="physics.html" crc="462281778" seo="true" mt="1503781633940" redirect="true"/>
 </manifest>
