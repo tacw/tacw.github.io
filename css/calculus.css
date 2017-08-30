@@ -1,7 +1,7 @@
 .version.calculus /* version checker */
 {
-	color: #000002;
-	background-color: #CFC58F;
+	color: #000017;
+	background-color: #6C18AD;
 }
 
 #muse_css_mq
@@ -442,7 +442,7 @@
 	height: 72px;
 	margin-top: 6px;
 	position: relative;
-	margin-left: 37.4%;
+	margin-left: 37.19%;
 }
 
 #u8707
@@ -450,8 +450,8 @@
 	position: absolute;
 	width: 359px;
 	padding-bottom: 44px;
-	top: 11px;
-	left: -295px;
+	top: 55px;
+	left: -294px;
 }
 
 #u8707popup
@@ -998,16 +998,15 @@
 	z-index: 10;
 	min-height: 439px;
 	background-color: transparent;
-	top: -14px;
-	margin-bottom: -14px;
+	margin-top: 43px;
 	position: relative;
 	width: 95.21%;
-	margin-left: 2.3%;
+	margin-left: 2.61%;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 3020px);
+	height: calc(100vh - 3077px);
 }
 
 #u6883
@@ -1486,5 +1485,4 @@ body
 {
 	width: 100%;
 }
-
 

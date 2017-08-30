@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #00001E;
-	background-color: #21B2D5;
+	color: #0000EE;
+	background-color: #2B3387;
 }
 
 #muse_css_mq
@@ -442,7 +442,7 @@
 	height: 72px;
 	margin-top: 6px;
 	position: relative;
-	margin-left: 37.4%;
+	margin-left: 37.19%;
 }
 
 #u8707
@@ -450,8 +450,8 @@
 	position: absolute;
 	width: 359px;
 	padding-bottom: 44px;
-	top: 11px;
-	left: -295px;
+	top: 55px;
+	left: -294px;
 }
 
 #u8707popup
