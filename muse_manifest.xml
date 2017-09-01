@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1504308617429">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1504309601001">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -73,9 +73,9 @@
     <file name="calc-programs.css" crc="491224899" ref="calc-programs"/>
     <file name="civ6-guide.css" crc="61894899" ref="civ6-guide"/>
     <file name="physics.css" crc="338906043" ref="physics"/>
-    <file name="master_e-master.css" crc="4290198635" ref="tht1:tht:tht3:tht4:tht5:tht2:period-4:period-5:period-3:period-2:period-6:period-7:period-8:period-1:period-9"/>
+    <file name="master_e-master.css" crc="311142892" ref="tht1:tht:tht3:tht4:tht5:tht2:period-4:period-5:period-3:period-2:period-6:period-7:period-8:period-1:period-9"/>
     <file name="tht1.css" crc="4130012522" ref="tht1"/>
-    <file name="tht.css" crc="3862526164" ref="tht"/>
+    <file name="tht.css" crc="3996751379" ref="tht"/>
     <file name="tht3.css" crc="4190373567" ref="tht3"/>
     <file name="tht4.css" crc="4190373567" ref="tht4"/>
     <file name="tht5.css" crc="4190373567" ref="tht5"/>
@@ -104,13 +104,13 @@
     <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="doc:pulse:iq:jackal"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="civilization:bns:dungeonguides:combatguide:civ6-guide"/>
-    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:change-log:trashed-ideas:calc-programs:physics:tht:tht1:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9"/>
+    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:change-log:trashed-ideas:calc-programs:physics:tht1:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9"/>
   </folder>
   <folder name="images">
     <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:troll"/>
     <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:troll"/>
     <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:english:chinese-2:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9"/>
-    <file name="favicon.ico" crc="4117084711" ref="index:tht2"/>
+    <file name="favicon.ico" crc="4117084711" ref="index:tht2:tht"/>
     <file name="actualalbum.jpg" crc="3764500425" ref="index" seo="true"/>
     <file name="vicnent.jpg" crc="4025757287" ref="index" seo="true"/>
     <file name="aagard.jpg" crc="4147394462" ref="index" seo="true"/>
@@ -222,7 +222,7 @@
   <file name="calc-programs.html" crc="3996359939" seo="true" mt="1504130607888" redirect="true"/>
   <file name="civ6-guide.html" crc="4176195432" seo="true" mt="1504130607888" redirect="true"/>
   <file name="physics.html" crc="309837225" seo="true" mt="1504134261009" redirect="true"/>
-  <file name="tht.html" crc="4141798708" seo="true" mt="1504134254293" redirect="true"/>
+  <file name="tht.html" crc="3910345641" seo="true" mt="1504309592932" redirect="true"/>
   <file name="tht1.html" crc="92690243" seo="true" mt="1504134254293" redirect="true"/>
   <file name="tht2.html" crc="494748273" seo="true" mt="1504308595841" redirect="true"/>
   <file name="tht3.html" crc="4062245707" seo="true" mt="1504134254293" redirect="true"/>
