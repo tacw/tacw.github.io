@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1504309601001">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1504309708938">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -18,7 +18,7 @@
     <file name="school.css" crc="3853213792" ref="school"/>
     <file name="master_b-master.css" crc="86795218" ref="apush:calculus:english:chinese-2:school:chemistry:physics"/>
     <file name="apush.css" crc="4204500421" ref="apush"/>
-    <file name="calculus.css" crc="392960173" ref="calculus"/>
+    <file name="calculus.css" crc="526770554" ref="calculus"/>
     <file name="english.css" crc="22294704" ref="english"/>
     <file name="chinese-2.css" crc="395242406" ref="chinese-2"/>
     <file name="chemistry.css" crc="108989931" ref="chemistry"/>
@@ -110,7 +110,7 @@
     <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:troll"/>
     <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:troll"/>
     <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:english:chinese-2:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9"/>
-    <file name="favicon.ico" crc="4117084711" ref="index:tht2:tht"/>
+    <file name="favicon.ico" crc="4117084711" ref="index:tht2:tht:calculus"/>
     <file name="actualalbum.jpg" crc="3764500425" ref="index" seo="true"/>
     <file name="vicnent.jpg" crc="4025757287" ref="index" seo="true"/>
     <file name="aagard.jpg" crc="4147394462" ref="index" seo="true"/>
@@ -172,7 +172,7 @@
   <file name="games.html" crc="347694570" seo="true" mt="1504130607888" redirect="true"/>
   <file name="misc.html" crc="151142194" seo="true" mt="1504130607888" redirect="true"/>
   <file name="apush.html" crc="512935343" seo="true" mt="1504134261009" redirect="true"/>
-  <file name="calculus.html" crc="522454825" seo="true" mt="1504134261009" redirect="true"/>
+  <file name="calculus.html" crc="518146758" seo="true" mt="1504309701802" redirect="true"/>
   <file name="chemistry.html" crc="4283258566" seo="true" mt="1504225920887" redirect="true"/>
   <file name="english.html" crc="4215556117" seo="true" mt="1504134261009" redirect="true"/>
   <file name="chinese-2.html" crc="4069489580" seo="true" mt="1504134261009" redirect="true"/>
