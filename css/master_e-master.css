@@ -178,7 +178,7 @@
 	background-color: #0071BC;
 }
 
-#u9204,#buttonu10297
+#u10485,#u9204,#buttonu10297
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -221,7 +221,7 @@
 	box-shadow: none;
 }
 
-#u9265,#u10272,#buttonu10297.ButtonSelected,#buttonu10297:hover #u10299
+#u9265,#buttonu10297.ButtonSelected,#buttonu10297:hover #u10299
 {
 	background-color: transparent;
 }
@@ -547,14 +547,14 @@
 	background-color: transparent;
 }
 
-#buttonu10278.ButtonSelected #u10279
-{
-	background-color: transparent;
-}
-
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
+}
+
+#buttonu10278.ButtonSelected #u10279,#u10272
+{
+	background-color: transparent;
 }
 
 #u9352,#u9357

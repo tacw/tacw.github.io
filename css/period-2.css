@@ -1,7 +1,7 @@
 .version.period_2 /* version checker */
 {
-	color: #0000EE;
-	background-color: #216964;
+	color: #0000E4;
+	background-color: #44F0D6;
 }
 
 #muse_css_mq
@@ -12,31 +12,55 @@
 #page
 {
 	z-index: 1;
-	min-height: 499.4788529500238px;
+	min-height: 500px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 1px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#page_position_content
+#u10269-137
 {
+	z-index: 51;
+	min-height: 357px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 94px;
+	width: 94.9%;
+	left: 2.4%;
+}
+
+#u10485
+{
+	z-index: 281;
+	width: 40px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -78px;
+	left: 57px;
+}
+
+#pu9265
+{
+	z-index: 2;
+	padding-bottom: 0px;
+	margin-right: -10000px;
 	margin-top: -151px;
-	margin-bottom: -211px;
-	width: 100%;
+	width: 55.11%;
+	margin-left: 22.3%;
 }
 
 #u9265
 {
 	z-index: 2;
 	position: relative;
-	width: 53.86%;
-	margin-left: 22.3%;
+	width: 97.74%;
 }
 
 #u9204
@@ -45,8 +69,8 @@
 	top: -6px;
 	margin-bottom: -6px;
 	position: relative;
-	width: 53.86%;
-	margin-left: 23.55%;
+	width: 97.74%;
+	margin-left: 2.27%;
 }
 
 #pbuttonu9209
@@ -402,7 +426,7 @@
 	height: 72px;
 	margin-top: 6px;
 	position: relative;
-	margin-left: 37.92%;
+	margin-left: 28.36%;
 }
 
 #u10275
@@ -965,32 +989,14 @@
 	filter: alpha(opacity=1);
 }
 
-#pu10269-137
-{
-	z-index: 51;
-	margin-top: -68px;
-	width: 94.9%;
-	margin-left: 2.4%;
-}
-
-#u10269-137
-{
-	z-index: 51;
-	min-height: 357px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 8px;
-	width: 100%;
-}
-
 #u10272
 {
 	z-index: 225;
+	top: -68px;
+	margin-bottom: -47px;
 	position: relative;
-	margin-right: -10000px;
-	width: 27.56%;
-	left: 37.44%;
+	width: 47.45%;
+	margin-left: 28.36%;
 }
 
 .css_verticalspacer .verticalspacer
@@ -1001,10 +1007,12 @@
 #u9352
 {
 	z-index: 4;
-	margin-top: 148px;
+	margin-bottom: -211px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 148px;
 	width: 67.19%;
-	margin-left: 16.46%;
+	left: 16.46%;
 }
 
 #u9357
@@ -1436,6 +1444,11 @@ body
 	min-width: 240px;
 	padding-top: 143px;
 	padding-bottom: 286px;
+}
+
+.verticalspacer
+{
+	min-height: 1px;
 }
 
 #u9265_img,#u9211_img,#u9219_img,#u9207_img,#u9215_img,#u10272_img

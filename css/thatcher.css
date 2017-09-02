@@ -19,8 +19,8 @@
 
 .version.thatcher /* version checker */
 {
-	color: #0000F3;
-	background-color: #BF7266;
+	color: #000009;
+	background-color: #0AE839;
 }
 
 #muse_css_mq
@@ -49,12 +49,30 @@
 	width: 100%;
 }
 
+#pu10480
+{
+	z-index: 172;
+	width: 100%;
+}
+
+#u10480
+{
+	z-index: 172;
+	width: 40px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 70px;
+	left: 61px;
+}
+
 #u8133
 {
 	z-index: 2;
 	position: relative;
+	margin-right: -10000px;
 	width: 53.86%;
-	margin-left: 22.4%;
+	left: 22.4%;
 }
 
 #u8507

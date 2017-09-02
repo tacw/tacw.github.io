@@ -188,9 +188,9 @@
 #u6352-4,#u6710-4
 {
 	background-color: transparent;
+	line-height: 32px;
 	color: #FFFFFF;
 	font-size: 27px;
-	line-height: 32px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 }
@@ -201,8 +201,8 @@
 	border-width: 2px;
 	border-color: #ED1C24;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	letter-spacing: 2px;
 	color: #ED1C24;
 	text-align: center;
@@ -237,7 +237,7 @@
 	background-color: transparent;
 }
 
-#u8507,#u6713,#u6357,#u8198,#u8199
+#u10480,#u8507,#u6713,#u6357,#u8198,#u8199
 {
 	border-width: 0px;
 	border-color: transparent;

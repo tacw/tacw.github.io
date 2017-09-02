@@ -19,8 +19,8 @@
 
 .version.pulse /* version checker */
 {
-	color: #000007;
-	background-color: #CF3453;
+	color: #00000C;
+	background-color: #2B1716;
 }
 
 #muse_css_mq
@@ -49,12 +49,30 @@
 	width: 100%;
 }
 
+#pu10480
+{
+	z-index: 221;
+	width: 100%;
+}
+
+#u10480
+{
+	z-index: 221;
+	width: 40px;
+	min-height: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 70px;
+	left: 61px;
+}
+
 #u8133
 {
 	z-index: 2;
 	position: relative;
+	margin-right: -10000px;
 	width: 53.86%;
-	margin-left: 22.4%;
+	left: 22.4%;
 }
 
 #u8507
