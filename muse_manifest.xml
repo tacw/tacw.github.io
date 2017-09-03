@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1504379250765">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1504406776463">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -12,7 +12,7 @@
   <folder name="css">
     <file name="site_global.css" crc="4160065970"/>
     <file name="master_a-master.css" crc="503837229" ref="index:misc:games:school:apush:calculus:english:chinese-2:chemistry:torrenting:dungeonguides:civilization:bns:combatguide:change-log:trashed-ideas:calc-programs:civ6-guide:physics:troll"/>
-    <file name="index.css" crc="221926531" ref="index"/>
+    <file name="index.css" crc="190395954" ref="index"/>
     <file name="misc.css" crc="180999300" ref="misc"/>
     <file name="games.css" crc="4025556579" ref="games"/>
     <file name="school.css" crc="3853213792" ref="school"/>
@@ -167,7 +167,7 @@
     <file name="chrome_2017-09-01_16-44-21.jpg" crc="4190107078" seo="true" ref="tht2"/>
     <file name="chrome_2017-09-01_17-17-50.jpg" crc="432711341" seo="true" ref="tht2"/>
   </folder>
-  <file name="index.html" crc="234450978" seo="true" mt="1504148617866" redirect="true"/>
+  <file name="index.html" crc="3918058820" seo="true" mt="1504406770056" redirect="true"/>
   <file name="school.html" crc="3788840444" seo="true" mt="1504319812359" redirect="true"/>
   <file name="games.html" crc="347694570" seo="true" mt="1504130607888" redirect="true"/>
   <file name="misc.html" crc="151142194" seo="true" mt="1504130607888" redirect="true"/>
