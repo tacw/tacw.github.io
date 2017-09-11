@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1504929061400">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1505077168739">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -16,7 +16,7 @@
     <file name="misc.css" crc="180999300" ref="misc"/>
     <file name="games.css" crc="4025556579" ref="games"/>
     <file name="school.css" crc="503071383" ref="school"/>
-    <file name="master_b-master.css" crc="86795218" ref="apush:calculus:english:chinese-2:school:chemistry:physics:ib-program"/>
+    <file name="master_b-master.css" crc="3776180298" ref="apush:calculus:english:chinese-2:school:chemistry:physics:ib-program"/>
     <file name="apush.css" crc="4204500421" ref="apush"/>
     <file name="calculus.css" crc="46603025" ref="calculus"/>
     <file name="english.css" crc="22294704" ref="english"/>
@@ -90,7 +90,7 @@
     <file name="period-1.css" crc="3919566753" ref="period-1"/>
     <file name="period-9.css" crc="4126707810" ref="period-9"/>
     <file name="troll.css" crc="200884078" ref="troll"/>
-    <file name="ib-program.css" crc="4102818243" ref="ib-program"/>
+    <file name="ib-program.css" crc="60954331" ref="ib-program"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:troll:ib-program"/>
@@ -239,5 +239,5 @@
   <file name="period-8.html" crc="2586462" seo="true" mt="1504379068271" redirect="true"/>
   <file name="period-9.html" crc="4284723897" seo="true" mt="1504379068271" redirect="true"/>
   <file name="troll.html" crc="4244780808" seo="true" mt="1504232890731" redirect="true"/>
-  <file name="ib-program.html" crc="329569390" seo="true" mt="1504929053645" redirect="true"/>
+  <file name="ib-program.html" crc="3836131183" seo="true" mt="1505077151650" redirect="true"/>
 </manifest>
