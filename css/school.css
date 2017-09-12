@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #00001D;
-	background-color: #FC4297;
+	color: #0000FF;
+	background-color: #9268A5;
 }
 
 #muse_css_mq
@@ -584,20 +584,29 @@
 #u8854-4
 {
 	z-index: 256;
-	width: 122px;
+	width: 140px;
 	min-height: 24px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 34px;
-	left: 96px;
+	left: 91px;
 }
 
-#buttonu8843.ButtonSelected #u8844-4,#buttonu8851:hover #u8854-4
+#buttonu8851:hover #u8854-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 24px;
-	width: 122px;
+	width: 140px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#buttonu8851.ButtonSelected #u8854-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 140px;
 	margin: 34px -10000px 0px 0px;
 }
 
@@ -661,7 +670,7 @@
 	left: 96px;
 }
 
-#buttonu8851.ButtonSelected #u8854-4,#buttonu8855:hover #u8858-4
+#buttonu8843.ButtonSelected #u8844-4,#buttonu8855:hover #u8858-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -1502,5 +1511,4 @@ body
 {
 	width: 100%;
 }
-
 
