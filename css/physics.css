@@ -1,7 +1,7 @@
 .version.physics /* version checker */
 {
-	color: #00001A;
-	background-color: #4E1919;
+	color: #0000E7;
+	background-color: #A386C5;
 }
 
 #muse_css_mq
@@ -1002,7 +1002,7 @@
 	margin-left: 37.4%;
 }
 
-#u8689-10
+#u8689-9
 {
 	z-index: 149;
 	min-height: 304px;
@@ -1494,4 +1494,5 @@ body
 {
 	width: 100%;
 }
+
 
