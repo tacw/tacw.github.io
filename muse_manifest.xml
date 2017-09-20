@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1505357588343">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1505874388819">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -12,16 +12,16 @@
   <folder name="css">
     <file name="site_global.css" crc="4160065970"/>
     <file name="master_a-master.css" crc="503837229" ref="index:misc:games:school:apush:calculus:english:chinese-2:chemistry:torrenting:dungeonguides:civilization:bns:combatguide:change-log:trashed-ideas:calc-programs:civ6-guide:physics:troll:ib-program"/>
-    <file name="index.css" crc="31801156" ref="index"/>
+    <file name="index.css" crc="171953369" ref="index"/>
     <file name="misc.css" crc="180999300" ref="misc"/>
     <file name="games.css" crc="4025556579" ref="games"/>
-    <file name="school.css" crc="252050628" ref="school"/>
-    <file name="master_b-master.css" crc="3776180298" ref="apush:calculus:english:chinese-2:school:chemistry:physics:ib-program"/>
-    <file name="apush.css" crc="4564710" ref="apush"/>
+    <file name="school.css" crc="216619770" ref="school"/>
+    <file name="master_b-master.css" crc="86795218" ref="apush:calculus:english:chinese-2:school:chemistry:physics:ib-program"/>
+    <file name="apush.css" crc="305585691" ref="apush"/>
     <file name="calculus.css" crc="4269556856" ref="calculus"/>
-    <file name="english.css" crc="4223105811" ref="english"/>
+    <file name="english.css" crc="3941194561" ref="english"/>
     <file name="chinese-2.css" crc="4011526679" ref="chinese-2"/>
-    <file name="chemistry.css" crc="4041213262" ref="chemistry"/>
+    <file name="chemistry.css" crc="3936011232" ref="chemistry"/>
     <file name="master_c-master.css" crc="3843728231" ref="misc:torrenting:change-log:trashed-ideas:calc-programs:troll"/>
     <file name="torrenting.css" crc="32199757" ref="torrenting"/>
     <file name="master_d-master.css" crc="3962219008" ref="games:dungeonguides:civilization:bns:combatguide:civ6-guide"/>
@@ -75,9 +75,9 @@
     <file name="physics.css" crc="3886253765" ref="physics"/>
     <file name="master_e-master.css" crc="3891989806" ref="tht1:tht:tht3:tht4:tht5:tht2:period-4:period-5:period-3:period-2:period-6:period-7:period-8:period-1:period-9:tht12:tht14:tht9:tht13:tht8:tht15:tht10:tht7:tht6:tht11"/>
     <file name="tht1.css" crc="245287433" ref="tht1"/>
-    <file name="tht.css" crc="246912537" ref="tht"/>
+    <file name="tht.css" crc="4237186181" ref="tht"/>
     <file name="tht3.css" crc="3791356987" ref="tht3"/>
-    <file name="tht4.css" crc="222308738" ref="tht4"/>
+    <file name="tht4.css" crc="189004949" ref="tht4"/>
     <file name="tht5.css" crc="222308738" ref="tht5"/>
     <file name="tht2.css" crc="4075820763" ref="tht2"/>
     <file name="period-4.css" crc="222308738" ref="period-4"/>
@@ -90,7 +90,7 @@
     <file name="period-1.css" crc="346625020" ref="period-1"/>
     <file name="period-9.css" crc="222308738" ref="period-9"/>
     <file name="troll.css" crc="4289364897" ref="troll"/>
-    <file name="ib-program.css" crc="279321040" ref="ib-program"/>
+    <file name="ib-program.css" crc="49727155" ref="ib-program"/>
     <file name="tht12.css" crc="222308738" ref="tht12"/>
     <file name="tht14.css" crc="222308738" ref="tht14"/>
     <file name="tht9.css" crc="222308738" ref="tht9"/>
@@ -115,13 +115,13 @@
     <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:english:chinese-2:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="doc:pulse:iq:jackal"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="civilization:bns:dungeonguides:combatguide:civ6-guide"/>
-    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide:civ6-guide:change-log:trashed-ideas:calc-programs:troll:ib-program"/>
+    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide:civ6-guide:change-log:trashed-ideas:calc-programs:troll"/>
   </folder>
   <folder name="images">
     <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15"/>
     <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15"/>
     <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:english:chinese-2:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15"/>
-    <file name="favicon.ico" crc="4117084711" ref="index:rainbowsix:school"/>
+    <file name="favicon.ico" crc="4117084711" ref="index:rainbowsix"/>
     <file name="actualalbum.jpg" crc="3764500425" ref="index" seo="true"/>
     <file name="vicnent.jpg" crc="4025757287" ref="index" seo="true"/>
     <file name="aagard.jpg" crc="4147394462" ref="index" seo="true"/>
@@ -178,14 +178,14 @@
     <file name="chrome_2017-09-01_16-44-21.jpg" crc="4190107078" seo="true" ref="tht2"/>
     <file name="chrome_2017-09-01_17-17-50.jpg" crc="432711341" seo="true" ref="tht2"/>
   </folder>
-  <file name="index.html" crc="4044514188" seo="true" mt="1505357577302" redirect="true"/>
-  <file name="school.html" crc="12648060" seo="true" mt="1505350674200" redirect="true"/>
+  <file name="index.html" crc="3773304382" seo="true" mt="1505866281641" redirect="true"/>
+  <file name="school.html" crc="131453915" seo="true" mt="1505866303275" redirect="true"/>
   <file name="games.html" crc="373282409" seo="true" mt="1505184558519" redirect="true"/>
   <file name="misc.html" crc="134408752" seo="true" mt="1505184558519" redirect="true"/>
-  <file name="apush.html" crc="4165732896" seo="true" mt="1505350797259" redirect="true"/>
+  <file name="apush.html" crc="3979297765" seo="true" mt="1505866711390" redirect="true"/>
   <file name="calculus.html" crc="478476156" seo="true" mt="1505184558519" redirect="true"/>
-  <file name="chemistry.html" crc="4011675415" seo="true" mt="1505357438148" redirect="true"/>
-  <file name="english.html" crc="342611312" seo="true" mt="1505355601290" redirect="true"/>
+  <file name="chemistry.html" crc="4201422323" seo="true" mt="1505598176043" redirect="true"/>
+  <file name="english.html" crc="3818890839" seo="true" mt="1505874164451" redirect="true"/>
   <file name="chinese-2.html" crc="99810029" seo="true" mt="1505355613175" redirect="true"/>
   <file name="torrenting.html" crc="449870985" seo="true" mt="1505184558519" redirect="true"/>
   <file name="rainbowsix.html" crc="4039909480" seo="true" mt="1504379058588" redirect="true"/>
@@ -233,11 +233,11 @@
   <file name="calc-programs.html" crc="3768442547" seo="true" mt="1505184558519" redirect="true"/>
   <file name="civ6-guide.html" crc="3931206627" seo="true" mt="1505184558519" redirect="true"/>
   <file name="physics.html" crc="4041167205" seo="true" mt="1505355631093" redirect="true"/>
-  <file name="tht.html" crc="3984016133" seo="true" mt="1505184188922" redirect="true"/>
+  <file name="tht.html" crc="3825397123" seo="true" mt="1505874138765" redirect="true"/>
   <file name="tht1.html" crc="3986095873" seo="true" mt="1505184224652" redirect="true"/>
   <file name="tht2.html" crc="382992278" seo="true" mt="1505184293235" redirect="true"/>
   <file name="tht3.html" crc="4029595668" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="tht4.html" crc="3840760066" seo="true" mt="1505184188922" redirect="true"/>
+  <file name="tht4.html" crc="4086800283" seo="true" mt="1505874004599" redirect="true"/>
   <file name="tht5.html" crc="4136281658" seo="true" mt="1505184188922" redirect="true"/>
   <file name="period-1.html" crc="431025640" seo="true" mt="1505184188922" redirect="true"/>
   <file name="period-2.html" crc="3849485798" seo="true" mt="1505184188922" redirect="true"/>
@@ -249,7 +249,7 @@
   <file name="period-8.html" crc="4294342284" seo="true" mt="1505184188922" redirect="true"/>
   <file name="period-9.html" crc="3871248646" seo="true" mt="1505184188922" redirect="true"/>
   <file name="troll.html" crc="4053207520" seo="true" mt="1505184558519" redirect="true"/>
-  <file name="ib-program.html" crc="326668208" seo="true" mt="1505184558519" redirect="true"/>
+  <file name="ib-program.html" crc="216878969" seo="true" mt="1505873935643" redirect="true"/>
   <file name="tht6.html" crc="458465587" seo="true" mt="1505184188922" redirect="true"/>
   <file name="tht7.html" crc="154426891" seo="true" mt="1505184188922" redirect="true"/>
   <file name="tht8.html" crc="3849013668" seo="true" mt="1505184188922" redirect="true"/>
