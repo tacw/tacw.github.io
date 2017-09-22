@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1505874388819">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1506122609019">
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -75,10 +75,10 @@
     <file name="physics.css" crc="3886253765" ref="physics"/>
     <file name="master_e-master.css" crc="3891989806" ref="tht1:tht:tht3:tht4:tht5:tht2:period-4:period-5:period-3:period-2:period-6:period-7:period-8:period-1:period-9:tht12:tht14:tht9:tht13:tht8:tht15:tht10:tht7:tht6:tht11"/>
     <file name="tht1.css" crc="245287433" ref="tht1"/>
-    <file name="tht.css" crc="4237186181" ref="tht"/>
+    <file name="tht.css" crc="6264637" ref="tht"/>
     <file name="tht3.css" crc="3791356987" ref="tht3"/>
-    <file name="tht4.css" crc="189004949" ref="tht4"/>
-    <file name="tht5.css" crc="222308738" ref="tht5"/>
+    <file name="tht4.css" crc="4091308004" ref="tht4"/>
+    <file name="tht5.css" crc="491032789" ref="tht5"/>
     <file name="tht2.css" crc="4075820763" ref="tht2"/>
     <file name="period-4.css" crc="222308738" ref="period-4"/>
     <file name="period-5.css" crc="222308738" ref="period-5"/>
@@ -121,7 +121,7 @@
     <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15"/>
     <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:english:chinese-2:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15"/>
     <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:english:chinese-2:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:period-4:period-5:period-6:period-7:period-8:period-9:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15"/>
-    <file name="favicon.ico" crc="4117084711" ref="index:rainbowsix"/>
+    <file name="favicon.ico" crc="4117084711" ref="index:rainbowsix:tht"/>
     <file name="actualalbum.jpg" crc="3764500425" ref="index" seo="true"/>
     <file name="vicnent.jpg" crc="4025757287" ref="index" seo="true"/>
     <file name="aagard.jpg" crc="4147394462" ref="index" seo="true"/>
@@ -177,6 +177,8 @@
     <file name="chrome_2017-09-01_16-56-57.jpg" crc="249414050" seo="true" ref="tht2"/>
     <file name="chrome_2017-09-01_16-44-21.jpg" crc="4190107078" seo="true" ref="tht2"/>
     <file name="chrome_2017-09-01_17-17-50.jpg" crc="432711341" seo="true" ref="tht2"/>
+    <file name="chrome_2017-09-22_17-09-17.jpg" crc="10009635" seo="true" ref="tht5"/>
+    <file name="chrome_2017-09-22_17-14-53.jpg" crc="4205899703" seo="true" ref="tht5"/>
   </folder>
   <file name="index.html" crc="3773304382" seo="true" mt="1505866281641" redirect="true"/>
   <file name="school.html" crc="131453915" seo="true" mt="1505866303275" redirect="true"/>
@@ -233,31 +235,31 @@
   <file name="calc-programs.html" crc="3768442547" seo="true" mt="1505184558519" redirect="true"/>
   <file name="civ6-guide.html" crc="3931206627" seo="true" mt="1505184558519" redirect="true"/>
   <file name="physics.html" crc="4041167205" seo="true" mt="1505355631093" redirect="true"/>
-  <file name="tht.html" crc="3825397123" seo="true" mt="1505874138765" redirect="true"/>
-  <file name="tht1.html" crc="3986095873" seo="true" mt="1505184224652" redirect="true"/>
-  <file name="tht2.html" crc="382992278" seo="true" mt="1505184293235" redirect="true"/>
-  <file name="tht3.html" crc="4029595668" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="tht4.html" crc="4086800283" seo="true" mt="1505874004599" redirect="true"/>
-  <file name="tht5.html" crc="4136281658" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="period-1.html" crc="431025640" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="period-2.html" crc="3849485798" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="period-3.html" crc="3961941690" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="period-4.html" crc="3861367729" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="period-5.html" crc="4285475899" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="period-6.html" crc="264700644" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="period-7.html" crc="378529134" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="period-8.html" crc="4294342284" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="period-9.html" crc="3871248646" seo="true" mt="1505184188922" redirect="true"/>
+  <file name="tht.html" crc="37106028" seo="true" mt="1506122540895" redirect="true"/>
+  <file name="tht1.html" crc="4067027747" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht2.html" crc="36968606" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht3.html" crc="3881270440" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht4.html" crc="367297116" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht5.html" crc="3873881459" seo="true" mt="1506122347393" redirect="true"/>
+  <file name="period-1.html" crc="200354024" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="period-2.html" crc="3813745358" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="period-3.html" crc="3870347228" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="period-4.html" crc="510973438" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="period-5.html" crc="121385588" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="period-6.html" crc="4153679019" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="period-7.html" crc="4007459617" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="period-8.html" crc="128280771" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="period-9.html" crc="518885193" seo="true" mt="1506122272485" redirect="true"/>
   <file name="troll.html" crc="4053207520" seo="true" mt="1505184558519" redirect="true"/>
   <file name="ib-program.html" crc="216878969" seo="true" mt="1505873935643" redirect="true"/>
-  <file name="tht6.html" crc="458465587" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="tht7.html" crc="154426891" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="tht8.html" crc="3849013668" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="tht9.html" crc="4144805532" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="tht10.html" crc="4078965637" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="tht11.html" crc="16307054" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="tht12.html" crc="345084499" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="tht13.html" crc="3880342200" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="tht14.html" crc="3878819432" seo="true" mt="1505184188922" redirect="true"/>
-  <file name="tht15.html" crc="271920319" seo="true" mt="1505184188922" redirect="true"/>
+  <file name="tht6.html" crc="197740802" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht7.html" crc="430880314" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht8.html" crc="4126253461" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht9.html" crc="3885391533" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht10.html" crc="325632396" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht11.html" crc="3769631079" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht12.html" crc="4107878490" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht13.html" crc="117538993" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht14.html" crc="125486177" seo="true" mt="1506122272485" redirect="true"/>
+  <file name="tht15.html" crc="4034789046" seo="true" mt="1506122272485" redirect="true"/>
 </manifest>
