@@ -1,7 +1,7 @@
 .version.chemistry /* version checker */
 {
-	color: #0000F3;
-	background-color: #5B5321;
+	color: #000012;
+	background-color: #0EFA0C;
 }
 
 #muse_css_mq
@@ -450,8 +450,8 @@
 	position: absolute;
 	width: 359px;
 	padding-bottom: 44px;
-	top: 55px;
-	left: -294px;
+	top: 47px;
+	left: -298px;
 }
 
 #u8707popup
@@ -494,7 +494,7 @@
 
 #u8923
 {
-	z-index: 210;
+	z-index: 203;
 	width: 314px;
 	height: 94px;
 	position: relative;
@@ -703,67 +703,6 @@
 	margin: 24px -10000px 0px 0px;
 }
 
-#buttonu8859
-{
-	z-index: 196;
-	width: 313px;
-	padding-bottom: 24px;
-	margin-left: 1px;
-	margin-top: 1px;
-	position: relative;
-}
-
-#buttonu8859:hover
-{
-	width: 313px;
-	min-height: 0px;
-	margin: 1px 0px 0px 1px;
-}
-
-#u8860-4
-{
-	z-index: 197;
-	width: 122px;
-	min-height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 34px;
-	left: 96px;
-}
-
-#buttonu8855.ButtonSelected #u8858-4,#buttonu8859:hover #u8860-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 24px;
-	width: 122px;
-	margin: 34px -10000px 0px 0px;
-}
-
-#u8861
-{
-	z-index: 201;
-	width: 17px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 24px;
-	left: 296px;
-}
-
-#buttonu8855.ButtonSelected #u8856,#buttonu8859:hover #u8861
-{
-	width: 17px;
-	min-height: 0px;
-	margin: 24px -10000px 0px 0px;
-}
-
-#buttonu8859:active #u8861
-{
-	width: 17px;
-	min-height: 0px;
-	margin: 24px -10000px 0px 0px;
-}
-
 #buttonu8847
 {
 	z-index: 175;
@@ -798,7 +737,7 @@
 	left: 96px;
 }
 
-#buttonu8859.ButtonSelected #u8860-4,#buttonu8847:hover #u8850-4
+#buttonu8855.ButtonSelected #u8858-4,#buttonu8847:hover #u8850-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -817,7 +756,7 @@
 	left: 296px;
 }
 
-#buttonu8859.ButtonSelected #u8861,#buttonu8847:hover #u8848
+#buttonu8855.ButtonSelected #u8856,#buttonu8847:hover #u8848
 {
 	width: 17px;
 	min-height: 0px;
@@ -833,7 +772,7 @@
 
 #buttonu8863
 {
-	z-index: 203;
+	z-index: 196;
 	width: 313px;
 	padding-bottom: 24px;
 	margin-left: 1px;
@@ -841,7 +780,7 @@
 	position: relative;
 }
 
-#buttonu8859.ButtonSelected,#buttonu8863:hover
+#buttonu8863:hover
 {
 	width: 313px;
 	min-height: 0px;
@@ -857,7 +796,7 @@
 
 #u8864-4
 {
-	z-index: 204;
+	z-index: 197;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -886,7 +825,7 @@
 
 #u8865
 {
-	z-index: 208;
+	z-index: 201;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -917,7 +856,7 @@
 
 #buttonu8924
 {
-	z-index: 211;
+	z-index: 204;
 	padding-bottom: 11px;
 	position: relative;
 	margin-right: -10000px;
@@ -942,7 +881,7 @@
 
 #u8925-4
 {
-	z-index: 212;
+	z-index: 205;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -971,7 +910,7 @@
 
 #u8701
 {
-	z-index: 216;
+	z-index: 209;
 	width: 253px;
 	position: relative;
 	margin-right: -10000px;

@@ -337,6 +337,117 @@
 	background-color: transparent;
 }
 
+#buttonu10784
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu10784:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u10785-4
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u10785-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u10786
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u10786::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu10771.ButtonSelected #u10772,#buttonu10784.ButtonSelected,#buttonu10784:hover #u10786
+{
+	background-color: transparent;
+}
+
+#buttonu10784:active #u10786
+{
+	background-color: transparent;
+}
+
+#buttonu10780
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu10780:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u10781-4
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u10781-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u10770,#u10777,#u10774,#u10785,#u10781
+{
+	line-height: 19px;
+}
+
+#u10782
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u10782::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu10784.ButtonSelected #u10786,#buttonu10780.ButtonSelected,#buttonu10780:hover #u10782
+{
+	background-color: transparent;
+}
+
+#buttonu10780:active #u10782
+{
+	background-color: transparent;
+}
+
 #buttonu10788
 {
 	border-color: #787878;
@@ -381,170 +492,6 @@
 {
 	font-family: dosis, sans-serif;
 	font-weight: 300;
-}
-
-#buttonu10791
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#buttonu10791:hover
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #D4BFE1;
-}
-
-#u10792-4
-{
-	background-color: transparent;
-	text-align: center;
-}
-
-#u10792-2
-{
-	padding-top: 1px;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u10793
-{
-	border-width: 0px;
-	background-color: transparent;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u10793::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	box-shadow: none;
-}
-
-#buttonu10771.ButtonSelected #u10772,#buttonu10791.ButtonSelected,#buttonu10791:hover #u10793
-{
-	background-color: transparent;
-}
-
-#buttonu10791:active #u10793
-{
-	background-color: transparent;
-}
-
-#buttonu10784
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#buttonu10784:hover
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #D4BFE1;
-}
-
-#u10785-4
-{
-	background-color: transparent;
-	text-align: center;
-}
-
-#u10785-2
-{
-	padding-top: 1px;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u10786
-{
-	border-width: 0px;
-	background-color: transparent;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u10786::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	box-shadow: none;
-}
-
-#buttonu10791.ButtonSelected #u10793,#buttonu10784.ButtonSelected,#buttonu10784:hover #u10786
-{
-	background-color: transparent;
-}
-
-#buttonu10784:active #u10786
-{
-	background-color: transparent;
-}
-
-#buttonu10780
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#buttonu10780:hover
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #D4BFE1;
-}
-
-#u10781-4
-{
-	background-color: transparent;
-	text-align: center;
-}
-
-#u10781-2
-{
-	padding-top: 1px;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u10770,#u10777,#u10774,#u10792,#u10785,#u10781
-{
-	line-height: 19px;
-}
-
-#u10782
-{
-	border-width: 0px;
-	background-color: transparent;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u10782::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	box-shadow: none;
-}
-
-#buttonu10784.ButtonSelected #u10786,#buttonu10780.ButtonSelected,#buttonu10780:hover #u10782
-{
-	background-color: transparent;
-}
-
-#buttonu10780:active #u10782
-{
-	background-color: transparent;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */

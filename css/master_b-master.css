@@ -178,59 +178,6 @@
 	background-color: transparent;
 }
 
-#buttonu8859
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#buttonu8859:hover
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #D4BFE1;
-}
-
-#u8860-4
-{
-	background-color: transparent;
-	text-align: center;
-}
-
-#u8860-2
-{
-	padding-top: 1px;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u8861
-{
-	border-width: 0px;
-	background-color: transparent;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u8861::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	box-shadow: none;
-}
-
-#buttonu8855.ButtonSelected #u8856,#buttonu8859.ButtonSelected,#buttonu8859:hover #u8861
-{
-	background-color: transparent;
-}
-
-#buttonu8859:active #u8861
-{
-	background-color: transparent;
-}
-
 #buttonu8847
 {
 	border-width: 0px;
@@ -274,7 +221,7 @@
 	box-shadow: none;
 }
 
-#buttonu8859.ButtonSelected #u8861,#buttonu8847.ButtonSelected,#buttonu8847:hover #u8848
+#buttonu8855.ButtonSelected #u8856,#buttonu8847.ButtonSelected,#buttonu8847:hover #u8848
 {
 	background-color: transparent;
 }
@@ -310,7 +257,7 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u8844,#u8854,#u8858,#u8860,#u8850,#u8864
+#u8844,#u8854,#u8858,#u8850,#u8864
 {
 	line-height: 19px;
 }
