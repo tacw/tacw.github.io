@@ -1,7 +1,7 @@
-.version.physics /* version checker */
+.version.biology /* version checker */
 {
-	color: #0000F1;
-	background-color: #1268EF;
+	color: #0000EE;
+	background-color: #C38412;
 }
 
 #muse_css_mq
@@ -941,27 +941,15 @@
 	margin-left: 37.4%;
 }
 
-#u8689-53
-{
-	z-index: 142;
-	min-height: 304px;
-	background-color: transparent;
-	top: -5px;
-	margin-bottom: -5px;
-	position: relative;
-	width: 95%;
-	margin-left: 2.82%;
-}
-
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1159px);
+	height: calc(100vh - 1059px);
 }
 
 #u6883
 {
 	z-index: 5;
-	min-height: 303.8577059000478px;
+	min-height: 303.8577059000477px;
 	padding-bottom: 0px;
 }
 
@@ -972,7 +960,6 @@
 	position: relative;
 	padding-top: 103px;
 	padding-bottom: 63px;
-	margin-bottom: -1px;
 }
 
 #u6898
@@ -1413,8 +1400,8 @@
 #u6883-bw
 {
 	z-index: 5;
-	min-height: 303.8577059000478px;
-	margin-top: -1px;
+	min-height: 303.8577059000477px;
+	margin-top: 625px;
 }
 
 .html
@@ -1434,5 +1421,4 @@ body
 {
 	width: 100%;
 }
-
 
