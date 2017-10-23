@@ -19,6 +19,58 @@
 	background-color: #0071BC;
 }
 
+#buttonu11711
+{
+	border-color: #787878;
+	background-color: #0071BC;
+	border-radius: 10px;
+}
+
+#buttonu11711:hover
+{
+	background-color: #296AE2;
+}
+
+#buttonu11711.ButtonSelected
+{
+	background-color: #0071BC;
+}
+
+#u11712-4
+{
+	background-color: transparent;
+	letter-spacing: 1px;
+	color: #3C3C3C;
+	font-size: 14px;
+	text-align: center;
+	font-family: dosis, sans-serif;
+	font-weight: 300;
+}
+
+#buttonu11711:hover #u11712-4 p,#buttonu11711:hover #u11712-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u11712
+{
+	font-family: dosis, sans-serif;
+	font-weight: 300;
+}
+
+#buttonu11711:hover #u11712-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu11711.ButtonSelected #u11712-4 p,#buttonu11711.ButtonSelected #u11712-4 span,#buttonu11711.ButtonSelected #u11712-4 p
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
 #buttonu11722
 {
 	border-width: 0px;
@@ -68,7 +120,7 @@
 	box-shadow: none;
 }
 
-#buttonu11722.ButtonSelected,#buttonu11722:hover #u11723
+#u11697,#buttonu11722.ButtonSelected,#buttonu11722:hover #u11723
 {
 	background-color: transparent;
 }
@@ -372,60 +424,13 @@
 	background-color: transparent;
 }
 
-#buttonu11711
-{
-	border-color: #787878;
-	background-color: #0071BC;
-	border-radius: 10px;
-}
-
-#buttonu11711:hover
-{
-	background-color: #296AE2;
-}
-
-#buttonu11711.ButtonSelected
-{
-	background-color: #0071BC;
-}
-
-#u11712-4
+#buttonu11814.ButtonSelected #u11815
 {
 	background-color: transparent;
-	letter-spacing: 1px;
-	color: #3C3C3C;
-	font-size: 14px;
-	text-align: center;
-	font-family: dosis, sans-serif;
-	font-weight: 300;
-}
-
-#buttonu11711:hover #u11712-4 p,#buttonu11711:hover #u11712-4 span
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#buttonu11711.ButtonSelected #u11712-4 p,#buttonu11711.ButtonSelected #u11712-4 span
-{
-	color: #3C3C3C;
-	visibility: inherit;
-}
-
-#u11712
-{
-	font-family: dosis, sans-serif;
-	font-weight: 300;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
 }
-
-#buttonu11814.ButtonSelected #u11815,#u11697
-{
-	background-color: transparent;
-}
-
 

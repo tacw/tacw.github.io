@@ -1,7 +1,7 @@
 .version.dungeonguides /* version checker */
 {
-	color: #0000EB;
-	background-color: #303A3B;
+	color: #00000E;
+	background-color: #188676;
 }
 
 #muse_css_mq
@@ -24,17 +24,20 @@
 	margin-right: auto;
 }
 
-#page_position_content
+#ppu3573
 {
+	z-index: 0;
+	height: 3725.9px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
 	margin-top: -164px;
-	margin-bottom: -240px;
 	width: 100%;
 }
 
 #pu3573
 {
 	z-index: 338;
-	width: 100%;
+	width: 71.88%;
 }
 
 #u3573
@@ -45,7 +48,8 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 119px;
-	left: 49px;
+	left: 0px;
+	margin-left: 49px;
 }
 
 #u104
@@ -53,8 +57,9 @@
 	z-index: 2;
 	position: relative;
 	margin-right: -10000px;
-	width: 53.86%;
-	left: 23.13%;
+	width: 74.93%;
+	left: 25.08%;
+	margin-left: 7.11%;
 }
 
 #u900
@@ -78,6 +83,8 @@
 	z-index: 4;
 	min-height: 40px;
 	margin-top: 21px;
+	left: 0px;
+	margin-left: 0px;
 }
 
 #u7673
@@ -87,6 +94,7 @@
 	margin-bottom: -4px;
 	position: relative;
 	width: 53.86%;
+	left: 0%;
 	margin-left: 23.13%;
 }
 
@@ -146,15 +154,6 @@
 	width: 78.75%;
 }
 
-#pbuttonu7682 #u7685-4
-{
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 17px;
-	left: 16px;
-	width: 78.75%;
-}
-
 #u7683
 {
 	z-index: 346;
@@ -180,7 +179,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.75%;
 	left: 45.67%;
 }
 
@@ -240,13 +238,12 @@
 	width: 80%;
 }
 
-#pbuttonu7674 #u7677-4
+#pbuttonu7682 #u7685-4,#pbuttonu7674 #u7677-4
 {
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 16px;
-	width: 80%;
 }
 
 #u7675
@@ -274,7 +271,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 16%;
 	left: 41.6%;
 }
 
@@ -340,7 +336,6 @@
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 15px;
-	width: 76.34%;
 }
 
 #u7679
@@ -368,7 +363,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.27%;
 	left: 41.99%;
 }
 
@@ -433,7 +427,6 @@
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 6px;
-	width: 77.52%;
 }
 
 #u7687
@@ -461,15 +454,17 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.51%;
 	left: 42.64%;
 }
 
 #pmenuu5615
 {
 	z-index: 24;
+	height: 3434px;
 	margin-top: 2px;
-	width: 100%;
+	width: 96.15%;
+	left: 0%;
+	margin-left: 2.19%;
 }
 
 #menuu5615
@@ -478,8 +473,8 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 27px;
-	width: 46.46%;
-	left: 26.36%;
+	width: 48.33%;
+	left: 25.14%;
 }
 
 #u5623
@@ -618,8 +613,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	width: 95.21%;
-	left: 2.3%;
+	width: 99.03%;
+	left: 0.11%;
 }
 
 #u4450
@@ -629,8 +624,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 68px;
-	width: 96.15%;
-	left: 2.19%;
+	width: 100%;
 }
 
 #u4329
@@ -655,33 +649,92 @@
 #pamphletu4334
 {
 	z-index: 312;
-	width: 0.01px;
-	height: 49px;
-	padding-bottom: 265px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 16px;
+	width: 99.68%;
 	left: 0.22%;
+}
+
+#pamphletu4334_position_content
+{
+	margin-bottom: -1px;
+	width: 100%;
+}
+
+#u4345
+{
+	z-index: 332;
+	margin-left: 334px;
+	position: relative;
+	width: 27.51%;
+}
+
+#u4346
+{
+	position: absolute;
+	width: 253px;
+	height: 49px;
+	padding-bottom: 13px;
+}
+
+#u4346.PamphletThumbSelected
+{
+	width: 253px;
+	height: 49px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4331-4
+{
+	z-index: 334;
+	width: 221px;
+	min-height: 35px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 15px;
+}
+
+#u4346.PamphletThumbSelected #u4331-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 35px;
+	width: 221px;
+	margin: 10px -10000px 0px 0px;
+}
+
+#u4346popup
+{
+	width: 253px;
+	height: 62px;
+	margin-right: -10000px;
 }
 
 #u4339
 {
 	position: absolute;
 	width: 922px;
-	top: 77px;
-	left: -1px;
+	height: 238px;
 }
 
 #u4339popup
 {
 	z-index: 313;
+	width: 922px;
+	height: 238px;
+	left: -1px;
+	margin-top: 15px;
 }
 
 #u4340
 {
 	z-index: 314;
 	width: 918px;
-	height: 234px;
+	height: 205px;
+	padding-bottom: 29px;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -761,52 +814,6 @@
 	left: 57.3%;
 }
 
-#u4345
-{
-	z-index: 332;
-	width: 225px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 10px;
-	left: 349px;
-}
-
-#u4346
-{
-	position: absolute;
-	width: 253px;
-	padding-bottom: 13px;
-	top: -10px;
-	left: -15px;
-}
-
-#u4346.PamphletThumbSelected
-{
-	width: 253px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u4331-4
-{
-	z-index: 334;
-	width: 221px;
-	min-height: 35px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 10px;
-	left: 15px;
-}
-
-#u4346.PamphletThumbSelected #u4331-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 35px;
-	width: 221px;
-	margin: 10px -10000px 0px 0px;
-}
-
 .css_verticalspacer .verticalspacer
 {
 	height: calc(100vh - 3791px);
@@ -824,7 +831,6 @@
 	margin-left: auto;
 	margin-right: auto;
 	position: relative;
-	margin-bottom: -1px;
 }
 
 #pu6898
@@ -890,6 +896,7 @@
 {
 	z-index: 5;
 	min-height: 211px;
+	margin-bottom: -240px;
 	margin-top: -1px;
 }
 
@@ -904,6 +911,11 @@ body
 	min-width: 240px;
 	padding-top: 155px;
 	padding-bottom: 12px;
+}
+
+.verticalspacer
+{
+	min-height: 1px;
 }
 
 #u104_img,#u7683_img,#u7675_img,#u7679_img,#u7687_img,#u4332_img,#u5217_img,#u6898_img

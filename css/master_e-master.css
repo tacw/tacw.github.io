@@ -25,6 +25,12 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
+#pbuttonu9209:hover #u9210-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
+}
+
 #u9211
 {
 	background-color: transparent;
@@ -64,6 +70,12 @@
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#pbuttonu9217:hover #u9218-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
 }
 
 #u9219
@@ -107,6 +119,12 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
+#pbuttonu9205:hover #u9206-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
+}
+
 #u9207
 {
 	background-color: transparent;
@@ -143,12 +161,6 @@
 	visibility: inherit;
 }
 
-#pbuttonu9209.ButtonSelected #u9210-4 p,#pbuttonu9209.ButtonSelected #u9210-4 span,#pbuttonu9217.ButtonSelected #u9218-4 p,#pbuttonu9217.ButtonSelected #u9218-4 span,#pbuttonu9205.ButtonSelected #u9206-4 p,#pbuttonu9205.ButtonSelected #u9206-4 span,#pbuttonu9213.ButtonSelected #u9214-4 p,#pbuttonu9213.ButtonSelected #u9214-4 span
-{
-	color: #E4E4E4;
-	visibility: inherit;
-}
-
 #u9214-2
 {
 	padding-top: 1px;
@@ -160,6 +172,18 @@
 	font-size: 13px;
 	color: #E4E4E4;
 	line-height: 16px;
+}
+
+#pbuttonu9213:hover #u9214-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
+}
+
+#pbuttonu9209.ButtonSelected #u9210-4 p,#pbuttonu9209.ButtonSelected #u9210-4 span,#pbuttonu9209.ButtonSelected #u9210-4 p,#pbuttonu9217.ButtonSelected #u9218-4 p,#pbuttonu9217.ButtonSelected #u9218-4 span,#pbuttonu9217.ButtonSelected #u9218-4 p,#pbuttonu9205.ButtonSelected #u9206-4 p,#pbuttonu9205.ButtonSelected #u9206-4 span,#pbuttonu9205.ButtonSelected #u9206-4 p,#pbuttonu9213.ButtonSelected #u9214-4 p,#pbuttonu9213.ButtonSelected #u9214-4 span,#pbuttonu9213.ButtonSelected #u9214-4 p
+{
+	color: #E4E4E4;
+	visibility: inherit;
 }
 
 #u9215
@@ -205,6 +229,58 @@
 	background-color: #0071BC;
 }
 
+#buttonu10788
+{
+	border-color: #787878;
+	background-color: #0071BC;
+	border-radius: 10px;
+}
+
+#buttonu10788:hover
+{
+	background-color: #296AE2;
+}
+
+#buttonu10788.ButtonSelected
+{
+	background-color: #0071BC;
+}
+
+#u10789-4
+{
+	background-color: transparent;
+	letter-spacing: 1px;
+	color: #3C3C3C;
+	font-size: 14px;
+	text-align: center;
+	font-family: dosis, sans-serif;
+	font-weight: 300;
+}
+
+#buttonu10788:hover #u10789-4 p,#buttonu10788:hover #u10789-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u10789
+{
+	font-family: dosis, sans-serif;
+	font-weight: 300;
+}
+
+#buttonu10788:hover #u10789-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu10788.ButtonSelected #u10789-4 p,#buttonu10788.ButtonSelected #u10789-4 span,#buttonu10788.ButtonSelected #u10789-4 p
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
 #u10485,#u9204,#buttonu10767
 {
 	border-width: 0px;
@@ -248,7 +324,7 @@
 	box-shadow: none;
 }
 
-#u9265,#buttonu10767.ButtonSelected,#buttonu10767:hover #u10768
+#u9265,#u10272,#buttonu10767.ButtonSelected,#buttonu10767:hover #u10768
 {
 	background-color: transparent;
 }
@@ -475,58 +551,12 @@
 	background-color: transparent;
 }
 
-#buttonu10788
-{
-	border-color: #787878;
-	background-color: #0071BC;
-	border-radius: 10px;
-}
-
-#buttonu10788:hover
-{
-	background-color: #296AE2;
-}
-
-#buttonu10788.ButtonSelected
-{
-	background-color: #0071BC;
-}
-
-#u10789-4
-{
-	background-color: transparent;
-	letter-spacing: 1px;
-	color: #3C3C3C;
-	font-size: 14px;
-	text-align: center;
-	font-family: dosis, sans-serif;
-	font-weight: 300;
-}
-
-#buttonu10788:hover #u10789-4 p,#buttonu10788:hover #u10789-4 span
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#buttonu10788.ButtonSelected #u10789-4 p,#buttonu10788.ButtonSelected #u10789-4 span
-{
-	color: #3C3C3C;
-	visibility: inherit;
-}
-
-#u10789
-{
-	font-family: dosis, sans-serif;
-	font-weight: 300;
-}
-
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
 }
 
-#buttonu10780.ButtonSelected #u10782,#u10272,#u12065
+#buttonu10780.ButtonSelected #u10782,#u12065
 {
 	background-color: transparent;
 }
@@ -537,8 +567,8 @@
 	border-width: 2px;
 	border-color: #FFCA00;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	font-family: dosis, sans-serif;
 	font-weight: 300;

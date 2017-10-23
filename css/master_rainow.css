@@ -32,6 +32,12 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
+#pbuttonu8508:hover #u8509-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
+}
+
 #u8510
 {
 	background-color: transparent;
@@ -73,6 +79,12 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
+#pbuttonu8520:hover #u8523-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
+}
+
 #u8521
 {
 	background-color: transparent;
@@ -112,6 +124,12 @@
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#pbuttonu8512:hover #u8513-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
 }
 
 #u8514
@@ -157,12 +175,6 @@
 	visibility: inherit;
 }
 
-#pbuttonu8508.ButtonSelected #u8509-4 p,#pbuttonu8508.ButtonSelected #u8509-4 span,#pbuttonu8520.ButtonSelected #u8523-4 p,#pbuttonu8520.ButtonSelected #u8523-4 span,#pbuttonu8512.ButtonSelected #u8513-4 p,#pbuttonu8512.ButtonSelected #u8513-4 span,#pbuttonu8516.ButtonSelected #u8519-4 p,#pbuttonu8516.ButtonSelected #u8519-4 span
-{
-	color: #E4E4E4;
-	visibility: inherit;
-}
-
 #u8519-2
 {
 	padding-top: 1px;
@@ -174,6 +186,18 @@
 	font-size: 13px;
 	color: #E4E4E4;
 	line-height: 16px;
+}
+
+#pbuttonu8516:hover #u8519-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
+}
+
+#pbuttonu8508.ButtonSelected #u8509-4 p,#pbuttonu8508.ButtonSelected #u8509-4 span,#pbuttonu8508.ButtonSelected #u8509-4 p,#pbuttonu8520.ButtonSelected #u8523-4 p,#pbuttonu8520.ButtonSelected #u8523-4 span,#pbuttonu8520.ButtonSelected #u8523-4 p,#pbuttonu8512.ButtonSelected #u8513-4 p,#pbuttonu8512.ButtonSelected #u8513-4 span,#pbuttonu8512.ButtonSelected #u8513-4 p,#pbuttonu8516.ButtonSelected #u8519-4 p,#pbuttonu8516.ButtonSelected #u8519-4 span,#pbuttonu8516.ButtonSelected #u8519-4 p
+{
+	color: #E4E4E4;
+	visibility: inherit;
 }
 
 #u8517
@@ -204,24 +228,6 @@
 	background-color: #00406D;
 }
 
-#u6351
-{
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FC6B02;
-	background-color: #002B67;
-}
-
-#u6352-4,#u6710-4
-{
-	background-color: transparent;
-	line-height: 32px;
-	color: #FFFFFF;
-	font-size: 27px;
-	font-family: open-sans, sans-serif;
-	font-weight: 300;
-}
-
 #u10480,#u8507,#u6713,#u6357
 {
 	border-width: 0px;
@@ -235,10 +241,10 @@
 	border-width: 2px;
 	border-color: #ED1C24;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	letter-spacing: 2px;
 	color: #ED1C24;
+	line-height: 22px;
 	text-align: center;
 	font-family: asap, sans-serif;
 	font-weight: 700;
@@ -247,6 +253,24 @@
 #u6346-2
 {
 	padding-top: 6px;
+}
+
+#u6351
+{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #FC6B02;
+	background-color: #002B67;
+}
+
+#u6352-4,#u6710-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 32px;
+	font-size: 27px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
@@ -266,7 +290,7 @@
 	max-width: 960px;
 }
 
-#u8133,#u6350,#u6434,#u6422,#u6436,#u6410,#u6424,#u6412,#u6428,#u6426,#u6430,#u6420,#u6414,#u8110,#u6432,#u6418,#u6416,#u6438,#u6440,#u6442,#u6446,#u6448,#u6450,#u6454,#u6456,#u6458,#u6462,#u6464,#u6468,#u6444,#u6452,#u6460,#u8196
+#u8133,#u6350,#u6434,#u6422,#u6436,#u6410,#u6424,#u6412,#u6428,#u6426,#u6430,#u6420,#u6414,#u8110,#u6432,#u6418,#u6416,#u6438,#u6440,#u6442,#u6444,#u6446,#u6448,#u6450,#u6452,#u6454,#u6456,#u6458,#u6460,#u6462,#u6464,#u6468,#u8196
 {
 	background-color: transparent;
 }
@@ -277,8 +301,8 @@
 	border-width: 2px;
 	border-color: #FFCA00;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	font-family: dosis, sans-serif;
 	font-weight: 300;

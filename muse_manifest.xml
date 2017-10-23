@@ -1,4 +1,130 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1508701796454">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1508801078053">
+  <folder name="css">
+    <file name="site_global.css" crc="4083070937"/>
+    <file name="master_b-master.css" crc="4032667229" ref="chem-chap-2:chem-chap-3:physicss:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-8:chem-chap-7:chem-chap-9:ib-program:chem-chap-10:chem-option:chem-chap-11:chem-chap-1:psychology:college:school:apush:calculus:chemistry"/>
+    <file name="master_d-master.css" crc="468135434" ref="civ6-guide:dungeonguides:combatguide:civilization:games:bns"/>
+    <file name="master_civ.css" crc="4119103858" ref="civ6-guide:combatguide:civilization"/>
+    <file name="master_rainow.css" crc="4185619114" ref="jager:valkyrie:frost:house:hereford-base:bank:skyscraper:consulate:glaz:kapkan:blackbeard:hibana:echo:captitao:sledge:thatcher:fuze:ash:smoke:thermite:castle:twitch:bandit:mute:pulse:buck:montagne:doc:jackal:rook:tachanka:mira:rainbowsix:caveira:blitz:iq"/>
+    <file name="master_bns.css" crc="3925399535" ref="dungeonguides:bns"/>
+    <file name="master_a-master.css" crc="3958366646" ref="change-log:calc:stats:trashed-ideas:takehomes:competitions:history:chem-chap-2:calc-programs:civ6-guide:chem-chap-3:physicss:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-8:chem-chap-7:chem-chap-9:ib-program:troll:dungeonguides:chem-chap-10:chem-option:chem-chap-11:adobe:chem-chap-1:combatguide:psychology:college:group1:ibo:group2:group3:school:group4:index:civilization:misc:games:lit:apush:group5:chinese:calculus:econ:bio:chemistry:chem:physics:torrenting:further:bns:psych"/>
+    <file name="master_c-master.css" crc="4035809834" ref="change-log:trashed-ideas:competitions:calc-programs:troll:adobe:misc:torrenting"/>
+    <file name="master_ib.css" crc="124451958" ref="calc:stats:takehomes:history:group1:ibo:group2:group3:group4:lit:group5:chinese:econ:bio:chem:physics:further:psych"/>
+    <file name="master_e-master.css" crc="3885616357" ref="period-4:period-5:tht:period-6:period-8:tht1:period-7:tht3:period-9:tht2:tht4:tht5:period-1:period-2:period-3:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15"/>
+    <file name="jager.css" crc="526051116" ref="jager"/>
+    <file name="valkyrie.css" crc="526051116" ref="valkyrie"/>
+    <file name="frost.css" crc="526051116" ref="frost"/>
+    <file name="change-log.css" crc="1791705" ref="change-log"/>
+    <file name="house.css" crc="4207656402" ref="house"/>
+    <file name="calc.css" crc="3857333912" ref="calc"/>
+    <file name="hereford-base.css" crc="189255291" ref="hereford-base"/>
+    <file name="bank.css" crc="54964649" ref="bank"/>
+    <file name="stats.css" crc="185434603" ref="stats"/>
+    <file name="trashed-ideas.css" crc="4007489849" ref="trashed-ideas"/>
+    <file name="takehomes.css" crc="304862210" ref="takehomes"/>
+    <file name="competitions.css" crc="111381440" ref="competitions"/>
+    <file name="skyscraper.css" crc="4284566747" ref="skyscraper"/>
+    <file name="history.css" crc="3993252066" ref="history"/>
+    <file name="consulate.css" crc="400605818" ref="consulate"/>
+    <file name="chem-chap-2.css" crc="3818509001" ref="chem-chap-2"/>
+    <file name="calc-programs.css" crc="3823537433" ref="calc-programs"/>
+    <file name="glaz.css" crc="526051116" ref="glaz"/>
+    <file name="civ6-guide.css" crc="4263152715" ref="civ6-guide"/>
+    <file name="period-4.css" crc="480235188" ref="period-4"/>
+    <file name="chem-chap-3.css" crc="3857085933" ref="chem-chap-3"/>
+    <file name="physicss.css" crc="4061654370" ref="physicss"/>
+    <file name="period-5.css" crc="480235188" ref="period-5"/>
+    <file name="tht.css" crc="499323421" ref="tht"/>
+    <file name="period-6.css" crc="480235188" ref="period-6"/>
+    <file name="kapkan.css" crc="526051116" ref="kapkan"/>
+    <file name="blackbeard.css" crc="3823277067" ref="blackbeard"/>
+    <file name="hibana.css" crc="526051116" ref="hibana"/>
+    <file name="period-8.css" crc="480235188" ref="period-8"/>
+    <file name="tht1.css" crc="4016040431" ref="tht1"/>
+    <file name="period-7.css" crc="480235188" ref="period-7"/>
+    <file name="tht3.css" crc="4208661786" ref="tht3"/>
+    <file name="period-9.css" crc="4291292872" ref="period-9"/>
+    <file name="tht2.css" crc="3865763195" ref="tht2"/>
+    <file name="tht4.css" crc="196518051" ref="tht4"/>
+    <file name="chem-chap-4.css" crc="143974138" ref="chem-chap-4"/>
+    <file name="tht5.css" crc="467711848" ref="tht5"/>
+    <file name="chem-chap-5.css" crc="143974138" ref="chem-chap-5"/>
+    <file name="period-1.css" crc="4228399193" ref="period-1"/>
+    <file name="chem-chap-6.css" crc="143974138" ref="chem-chap-6"/>
+    <file name="period-2.css" crc="4047676200" ref="period-2"/>
+    <file name="echo.css" crc="526051116" ref="echo"/>
+    <file name="period-3.css" crc="3778747686" ref="period-3"/>
+    <file name="chem-chap-8.css" crc="143974138" ref="chem-chap-8"/>
+    <file name="chem-chap-7.css" crc="143974138" ref="chem-chap-7"/>
+    <file name="captitao.css" crc="526051116" ref="captitao"/>
+    <file name="chem-chap-9.css" crc="143974138" ref="chem-chap-9"/>
+    <file name="ib-program.css" crc="4106082075" ref="ib-program"/>
+    <file name="sledge.css" crc="526051116" ref="sledge"/>
+    <file name="troll.css" crc="183050041" ref="troll"/>
+    <file name="tht6.css" crc="4167057984" ref="tht6"/>
+    <file name="thatcher.css" crc="526051116" ref="thatcher"/>
+    <file name="dungeonguides.css" crc="236488310" ref="dungeonguides"/>
+    <file name="tht7.css" crc="3886231806" ref="tht7"/>
+    <file name="fuze.css" crc="526051116" ref="fuze"/>
+    <file name="tht8.css" crc="4193388288" ref="tht8"/>
+    <file name="ash.css" crc="526051116" ref="ash"/>
+    <file name="chem-chap-10.css" crc="143974138" ref="chem-chap-10"/>
+    <file name="smoke.css" crc="526051116" ref="smoke"/>
+    <file name="tht9.css" crc="391689077" ref="tht9"/>
+    <file name="thermite.css" crc="526051116" ref="thermite"/>
+    <file name="chem-option.css" crc="448235855" ref="chem-option"/>
+    <file name="tht10.css" crc="480235188" ref="tht10"/>
+    <file name="castle.css" crc="526051116" ref="castle"/>
+    <file name="chem-chap-11.css" crc="503527371" ref="chem-chap-11"/>
+    <file name="adobe.css" crc="180694451" ref="adobe"/>
+    <file name="twitch.css" crc="526051116" ref="twitch"/>
+    <file name="bandit.css" crc="526051116" ref="bandit"/>
+    <file name="mute.css" crc="526051116" ref="mute"/>
+    <file name="tht11.css" crc="480235188" ref="tht11"/>
+    <file name="tht12.css" crc="480235188" ref="tht12"/>
+    <file name="pulse.css" crc="31689938" ref="pulse"/>
+    <file name="tht13.css" crc="480235188" ref="tht13"/>
+    <file name="buck.css" crc="526051116" ref="buck"/>
+    <file name="montagne.css" crc="526051116" ref="montagne"/>
+    <file name="tht14.css" crc="480235188" ref="tht14"/>
+    <file name="doc.css" crc="447272557" ref="doc"/>
+    <file name="jackal.css" crc="4283433937" ref="jackal"/>
+    <file name="rook.css" crc="526051116" ref="rook"/>
+    <file name="chem-chap-1.css" crc="143036752" ref="chem-chap-1"/>
+    <file name="tht15.css" crc="480235188" ref="tht15"/>
+    <file name="combatguide.css" crc="4025473478" ref="combatguide"/>
+    <file name="psychology.css" crc="206401680" ref="psychology"/>
+    <file name="college.css" crc="256069578" ref="college"/>
+    <file name="tachanka.css" crc="526051116" ref="tachanka"/>
+    <file name="group1.css" crc="4046808733" ref="group1"/>
+    <file name="ibo.css" crc="3890657339" ref="ibo"/>
+    <file name="group2.css" crc="3984959425" ref="group2"/>
+    <file name="group3.css" crc="402366454" ref="group3"/>
+    <file name="school.css" crc="301592737" ref="school"/>
+    <file name="group4.css" crc="73797757" ref="group4"/>
+    <file name="index.css" crc="482214565" ref="index"/>
+    <file name="civilization.css" crc="4058416681" ref="civilization"/>
+    <file name="misc.css" crc="242176473" ref="misc"/>
+    <file name="games.css" crc="4244416360" ref="games"/>
+    <file name="lit.css" crc="119358837" ref="lit"/>
+    <file name="apush.css" crc="476951245" ref="apush"/>
+    <file name="group5.css" crc="4289698079" ref="group5"/>
+    <file name="chinese.css" crc="185434603" ref="chinese"/>
+    <file name="calculus.css" crc="3895047853" ref="calculus"/>
+    <file name="econ.css" crc="185434603" ref="econ"/>
+    <file name="bio.css" crc="185434603" ref="bio"/>
+    <file name="chemistry.css" crc="4244647526" ref="chemistry"/>
+    <file name="chem.css" crc="185434603" ref="chem"/>
+    <file name="mira.css" crc="526051116" ref="mira"/>
+    <file name="physics.css" crc="185434603" ref="physics"/>
+    <file name="rainbowsix.css" crc="3826596021" ref="rainbowsix"/>
+    <file name="caveira.css" crc="526051116" ref="caveira"/>
+    <file name="torrenting.css" crc="518928086" ref="torrenting"/>
+    <file name="further.css" crc="185434603" ref="further"/>
+    <file name="bns.css" crc="3868411451" ref="bns"/>
+    <file name="psych.css" crc="185434603" ref="psych"/>
+    <file name="blitz.css" crc="159972929" ref="blitz"/>
+    <file name="iq.css" crc="3899454747" ref="iq"/>
+  </folder>
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
     <file name="mouse2.png" crc="3827420600" seo="true" mt="1492478489000"/>
@@ -17,331 +143,2487 @@
     <file name="us-history-2006-released-exam.pdf" crc="238790096" seo="true" mt="1367033252000"/>
     <file name="us-history-2006-answers.pdf" crc="4075657869" seo="true" mt="1367033244000"/>
     <file name="us-history-2008-practice-exam.pdf" crc="366659403" seo="true" mt="1367033260000"/>
-    <file name="lord-of-the-flies-chapter-1-4.apkg" crc="4137178329" seo="true" mt="1508552970000"/>
     <file name="chemistry_sl.rar" crc="217911657" seo="true" mt="1508609909000"/>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="247371199"/>
-    <file name="master_a-master.css" crc="447358998" ref="index:misc:games:school:apush:calculus:chemistry:torrenting:dungeonguides:civilization:bns:combatguide:change-log:trashed-ideas:calc-programs:civ6-guide:physics:troll:ib-program:chem-chap-1:psychology:college:stats:physicss:further:group2:calc:takehomes:chinese:ibo:lit:econ:chem:group3:group4:group5:psych:group1:bio:chem-chap-2:history:chem-chap-3:chem-chap-5:chem-chap-8:chem-chap-9:chem-chap-6:chem-chap-10:chem-chap-11:chem-option:chem-chap-4:chem-chap-7"/>
-    <file name="index.css" crc="3968864056" ref="index"/>
-    <file name="misc.css" crc="4077953960" ref="misc"/>
-    <file name="games.css" crc="26961863" ref="games"/>
-    <file name="school.css" crc="85042539" ref="school"/>
-    <file name="master_b-master.css" crc="339190561" ref="apush:calculus:school:chemistry:ib-program:chem-chap-1:psychology:college:physicss:chem-chap-2:chem-chap-3:chem-chap-5:chem-chap-8:chem-chap-9:chem-chap-6:chem-chap-10:chem-chap-11:chem-option:chem-chap-4:chem-chap-7"/>
-    <file name="apush.css" crc="4274156825" ref="apush"/>
-    <file name="calculus.css" crc="164637382" ref="calculus"/>
-    <file name="chemistry.css" crc="4080761210" ref="chemistry"/>
-    <file name="master_c-master.css" crc="4035809834" ref="misc:torrenting:change-log:trashed-ideas:calc-programs:troll"/>
-    <file name="torrenting.css" crc="135451113" ref="torrenting"/>
-    <file name="master_d-master.css" crc="4272671743" ref="games:dungeonguides:civilization:bns:combatguide:civ6-guide"/>
-    <file name="rainbowsix.css" crc="320119151" ref="rainbowsix"/>
-    <file name="blackbeard.css" crc="3932366332" ref="blackbeard"/>
-    <file name="rook.css" crc="525771544" ref="rook"/>
-    <file name="hibana.css" crc="525771544" ref="hibana"/>
-    <file name="ash.css" crc="525771544" ref="ash"/>
-    <file name="caveira.css" crc="525771544" ref="caveira"/>
-    <file name="iq.css" crc="3891533723" ref="iq"/>
-    <file name="fuze.css" crc="525771544" ref="fuze"/>
-    <file name="montagne.css" crc="525771544" ref="montagne"/>
-    <file name="smoke.css" crc="525771544" ref="smoke"/>
-    <file name="mute.css" crc="525771544" ref="mute"/>
-    <file name="thatcher.css" crc="525771544" ref="thatcher"/>
-    <file name="twitch.css" crc="525771544" ref="twitch"/>
-    <file name="bandit.css" crc="525771544" ref="bandit"/>
-    <file name="glaz.css" crc="525771544" ref="glaz"/>
-    <file name="castle.css" crc="525771544" ref="castle"/>
-    <file name="frost.css" crc="525771544" ref="frost"/>
-    <file name="captitao.css" crc="525771544" ref="captitao"/>
-    <file name="valkyrie.css" crc="525771544" ref="valkyrie"/>
-    <file name="doc.css" crc="62133610" ref="doc"/>
-    <file name="thermite.css" crc="525771544" ref="thermite"/>
-    <file name="mira.css" crc="525771544" ref="mira"/>
-    <file name="blitz.css" crc="89289362" ref="blitz"/>
-    <file name="buck.css" crc="525771544" ref="buck"/>
-    <file name="sledge.css" crc="525771544" ref="sledge"/>
-    <file name="jackal.css" crc="354477361" ref="jackal"/>
-    <file name="kapkan.css" crc="525771544" ref="kapkan"/>
-    <file name="pulse.css" crc="4018789241" ref="pulse"/>
-    <file name="tachanka.css" crc="525771544" ref="tachanka"/>
-    <file name="echo.css" crc="525771544" ref="echo"/>
-    <file name="jager.css" crc="525771544" ref="jager"/>
-    <file name="dungeonguides.css" crc="3945806395" ref="dungeonguides"/>
-    <file name="civilization.css" crc="4201393088" ref="civilization"/>
-    <file name="bns.css" crc="4113078715" ref="bns"/>
-    <file name="combatguide.css" crc="64817663" ref="combatguide"/>
-    <file name="master_rainow.css" crc="325294554" ref="blackbeard:rook:hibana:ash:caveira:iq:fuze:montagne:smoke:mute:thatcher:twitch:bandit:glaz:castle:frost:rainbowsix:captitao:valkyrie:doc:thermite:mira:blitz:buck:sledge:jackal:kapkan:pulse:tachanka:echo:jager:bank:hereford-base:house:skyscraper:consulate"/>
-    <file name="master_civ.css" crc="4119103858" ref="civilization:combatguide:civ6-guide"/>
-    <file name="master_bns.css" crc="3925399535" ref="dungeonguides:bns"/>
-    <file name="change-log.css" crc="4250260995" ref="change-log"/>
-    <file name="bank.css" crc="3897047506" ref="bank"/>
-    <file name="hereford-base.css" crc="3906331506" ref="hereford-base"/>
-    <file name="house.css" crc="378573530" ref="house"/>
-    <file name="trashed-ideas.css" crc="83884706" ref="trashed-ideas"/>
-    <file name="skyscraper.css" crc="61321136" ref="skyscraper"/>
-    <file name="consulate.css" crc="486193073" ref="consulate"/>
-    <file name="calc-programs.css" crc="4064292473" ref="calc-programs"/>
-    <file name="civ6-guide.css" crc="466715931" ref="civ6-guide"/>
-    <file name="physics.css" crc="4135863766" ref="physics"/>
-    <file name="master_e-master.css" crc="141971051" ref="tht1:tht:tht3:tht4:tht5:tht2:period-3:period-2:period-1:tht12:tht14:tht9:tht13:tht8:tht15:tht10:tht7:tht6:tht11:period-4:period-5:period-6:period-7:period-8:period-9"/>
-    <file name="tht1.css" crc="313459553" ref="tht1"/>
-    <file name="tht.css" crc="258362085" ref="tht"/>
-    <file name="tht3.css" crc="4043934847" ref="tht3"/>
-    <file name="tht4.css" crc="455606931" ref="tht4"/>
-    <file name="tht5.css" crc="278397375" ref="tht5"/>
-    <file name="tht2.css" crc="495325914" ref="tht2"/>
-    <file name="period-3.css" crc="337958473" ref="period-3"/>
-    <file name="period-2.css" crc="123173980" ref="period-2"/>
-    <file name="period-1.css" crc="3954376928" ref="period-1"/>
-    <file name="troll.css" crc="3894231809" ref="troll"/>
-    <file name="ib-program.css" crc="3900712575" ref="ib-program"/>
-    <file name="tht12.css" crc="422870946" ref="tht12"/>
-    <file name="tht14.css" crc="422870946" ref="tht14"/>
-    <file name="tht9.css" crc="4082452897" ref="tht9"/>
-    <file name="tht13.css" crc="422870946" ref="tht13"/>
-    <file name="tht8.css" crc="496290423" ref="tht8"/>
-    <file name="tht15.css" crc="4011257896" ref="tht15"/>
-    <file name="tht10.css" crc="422870946" ref="tht10"/>
-    <file name="tht7.css" crc="162141512" ref="tht7"/>
-    <file name="tht6.css" crc="386653008" ref="tht6"/>
-    <file name="tht11.css" crc="422870946" ref="tht11"/>
-    <file name="chem-chap-1.css" crc="75504856" ref="chem-chap-1"/>
-    <file name="psychology.css" crc="143012835" ref="psychology"/>
-    <file name="college.css" crc="3830426030" ref="college"/>
-    <file name="stats.css" crc="4135863766" ref="stats"/>
-    <file name="physicss.css" crc="3759915196" ref="physicss"/>
-    <file name="further.css" crc="4135863766" ref="further"/>
-    <file name="group2.css" crc="419240117" ref="group2"/>
-    <file name="calc.css" crc="3819825527" ref="calc"/>
-    <file name="takehomes.css" crc="342036226" ref="takehomes"/>
-    <file name="chinese.css" crc="4135863766" ref="chinese"/>
-    <file name="ibo.css" crc="233456353" ref="ibo"/>
-    <file name="lit.css" crc="4103270517" ref="lit"/>
-    <file name="econ.css" crc="4135863766" ref="econ"/>
-    <file name="chem.css" crc="4135863766" ref="chem"/>
-    <file name="group3.css" crc="3997822677" ref="group3"/>
-    <file name="group4.css" crc="4040593330" ref="group4"/>
-    <file name="group5.css" crc="131577266" ref="group5"/>
-    <file name="psych.css" crc="4135863766" ref="psych"/>
-    <file name="group1.css" crc="465153153" ref="group1"/>
-    <file name="bio.css" crc="4135863766" ref="bio"/>
-    <file name="master_ib.css" crc="189238025" ref="calc:group2:stats:group3:takehomes:group4:group5:lit:chinese:econ:bio:chem:physics:ibo:psych:further:group1:history"/>
-    <file name="chem-chap-2.css" crc="266732958" ref="chem-chap-2"/>
-    <file name="history.css" crc="529659191" ref="history"/>
-    <file name="chem-chap-3.css" crc="4154370546" ref="chem-chap-3"/>
-    <file name="period-4.css" crc="422870946" ref="period-4"/>
-    <file name="chem-chap-5.css" crc="3937205402" ref="chem-chap-5"/>
-    <file name="period-5.css" crc="422870946" ref="period-5"/>
-    <file name="chem-chap-8.css" crc="3937205402" ref="chem-chap-8"/>
-    <file name="period-6.css" crc="422870946" ref="period-6"/>
-    <file name="chem-chap-9.css" crc="3937205402" ref="chem-chap-9"/>
-    <file name="period-7.css" crc="422870946" ref="period-7"/>
-    <file name="chem-chap-6.css" crc="3937205402" ref="chem-chap-6"/>
-    <file name="chem-chap-10.css" crc="3937205402" ref="chem-chap-10"/>
-    <file name="period-8.css" crc="422870946" ref="period-8"/>
-    <file name="chem-chap-11.css" crc="3999495411" ref="chem-chap-11"/>
-    <file name="period-9.css" crc="4011257896" ref="period-9"/>
-    <file name="chem-option.css" crc="3907506229" ref="chem-option"/>
-    <file name="chem-chap-4.css" crc="3937205402" ref="chem-chap-4"/>
-    <file name="chem-chap-7.css" crc="3937205402" ref="chem-chap-7"/>
-  </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:stats:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:further:psych:calc:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="museutils.js" crc="163421577" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:stats:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:further:psych:calc:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:stats:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:further:psych:calc:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="museconfig.js" crc="168988563" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:stats:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:further:psych:calc:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:stats:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:further:psych:calc:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="require.js" crc="244322403" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:stats:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:further:psych:calc:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="webpro.js" crc="3848665353" ref="school:apush:calculus:chemistry:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="school:apush:calculus:chemistry:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="school:apush:calculus:chemistry:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="touchswipe.js" crc="404375771" ref="school:apush:calculus:chemistry:index:games:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="doc:pulse:iq:jackal"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="civilization:bns:dungeonguides:combatguide:civ6-guide"/>
-    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide:civ6-guide:change-log:calc-programs:troll:trashed-ideas:physicss:ib-program:chem-chap-1:college:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:group1:group2:group3:group4:history:psychology:ibo:chem-chap-3:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:tht6:tht7:tht8:tht10:tht11:tht12:tht13:tht14:tht15"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions"/>
+    <file name="museutils.js" crc="3803043152" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions"/>
+    <file name="museconfig.js" crc="380897831" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions"/>
+    <file name="webpro.js" crc="242022427" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
+    <file name="require.js" crc="4157109226" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="iq:pulse:doc:jackal"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="civilization:bns:dungeonguides:combatguide:civ6-guide"/>
+    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions"/>
   </folder>
   <folder name="images">
-    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:stats:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:further:psych:calc:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:stats:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:further:psych:calc:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="favicon.ico" crc="271725686" ref="index:rainbowsix:apush"/>
-    <file name="actualalbum.jpg" crc="3764500425" ref="index" seo="true"/>
-    <file name="vicnent.jpg" crc="4025757287" ref="index" seo="true"/>
-    <file name="aagard.jpg" crc="4147394462" ref="index" seo="true"/>
-    <file name="car.jpg" crc="113882937" ref="index" seo="true"/>
-    <file name="musethemes-logo-crop-u4332.jpg" crc="3814523729" ref="games:civilization:bns:dungeonguides:combatguide:civ6-guide"/>
-    <file name="genericgameicon.jpg" crc="132268762" seo="true" ref="games:civilization:bns:dungeonguides:combatguide:civ6-guide"/>
-    <file name="blackbeard.png" crc="60862657" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="iq.png" crc="3763951682" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="thermite.png" crc="3851442132" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="twitch.png" crc="524588619" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="ash.png" crc="107497372" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="blitz.png" crc="4263957374" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="montagne.png" crc="4076047619" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="hibana.png" crc="4137338509" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="sledge.png" crc="86188661" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="glaz.png" crc="3821787575" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="buck.png" crc="3971445948" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="thatcher.png" crc="153384878" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="fuze.png" crc="4004184222" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="capitao.png" crc="3907830393" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="smoke.png" crc="126865174" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="doc.png" crc="4021733576" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="jager.png" crc="521230367" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="caveira.png" crc="206243403" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="mute.png" crc="3838828162" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="rook.png" crc="3891680501" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="bandit.png" crc="4222569628" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="echo.png" crc="451687740" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="castle.png" crc="352642569" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="kapkan.png" crc="47222682" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="frost.png" crc="4094348133" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="pasted image 224x223.jpg" crc="378880702" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="pulse.png" crc="172419121" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="tachanka.png" crc="6820915" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="valkyrie_visible_wings.png" crc="4241601486" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="-48250c359eb83d7a8efb1405f5d03a28fedf7961031de568da-pimgpsh_fullsize_distr.jpg" crc="4202790864" ref="blackbeard"/>
-    <file name="docpic2.jpg" crc="3781130070" ref="doc"/>
-    <file name="pulse2.jpg" crc="137522468" ref="pulse"/>
-    <file name="iq2.jpg" crc="4228620643" ref="iq"/>
-    <file name="logomakr_1jtcoh.png" crc="374159385" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physics:troll:ib-program:chem-chap-1:psychology:college:stats:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:further:psych:calc:takehomes:history:chem-chap-2:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
+    <file name="favicon.ico" crc="271725686" ref="index"/>
+    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions">
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="troll" alt=""/>
+      <caption webpage="house" alt=""/>
+      <caption webpage="combatguide" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="change-log" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="calc-programs" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="torrenting" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="dungeonguides" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="competitions" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="bns" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="civilization" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="civ6-guide" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="tht9" alt=""/>
+    </file>
+    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions">
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="troll" alt=""/>
+      <caption webpage="troll" alt=""/>
+      <caption webpage="troll" alt=""/>
+      <caption webpage="troll" alt=""/>
+      <caption webpage="house" alt=""/>
+      <caption webpage="house" alt=""/>
+      <caption webpage="house" alt=""/>
+      <caption webpage="house" alt=""/>
+      <caption webpage="combatguide" alt=""/>
+      <caption webpage="combatguide" alt=""/>
+      <caption webpage="combatguide" alt=""/>
+      <caption webpage="combatguide" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="change-log" alt=""/>
+      <caption webpage="change-log" alt=""/>
+      <caption webpage="change-log" alt=""/>
+      <caption webpage="change-log" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="calc-programs" alt=""/>
+      <caption webpage="calc-programs" alt=""/>
+      <caption webpage="calc-programs" alt=""/>
+      <caption webpage="calc-programs" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="torrenting" alt=""/>
+      <caption webpage="torrenting" alt=""/>
+      <caption webpage="torrenting" alt=""/>
+      <caption webpage="torrenting" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="dungeonguides" alt=""/>
+      <caption webpage="dungeonguides" alt=""/>
+      <caption webpage="dungeonguides" alt=""/>
+      <caption webpage="dungeonguides" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="competitions" alt=""/>
+      <caption webpage="competitions" alt=""/>
+      <caption webpage="competitions" alt=""/>
+      <caption webpage="competitions" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="bns" alt=""/>
+      <caption webpage="bns" alt=""/>
+      <caption webpage="bns" alt=""/>
+      <caption webpage="bns" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="civilization" alt=""/>
+      <caption webpage="civilization" alt=""/>
+      <caption webpage="civilization" alt=""/>
+      <caption webpage="civilization" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="civ6-guide" alt=""/>
+      <caption webpage="civ6-guide" alt=""/>
+      <caption webpage="civ6-guide" alt=""/>
+      <caption webpage="civ6-guide" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="tht9" alt=""/>
+    </file>
+    <file name="actualalbum.jpg" crc="3764500425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="vicnent.jpg" crc="4025757287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="car.jpg" crc="113882937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aagard.jpg" crc="4147394462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="-b0534574de4973f52eba0f0bff4c515b5778e026d921bfb68b-pimgpsh_fullsize_distr-crop-u8367.jpg" crc="4147050442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="jackal.png" crc="4175275865" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate"/>
-    <file name="-b0534574de4973f52eba0f0bff4c515b5778e026d921bfb68b-pimgpsh_fullsize_distr-crop-u8367.jpg" crc="4147050442" ref="index"/>
-    <file name="png.jpg" crc="4089623699" ref="jackal"/>
-    <file name="pasdf.png" crc="223653777" seo="true" ref="school:apush:calculus:chemistry:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:physicss:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option"/>
-    <file name="chrome_2017-08-26_08-58-38.jpg" crc="4161551588" seo="true" ref="tht1"/>
-    <file name="chrome_2017-08-26_08-58-45.jpg" crc="4147342220" seo="true" ref="tht1"/>
-    <file name="chrome_2017-08-26_09-00-05.jpg" crc="4031229377" seo="true" ref="tht1"/>
-    <file name="chrome_2017-08-26_09-16-07.jpg" crc="4051408846" seo="true" ref="tht1"/>
-    <file name="chrome_2017-08-26_09-21-57.jpg" crc="236971442" seo="true" ref="tht1"/>
-    <file name="chrome_2017-09-01_16-57-59.jpg" crc="3759680944" seo="true" ref="tht2"/>
-    <file name="chrome_2017-09-01_16-56-57.jpg" crc="249414050" seo="true" ref="tht2"/>
-    <file name="chrome_2017-09-01_16-44-21.jpg" crc="4190107078" seo="true" ref="tht2"/>
-    <file name="chrome_2017-09-01_17-17-50.jpg" crc="432711341" seo="true" ref="tht2"/>
-    <file name="chrome_2017-09-22_17-09-17.jpg" crc="10009635" seo="true" ref="tht5"/>
-    <file name="chrome_2017-09-22_17-14-53.jpg" crc="4205899703" seo="true" ref="tht5"/>
-    <file name="calc tht test 2.jpg" crc="3949067574" seo="true" ref="tht6"/>
-    <file name="calc tht test.jpg" crc="4080117614" seo="true" ref="tht6"/>
-    <file name="chrome_2017-10-06_20-06-22.jpg" crc="3761376925" seo="true" ref="tht7"/>
-    <file name="chrome_2017-10-06_20-33-27-crop-u11029.jpg" crc="3915048704" ref="tht7"/>
-    <file name="smoothdraw4_2017-10-12_19-48-22.jpg" crc="253418511" seo="true" ref="tht7"/>
-    <file name="smoothdraw4_2017-10-12_19-48-28.jpg" crc="401478280" seo="true" ref="tht7"/>
-    <file name="fixed 1.jpg" crc="4134183888" seo="true" ref="tht8"/>
-    <file name="fixed 2.jpg" crc="3811962237" seo="true" ref="tht8"/>
-    <file name="photoshop_2017-10-21_16-41-33-crop-u12268.jpg" crc="354024635" ref="tht9"/>
-    <file name="photoshop_2017-10-21_16-41-11.jpg" crc="9125116" seo="true" ref="tht9"/>
+    <file name="logomakr_1jtcoh.png" crc="374159385" seo="true" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions">
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="troll" alt=""/>
+      <caption webpage="house" alt=""/>
+      <caption webpage="combatguide" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="change-log" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="calc-programs" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="torrenting" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="dungeonguides" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="competitions" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="bns" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="civilization" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="civ6-guide" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="tht9" alt=""/>
+    </file>
+    <file name="pasdf.png" crc="223653777" seo="true" ref="school:apush:calculus:chemistry:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option">
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="tht9" alt=""/>
+    </file>
+    <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group2:group3:group4:group5:lit:chinese:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option">
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="period-2" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="tht9" alt=""/>
+    </file>
+    <file name="musethemes-logo-crop-u4332.jpg" crc="3814523729" seo="true" ref="games:civilization:bns:dungeonguides:combatguide:civ6-guide">
+      <caption webpage="civilization" alt=""/>
+      <caption webpage="bns" alt=""/>
+      <caption webpage="combatguide" alt=""/>
+      <caption webpage="dungeonguides" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="civ6-guide" alt=""/>
+    </file>
+    <file name="genericgameicon.jpg" crc="132268762" seo="true" ref="games:civilization:bns:dungeonguides:combatguide:civ6-guide">
+      <caption webpage="civilization" alt=""/>
+      <caption webpage="bns" alt=""/>
+      <caption webpage="combatguide" alt=""/>
+      <caption webpage="dungeonguides" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="civ6-guide" alt=""/>
+    </file>
+    <file name="thermite.png" crc="3851442132" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="iq.png" crc="3763951682" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="twitch.png" crc="524588619" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="blackbeard.png" crc="60862657" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="ash.png" crc="107497372" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="blitz.png" crc="4263957374" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="montagne.png" crc="4076047619" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="hibana.png" crc="4137338509" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="sledge.png" crc="86188661" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="glaz.png" crc="3821787575" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="buck.png" crc="3971445948" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="jackal.png" crc="4175275865" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="thatcher.png" crc="153384878" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="fuze.png" crc="4004184222" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="capitao.png" crc="3907830393" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="smoke.png" crc="126865174" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="mute.png" crc="3838828162" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="castle.png" crc="352642569" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="pulse.png" crc="172419121" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="doc.png" crc="4021733576" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="rook.png" crc="3891680501" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="kapkan.png" crc="47222682" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="tachanka.png" crc="6820915" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="jager.png" crc="521230367" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="bandit.png" crc="4222569628" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="frost.png" crc="4094348133" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="valkyrie_visible_wings.png" crc="4241601486" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="caveira.png" crc="206243403" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="echo.png" crc="451687740" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="pasted image 224x223.jpg" crc="378880702" seo="true" ref="rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:hereford-base:house:bank:skyscraper:consulate">
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="hibana" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="rook" alt=""/>
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="iq2.jpg" crc="4228620643" ref="iq">
+      <caption webpage="iq" alt=""/>
+    </file>
+    <file name="pulse2.jpg" crc="137522468" ref="pulse">
+      <caption webpage="pulse" alt=""/>
+    </file>
+    <file name="docpic2.jpg" crc="3781130070" ref="doc">
+      <caption webpage="doc" alt=""/>
+    </file>
+    <file name="-48250c359eb83d7a8efb1405f5d03a28fedf7961031de568da-pimgpsh_fullsize_distr.jpg" crc="4202790864" ref="blackbeard">
+      <caption webpage="blackbeard" alt=""/>
+    </file>
+    <file name="png.jpg" crc="4089623699" ref="jackal">
+      <caption webpage="jackal" alt=""/>
+    </file>
+    <file name="chrome_2017-08-26_08-58-38.jpg" crc="4161551588" seo="true" ref="tht1">
+      <caption webpage="tht1" alt=""/>
+    </file>
+    <file name="chrome_2017-08-26_08-58-45.jpg" crc="4147342220" seo="true" ref="tht1">
+      <caption webpage="tht1" alt=""/>
+    </file>
+    <file name="chrome_2017-08-26_09-00-05.jpg" crc="4031229377" seo="true" ref="tht1">
+      <caption webpage="tht1" alt=""/>
+    </file>
+    <file name="chrome_2017-08-26_09-16-07.jpg" crc="4051408846" seo="true" ref="tht1">
+      <caption webpage="tht1" alt=""/>
+    </file>
+    <file name="chrome_2017-08-26_09-21-57.jpg" crc="236971442" seo="true" ref="tht1">
+      <caption webpage="tht1" alt=""/>
+    </file>
+    <file name="chrome_2017-09-01_16-57-59.jpg" crc="3759680944" seo="true" ref="tht2">
+      <caption webpage="tht2" alt=""/>
+    </file>
+    <file name="chrome_2017-09-01_16-56-57.jpg" crc="249414050" seo="true" ref="tht2">
+      <caption webpage="tht2" alt=""/>
+    </file>
+    <file name="chrome_2017-09-01_16-44-21.jpg" crc="4190107078" seo="true" ref="tht2">
+      <caption webpage="tht2" alt=""/>
+    </file>
+    <file name="chrome_2017-09-01_17-17-50.jpg" crc="432711341" seo="true" ref="tht2">
+      <caption webpage="tht2" alt=""/>
+    </file>
+    <file name="chrome_2017-09-22_17-09-17.jpg" crc="10009635" seo="true" ref="tht5">
+      <caption webpage="tht5" alt=""/>
+    </file>
+    <file name="chrome_2017-09-22_17-14-53.jpg" crc="4205899703" seo="true" ref="tht5">
+      <caption webpage="tht5" alt=""/>
+    </file>
+    <file name="calc tht test.jpg" crc="4080117614" seo="true" ref="tht6">
+      <caption webpage="tht6" alt=""/>
+    </file>
+    <file name="calc tht test 2.jpg" crc="3949067574" seo="true" ref="tht6">
+      <caption webpage="tht6" alt=""/>
+    </file>
+    <file name="chrome_2017-10-06_20-33-27-crop-u11029.jpg" crc="3915048704" seo="true" ref="tht7">
+      <caption webpage="tht7" alt=""/>
+    </file>
+    <file name="chrome_2017-10-06_20-06-22.jpg" crc="3761376925" seo="true" ref="tht7">
+      <caption webpage="tht7" alt=""/>
+    </file>
+    <file name="smoothdraw4_2017-10-12_19-48-28.jpg" crc="401478280" seo="true" ref="tht7">
+      <caption webpage="tht7" alt=""/>
+    </file>
+    <file name="smoothdraw4_2017-10-12_19-48-22.jpg" crc="253418511" seo="true" ref="tht7">
+      <caption webpage="tht7" alt=""/>
+    </file>
+    <file name="fixed 1.jpg" crc="4134183888" seo="true" ref="tht8">
+      <caption webpage="tht8" alt=""/>
+    </file>
+    <file name="fixed 2.jpg" crc="3811962237" seo="true" ref="tht8">
+      <caption webpage="tht8" alt=""/>
+    </file>
+    <file name="photoshop_2017-10-21_16-41-11.jpg" crc="9125116" seo="true" ref="tht9">
+      <caption webpage="tht9" alt=""/>
+    </file>
+    <file name="photoshop_2017-10-21_16-41-33-crop-u12268.jpg" crc="354024635" seo="true" ref="tht9">
+      <caption webpage="tht9" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4289197579" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="school.html" crc="3806736391" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="games.html" crc="4123401875" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="misc.html" crc="213858950" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="apush.html" crc="4091958147" seo="true" mt="1508626034007" redirect="true"/>
-  <file name="calculus.html" crc="4247378297" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="chemistry.html" crc="3871005996" seo="true" mt="1508627494307" redirect="true"/>
-  <file name="torrenting.html" crc="4187320535" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="rainbowsix.html" crc="213882293" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="iq.html" crc="4013701596" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="blitz.html" crc="261530887" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="jager.html" crc="3924397602" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="sledge.html" crc="385509708" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="thatcher.html" crc="3860617377" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="smoke.html" crc="3874029596" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="ash.html" crc="4146522935" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="thermite.html" crc="425881113" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="castle.html" crc="4145271676" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="bandit.html" crc="4211621030" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="mute.html" crc="152594815" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="pulse.html" crc="3762704539" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="twitch.html" crc="4016183408" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="montagne.html" crc="255403836" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="doc.html" crc="139069011" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="rook.html" crc="4138756705" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="glaz.html" crc="170455925" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="fuze.html" crc="111718474" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="kapkan.html" crc="132071946" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="tachanka.html" crc="41088006" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="buck.html" crc="4241229082" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="frost.html" crc="4235756665" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="blackbeard.html" crc="3867541993" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="valkyrie.html" crc="4190648509" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="captitao.html" crc="4080406099" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="caveira.html" crc="3860788455" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="hibana.html" crc="170855540" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="echo.html" crc="3866144537" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="jackal.html" crc="3808305445" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="mira.html" crc="70449159" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="civilization.html" crc="88636606" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="bns.html" crc="285280821" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="dungeonguides.html" crc="3994567320" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="combatguide.html" crc="3824866537" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="change-log.html" crc="4189153318" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="hereford-base.html" crc="3995769921" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="house.html" crc="4014468538" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="bank.html" crc="489492426" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="trashed-ideas.html" crc="4053431069" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="skyscraper.html" crc="3762179059" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="consulate.html" crc="173635216" seo="true" mt="1508612630589" redirect="true"/>
-  <file name="calc-programs.html" crc="44221309" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="civ6-guide.html" crc="384479334" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="physics.html" crc="4121024867" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="tht.html" crc="379886849" seo="true" mt="1508625793734" redirect="true"/>
-  <file name="tht1.html" crc="4125431296" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht2.html" crc="105013234" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht3.html" crc="456755671" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht4.html" crc="3828679681" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht5.html" crc="24784208" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="period-1.html" crc="4193221466" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="period-2.html" crc="3912590621" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="period-3.html" crc="3952451648" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="troll.html" crc="3946785580" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="ib-program.html" crc="10369686" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="tht6.html" crc="91493597" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht7.html" crc="373763008" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht8.html" crc="4031906404" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht9.html" crc="3921451055" seo="true" mt="1508625731474" redirect="true"/>
-  <file name="tht10.html" crc="3767761911" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht11.html" crc="4050465099" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht12.html" crc="404678862" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht13.html" crc="165716594" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht14.html" crc="294149509" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="tht15.html" crc="268460253" seo="true" mt="1508612384565" redirect="true"/>
-  <file name="chem-chap-1.html" crc="4280585908" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="psychology.html" crc="323677066" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="college.html" crc="3912400229" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="stats.html" crc="467346504" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="physicss.html" crc="3909783217" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="ibo.html" crc="4152684110" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="group1.html" crc="309697279" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="group2.html" crc="99838240" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="group3.html" crc="4112688777" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="group4.html" crc="4243921954" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="group5.html" crc="315797119" seo="true" mt="1508701656537" redirect="true"/>
-  <file name="lit.html" crc="3904298057" seo="true" mt="1508612418690" redirect="true"/>
-  <file name="chinese.html" crc="431988891" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="econ.html" crc="3932465243" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="bio.html" crc="408911244" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="chem.html" crc="4106198644" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="further.html" crc="4205483204" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="psych.html" crc="307658692" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="calc.html" crc="458946884" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="takehomes.html" crc="4216937024" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="history.html" crc="174445731" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="chem-chap-2.html" crc="3940102237" seo="true" mt="1508627464505" redirect="true"/>
-  <file name="chem-chap-3.html" crc="508508584" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="period-4.html" crc="4270158179" seo="true" mt="1508626163716" redirect="true"/>
-  <file name="period-5.html" crc="3779263922" seo="true" mt="1508626168044" redirect="true"/>
-  <file name="period-6.html" crc="444296832" seo="true" mt="1508626172188" redirect="true"/>
-  <file name="period-7.html" crc="96264785" seo="true" mt="1508626181060" redirect="true"/>
-  <file name="period-8.html" crc="308493739" seo="true" mt="1508626185131" redirect="true"/>
-  <file name="period-9.html" crc="3842104549" seo="true" mt="1508626189582" redirect="true"/>
-  <file name="chem-chap-4.html" crc="4239734999" seo="true" mt="1508626200539" redirect="true"/>
-  <file name="chem-chap-5.html" crc="31755937" seo="true" mt="1508626206219" redirect="true"/>
-  <file name="chem-chap-6.html" crc="102126651" seo="true" mt="1508626211044" redirect="true"/>
-  <file name="chem-chap-7.html" crc="4215792205" seo="true" mt="1508626222715" redirect="true"/>
-  <file name="chem-chap-8.html" crc="3816706751" seo="true" mt="1508626227750" redirect="true"/>
-  <file name="chem-chap-9.html" crc="506455241" seo="true" mt="1508626232470" redirect="true"/>
-  <file name="chem-chap-10.html" crc="118463178" seo="true" mt="1508626238159" redirect="true"/>
-  <file name="chem-chap-11.html" crc="119590780" seo="true" mt="1508626275428" redirect="true"/>
-  <file name="chem-option.html" crc="15470849" seo="true" mt="1508626248829" redirect="true"/>
+  <file name="index.html" crc="503478790" seo="true" mt="1508708239341" redirect="true"/>
+  <file name="school.html" crc="142674990" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="games.html" crc="3760687383" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="misc.html" crc="3980991805" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="apush.html" crc="3884830778" seo="true" mt="1508626034007" redirect="true"/>
+  <file name="calculus.html" crc="4048732814" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="chemistry.html" crc="3809275250" seo="true" mt="1508627494307" redirect="true"/>
+  <file name="torrenting.html" crc="363269671" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="rainbowsix.html" crc="4153558221" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="iq.html" crc="61706239" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="blitz.html" crc="3925933305" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="jager.html" crc="433218890" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="sledge.html" crc="3808365376" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="thatcher.html" crc="290441671" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="smoke.html" crc="4173520747" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="ash.html" crc="3766285942" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="thermite.html" crc="3872547443" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="castle.html" crc="3813172564" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="bandit.html" crc="3763502467" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="mute.html" crc="214917528" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="pulse.html" crc="322035246" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="twitch.html" crc="449074026" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="montagne.html" crc="355796125" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="doc.html" crc="147942092" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="rook.html" crc="3812142018" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="glaz.html" crc="99143103" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="fuze.html" crc="4060835525" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="kapkan.html" crc="3906322010" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="tachanka.html" crc="197662702" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="buck.html" crc="3820540893" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="frost.html" crc="77029164" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="blackbeard.html" crc="437050097" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="valkyrie.html" crc="401463807" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="captitao.html" crc="4199640744" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="caveira.html" crc="3945771810" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="hibana.html" crc="3943438464" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="echo.html" crc="3874108348" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="jackal.html" crc="103351733" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="mira.html" crc="331283476" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="civilization.html" crc="7570113" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="bns.html" crc="137728342" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="dungeonguides.html" crc="342867717" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="combatguide.html" crc="4254149312" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="change-log.html" crc="3945268922" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="hereford-base.html" crc="4262635291" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="house.html" crc="366196425" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="bank.html" crc="3838374540" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="trashed-ideas.html" crc="63092297" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="skyscraper.html" crc="4149477357" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="consulate.html" crc="3862596304" seo="true" mt="1508612630589" redirect="true"/>
+  <file name="calc-programs.html" crc="4251260063" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="civ6-guide.html" crc="215108741" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="physicss.html" crc="4010268025" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="tht.html" crc="4021013317" seo="true" mt="1508625793734" redirect="true"/>
+  <file name="tht1.html" crc="484937401" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht2.html" crc="309444277" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht3.html" crc="4140251716" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht4.html" crc="4053927338" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht5.html" crc="498670318" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="period-1.html" crc="15796162" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="period-2.html" crc="407137436" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="period-3.html" crc="419575517" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="troll.html" crc="4192342147" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="ib-program.html" crc="203207169" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="tht6.html" crc="34067521" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht7.html" crc="479401640" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht8.html" crc="293200430" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht9.html" crc="3941275644" seo="true" mt="1508625731474" redirect="true"/>
+  <file name="tht10.html" crc="3921109074" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht11.html" crc="4039867417" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht12.html" crc="4087429" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht13.html" crc="423772878" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht14.html" crc="3788774333" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="tht15.html" crc="4171761654" seo="true" mt="1508612384565" redirect="true"/>
+  <file name="chem-chap-1.html" crc="4244260951" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="psychology.html" crc="3975247343" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="college.html" crc="3960084169" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="ibo.html" crc="4114834207" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="group1.html" crc="3791439271" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="group2.html" crc="4159785505" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="group3.html" crc="417337278" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="group4.html" crc="175603997" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="group5.html" crc="3795756427" seo="true" mt="1508701656537" redirect="true"/>
+  <file name="lit.html" crc="4259505261" seo="true" mt="1508612418690" redirect="true"/>
+  <file name="chinese.html" crc="4080812390" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="econ.html" crc="394735911" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="bio.html" crc="524923896" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="chem.html" crc="4060300323" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="physics.html" crc="3926814704" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="further.html" crc="3782697119" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="psych.html" crc="3838564439" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="calc.html" crc="393620620" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="stats.html" crc="204412865" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="takehomes.html" crc="164428052" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="history.html" crc="4180117761" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="chem-chap-2.html" crc="178911513" seo="true" mt="1508627464505" redirect="true"/>
+  <file name="chem-chap-3.html" crc="3782054640" seo="true" mt="1508612343379" redirect="true"/>
+  <file name="period-4.html" crc="158715441" seo="true" mt="1508626163716" redirect="true"/>
+  <file name="period-5.html" crc="94808771" seo="true" mt="1508626168044" redirect="true"/>
+  <file name="period-6.html" crc="282265557" seo="true" mt="1508626172188" redirect="true"/>
+  <file name="period-7.html" crc="469787431" seo="true" mt="1508626181060" redirect="true"/>
+  <file name="period-8.html" crc="3930158827" seo="true" mt="1508626185131" redirect="true"/>
+  <file name="period-9.html" crc="307754373" seo="true" mt="1508626189582" redirect="true"/>
+  <file name="chem-chap-4.html" crc="3997751201" seo="true" mt="1508626200539" redirect="true"/>
+  <file name="chem-chap-5.html" crc="4177686974" seo="true" mt="1508626206219" redirect="true"/>
+  <file name="chem-chap-6.html" crc="464297438" seo="true" mt="1508626211044" redirect="true"/>
+  <file name="chem-chap-7.html" crc="216415169" seo="true" mt="1508626222715" redirect="true"/>
+  <file name="chem-chap-8.html" crc="157314274" seo="true" mt="1508626227750" redirect="true"/>
+  <file name="chem-chap-9.html" crc="506120957" seo="true" mt="1508626232470" redirect="true"/>
+  <file name="chem-chap-10.html" crc="326147531" seo="true" mt="1508626238159" redirect="true"/>
+  <file name="chem-chap-11.html" crc="157150317" seo="true" mt="1508626275428" redirect="true"/>
+  <file name="chem-option.html" crc="371304126" seo="true" mt="1508626248829" redirect="true"/>
+  <file name="adobe.html" crc="57276598" seo="true" mt="1508712794026" redirect="true"/>
+  <file name="competitions.html" crc="4226973837" seo="true" mt="1508800415421" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.stats /* version checker */
 {
-	color: #0000F6;
-	background-color: #8445D6;
+	color: #00000B;
+	background-color: #0D81EB;
 }
 
 #muse_css_mq
@@ -24,17 +24,19 @@
 	margin-right: auto;
 }
 
-#page_position_content
+#ppu3573
 {
+	z-index: 0;
+	padding-bottom: 0px;
+	margin-right: -10000px;
 	margin-top: -164px;
-	margin-bottom: -16px;
 	width: 100%;
 }
 
 #pu3573
 {
 	z-index: 24;
-	width: 100%;
+	width: 71.88%;
 }
 
 #u3573
@@ -45,7 +47,8 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 119px;
-	left: 49px;
+	left: 0px;
+	margin-left: 49px;
 }
 
 #u104
@@ -53,8 +56,9 @@
 	z-index: 2;
 	position: relative;
 	margin-right: -10000px;
-	width: 53.86%;
-	left: 23.13%;
+	width: 74.93%;
+	left: 25.08%;
+	margin-left: 7.11%;
 }
 
 #u900
@@ -78,6 +82,8 @@
 	z-index: 4;
 	min-height: 40px;
 	margin-top: 21px;
+	left: 0px;
+	margin-left: 0px;
 }
 
 #u7673
@@ -87,6 +93,7 @@
 	margin-bottom: -4px;
 	position: relative;
 	width: 53.86%;
+	left: 0%;
 	margin-left: 23.13%;
 }
 
@@ -146,15 +153,6 @@
 	width: 78.75%;
 }
 
-#pbuttonu7682 #u7685-4
-{
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 17px;
-	left: 16px;
-	width: 78.75%;
-}
-
 #u7683
 {
 	z-index: 32;
@@ -180,7 +178,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.75%;
 	left: 45.67%;
 }
 
@@ -240,13 +237,12 @@
 	width: 80%;
 }
 
-#pbuttonu7674 #u7677-4
+#pbuttonu7682 #u7685-4,#pbuttonu7674 #u7677-4
 {
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 16px;
-	width: 80%;
 }
 
 #u7675
@@ -274,7 +270,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 16%;
 	left: 41.6%;
 }
 
@@ -340,7 +335,6 @@
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 15px;
-	width: 76.34%;
 }
 
 #u7679
@@ -368,7 +362,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.27%;
 	left: 41.99%;
 }
 
@@ -433,7 +426,6 @@
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 6px;
-	width: 77.52%;
 }
 
 #u7687
@@ -461,56 +453,68 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.51%;
 	left: 42.64%;
+}
+
+#pu11697
+{
+	z-index: 62;
+	margin-top: 10px;
+	width: 26.36%;
+	left: 0%;
+	margin-left: 37.19%;
+}
+
+#u11697
+{
+	z-index: 62;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	width: 99.21%;
+	left: 0.4%;
 }
 
 #pamphletu11699
 {
 	z-index: 64;
-	width: 0.01px;
-	height: 72px;
-	margin-top: 10px;
 	position: relative;
-	margin-left: 37.19%;
+	margin-right: -10000px;
+	width: 216.61%;
+	left: -116.61%;
 }
 
 #u11700
 {
 	position: absolute;
-	width: 359px;
-	padding-bottom: 44px;
-	top: -1px;
-	left: -295px;
+	width: 315px;
+	height: 1339px;
 }
 
 #u11700popup
 {
 	z-index: 65;
+	margin-top: 21px;
+	margin-left: 22px;
+	width: 315px;
+	height: 1339px;
+	margin-right: -10000px;
 }
 
 #u11701
 {
 	z-index: 66;
 	width: 315px;
-	height: 1339px;
+	height: 436px;
+	padding-bottom: 903px;
 	margin-right: -10000px;
 	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#ppu11717
-{
-	z-index: 0;
-	width: 0.01px;
-	margin-right: -10000px;
 }
 
 #pu11717
 {
 	z-index: 67;
-	width: 0.01px;
+	width: 100%;
 }
 
 #u11717
@@ -520,6 +524,8 @@
 	height: 94px;
 	position: relative;
 	margin-right: -10000px;
+	left: 0px;
+	margin-left: 0px;
 }
 
 #u11702
@@ -531,12 +537,70 @@
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 1px;
+	margin-left: 0px;
+}
+
+#buttonu11711
+{
+	z-index: 114;
+	padding-bottom: 11px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	width: 73.34%;
+	left: 14.29%;
+	margin-left: 0%;
+}
+
+#buttonu11711:hover
+{
+	min-height: 0px;
+	width: 73.34%;
+	margin: 26px -10000px 0px 0%;
+}
+
+#buttonu11711.ButtonSelected
+{
+	min-height: 0px;
+	width: 73.34%;
+	left: 0%;
+	margin: 26px -10000px 0px 0%;
+}
+
+#u11712-4
+{
+	z-index: 115;
+	min-height: 23px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	width: 51.52%;
+	left: 24.25%;
+}
+
+#buttonu11711:hover #u11712-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 51.52%;
+	margin: 16px -10000px 0px 0%;
+}
+
+#buttonu11711.ButtonSelected #u11712-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 51.52%;
+	margin: 16px -10000px 0px 0%;
 }
 
 #buttonu11722
 {
 	z-index: 68;
 	width: 313px;
+	height: 47px;
 	padding-bottom: 10px;
 	margin-left: 1px;
 	top: -1px;
@@ -547,6 +611,7 @@
 #buttonu11722:hover
 {
 	width: 313px;
+	height: 47px;
 	min-height: 0px;
 	margin: 0px 0px -1px 1px;
 }
@@ -554,6 +619,7 @@
 #buttonu11722.ButtonSelected
 {
 	width: 313px;
+	height: 47px;
 	min-height: 0px;
 	margin: 0px 0px -1px 1px;
 }
@@ -613,6 +679,7 @@
 {
 	z-index: 86;
 	width: 313px;
+	height: 48px;
 	padding-bottom: 9px;
 	margin-left: 1px;
 	position: relative;
@@ -621,6 +688,15 @@
 #buttonu11707:hover
 {
 	width: 313px;
+	height: 48px;
+	min-height: 0px;
+	margin: 0px 0px 0px 1px;
+}
+
+#buttonu11707.ButtonSelected
+{
+	width: 313px;
+	height: 48px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -689,14 +765,16 @@
 {
 	z-index: 95;
 	width: 313px;
+	height: 47px;
 	padding-bottom: 10px;
 	margin-left: 1px;
 	position: relative;
 }
 
-#buttonu11707.ButtonSelected,#buttonu11713:hover
+#buttonu11713:hover
 {
 	width: 313px;
+	height: 47px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -749,6 +827,7 @@
 {
 	z-index: 77;
 	width: 313px;
+	height: 47px;
 	padding-bottom: 10px;
 	margin-left: 1px;
 	position: relative;
@@ -757,6 +836,7 @@
 #buttonu11713.ButtonSelected,#buttonu11703:hover
 {
 	width: 313px;
+	height: 47px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -809,6 +889,7 @@
 {
 	z-index: 104;
 	width: 313px;
+	height: 47px;
 	padding-bottom: 10px;
 	margin-left: 1px;
 	position: relative;
@@ -817,6 +898,15 @@
 #buttonu11703.ButtonSelected,#buttonu11718:hover
 {
 	width: 313px;
+	height: 47px;
+	min-height: 0px;
+	margin: 0px 0px 0px 1px;
+}
+
+#buttonu11718.ButtonSelected
+{
+	width: 313px;
+	height: 47px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -876,14 +966,16 @@
 {
 	z-index: 119;
 	width: 313px;
+	height: 46px;
 	padding-bottom: 11px;
 	margin-left: 1px;
 	position: relative;
 }
 
-#buttonu11718.ButtonSelected,#buttonu11814:hover
+#buttonu11814:hover
 {
 	width: 313px;
+	height: 46px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -891,6 +983,7 @@
 #buttonu11814.ButtonSelected
 {
 	width: 313px;
+	height: 46px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -955,66 +1048,13 @@
 	margin: 9px -10000px 0px 0px;
 }
 
-#buttonu11711
-{
-	z-index: 114;
-	padding-bottom: 11px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 26px;
-	width: 73.34%;
-	left: 14.29%;
-}
-
-#buttonu11711:hover
-{
-	min-height: 0px;
-	width: 73.34%;
-	margin: 26px -10000px 0px 0%;
-}
-
-#buttonu11711.ButtonSelected
-{
-	min-height: 0px;
-	width: 73.34%;
-	margin: 26px -10000px 0px 0%;
-}
-
-#u11712-4
-{
-	z-index: 115;
-	min-height: 23px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 16px;
-	width: 51.52%;
-	left: 24.25%;
-}
-
-#buttonu11711:hover #u11712-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 51.52%;
-	margin: 16px -10000px 0px 0%;
-}
-
-#buttonu11711.ButtonSelected #u11712-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 51.52%;
-	margin: 16px -10000px 0px 0%;
-}
-
 #u11730
 {
 	z-index: 126;
-	width: 253px;
 	position: relative;
 	margin-right: -10000px;
+	left: 295px;
+	width: 46.17%;
 }
 
 #u11731
@@ -1032,19 +1072,16 @@
 	filter: alpha(opacity=1);
 }
 
-#u11697
+#u11731popup
 {
-	z-index: 62;
-	top: -70px;
-	margin-bottom: -47px;
-	position: relative;
-	width: 26.15%;
-	margin-left: 37.3%;
+	width: 253px;
+	height: 72px;
+	margin-right: -10000px;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1268px);
+	height: calc(100vh - 660px);
 }
 
 #u6883
@@ -1124,7 +1161,8 @@
 {
 	z-index: 5;
 	min-height: 211px;
-	margin-top: 607px;
+	margin-bottom: -16px;
+	margin-top: -2px;
 }
 
 .html
@@ -1138,6 +1176,11 @@ body
 	min-width: 240px;
 	padding-top: 155px;
 	padding-bottom: 12px;
+}
+
+.verticalspacer
+{
+	min-height: 607px;
 }
 
 #u104_img,#u7683_img,#u7675_img,#u7679_img,#u7687_img,#u11697_img,#u6898_img

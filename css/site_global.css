@@ -290,6 +290,11 @@ a.nontext /* used to override default properties of 'a' tag */
 	height: 0px;
 }
 
+.allow_click_through *
+{
+	pointer-events: auto;
+}
+
 .popup_element
 {
 	z-index: 100000;
@@ -353,7 +358,7 @@ textarea
 	overflow: auto;
 }
 
-.fld-prompt /* form placeholders cursor behavior */
+.allow_click_through,.fld-prompt
 {
 	pointer-events: none;
 }

@@ -1,7 +1,7 @@
 .version.takehomes /* version checker */
 {
-	color: #000014;
-	background-color: #630F02;
+	color: #000012;
+	background-color: #2BD402;
 }
 
 #muse_css_mq
@@ -24,17 +24,19 @@
 	margin-right: auto;
 }
 
-#page_position_content
+#ppu3573
 {
+	z-index: 0;
+	padding-bottom: 0px;
+	margin-right: -10000px;
 	margin-top: -164px;
-	margin-bottom: -16px;
 	width: 100%;
 }
 
 #pu3573
 {
 	z-index: 90;
-	width: 100%;
+	width: 71.88%;
 }
 
 #u3573
@@ -45,7 +47,8 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 119px;
-	left: 49px;
+	left: 0px;
+	margin-left: 49px;
 }
 
 #u104
@@ -53,8 +56,9 @@
 	z-index: 2;
 	position: relative;
 	margin-right: -10000px;
-	width: 53.86%;
-	left: 23.13%;
+	width: 74.93%;
+	left: 25.08%;
+	margin-left: 7.11%;
 }
 
 #u900
@@ -78,6 +82,8 @@
 	z-index: 4;
 	min-height: 40px;
 	margin-top: 21px;
+	left: 0px;
+	margin-left: 0px;
 }
 
 #u7673
@@ -87,6 +93,7 @@
 	margin-bottom: -4px;
 	position: relative;
 	width: 53.86%;
+	left: 0%;
 	margin-left: 23.13%;
 }
 
@@ -146,15 +153,6 @@
 	width: 78.75%;
 }
 
-#pbuttonu7682 #u7685-4
-{
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 17px;
-	left: 16px;
-	width: 78.75%;
-}
-
 #u7683
 {
 	z-index: 98;
@@ -180,7 +178,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.75%;
 	left: 45.67%;
 }
 
@@ -240,13 +237,12 @@
 	width: 80%;
 }
 
-#pbuttonu7674 #u7677-4
+#pbuttonu7682 #u7685-4,#pbuttonu7674 #u7677-4
 {
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 16px;
-	width: 80%;
 }
 
 #u7675
@@ -274,7 +270,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 16%;
 	left: 41.6%;
 }
 
@@ -340,7 +335,6 @@
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 15px;
-	width: 76.34%;
 }
 
 #u7679
@@ -368,7 +362,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.27%;
 	left: 41.99%;
 }
 
@@ -433,7 +426,6 @@
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 6px;
-	width: 77.52%;
 }
 
 #u7687
@@ -461,7 +453,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.51%;
 	left: 42.64%;
 }
 
@@ -469,7 +460,9 @@
 {
 	z-index: 24;
 	margin-top: 10px;
-	width: 100%;
+	width: 95%;
+	left: 0%;
+	margin-left: 2.71%;
 }
 
 #u11624-66
@@ -480,8 +473,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
-	width: 95%;
-	left: 2.71%;
+	width: 100%;
 }
 
 #u11624-24
@@ -502,56 +494,50 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 2px;
-	width: 26.15%;
-	left: 37.3%;
+	width: 27.53%;
+	left: 36.41%;
 }
 
 #pamphletu11699
 {
 	z-index: 130;
-	width: 0.01px;
-	height: 72px;
 	position: relative;
 	margin-right: -10000px;
-	left: 37.19%;
+	width: 60.09%;
+	left: 3.95%;
 }
 
 #u11700
 {
 	position: absolute;
-	width: 359px;
-	padding-bottom: 44px;
-	top: -1px;
-	left: -295px;
+	width: 315px;
+	height: 1339px;
 }
 
 #u11700popup
 {
 	z-index: 131;
+	margin-top: 21px;
+	margin-left: 22px;
+	width: 315px;
+	height: 1339px;
+	margin-right: -10000px;
 }
 
 #u11701
 {
 	z-index: 132;
 	width: 315px;
-	height: 1339px;
+	height: 436px;
+	padding-bottom: 903px;
 	margin-right: -10000px;
 	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#ppu11717
-{
-	z-index: 0;
-	width: 0.01px;
-	margin-right: -10000px;
 }
 
 #pu11717
 {
 	z-index: 133;
-	width: 0.01px;
+	width: 100%;
 }
 
 #u11717
@@ -561,6 +547,8 @@
 	height: 94px;
 	position: relative;
 	margin-right: -10000px;
+	left: 0px;
+	margin-left: 0px;
 }
 
 #u11702
@@ -572,12 +560,70 @@
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 1px;
+	margin-left: 0px;
+}
+
+#buttonu11711
+{
+	z-index: 180;
+	padding-bottom: 11px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	width: 73.34%;
+	left: 14.29%;
+	margin-left: 0%;
+}
+
+#buttonu11711:hover
+{
+	min-height: 0px;
+	width: 73.34%;
+	margin: 26px -10000px 0px 0%;
+}
+
+#buttonu11711.ButtonSelected
+{
+	min-height: 0px;
+	width: 73.34%;
+	left: 0%;
+	margin: 26px -10000px 0px 0%;
+}
+
+#u11712-4
+{
+	z-index: 181;
+	min-height: 23px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	width: 51.52%;
+	left: 24.25%;
+}
+
+#buttonu11711:hover #u11712-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 51.52%;
+	margin: 16px -10000px 0px 0%;
+}
+
+#buttonu11711.ButtonSelected #u11712-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 51.52%;
+	margin: 16px -10000px 0px 0%;
 }
 
 #buttonu11722
 {
 	z-index: 134;
 	width: 313px;
+	height: 47px;
 	padding-bottom: 10px;
 	margin-left: 1px;
 	top: -1px;
@@ -588,6 +634,7 @@
 #buttonu11722:hover
 {
 	width: 313px;
+	height: 47px;
 	min-height: 0px;
 	margin: 0px 0px -1px 1px;
 }
@@ -595,6 +642,7 @@
 #buttonu11722.ButtonSelected
 {
 	width: 313px;
+	height: 47px;
 	min-height: 0px;
 	margin: 0px 0px -1px 1px;
 }
@@ -654,6 +702,7 @@
 {
 	z-index: 152;
 	width: 313px;
+	height: 48px;
 	padding-bottom: 9px;
 	margin-left: 1px;
 	position: relative;
@@ -662,6 +711,15 @@
 #buttonu11707:hover
 {
 	width: 313px;
+	height: 48px;
+	min-height: 0px;
+	margin: 0px 0px 0px 1px;
+}
+
+#buttonu11707.ButtonSelected
+{
+	width: 313px;
+	height: 48px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -730,14 +788,16 @@
 {
 	z-index: 161;
 	width: 313px;
+	height: 47px;
 	padding-bottom: 10px;
 	margin-left: 1px;
 	position: relative;
 }
 
-#buttonu11707.ButtonSelected,#buttonu11713:hover
+#buttonu11713:hover
 {
 	width: 313px;
+	height: 47px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -790,6 +850,7 @@
 {
 	z-index: 143;
 	width: 313px;
+	height: 47px;
 	padding-bottom: 10px;
 	margin-left: 1px;
 	position: relative;
@@ -798,6 +859,7 @@
 #buttonu11713.ButtonSelected,#buttonu11703:hover
 {
 	width: 313px;
+	height: 47px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -850,6 +912,7 @@
 {
 	z-index: 170;
 	width: 313px;
+	height: 47px;
 	padding-bottom: 10px;
 	margin-left: 1px;
 	position: relative;
@@ -858,6 +921,15 @@
 #buttonu11703.ButtonSelected,#buttonu11718:hover
 {
 	width: 313px;
+	height: 47px;
+	min-height: 0px;
+	margin: 0px 0px 0px 1px;
+}
+
+#buttonu11718.ButtonSelected
+{
+	width: 313px;
+	height: 47px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -917,14 +989,16 @@
 {
 	z-index: 185;
 	width: 313px;
+	height: 46px;
 	padding-bottom: 11px;
 	margin-left: 1px;
 	position: relative;
 }
 
-#buttonu11718.ButtonSelected,#buttonu11814:hover
+#buttonu11814:hover
 {
 	width: 313px;
+	height: 46px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -932,6 +1006,7 @@
 #buttonu11814.ButtonSelected
 {
 	width: 313px;
+	height: 46px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -996,66 +1071,13 @@
 	margin: 9px -10000px 0px 0px;
 }
 
-#buttonu11711
-{
-	z-index: 180;
-	padding-bottom: 11px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 26px;
-	width: 73.34%;
-	left: 14.29%;
-}
-
-#buttonu11711:hover
-{
-	min-height: 0px;
-	width: 73.34%;
-	margin: 26px -10000px 0px 0%;
-}
-
-#buttonu11711.ButtonSelected
-{
-	min-height: 0px;
-	width: 73.34%;
-	margin: 26px -10000px 0px 0%;
-}
-
-#u11712-4
-{
-	z-index: 181;
-	min-height: 23px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 16px;
-	width: 51.52%;
-	left: 24.25%;
-}
-
-#buttonu11711:hover #u11712-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 51.52%;
-	margin: 16px -10000px 0px 0%;
-}
-
-#buttonu11711.ButtonSelected #u11712-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 51.52%;
-	margin: 16px -10000px 0px 0%;
-}
-
 #u11730
 {
 	z-index: 192;
-	width: 253px;
 	position: relative;
 	margin-right: -10000px;
+	left: 295px;
+	width: 46.17%;
 }
 
 #u11731
@@ -1073,9 +1095,16 @@
 	filter: alpha(opacity=1);
 }
 
+#u11731popup
+{
+	width: 253px;
+	height: 72px;
+	margin-right: -10000px;
+}
+
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1268px);
+	height: calc(100vh - 1067px);
 }
 
 #u6883
@@ -1155,7 +1184,8 @@
 {
 	z-index: 5;
 	min-height: 211px;
-	margin-top: 200px;
+	margin-bottom: -16px;
+	margin-top: -2px;
 }
 
 .html
@@ -1169,6 +1199,11 @@ body
 	min-width: 240px;
 	padding-top: 155px;
 	padding-bottom: 12px;
+}
+
+.verticalspacer
+{
+	min-height: 201px;
 }
 
 #u104_img,#u7683_img,#u7675_img,#u7679_img,#u7687_img,#u11697_img,#u6898_img

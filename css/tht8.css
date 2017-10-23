@@ -1,7 +1,7 @@
 .version.tht8 /* version checker */
 {
-	color: #00001D;
-	background-color: #94CA77;
+	color: #0000F9;
+	background-color: #F20700;
 }
 
 #muse_css_mq
@@ -24,50 +24,18 @@
 	margin-right: auto;
 }
 
-#ppu11190-8
+#ppu10485
 {
 	z-index: 0;
 	margin-right: -10000px;
-	margin-top: 166px;
+	margin-top: -151px;
 	width: 129.28%;
 }
 
-#pu11190-8
+#pu10485
 {
-	z-index: 22;
-	width: 97.67%;
-	margin-left: 0.81%;
-}
-
-#u11190-8
-{
-	z-index: 22;
-	min-height: 334px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	width: 75.42%;
-	left: 1.16%;
-}
-
-#u11655
-{
-	z-index: 30;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 134px;
-	width: 100%;
-}
-
-#u11665
-{
-	z-index: 32;
-	background-color: transparent;
-	top: -2px;
-	margin-bottom: -2px;
-	position: relative;
-	width: 100%;
+	z-index: 73;
+	width: 54.32%;
 }
 
 #u10485
@@ -77,25 +45,19 @@
 	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -78px;
-	left: 57px;
-}
-
-#pu9265
-{
-	z-index: 2;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: -151px;
-	width: 55.11%;
-	margin-left: 22.3%;
+	margin-top: 73px;
+	left: 0px;
+	margin-left: 57px;
 }
 
 #u9265
 {
 	z-index: 2;
 	position: relative;
-	width: 97.74%;
+	margin-right: -10000px;
+	width: 76.71%;
+	left: 23.3%;
+	margin-left: 8.46%;
 }
 
 #u9204
@@ -103,8 +65,9 @@
 	z-index: 34;
 	margin-top: 13px;
 	position: relative;
-	width: 97.74%;
-	margin-left: 2.27%;
+	width: 41.66%;
+	left: 0%;
+	margin-left: 18.22%;
 }
 
 #pbuttonu9209
@@ -163,15 +126,6 @@
 	width: 78.75%;
 }
 
-#pbuttonu9209 #u9210-4
-{
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 17px;
-	left: 16px;
-	width: 78.75%;
-}
-
 #u9211
 {
 	z-index: 41;
@@ -197,7 +151,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.75%;
 	left: 45.67%;
 }
 
@@ -257,13 +210,12 @@
 	width: 80%;
 }
 
-#pbuttonu9217 #u9218-4
+#pbuttonu9209 #u9210-4,#pbuttonu9217 #u9218-4
 {
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 16px;
-	width: 80%;
 }
 
 #u9219
@@ -291,7 +243,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 16%;
 	left: 41.6%;
 }
 
@@ -357,7 +308,6 @@
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 15px;
-	width: 76.34%;
 }
 
 #u9207
@@ -385,7 +335,6 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.27%;
 	left: 41.99%;
 }
 
@@ -450,7 +399,6 @@
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 6px;
-	width: 77.52%;
 }
 
 #u9215
@@ -478,56 +426,90 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	width: 15.51%;
 	left: 42.64%;
+}
+
+#pu11190-8
+{
+	z-index: 22;
+	margin-top: 8px;
+	width: 97.67%;
+	left: 0%;
+	margin-left: 0.81%;
+}
+
+#u11190-8
+{
+	z-index: 22;
+	min-height: 334px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 63px;
+	width: 75.42%;
+	left: 1.16%;
+}
+
+#u11655
+{
+	z-index: 30;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 197px;
+	width: 100%;
+}
+
+#u10272
+{
+	z-index: 71;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	width: 20.71%;
+	left: 29.21%;
 }
 
 #pamphletu10764
 {
 	z-index: 74;
-	width: 0.01px;
-	height: 72px;
-	margin-top: 8px;
 	position: relative;
-	margin-left: 28.17%;
+	margin-right: -10000px;
+	width: 45.05%;
+	left: 4.96%;
 }
 
 #u10765
 {
 	position: absolute;
-	width: 359px;
-	padding-bottom: 44px;
-	top: -168px;
-	left: -293px;
+	width: 315px;
+	height: 1339px;
 }
 
 #u10765popup
 {
 	z-index: 75;
+	margin-top: -146px;
+	margin-left: 22px;
+	width: 315px;
+	height: 1339px;
+	margin-right: -10000px;
 }
 
 #u10766
 {
 	z-index: 76;
 	width: 315px;
-	height: 1339px;
+	height: 503px;
+	padding-bottom: 836px;
 	margin-right: -10000px;
 	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#ppu10790
-{
-	z-index: 0;
-	width: 0.01px;
-	margin-right: -10000px;
 }
 
 #pu10790
 {
 	z-index: 77;
-	width: 0.01px;
+	width: 100%;
 }
 
 #u10790
@@ -537,6 +519,8 @@
 	height: 94px;
 	position: relative;
 	margin-right: -10000px;
+	left: 0px;
+	margin-left: 0px;
 }
 
 #u10775
@@ -548,12 +532,70 @@
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 1px;
+	margin-left: 0px;
+}
+
+#buttonu10788
+{
+	z-index: 114;
+	padding-bottom: 11px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	width: 73.34%;
+	left: 14.29%;
+	margin-left: 0%;
+}
+
+#buttonu10788:hover
+{
+	min-height: 0px;
+	width: 73.34%;
+	margin: 26px -10000px 0px 0%;
+}
+
+#buttonu10788.ButtonSelected
+{
+	min-height: 0px;
+	width: 73.34%;
+	left: 0%;
+	margin: 26px -10000px 0px 0%;
+}
+
+#u10789-4
+{
+	z-index: 115;
+	min-height: 23px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	width: 51.52%;
+	left: 24.25%;
+}
+
+#buttonu10788:hover #u10789-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 51.52%;
+	margin: 16px -10000px 0px 0%;
+}
+
+#buttonu10788.ButtonSelected #u10789-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 51.52%;
+	margin: 16px -10000px 0px 0%;
 }
 
 #buttonu10767
 {
 	z-index: 78;
 	width: 313px;
+	height: 58px;
 	padding-bottom: 24px;
 	margin-left: 1px;
 	top: -1px;
@@ -564,6 +606,7 @@
 #buttonu10767:hover
 {
 	width: 313px;
+	height: 58px;
 	min-height: 0px;
 	margin: 0px 0px -1px 1px;
 }
@@ -616,6 +659,7 @@
 {
 	z-index: 92;
 	width: 313px;
+	height: 58px;
 	padding-bottom: 24px;
 	margin-left: 1px;
 	position: relative;
@@ -624,6 +668,7 @@
 #buttonu10776:hover
 {
 	width: 313px;
+	height: 58px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -631,6 +676,7 @@
 #buttonu10776.ButtonSelected
 {
 	width: 313px;
+	height: 58px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -692,6 +738,7 @@
 {
 	z-index: 99;
 	width: 313px;
+	height: 58px;
 	padding-bottom: 24px;
 	margin-left: 1px;
 	top: -1px;
@@ -702,6 +749,7 @@
 #buttonu10767.ButtonSelected,#buttonu10771:hover
 {
 	width: 313px;
+	height: 58px;
 	min-height: 0px;
 	margin: 0px 0px -1px 1px;
 }
@@ -754,6 +802,7 @@
 {
 	z-index: 85;
 	width: 313px;
+	height: 58px;
 	padding-bottom: 24px;
 	margin-left: 1px;
 	top: -1px;
@@ -764,6 +813,7 @@
 #buttonu10771.ButtonSelected,#buttonu10784:hover
 {
 	width: 313px;
+	height: 58px;
 	min-height: 0px;
 	margin: 0px 0px -1px 1px;
 }
@@ -771,6 +821,7 @@
 #buttonu10784.ButtonSelected
 {
 	width: 313px;
+	height: 58px;
 	min-height: 0px;
 	margin: 0px 0px -1px 1px;
 }
@@ -823,6 +874,7 @@
 {
 	z-index: 106;
 	width: 313px;
+	height: 58px;
 	padding-bottom: 24px;
 	margin-left: 1px;
 	margin-top: 1px;
@@ -832,6 +884,7 @@
 #buttonu10780:hover
 {
 	width: 313px;
+	height: 58px;
 	min-height: 0px;
 	margin: 1px 0px 0px 1px;
 }
@@ -839,6 +892,7 @@
 #buttonu10780.ButtonSelected
 {
 	width: 313px;
+	height: 58px;
 	min-height: 0px;
 	margin: 1px 0px 0px 1px;
 }
@@ -903,66 +957,13 @@
 	margin: 24px -10000px 0px 0px;
 }
 
-#buttonu10788
-{
-	z-index: 114;
-	padding-bottom: 11px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 26px;
-	width: 73.34%;
-	left: 14.29%;
-}
-
-#buttonu10788:hover
-{
-	min-height: 0px;
-	width: 73.34%;
-	margin: 26px -10000px 0px 0%;
-}
-
-#buttonu10788.ButtonSelected
-{
-	min-height: 0px;
-	width: 73.34%;
-	margin: 26px -10000px 0px 0%;
-}
-
-#u10789-4
-{
-	z-index: 115;
-	min-height: 23px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 16px;
-	width: 51.52%;
-	left: 24.25%;
-}
-
-#buttonu10788:hover #u10789-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 51.52%;
-	margin: 16px -10000px 0px 0%;
-}
-
-#buttonu10788.ButtonSelected #u10789-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 51.52%;
-	margin: 16px -10000px 0px 0%;
-}
-
 #u10797
 {
 	z-index: 119;
-	width: 253px;
 	position: relative;
 	margin-right: -10000px;
+	left: 293px;
+	width: 46.34%;
 }
 
 #u10798
@@ -980,14 +981,23 @@
 	filter: alpha(opacity=1);
 }
 
-#u10272
+#u10798popup
 {
-	z-index: 71;
-	top: -66px;
-	margin-bottom: -47px;
+	width: 253px;
+	height: 72px;
+	margin-right: -10000px;
+}
+
+#u11665
+{
+	z-index: 32;
+	background-color: transparent;
+	top: -2px;
+	margin-bottom: -2px;
 	position: relative;
-	width: 47.45%;
-	margin-left: 28.36%;
+	width: 100%;
+	left: 0%;
+	margin-left: 0%;
 }
 
 .css_verticalspacer .verticalspacer
