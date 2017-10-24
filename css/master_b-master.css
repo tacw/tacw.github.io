@@ -53,22 +53,16 @@
 	visibility: inherit;
 }
 
+#buttonu8924.ButtonSelected #u8925-4 p,#buttonu8924.ButtonSelected #u8925-4 span
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
 #u8925
 {
 	font-family: dosis, sans-serif;
 	font-weight: 300;
-}
-
-#buttonu8924:hover #u8925-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#buttonu8924.ButtonSelected #u8925-4 p,#buttonu8924.ButtonSelected #u8925-4 span,#buttonu8924.ButtonSelected #u8925-4 p
-{
-	color: #3C3C3C;
-	visibility: inherit;
 }
 
 #buttonu8843
