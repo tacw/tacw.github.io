@@ -1,7 +1,7 @@
 .version.chem_chap_2 /* version checker */
 {
-	color: #0000E4;
-	background-color: #F39E18;
+	color: #0000FC;
+	background-color: #902F5E;
 }
 
 #muse_css_mq
@@ -459,8 +459,8 @@
 #pu8932
 {
 	z-index: 24;
-	margin-top: 12px;
-	width: 26.57%;
+	margin-top: 15px;
+	width: 94.9%;
 }
 
 #u8932
@@ -468,10 +468,28 @@
 	z-index: 24;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
-	width: 98.44%;
-	left: 1.57%;
-	margin-left: 139.22%;
+	width: 27.56%;
+	left: 36.78%;
+	margin-left: 2.64%;
+}
+
+#u11917-221
+{
+	z-index: 26;
+	min-height: 251px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 62px;
+	width: 100%;
+	left: 0%;
+	margin-left: 2.64%;
+}
+
+#u11917-62 > #u11917-61:before,#u11917-60 > #u11917-59:before,#u11917-58 > #u11917-57:before,#u11917-56 > #u11917-55:before,#u11917-54 > #u11917-53:before,#u11917-52 > #u11917-51:before,#u11917-154 > #u11917-153:before,#u11917-152 > #u11917-151:before,#u11917-150 > #u11917-149:before,#u11917-148 > #u11917-147:before,#u11917-146 > #u11917-145:before,#u11917-144 > #u11917-143:before
+{
+	visibility: hidden;
+	counter-increment: list 0;
 }
 
 #pamphletu12829
@@ -479,9 +497,10 @@
 	z-index: 285;
 	position: relative;
 	margin-right: -10000px;
-	width: 140.4%;
-	margin-left: 118.04%;
-	left: 7px;
+	margin-top: 3px;
+	width: 34.47%;
+	margin-left: 35.46%;
+	left: 2px;
 }
 
 #u12834
@@ -489,16 +508,18 @@
 	position: absolute;
 	width: 314px;
 	height: 621px;
+	margin-left: 50%;
+	left: -314px;
 }
 
 #u12834popup
 {
 	z-index: 286;
-	margin-top: 42px;
-	margin-left: 22px;
+	margin-top: 54px;
 	width: 314px;
 	height: 621px;
 	margin-right: -10000px;
+	margin-left: 50%;
 }
 
 #u12835
@@ -509,6 +530,8 @@
 	padding-bottom: 117px;
 	margin-right: -10000px;
 	position: relative;
+	margin-left: 50%;
+	left: -157px;
 }
 
 #pu12840
@@ -911,8 +934,8 @@
 	z-index: 328;
 	position: relative;
 	margin-right: -10000px;
-	width: 70.68%;
-	left: 13.13%;
+	width: 80.58%;
+	left: 8.29%;
 }
 
 #u12860
@@ -935,24 +958,6 @@
 	height: 62px;
 	margin-right: -10000px;
 	width: 100%;
-}
-
-#u11917-221
-{
-	z-index: 26;
-	min-height: 251px;
-	background-color: transparent;
-	margin-top: 3px;
-	position: relative;
-	width: 94.9%;
-	left: 0%;
-	margin-left: 2.5%;
-}
-
-#u11917-62 > #u11917-61:before,#u11917-60 > #u11917-59:before,#u11917-58 > #u11917-57:before,#u11917-56 > #u11917-55:before,#u11917-54 > #u11917-53:before,#u11917-52 > #u11917-51:before,#u11917-154 > #u11917-153:before,#u11917-152 > #u11917-151:before,#u11917-150 > #u11917-149:before,#u11917-148 > #u11917-147:before,#u11917-146 > #u11917-145:before,#u11917-144 > #u11917-143:before
-{
-	visibility: hidden;
-	counter-increment: list 0;
 }
 
 .css_verticalspacer .verticalspacer

@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1508975554866">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1508975837333">
   <folder name="css">
     <file name="site_global.css" crc="279584896"/>
-    <file name="master_b-master.css" crc="19736638" ref="chem-chap-2:chem-chap-3:physicss:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-8:chem-chap-7:chem-chap-9:ib-program:chem-chap-10:chem-option:chem-chap-11:chem-chap-1:psychology:college:school:apush:calculus:chemistry"/>
+    <file name="master_b-master.css" crc="4255750071" ref="chem-chap-2:chem-chap-3:physicss:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-8:chem-chap-7:chem-chap-9:ib-program:chem-chap-10:chem-option:chem-chap-11:chem-chap-1:psychology:college:school:apush:calculus:chemistry"/>
     <file name="master_d-master.css" crc="468135434" ref="civ6-guide:dungeonguides:combatguide:civilization:games:bns"/>
     <file name="master_civ.css" crc="4119103858" ref="civ6-guide:combatguide:civilization"/>
     <file name="master_rainow.css" crc="4185619114" ref="jager:valkyrie:frost:house:hereford-base:bank:skyscraper:consulate:glaz:kapkan:blackbeard:hibana:echo:captitao:sledge:thatcher:fuze:ash:smoke:thermite:castle:twitch:bandit:mute:pulse:buck:montagne:doc:jackal:rook:tachanka:mira:rainbowsix:caveira:blitz:iq"/>
@@ -25,13 +25,13 @@
     <file name="skyscraper.css" crc="4284566747" ref="skyscraper"/>
     <file name="history.css" crc="3993252066" ref="history"/>
     <file name="consulate.css" crc="400605818" ref="consulate"/>
-    <file name="chem-chap-2.css" crc="3841170968" ref="chem-chap-2"/>
+    <file name="chem-chap-2.css" crc="4237307742" ref="chem-chap-2"/>
     <file name="calc-programs.css" crc="3823537433" ref="calc-programs"/>
     <file name="glaz.css" crc="526051116" ref="glaz"/>
     <file name="civ6-guide.css" crc="4263152715" ref="civ6-guide"/>
     <file name="period-4.css" crc="4033200091" ref="period-4"/>
-    <file name="chem-chap-3.css" crc="3990438714" ref="chem-chap-3"/>
-    <file name="physicss.css" crc="371721990" ref="physicss"/>
+    <file name="chem-chap-3.css" crc="240336271" ref="chem-chap-3"/>
+    <file name="physicss.css" crc="4046670624" ref="physicss"/>
     <file name="period-5.css" crc="4033200091" ref="period-5"/>
     <file name="tht.css" crc="3998454743" ref="tht"/>
     <file name="period-6.css" crc="4033200091" ref="period-6"/>
@@ -45,19 +45,19 @@
     <file name="period-9.css" crc="388393072" ref="period-9"/>
     <file name="tht2.css" crc="39880634" ref="tht2"/>
     <file name="tht4.css" crc="4153988187" ref="tht4"/>
-    <file name="chem-chap-4.css" crc="4226366675" ref="chem-chap-4"/>
+    <file name="chem-chap-4.css" crc="3833244296" ref="chem-chap-4"/>
     <file name="tht5.css" crc="114161662" ref="tht5"/>
-    <file name="chem-chap-5.css" crc="4226366675" ref="chem-chap-5"/>
+    <file name="chem-chap-5.css" crc="3833244296" ref="chem-chap-5"/>
     <file name="period-1.css" crc="462464899" ref="period-1"/>
-    <file name="chem-chap-6.css" crc="4226366675" ref="chem-chap-6"/>
+    <file name="chem-chap-6.css" crc="3833244296" ref="chem-chap-6"/>
     <file name="period-2.css" crc="4107281819" ref="period-2"/>
     <file name="echo.css" crc="526051116" ref="echo"/>
     <file name="period-3.css" crc="204897102" ref="period-3"/>
-    <file name="chem-chap-8.css" crc="4226366675" ref="chem-chap-8"/>
-    <file name="chem-chap-7.css" crc="4226366675" ref="chem-chap-7"/>
+    <file name="chem-chap-8.css" crc="3833244296" ref="chem-chap-8"/>
+    <file name="chem-chap-7.css" crc="3833244296" ref="chem-chap-7"/>
     <file name="captitao.css" crc="526051116" ref="captitao"/>
-    <file name="chem-chap-9.css" crc="4226366675" ref="chem-chap-9"/>
-    <file name="ib-program.css" crc="236921627" ref="ib-program"/>
+    <file name="chem-chap-9.css" crc="3833244296" ref="chem-chap-9"/>
+    <file name="ib-program.css" crc="99707159" ref="ib-program"/>
     <file name="sledge.css" crc="526051116" ref="sledge"/>
     <file name="troll.css" crc="183050041" ref="troll"/>
     <file name="tht6.css" crc="521889414" ref="tht6"/>
@@ -67,14 +67,14 @@
     <file name="fuze.css" crc="526051116" ref="fuze"/>
     <file name="tht8.css" crc="4054668108" ref="tht8"/>
     <file name="ash.css" crc="526051116" ref="ash"/>
-    <file name="chem-chap-10.css" crc="4226366675" ref="chem-chap-10"/>
+    <file name="chem-chap-10.css" crc="3833244296" ref="chem-chap-10"/>
     <file name="smoke.css" crc="526051116" ref="smoke"/>
     <file name="tht9.css" crc="212429521" ref="tht9"/>
     <file name="thermite.css" crc="526051116" ref="thermite"/>
-    <file name="chem-option.css" crc="3925241025" ref="chem-option"/>
+    <file name="chem-option.css" crc="122713899" ref="chem-option"/>
     <file name="tht10.css" crc="4033200091" ref="tht10"/>
     <file name="castle.css" crc="526051116" ref="castle"/>
-    <file name="chem-chap-11.css" crc="4003940266" ref="chem-chap-11"/>
+    <file name="chem-chap-11.css" crc="248794056" ref="chem-chap-11"/>
     <file name="adobe.css" crc="180694451" ref="adobe"/>
     <file name="twitch.css" crc="526051116" ref="twitch"/>
     <file name="bandit.css" crc="526051116" ref="bandit"/>
@@ -89,30 +89,30 @@
     <file name="doc.css" crc="447272557" ref="doc"/>
     <file name="jackal.css" crc="4283433937" ref="jackal"/>
     <file name="rook.css" crc="526051116" ref="rook"/>
-    <file name="chem-chap-1.css" crc="316032952" ref="chem-chap-1"/>
+    <file name="chem-chap-1.css" crc="181341232" ref="chem-chap-1"/>
     <file name="tht15.css" crc="4033200091" ref="tht15"/>
     <file name="combatguide.css" crc="4025473478" ref="combatguide"/>
-    <file name="psychology.css" crc="4165345520" ref="psychology"/>
-    <file name="college.css" crc="399485599" ref="college"/>
+    <file name="psychology.css" crc="300300250" ref="psychology"/>
+    <file name="college.css" crc="9934866" ref="college"/>
     <file name="tachanka.css" crc="526051116" ref="tachanka"/>
     <file name="group1.css" crc="4046808733" ref="group1"/>
     <file name="ibo.css" crc="374772234" ref="ibo"/>
     <file name="group2.css" crc="3984959425" ref="group2"/>
     <file name="group3.css" crc="402366454" ref="group3"/>
-    <file name="school.css" crc="449476314" ref="school"/>
+    <file name="school.css" crc="164699918" ref="school"/>
     <file name="group4.css" crc="73797757" ref="group4"/>
     <file name="index.css" crc="4243302512" ref="index"/>
     <file name="civilization.css" crc="4058416681" ref="civilization"/>
     <file name="misc.css" crc="242176473" ref="misc"/>
     <file name="games.css" crc="4244416360" ref="games"/>
     <file name="lit.css" crc="119358837" ref="lit"/>
-    <file name="apush.css" crc="4009183711" ref="apush"/>
+    <file name="apush.css" crc="225468058" ref="apush"/>
     <file name="group5.css" crc="4289698079" ref="group5"/>
     <file name="chinese.css" crc="185434603" ref="chinese"/>
-    <file name="calculus.css" crc="284678789" ref="calculus"/>
+    <file name="calculus.css" crc="3814196018" ref="calculus"/>
     <file name="econ.css" crc="185434603" ref="econ"/>
     <file name="bio.css" crc="185434603" ref="bio"/>
-    <file name="chemistry.css" crc="51900993" ref="chemistry"/>
+    <file name="chemistry.css" crc="4027462004" ref="chemistry"/>
     <file name="chem.css" crc="185434603" ref="chem"/>
     <file name="mira.css" crc="526051116" ref="mira"/>
     <file name="physics.css" crc="185434603" ref="physics"/>
@@ -253,18 +253,18 @@
       <caption webpage="physicss" alt=""/>
       <caption webpage="calc" alt=""/>
       <caption webpage="troll" alt=""/>
-      <caption webpage="thermite" alt=""/>
+      <caption webpage="bandit" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="college" alt=""/>
       <caption webpage="house" alt=""/>
       <caption webpage="tht14" alt=""/>
-      <caption webpage="bandit" alt=""/>
+      <caption webpage="ash" alt=""/>
       <caption webpage="period-9" alt=""/>
       <caption webpage="hereford-base" alt=""/>
       <caption webpage="lit" alt=""/>
       <caption webpage="smoke" alt=""/>
       <caption webpage="period-3" alt=""/>
-      <caption webpage="ash" alt=""/>
+      <caption webpage="thermite" alt=""/>
       <caption webpage="frost" alt=""/>
       <caption webpage="tht12" alt=""/>
       <caption webpage="index" alt=""/>
@@ -644,10 +644,10 @@
       <caption webpage="troll" alt=""/>
       <caption webpage="troll" alt=""/>
       <caption webpage="troll" alt=""/>
-      <caption webpage="thermite" alt=""/>
-      <caption webpage="thermite" alt=""/>
-      <caption webpage="thermite" alt=""/>
-      <caption webpage="thermite" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="bandit" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="apush" alt=""/>
@@ -664,10 +664,10 @@
       <caption webpage="tht14" alt=""/>
       <caption webpage="tht14" alt=""/>
       <caption webpage="tht14" alt=""/>
-      <caption webpage="bandit" alt=""/>
-      <caption webpage="bandit" alt=""/>
-      <caption webpage="bandit" alt=""/>
-      <caption webpage="bandit" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="ash" alt=""/>
       <caption webpage="period-9" alt=""/>
       <caption webpage="period-9" alt=""/>
       <caption webpage="period-9" alt=""/>
@@ -688,10 +688,10 @@
       <caption webpage="period-3" alt=""/>
       <caption webpage="period-3" alt=""/>
       <caption webpage="period-3" alt=""/>
-      <caption webpage="ash" alt=""/>
-      <caption webpage="ash" alt=""/>
-      <caption webpage="ash" alt=""/>
-      <caption webpage="ash" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="thermite" alt=""/>
       <caption webpage="frost" alt=""/>
       <caption webpage="frost" alt=""/>
       <caption webpage="frost" alt=""/>
@@ -849,18 +849,18 @@
       <caption webpage="physicss" alt=""/>
       <caption webpage="calc" alt=""/>
       <caption webpage="troll" alt=""/>
-      <caption webpage="thermite" alt=""/>
+      <caption webpage="bandit" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="college" alt=""/>
       <caption webpage="house" alt=""/>
       <caption webpage="tht14" alt=""/>
-      <caption webpage="bandit" alt=""/>
+      <caption webpage="ash" alt=""/>
       <caption webpage="period-9" alt=""/>
       <caption webpage="hereford-base" alt=""/>
       <caption webpage="lit" alt=""/>
       <caption webpage="smoke" alt=""/>
       <caption webpage="period-3" alt=""/>
-      <caption webpage="ash" alt=""/>
+      <caption webpage="thermite" alt=""/>
       <caption webpage="frost" alt=""/>
       <caption webpage="tht12" alt=""/>
       <caption webpage="index" alt=""/>
@@ -893,7 +893,7 @@
       <caption webpage="chem-chap-6" alt=""/>
       <caption webpage="stats" alt=""/>
       <caption webpage="physics" alt=""/>
-      <caption webpage="calculus" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
       <caption webpage="chem-chap-7" alt=""/>
       <caption webpage="tht5" alt=""/>
       <caption webpage="group2" alt=""/>
@@ -910,7 +910,7 @@
       <caption webpage="period-6" alt=""/>
       <caption webpage="tht7" alt=""/>
       <caption webpage="tht8" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="calculus" alt=""/>
       <caption webpage="history" alt=""/>
       <caption webpage="tht" alt=""/>
       <caption webpage="calc" alt=""/>
@@ -1036,11 +1036,11 @@
       <caption webpage="physics" alt=""/>
       <caption webpage="physics" alt=""/>
       <caption webpage="physics" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
       <caption webpage="chem-chap-7" alt=""/>
       <caption webpage="chem-chap-7" alt=""/>
       <caption webpage="chem-chap-7" alt=""/>
@@ -1124,11 +1124,11 @@
       <caption webpage="tht8" alt=""/>
       <caption webpage="tht8" alt=""/>
       <caption webpage="tht8" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
       <caption webpage="history" alt=""/>
       <caption webpage="history" alt=""/>
       <caption webpage="history" alt=""/>
@@ -2518,12 +2518,12 @@
     </file>
   </folder>
   <file name="index.html" crc="263162525" seo="true" mt="1508974746780" redirect="true"/>
-  <file name="school.html" crc="361127648" seo="true" mt="1508975523147" redirect="true"/>
+  <file name="school.html" crc="3971933612" seo="true" mt="1508975805701" redirect="true"/>
   <file name="games.html" crc="3760687383" seo="true" mt="1508612343379" redirect="true"/>
   <file name="misc.html" crc="3980991805" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="apush.html" crc="4173969657" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="calculus.html" crc="329295615" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="chemistry.html" crc="458894269" seo="true" mt="1508975523147" redirect="true"/>
+  <file name="apush.html" crc="460348355" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="calculus.html" crc="400282058" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="chemistry.html" crc="265120972" seo="true" mt="1508975805701" redirect="true"/>
   <file name="torrenting.html" crc="363269671" seo="true" mt="1508612343379" redirect="true"/>
   <file name="rainbowsix.html" crc="4153558221" seo="true" mt="1508612630589" redirect="true"/>
   <file name="iq.html" crc="61706239" seo="true" mt="1508612630589" redirect="true"/>
@@ -2569,7 +2569,7 @@
   <file name="consulate.html" crc="3862596304" seo="true" mt="1508612630589" redirect="true"/>
   <file name="calc-programs.html" crc="4251260063" seo="true" mt="1508612343379" redirect="true"/>
   <file name="civ6-guide.html" crc="215108741" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="physicss.html" crc="3969981719" seo="true" mt="1508975523147" redirect="true"/>
+  <file name="physicss.html" crc="74970708" seo="true" mt="1508975805701" redirect="true"/>
   <file name="tht.html" crc="401684749" seo="true" mt="1508975311628" redirect="true"/>
   <file name="tht1.html" crc="4172878088" seo="true" mt="1508975311628" redirect="true"/>
   <file name="tht2.html" crc="293044797" seo="true" mt="1508975311628" redirect="true"/>
@@ -2580,7 +2580,7 @@
   <file name="period-2.html" crc="4236478355" seo="true" mt="1508975311628" redirect="true"/>
   <file name="period-3.html" crc="465831628" seo="true" mt="1508975311628" redirect="true"/>
   <file name="troll.html" crc="4192342147" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="ib-program.html" crc="367639171" seo="true" mt="1508975523147" redirect="true"/>
+  <file name="ib-program.html" crc="233927291" seo="true" mt="1508975805701" redirect="true"/>
   <file name="tht6.html" crc="3915042050" seo="true" mt="1508975311628" redirect="true"/>
   <file name="tht7.html" crc="136277642" seo="true" mt="1508975311628" redirect="true"/>
   <file name="tht8.html" crc="67762138" seo="true" mt="1508975311628" redirect="true"/>
@@ -2591,9 +2591,9 @@
   <file name="tht13.html" crc="201548672" seo="true" mt="1508975311628" redirect="true"/>
   <file name="tht14.html" crc="325854230" seo="true" mt="1508975311628" redirect="true"/>
   <file name="tht15.html" crc="399397884" seo="true" mt="1508975311628" redirect="true"/>
-  <file name="chem-chap-1.html" crc="54648647" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="psychology.html" crc="4268556022" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="college.html" crc="4207227474" seo="true" mt="1508975523147" redirect="true"/>
+  <file name="chem-chap-1.html" crc="3935471102" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="psychology.html" crc="426430682" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="college.html" crc="4073571400" seo="true" mt="1508975805701" redirect="true"/>
   <file name="ibo.html" crc="227834777" seo="true" mt="1508974729428" redirect="true"/>
   <file name="group1.html" crc="3791439271" seo="true" mt="1508612343379" redirect="true"/>
   <file name="group2.html" crc="4159785505" seo="true" mt="1508612343379" redirect="true"/>
@@ -2612,23 +2612,23 @@
   <file name="stats.html" crc="204412865" seo="true" mt="1508612343379" redirect="true"/>
   <file name="takehomes.html" crc="164428052" seo="true" mt="1508612343379" redirect="true"/>
   <file name="history.html" crc="4180117761" seo="true" mt="1508612343379" redirect="true"/>
-  <file name="chem-chap-2.html" crc="494302818" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="chem-chap-3.html" crc="4032486478" seo="true" mt="1508975523147" redirect="true"/>
+  <file name="chem-chap-2.html" crc="3887332731" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="chem-chap-3.html" crc="3973130367" seo="true" mt="1508975805701" redirect="true"/>
   <file name="period-4.html" crc="3926324839" seo="true" mt="1508975311628" redirect="true"/>
   <file name="period-5.html" crc="4080611925" seo="true" mt="1508975311628" redirect="true"/>
   <file name="period-6.html" crc="50886722" seo="true" mt="1508975311628" redirect="true"/>
   <file name="period-7.html" crc="439860336" seo="true" mt="1508975311628" redirect="true"/>
   <file name="period-8.html" crc="4055029882" seo="true" mt="1508975311628" redirect="true"/>
   <file name="period-9.html" crc="126060583" seo="true" mt="1508975311628" redirect="true"/>
-  <file name="chem-chap-4.html" crc="4030410832" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="chem-chap-5.html" crc="3945415943" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="chem-chap-6.html" crc="493411519" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="chem-chap-7.html" crc="108636648" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="chem-chap-8.html" crc="4064301297" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="chem-chap-9.html" crc="3914409382" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="chem-chap-10.html" crc="4277620615" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="chem-chap-11.html" crc="3881313228" seo="true" mt="1508975523147" redirect="true"/>
-  <file name="chem-option.html" crc="3858045335" seo="true" mt="1508975523147" redirect="true"/>
+  <file name="chem-chap-4.html" crc="4009418167" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="chem-chap-5.html" crc="190878962" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="chem-chap-6.html" crc="4273949052" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="chem-chap-7.html" crc="455409721" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="chem-chap-8.html" crc="3807686094" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="chem-chap-9.html" crc="124707979" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="chem-chap-10.html" crc="4260169567" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="chem-chap-11.html" crc="125848744" seo="true" mt="1508975805701" redirect="true"/>
+  <file name="chem-option.html" crc="4215102534" seo="true" mt="1508975805701" redirect="true"/>
   <file name="adobe.html" crc="57276598" seo="true" mt="1508712794026" redirect="true"/>
   <file name="competitions.html" crc="4226973837" seo="true" mt="1508800415421" redirect="true"/>
 </manifest>
