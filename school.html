@@ -17,10 +17,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/favicon.ico?crc=271725686"/>
   <title>School</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4083070937"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=279584896"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3958366646"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=4032667229"/>
-  <link rel="stylesheet" type="text/css" href="css/school.css?crc=301592737" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=19736638"/>
+  <link rel="stylesheet" type="text/css" href="css/school.css?crc=4142527296" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -34,21 +34,589 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 	a, button, input, video, audio:hover { cursor: url(assets/mouse2.png), auto !important; }
 </style>	
 
+<style>
+
+
+/* css for loader1 */
+
+#u12944 .loader1,
+.loader1:before,
+.loader1:after {
+  background: #e0a204;
+  -webkit-animation: load1 1s infinite ease-in-out;
+  animation: load1 1s infinite ease-in-out;
+  width: 1em;
+  height: 4em;
+}
+#u12944 .loader1:before,
+.loader1:after {
+  position: absolute;
+  top: 0;
+  content: '';
+}
+#u12944 .loader1:before {
+  left: -1.5em;
+}
+#u12944 .loader1 {
+  text-indent: -9999em;
+  margin: 8em auto;
+  position: relative;
+  font-size: 23px;
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+#u12944 .loader1:after {
+  left: 1.5em;
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+@-webkit-keyframes load1 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 0 #e0a204;
+    height: 4em;
+  }
+  40% {
+    box-shadow: 0 -2em #e0a204;
+    height: 5em;
+  }
+}
+@keyframes load1 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 0 #e0a204;
+    height: 4em;
+  }
+  40% {
+    box-shadow: 0 -2em #e0a204;
+    height: 5em;
+  }
+}
+
+/* end of loader1 css */
+
+/* css for loader 2 */
+
+
+#u12944 .loader2 {
+  margin: 4em auto;
+  font-size: 23px;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  position: relative;
+  text-indent: -9999em;
+  -webkit-animation: load5 1.1s infinite ease;
+  animation: load5 1.1s infinite ease;
+}
+@-webkit-keyframes load5 {
+  0%,
+  100% {
+    box-shadow: 0em -2.6em 0em 0em #e0a204, 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2), 2.5em 0em 0 0em rgba(0, 64, 109, 0.2), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.2), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.2), -2.6em 0em 0 0em rgba(0, 64, 109, 0.5), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.7);
+  }
+  12.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.7), 1.8em -1.8em 0 0em #e0a204, 2.5em 0em 0 0em rgba(0, 64, 109, 0.2), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.2), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.2), -2.6em 0em 0 0em rgba(0, 64, 109, 0.2), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.5);
+  }
+  25% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.5), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.7), 2.5em 0em 0 0em #e0a204, 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.2), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.2), -2.6em 0em 0 0em rgba(0, 64, 109, 0.2), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2);
+  }
+  37.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.2), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.5), 2.5em 0em 0 0em rgba(0, 64, 109, 0.7), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.2), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.2), -2.6em 0em 0 0em rgba(0, 64, 109, 0.2), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2);
+  }
+  50% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.2), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2), 2.5em 0em 0 0em rgba(0, 64, 109, 0.5), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.7), 0em 2.5em 0 0em #e0a204, -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.2), -2.6em 0em 0 0em rgba(0, 64, 109, 0.2), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2);
+  }
+  62.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.2), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2), 2.5em 0em 0 0em rgba(0, 64, 109, 0.2), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.5), 0em 2.5em 0 0em rgba(0, 64, 109, 0.7), -1.8em 1.8em 0 0em #e0a204, -2.6em 0em 0 0em rgba(0, 64, 109, 0.2), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2);
+  }
+  75% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.2), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2), 2.5em 0em 0 0em rgba(0, 64, 109, 0.2), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.5), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.7), -2.6em 0em 0 0em #e0a204, -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2);
+  }
+  87.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.2), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2), 2.5em 0em 0 0em rgba(0, 64, 109, 0.2), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.2), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.5), -2.6em 0em 0 0em rgba(0, 64, 109, 0.7), -1.8em -1.8em 0 0em #e0a204;
+  }
+}
+@keyframes load5 {
+  0%,
+  100% {
+    box-shadow: 0em -2.6em 0em 0em #e0a204, 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2), 2.5em 0em 0 0em rgba(0, 64, 109, 0.2), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.2), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.2), -2.6em 0em 0 0em rgba(0, 64, 109, 0.5), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.7);
+  }
+  12.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.7), 1.8em -1.8em 0 0em #e0a204, 2.5em 0em 0 0em rgba(0, 64, 109, 0.2), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.2), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.2), -2.6em 0em 0 0em rgba(0, 64, 109, 0.2), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.5);
+  }
+  25% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.5), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.7), 2.5em 0em 0 0em #e0a204, 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.2), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.2), -2.6em 0em 0 0em rgba(0, 64, 109, 0.2), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2);
+  }
+  37.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.2), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.5), 2.5em 0em 0 0em rgba(0, 64, 109, 0.7), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.2), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.2), -2.6em 0em 0 0em rgba(0, 64, 109, 0.2), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2);
+  }
+  50% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.2), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2), 2.5em 0em 0 0em rgba(0, 64, 109, 0.5), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.7), 0em 2.5em 0 0em #e0a204, -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.2), -2.6em 0em 0 0em rgba(0, 64, 109, 0.2), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2);
+  }
+  62.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.2), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2), 2.5em 0em 0 0em rgba(0, 64, 109, 0.2), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.5), 0em 2.5em 0 0em rgba(0, 64, 109, 0.7), -1.8em 1.8em 0 0em #e0a204, -2.6em 0em 0 0em rgba(0, 64, 109, 0.2), -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2);
+  }
+  75% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.2), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2), 2.5em 0em 0 0em rgba(0, 64, 109, 0.2), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.5), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.7), -2.6em 0em 0 0em #e0a204, -1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2);
+  }
+  87.5% {
+    box-shadow: 0em -2.6em 0em 0em rgba(0, 64, 109, 0.2), 1.8em -1.8em 0 0em rgba(0, 64, 109, 0.2), 2.5em 0em 0 0em rgba(0, 64, 109, 0.2), 1.75em 1.75em 0 0em rgba(0, 64, 109, 0.2), 0em 2.5em 0 0em rgba(0, 64, 109, 0.2), -1.8em 1.8em 0 0em rgba(0, 64, 109, 0.5), -2.6em 0em 0 0em rgba(0, 64, 109, 0.7), -1.8em -1.8em 0 0em #e0a204;
+  }
+}
+
+
+/* end of loader2 css */
+
+/* css for loader 3 */
+
+
+#u12944 .loader3,
+.loader3:before,
+.loader3:after {
+  border-radius: 50%;
+}
+#u12944 .loader3:before,
+.loader3:after {
+  position: absolute;
+  content: '';
+}
+#u12944 .loader3:before {
+  width: 5.2em;
+  height: 10.2em;
+  background: #e0a204;
+  border-radius: 10.2em 0 0 10.2em;
+  top: -0.1em;
+  left: -0.1em;
+  -webkit-transform-origin: 5.2em 5.1em;
+  transform-origin: 5.2em 5.1em;
+  -webkit-animation: load2 2s infinite ease 1.5s;
+  animation: load2 2s infinite ease 1.5s;
+}
+#u12944 .loader3 {
+  font-size: 23px;
+  text-indent: -99999em;
+  margin: 5em auto;
+  position: relative;
+  width: 10em;
+  height: 10em;
+  box-shadow: inset 0 0 0 1em #ede91c;
+}
+#u12944 .loader3:after {
+  width: 5.2em;
+  height: 10.2em;
+  background: #e0a204;
+  border-radius: 0 10.2em 10.2em 0;
+  top: -0.1em;
+  left: 5.1em;
+  -webkit-transform-origin: 0px 5.1em;
+  transform-origin: 0px 5.1em;
+  -webkit-animation: load2 2s infinite ease;
+  animation: load2 2s infinite ease;
+}
+@-webkit-keyframes load2 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load2 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+/*  end of loder3 css */
+
+
+/* css for loader 4 */
+
+#u12944 .loader4 {
+  font-size: 23px;
+  margin: 5em auto;
+  text-indent: -9999em;
+  width: 11em;
+  height: 11em;
+  border-radius: 50%;
+  background: #e0a204;
+  transform-origin:center center 0;
+  background: -moz-linear-gradient(left, #e0a204 10%, rgba(255, 255, 255, 0) 42%);
+  background: -webkit-linear-gradient(left, #e0a204 10%, rgba(255, 255, 255, 0) 42%);
+  background: -o-linear-gradient(left, #e0a204 10%, rgba(255, 255, 255, 0) 42%);
+  background: -ms-linear-gradient(left, #e0a204 10%, rgba(255, 255, 255, 0) 42%);
+  background: linear-gradient(to right, #e0a204 10%, rgba(255, 255, 255, 0) 42%);
+  position: relative;
+  -webkit-animation: load3 1.4s infinite linear;
+  animation: load3 1.4s infinite linear;
+}
+#u12944 .loader4:before {
+  width: 50%;
+  height: 50%;
+  background: #e0a204;
+  border-radius: 100% 0 0 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: '';
+}
+#u12944 .loader4:after {
+  background: #ede91c;
+  width: 75%;
+  height: 75%;
+  border-radius: 50%;
+  content: '';
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+@-webkit-keyframes load3 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load3 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+/*  end of loader 4  css */
+
+
+/* css for loader 5 */
+
+
+#u12944 .loader5 {
+  font-size: 23px;
+  margin: 5em auto;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  position: relative;
+  text-indent: -9999em;
+  -webkit-animation: load4 1.3s infinite linear;
+  animation: load4 1.3s infinite linear;
+}
+@-webkit-keyframes load4 {
+  0%,
+  100% {
+    box-shadow: 0em -3em 0em 0.2em #e0a204, 2em -2em 0 0em #e0a204, 3em 0em 0 -0.5em #e0a204, 2em 2em 0 -0.5em #e0a204, 0em 3em 0 -0.5em #e0a204, -2em 2em 0 -0.5em #e0a204, -3em 0em 0 -0.5em #e0a204, -2em -2em 0 0em #e0a204;
+  }
+  12.5% {
+    box-shadow: 0em -3em 0em 0em #e0a204, 2em -2em 0 0.2em #e0a204, 3em 0em 0 0em #e0a204, 2em 2em 0 -0.5em #e0a204, 0em 3em 0 -0.5em #e0a204, -2em 2em 0 -0.5em #e0a204, -3em 0em 0 -0.5em #e0a204, -2em -2em 0 -0.5em #e0a204;
+  }
+  25% {
+    box-shadow: 0em -3em 0em -0.5em #e0a204, 2em -2em 0 0em #e0a204, 3em 0em 0 0.2em #e0a204, 2em 2em 0 0em #e0a204, 0em 3em 0 -0.5em #e0a204, -2em 2em 0 -0.5em #e0a204, -3em 0em 0 -0.5em #e0a204, -2em -2em 0 -0.5em #e0a204;
+  }
+  37.5% {
+    box-shadow: 0em -3em 0em -0.5em #e0a204, 2em -2em 0 -0.5em #e0a204, 3em 0em 0 0em #e0a204, 2em 2em 0 0.2em #e0a204, 0em 3em 0 0em #e0a204, -2em 2em 0 -0.5em #e0a204, -3em 0em 0 -0.5em #e0a204, -2em -2em 0 -0.5em #e0a204;
+  }
+  50% {
+    box-shadow: 0em -3em 0em -0.5em #e0a204, 2em -2em 0 -0.5em #e0a204, 3em 0em 0 -0.5em #e0a204, 2em 2em 0 0em #e0a204, 0em 3em 0 0.2em #e0a204, -2em 2em 0 0em #e0a204, -3em 0em 0 -0.5em #e0a204, -2em -2em 0 -0.5em #e0a204;
+  }
+  62.5% {
+    box-shadow: 0em -3em 0em -0.5em #e0a204, 2em -2em 0 -0.5em #e0a204, 3em 0em 0 -0.5em #e0a204, 2em 2em 0 -0.5em #e0a204, 0em 3em 0 0em #e0a204, -2em 2em 0 0.2em #e0a204, -3em 0em 0 0em #e0a204, -2em -2em 0 -0.5em #e0a204;
+  }
+  75% {
+    box-shadow: 0em -3em 0em -0.5em #e0a204, 2em -2em 0 -0.5em #e0a204, 3em 0em 0 -0.5em #e0a204, 2em 2em 0 -0.5em #e0a204, 0em 3em 0 -0.5em #e0a204, -2em 2em 0 0em #e0a204, -3em 0em 0 0.2em #e0a204, -2em -2em 0 0em #e0a204;
+  }
+  87.5% {
+    box-shadow: 0em -3em 0em 0em #e0a204, 2em -2em 0 -0.5em #e0a204, 3em 0em 0 -0.5em #e0a204, 2em 2em 0 -0.5em #e0a204, 0em 3em 0 -0.5em #e0a204, -2em 2em 0 0em #e0a204, -3em 0em 0 0em #e0a204, -2em -2em 0 0.2em #e0a204;
+  }
+}
+@keyframes load4 {
+  0%,
+  100% {
+    box-shadow: 0em -3em 0em 0.2em #e0a204, 2em -2em 0 0em #e0a204, 3em 0em 0 -0.5em #e0a204, 2em 2em 0 -0.5em #e0a204, 0em 3em 0 -0.5em #e0a204, -2em 2em 0 -0.5em #e0a204, -3em 0em 0 -0.5em #e0a204, -2em -2em 0 0em #e0a204;
+  }
+  12.5% {
+    box-shadow: 0em -3em 0em 0em #e0a204, 2em -2em 0 0.2em #e0a204, 3em 0em 0 0em #e0a204, 2em 2em 0 -0.5em #e0a204, 0em 3em 0 -0.5em #e0a204, -2em 2em 0 -0.5em #e0a204, -3em 0em 0 -0.5em #e0a204, -2em -2em 0 -0.5em #e0a204;
+  }
+  25% {
+    box-shadow: 0em -3em 0em -0.5em #e0a204, 2em -2em 0 0em #e0a204, 3em 0em 0 0.2em #e0a204, 2em 2em 0 0em #e0a204, 0em 3em 0 -0.5em #e0a204, -2em 2em 0 -0.5em #e0a204, -3em 0em 0 -0.5em #e0a204, -2em -2em 0 -0.5em #e0a204;
+  }
+  37.5% {
+    box-shadow: 0em -3em 0em -0.5em #e0a204, 2em -2em 0 -0.5em #e0a204, 3em 0em 0 0em #e0a204, 2em 2em 0 0.2em #e0a204, 0em 3em 0 0em #e0a204, -2em 2em 0 -0.5em #e0a204, -3em 0em 0 -0.5em #e0a204, -2em -2em 0 -0.5em #e0a204;
+  }
+  50% {
+    box-shadow: 0em -3em 0em -0.5em #e0a204, 2em -2em 0 -0.5em #e0a204, 3em 0em 0 -0.5em #e0a204, 2em 2em 0 0em #e0a204, 0em 3em 0 0.2em #e0a204, -2em 2em 0 0em #e0a204, -3em 0em 0 -0.5em #e0a204, -2em -2em 0 -0.5em #e0a204;
+  }
+  62.5% {
+    box-shadow: 0em -3em 0em -0.5em #e0a204, 2em -2em 0 -0.5em #e0a204, 3em 0em 0 -0.5em #e0a204, 2em 2em 0 -0.5em #e0a204, 0em 3em 0 0em #e0a204, -2em 2em 0 0.2em #e0a204, -3em 0em 0 0em #e0a204, -2em -2em 0 -0.5em #e0a204;
+  }
+  75% {
+    box-shadow: 0em -3em 0em -0.5em #e0a204, 2em -2em 0 -0.5em #e0a204, 3em 0em 0 -0.5em #e0a204, 2em 2em 0 -0.5em #e0a204, 0em 3em 0 -0.5em #e0a204, -2em 2em 0 0em #e0a204, -3em 0em 0 0.2em #e0a204, -2em -2em 0 0em #e0a204;
+  }
+  87.5% {
+    box-shadow: 0em -3em 0em 0em #e0a204, 2em -2em 0 -0.5em #e0a204, 3em 0em 0 -0.5em #e0a204, 2em 2em 0 -0.5em #e0a204, 0em 3em 0 -0.5em #e0a204, -2em 2em 0 0em #e0a204, -3em 0em 0 0em #e0a204, -2em -2em 0 0.2em #e0a204;
+  }
+}
+
+/* end of loader 5 css */
+
+
+/* css for loader 6 */
+
+#u12944 .loader6 {
+  font-size: 23px;
+  text-indent: -9999em;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  margin: 0.8em auto;
+  position: relative;
+  -webkit-animation: load6 1.7s infinite ease;
+  animation: load6 1.7s infinite ease;
+  transform-origin:center center 0;
+}
+@-webkit-keyframes load6 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    box-shadow: -0.11em -0.83em 0 -0.4em #e0a204, -0.11em -0.83em 0 -0.42em #e0a204, -0.11em -0.83em 0 -0.44em #e0a204, -0.11em -0.83em 0 -0.46em #e0a204, -0.11em -0.83em 0 -0.477em #e0a204;
+  }
+  5%,
+  95% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #e0a204, -0.11em -0.83em 0 -0.42em #e0a204, -0.11em -0.83em 0 -0.44em #e0a204, -0.11em -0.83em 0 -0.46em #e0a204, -0.11em -0.83em 0 -0.477em #e0a204;
+  }
+  30% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #e0a204, -0.51em -0.66em 0 -0.42em #e0a204, -0.75em -0.36em 0 -0.44em #e0a204, -0.83em -0.03em 0 -0.46em #e0a204, -0.81em 0.21em 0 -0.477em #e0a204;
+  }
+  55% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #e0a204, -0.29em -0.78em 0 -0.42em #e0a204, -0.43em -0.72em 0 -0.44em #e0a204, -0.52em -0.65em 0 -0.46em #e0a204, -0.57em -0.61em 0 -0.477em #e0a204;
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+    box-shadow: -0.11em -0.83em 0 -0.4em #e0a204, -0.11em -0.83em 0 -0.42em #e0a204, -0.11em -0.83em 0 -0.44em #e0a204, -0.11em -0.83em 0 -0.46em #e0a204, -0.11em -0.83em 0 -0.477em #e0a204;
+  }
+}
+@keyframes load6 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    box-shadow: -0.11em -0.83em 0 -0.4em #e0a204, -0.11em -0.83em 0 -0.42em #e0a204, -0.11em -0.83em 0 -0.44em #e0a204, -0.11em -0.83em 0 -0.46em #e0a204, -0.11em -0.83em 0 -0.477em #e0a204;
+  }
+  5%,
+  95% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #e0a204, -0.11em -0.83em 0 -0.42em #e0a204, -0.11em -0.83em 0 -0.44em #e0a204, -0.11em -0.83em 0 -0.46em #e0a204, -0.11em -0.83em 0 -0.477em #e0a204;
+  }
+  30% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #e0a204, -0.51em -0.66em 0 -0.42em #e0a204, -0.75em -0.36em 0 -0.44em #e0a204, -0.83em -0.03em 0 -0.46em #e0a204, -0.81em 0.21em 0 -0.477em #e0a204;
+  }
+  55% {
+    box-shadow: -0.11em -0.83em 0 -0.4em #e0a204, -0.29em -0.78em 0 -0.42em #e0a204, -0.43em -0.72em 0 -0.44em #e0a204, -0.52em -0.65em 0 -0.46em #e0a204, -0.57em -0.61em 0 -0.477em #e0a204;
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+    box-shadow: -0.11em -0.83em 0 -0.4em #e0a204, -0.11em -0.83em 0 -0.42em #e0a204, -0.11em -0.83em 0 -0.44em #e0a204, -0.11em -0.83em 0 -0.46em #e0a204, -0.11em -0.83em 0 -0.477em #e0a204;
+  }
+}
+
+
+/* end of loader6 css */
+
+
+/* css for loader 7 */
+
+#u12944 .loader7:before,
+.loader7:after,
+.loader7 {
+  border-radius: 50%;
+  width: 2.5em;
+  height: 2.5em;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation: load7 1.8s infinite ease-in-out;
+  animation: load7 1.8s infinite ease-in-out;
+}
+#u12944 .loader7 {
+  margin: 8em auto;
+  font-size: 23px;
+  position: relative;
+  text-indent: -9999em;
+  -webkit-animation-delay: 0.16s;
+  animation-delay: 0.16s;
+}
+#u12944 .loader7:before {
+  left: -3.5em;
+}
+#u12944 .loader7:after {
+  left: 3.5em;
+  -webkit-animation-delay: 0.32s;
+  animation-delay: 0.32s;
+}
+#u12944 .loader7:before,
+.loader7:after {
+  content: '';
+  position: absolute;
+  top: 0;
+}
+@-webkit-keyframes load7 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 2.5em 0 -1.3em #e0a204;
+  }
+  40% {
+    box-shadow: 0 2.5em 0 0 #e0a204;
+  }
+}
+@keyframes load7 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 2.5em 0 -1.3em #e0a204;
+  }
+  40% {
+    box-shadow: 0 2.5em 0 0 #e0a204;
+  }
+}
+
+
+/* end of loader 7 css */
+
+
+/* css for loader 8 */
+
+#u12944 .loader8 {
+  margin: 6em auto;
+  font-size: 23px;
+  position: relative;
+  text-indent: -9999em;
+  border-top: 1.1em solid rgba(255, 255, 255, 0.2);
+  border-right: 1.1em solid rgba(255, 255, 255, 0.2);
+  border-bottom: 1.1em solid rgba(255, 255, 255, 0.2);
+  border-left: 1.1em solid #e0a204;
+  -webkit-animation: load8 1.1s infinite linear;
+  animation: load8 1.1s infinite linear;
+  transform-origin:center center 0;
+  
+}
+#u12944 .loader8,
+.loader8:after {
+  border-radius: 50%;
+  width: 10em;
+  height: 10em;
+}
+@-webkit-keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+/*  end of loader 8 css */
+
+
+#u12944 .preloader {
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background-color:#0d4d7a; /* change if the mask should have another color then white */
+    opacity:0.7;
+    //z-index:99; /* makes sure it stays on top */
+
+}
+
+#u12944 .status{ margin:20% auto; }
+
+
+
+
+@media screen and (max-width: 980px) {
+
+#u12944 .status{ margin:50% auto; }
+
+}
+
+@media screen and (max-width: 860px) {
+
+#u12944 .status{ margin:50% auto; }
+
+}
+
+@media screen and (max-width: 740px) {
+
+#u12944 .status{ margin:50% auto; }
+
+}
+
+@media screen and (max-width: 640px) {
+
+#u12944 .status{ margin:50% auto; }
+
+  
+}
+
+@media screen and (max-width: 480px) {
+
+#u12944 .status{ margin:50% auto; }
+
+}
+
+@media screen and (max-width: 360px) {
+
+#u12944 .status{ margin:80% auto; }
+
+}
+
+
+</style>
+
  </head>
  <body>
 
   <div class="rounded-corners clearfix borderbox" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="ppu3573"><!-- column -->
-    <div class="clearfix colelem" id="pu3573"><!-- group -->
-     <div class="size_fixed grpelem" id="u3573" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
-     </div>
+   <div class="clearfix grpelem" id="ppu104"><!-- column -->
+    <div class="clearfix colelem" id="pu104"><!-- group -->
      <div class="clip_frame grpelem" id="u104"><!-- image -->
       <img class="block" id="u104_img" src="images/logomakr_9a9qwa.png?crc=3930183419" alt="" data-heightwidthratio="0.31334622823984526" data-image-width="517" data-image-height="162"/>
      </div>
-    </div>
-    <div class="browser_width colelem" id="u900-bw">
-     <div class="size_browser_width" id="u900"><!-- custom html -->
-      
+     <div class="browser_width grpelem" id="u900-bw">
+      <div class="size_browser_width" id="u900"><!-- custom html -->
+       
 		<style type="text/css">
 			#display-text1 {height:14px;  padding-bottom:20px; width:100%px; overflow:hidden; position:relative;}
 			#text-text1 {cursor:pointer; position:absolute; line-height:100%; font-size:14px; color:#00406D; white-space:nowrap;}
@@ -59,20 +627,32 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 			<p id="text-text1">Welcome to the TAC website!</p>
 		</div>
 	
+      </div>
      </div>
-    </div>
-    <div class="clearfix colelem" id="u7673"><!-- group -->
-     <div class="Button clearfix grpelem" id="pbuttonu7682"><!-- group -->
-      <a class="nonblock nontext clearfix grpelem" id="buttonu7682" href="ibo.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u7685-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content --><p id="u7685-2"><span class="Menu-Buttons" id="u7685">IB</span></p></div><div class="clip_frame grpelem" id="u7683"><!-- image --><img class="block" id="u7683_img" src="images/pointerb.png?crc=3780694765" alt="" data-heightwidthratio="0.5" data-image-width="20" data-image-height="10"/></div></a>
+     <div class="size_fixed grpelem" id="u3573" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
      </div>
-     <div class="Button clearfix grpelem" id="pbuttonu7674"><!-- group -->
-      <a class="nonblock nontext clearfix grpelem" id="buttonu7674" href="games.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u7677-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content --><p id="u7677-2"><span class="Menu-Buttons" id="u7677">GAMES</span></p></div><div class="clip_frame grpelem" id="u7675"><!-- image --><img class="block" id="u7675_img" src="images/pointerb.png?crc=3780694765" alt="" data-heightwidthratio="0.5" data-image-width="20" data-image-height="10"/></div></a>
+     <div class="clearfix grpelem" id="u7673"><!-- group -->
+      <div class="Button clearfix grpelem" id="pbuttonu7682"><!-- group -->
+       <a class="nonblock nontext clearfix grpelem" id="buttonu7682" href="ibo.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u7685-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content --><p id="u7685-2"><span class="Menu-Buttons" id="u7685">IB</span></p></div><div class="clip_frame grpelem" id="u7683"><!-- image --><img class="block" id="u7683_img" src="images/pointerb.png?crc=3780694765" alt="" data-heightwidthratio="0.5" data-image-width="20" data-image-height="10"/></div></a>
+      </div>
+      <div class="Button clearfix grpelem" id="pbuttonu7674"><!-- group -->
+       <a class="nonblock nontext clearfix grpelem" id="buttonu7674" href="games.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u7677-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content --><p id="u7677-2"><span class="Menu-Buttons" id="u7677">GAMES</span></p></div><div class="clip_frame grpelem" id="u7675"><!-- image --><img class="block" id="u7675_img" src="images/pointerb.png?crc=3780694765" alt="" data-heightwidthratio="0.5" data-image-width="20" data-image-height="10"/></div></a>
+      </div>
+      <div class="Button ButtonSelected clearfix grpelem" id="pbuttonu7678"><!-- group -->
+       <a class="nonblock nontext clearfix grpelem" id="buttonu7678" href="school.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u7681-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content --><p id="u7681-2"><span class="Menu-Buttons" id="u7681">SCHOOL</span></p></div><div class="clip_frame grpelem" id="u7679"><!-- image --><img class="block" id="u7679_img" src="images/pointerb.png?crc=3780694765" alt="" data-heightwidthratio="0.5" data-image-width="20" data-image-height="10"/></div></a>
+      </div>
+      <div class="Button clearfix grpelem" id="pbuttonu7686"><!-- group -->
+       <a class="nonblock nontext clearfix grpelem" id="buttonu7686" href="index.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u7689-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content --><p id="u7689-2"><span class="Menu-Buttons" id="u7689">HOME</span></p></div><div class="clip_frame grpelem" id="u7687"><!-- image --><img class="block" id="u7687_img" src="images/pointerb.png?crc=3780694765" alt="" data-heightwidthratio="0.5" data-image-width="20" data-image-height="10"/></div></a>
+      </div>
      </div>
-     <div class="Button ButtonSelected clearfix grpelem" id="pbuttonu7678"><!-- group -->
-      <a class="nonblock nontext clearfix grpelem" id="buttonu7678" href="school.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u7681-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content --><p id="u7681-2"><span class="Menu-Buttons" id="u7681">SCHOOL</span></p></div><div class="clip_frame grpelem" id="u7679"><!-- image --><img class="block" id="u7679_img" src="images/pointerb.png?crc=3780694765" alt="" data-heightwidthratio="0.5" data-image-width="20" data-image-height="10"/></div></a>
-     </div>
-     <div class="Button clearfix grpelem" id="pbuttonu7686"><!-- group -->
-      <a class="nonblock nontext clearfix grpelem" id="buttonu7686" href="index.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u7689-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content --><p id="u7689-2"><span class="Menu-Buttons" id="u7689">HOME</span></p></div><div class="clip_frame grpelem" id="u7687"><!-- image --><img class="block" id="u7687_img" src="images/pointerb.png?crc=3780694765" alt="" data-heightwidthratio="0.5" data-image-width="20" data-image-height="10"/></div></a>
+     <div class="size_fixed grpelem" id="u12944" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
+      
+
+<div class="preloader"> 
+<div class="loader4 status">Loading...</div>
+</div>
+  
+
      </div>
     </div>
     <div class="clearfix colelem" id="pu8932"><!-- group -->
@@ -158,33 +738,34 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p>&nbsp;</p>
       <p>&nbsp;</p>
      </div>
-     <div class="PamphletWidget clearfix allow_click_through grpelem" id="pamphletu8700" data-visibility="changed" style="visibility:hidden" data-islightbox="true"><!-- none box -->
-      <div class="position_content widget_invisible" id="pamphletu8700_position_content">
-       <div class="ThumbGroup clearfix colelem" data-col-pos="1" id="u8701" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- none box -->
-        <div class="popup_anchor allow_click_through grpelem" data-col-pos="0" id="u8702popup">
-         <div class="Thumb popup_element" data-col-pos="0" id="u8702" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- simple frame --></div>
+     <div class="PamphletWidget clearfix allow_click_through grpelem" id="pamphletu12829" data-visibility="changed" style="visibility:hidden" data-islightbox="true" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- none box -->
+      <div class="position_content widget_invisible" id="pamphletu12829_position_content">
+       <div class="ThumbGroup clearfix colelem" data-col-pos="1" id="u12859"><!-- none box -->
+        <div class="popup_anchor allow_click_through grpelem" data-col-pos="0" id="u12860popup">
+         <div class="Thumb popup_element" data-col-pos="0" id="u12860" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- simple frame --></div>
         </div>
        </div>
-       <div class="popup_anchor allow_click_through colelem" data-col-pos="0" id="u8707popup" data-lightbox="true">
-        <div class="ContainerGroup rgba-background clearfix" data-col-pos="0" id="u8707" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- stack box -->
-         <div class="Container invi clearfix grpelem" data-col-pos="0" id="u8708" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- column -->
-          <div class="clearfix colelem" id="pu8842"><!-- group -->
-           <div class="grpelem" id="u8842" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- simple frame --></div>
-           <div class="grpelem" id="u8923" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- simple frame --></div>
-           <a class="nonblock nontext Button ButtonSelected rounded-corners clearfix grpelem" id="buttonu8924" href="school.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u8925-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p><span id="u8925">SCHOOL HOME</span></p></div></a>
-          </div>
-          <a class="nonblock nontext Button clearfix colelem" id="buttonu8843" href="apush.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box --><div class="clearfix grpelem" id="u8844-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u8844-2"><span class="Menu-Buttons" id="u8844">APUSH</span></p></div><div class="clip_frame grpelem" id="u8845" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u8845_img" src="images/pointer.png?crc=3760686964" alt="" width="17" height="33"/></div></a>
-          <a class="nonblock nontext Button clearfix colelem" id="buttonu8851" href="calculus.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box --><div class="clearfix grpelem" id="u8854-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u8854-2"><span class="Menu-Buttons" id="u8854">IB CALCULUS BC</span></p></div><div class="clip_frame grpelem" id="u8852" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u8852_img" src="images/pointer.png?crc=3760686964" alt="" width="17" height="33"/></div></a>
-          <a class="nonblock nontext Button clearfix colelem" id="buttonu8855" href="chemistry.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box --><div class="clearfix grpelem" id="u8858-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u8858-2"><span class="Menu-Buttons" id="u8858">IB CHEMISTRY</span></p></div><div class="clip_frame grpelem" id="u8856" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u8856_img" src="images/pointer.png?crc=3760686964" alt="" width="17" height="33"/></div></a>
-          <div class="Button clearfix colelem" id="buttonu8847" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box -->
-           <div class="clearfix grpelem" id="u8850-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
-            <p id="u8850-2"><span class="Menu-Buttons" id="u8850">CHINESE 2</span></p>
-           </div>
-           <div class="clip_frame grpelem" id="u8848" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
-            <img class="block" id="u8848_img" src="images/pointer.png?crc=3760686964" alt="" width="17" height="33"/>
+       <div class="popup_anchor allow_click_through colelem" data-col-pos="0" id="u12834popup" data-lightbox="true">
+        <div class="ContainerGroup rgba-background clearfix" data-col-pos="0" id="u12834" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- stack box -->
+         <div class="Container invi rounded-corners clearfix grpelem" data-col-pos="0" id="u12835" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- column -->
+          <div class="clearfix colelem" id="pu12840"><!-- group -->
+           <a class="nonblock nontext MuseLinkActive rounded-corners grpelem" id="u12840" href="school.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- simple frame --></a>
+           <div class="clearfix grpelem" id="u12931-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+            <p><span id="u12931">SCHOOL HOME</span></p>
            </div>
           </div>
-          <a class="nonblock nontext Button clearfix colelem" id="buttonu8863" href="physicss.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box --><div class="clearfix grpelem" id="u8864-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u8864-2"><span class="Menu-Buttons" id="u8864">PHYSICS</span></p></div><div class="clip_frame grpelem" id="u8865" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u8865_img" src="images/pointer.png?crc=3760686964" alt="" width="17" height="33"/></div></a>
+          <a class="nonblock nontext Button clearfix colelem" id="buttonu12853" href="apush.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box --><div class="clearfix grpelem" id="u12854-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u12854-2"><span class="Menu-Buttons" id="u12854">APUSH</span></p></div><div class="clip_frame grpelem" id="u12855" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u12855_img" src="images/pointer.png?crc=3760686964" alt="" width="17" height="33"/></div></a>
+          <a class="nonblock nontext Button clearfix colelem" id="buttonu12849" href="calculus.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box --><div class="clearfix grpelem" id="u12852-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u12852-2"><span class="Menu-Buttons" id="u12852">IB CALCULUS BC</span></p></div><div class="clip_frame grpelem" id="u12850" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u12850_img" src="images/pointer.png?crc=3760686964" alt="" width="17" height="33"/></div></a>
+          <a class="nonblock nontext Button clearfix colelem" id="buttonu12845" href="chemistry.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box --><div class="clearfix grpelem" id="u12848-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u12848-2"><span class="Menu-Buttons" id="u12848">IB CHEMISTRY</span></p></div><div class="clip_frame grpelem" id="u12846" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u12846_img" src="images/pointer.png?crc=3760686964" alt="" width="17" height="33"/></div></a>
+          <div class="Button clearfix colelem" id="buttonu12841" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box -->
+           <div class="clearfix grpelem" id="u12842-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
+            <p id="u12842-2"><span class="Menu-Buttons" id="u12842">CHINESE 2</span></p>
+           </div>
+           <div class="clip_frame grpelem" id="u12843" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
+            <img class="block" id="u12843_img" src="images/pointer.png?crc=3760686964" alt="" width="17" height="33"/>
+           </div>
+          </div>
+          <a class="nonblock nontext Button clearfix colelem" id="buttonu12836" href="physicss.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box --><div class="clearfix grpelem" id="u12839-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u12839-2"><span class="Menu-Buttons" id="u12839">PHYSICS</span></p></div><div class="clip_frame grpelem" id="u12837" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u12837_img" src="images/pointer.png?crc=3760686964" alt="" width="17" height="33"/></div></a>
          </div>
         </div>
        </div>
@@ -235,7 +816,7 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.resizeHeight('.popup_anchor.allow_click_through');/* resize height */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
-Muse.Utils.initWidget('#pamphletu8700', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'mouseout_both',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:1000,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:true}); });/* #pamphletu8700 */
+Muse.Utils.initWidget('#pamphletu12829', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:true}); });/* #pamphletu12829 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
@@ -285,5 +866,17 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 			});
 	</script>
 	
+		
+		<script type="text/javascript">
+    
+        $(window).load(function() { // makes sure the whole site is loaded
+            $('.status').delay(2*1000).fadeOut(1*100); // will first fade out the loading animation
+            $('.preloader').delay((2*1000)+1000).fadeOut(1*100); // will fade out the white DIV that covers the website.
+            
+        })
+    
+    </script>
+		
+		
    </body>
 </html>
