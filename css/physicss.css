@@ -1,7 +1,7 @@
 .version.physicss /* version checker */
 {
-	color: #0000F2;
-	background-color: #AD7DD4;
+	color: #0000FA;
+	background-color: #94043E;
 }
 
 #muse_css_mq
@@ -480,14 +480,15 @@
 	position: relative;
 	margin-right: -10000px;
 	width: 140.95%;
-	left: -43px;
-	margin-left: 356px;
+	margin-left: 118.51%;
+	left: 12px;
 }
 
 #pamphletu12829_position_content
 {
 	margin-bottom: -653px;
 	width: 100%;
+	margin-left: 0%;
 }
 
 #u12859
@@ -495,7 +496,8 @@
 	z-index: 107;
 	position: relative;
 	width: 70.68%;
-	margin-left: 12.02%;
+	margin-left: 14.67%;
+	left: -10px;
 }
 
 #u12860
@@ -503,6 +505,8 @@
 	position: absolute;
 	width: 253px;
 	height: 62px;
+	margin-left: 50%;
+	left: -253.5px;
 }
 
 .ie #u12860
@@ -511,6 +515,8 @@
 	opacity: 0.01;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 	filter: alpha(opacity=1);
+	margin-left: 50%;
+	left: -253.5px;
 }
 
 #u12860popup
@@ -518,6 +524,7 @@
 	width: 253px;
 	height: 62px;
 	margin-right: -10000px;
+	margin-left: 50%;
 }
 
 #u12834
