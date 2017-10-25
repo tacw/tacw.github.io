@@ -1,7 +1,7 @@
 .version.chemistry /* version checker */
 {
-	color: #000019;
-	background-color: #5B0C49;
+	color: #000003;
+	background-color: #17F241;
 }
 
 #muse_css_mq
@@ -459,8 +459,8 @@
 #pu8932
 {
 	z-index: 24;
-	margin-top: 7px;
-	width: 26.46%;
+	margin-top: 12px;
+	width: 26.57%;
 }
 
 #u8932
@@ -468,10 +468,10 @@
 	z-index: 24;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 8px;
-	width: 98.82%;
-	left: 1.19%;
-	margin-left: 140.16%;
+	margin-top: 3px;
+	width: 98.44%;
+	left: 1.57%;
+	margin-left: 139.22%;
 }
 
 #pamphletu12829
@@ -479,52 +479,9 @@
 	z-index: 143;
 	position: relative;
 	margin-right: -10000px;
-	width: 140.95%;
-	margin-left: 118.51%;
-	left: 12px;
-}
-
-#pamphletu12829_position_content
-{
-	margin-bottom: -653px;
-	width: 100%;
-	margin-left: 0%;
-}
-
-#u12859
-{
-	z-index: 186;
-	position: relative;
-	width: 70.68%;
-	margin-left: 14.67%;
-	left: -10px;
-}
-
-#u12860
-{
-	position: absolute;
-	width: 253px;
-	height: 62px;
-	margin-left: 50%;
-	left: -253.5px;
-}
-
-.ie #u12860
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-	margin-left: 50%;
-	left: -253.5px;
-}
-
-#u12860popup
-{
-	width: 253px;
-	height: 62px;
-	margin-right: -10000px;
-	margin-left: 50%;
+	width: 140.4%;
+	margin-left: 118.04%;
+	left: 7px;
 }
 
 #u12834
@@ -537,10 +494,11 @@
 #u12834popup
 {
 	z-index: 144;
+	margin-top: 42px;
+	margin-left: 22px;
 	width: 314px;
 	height: 621px;
-	margin-left: 22px;
-	margin-top: 54px;
+	margin-right: -10000px;
 }
 
 #u12835
@@ -948,13 +906,44 @@
 	margin: 24px -10000px 0px 0px;
 }
 
+#u12859
+{
+	z-index: 186;
+	position: relative;
+	margin-right: -10000px;
+	width: 70.68%;
+	left: 13.13%;
+}
+
+#u12860
+{
+	position: absolute;
+	height: 62px;
+	width: 100%;
+}
+
+.ie #u12860
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u12860popup
+{
+	height: 62px;
+	margin-right: -10000px;
+	width: 100%;
+}
+
 #u8637-79
 {
 	z-index: 26;
 	min-height: 390px;
 	background-color: transparent;
-	top: -2px;
-	margin-bottom: -2px;
+	top: -7px;
+	margin-bottom: -7px;
 	position: relative;
 	width: 94.8%;
 	left: 0%;
