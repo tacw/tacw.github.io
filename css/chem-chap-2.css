@@ -1,7 +1,7 @@
 .version.chem_chap_2 /* version checker */
 {
-	color: #000000;
-	background-color: #21FC6D;
+	color: #0000E1;
+	background-color: #9EADF3;
 }
 
 #muse_css_mq
@@ -459,8 +459,8 @@
 #pu8932
 {
 	z-index: 24;
-	margin-top: 15px;
-	width: 26.98%;
+	margin-top: 7px;
+	width: 26.46%;
 }
 
 #u8932
@@ -468,9 +468,10 @@
 	z-index: 24;
 	position: relative;
 	margin-right: -10000px;
-	width: 96.92%;
-	left: 3.09%;
-	margin-left: 135.53%;
+	margin-top: 8px;
+	width: 98.82%;
+	left: 1.19%;
+	margin-left: 140.16%;
 }
 
 #pamphletu12829
@@ -478,10 +479,9 @@
 	z-index: 285;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
-	width: 97.69%;
-	margin-left: 136.49%;
-	left: -3px;
+	width: 99.61%;
+	margin-left: 139.18%;
+	left: 3px;
 }
 
 #u12834
@@ -945,8 +945,7 @@
 	z-index: 26;
 	min-height: 251px;
 	background-color: transparent;
-	top: -3px;
-	margin-bottom: -3px;
+	margin-top: 8px;
 	position: relative;
 	width: 94.9%;
 	left: 0%;

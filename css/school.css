@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #0000F1;
-	background-color: #1E6641;
+	color: #0000E2;
+	background-color: #047BDB;
 }
 
 #muse_css_mq
@@ -474,7 +474,7 @@
 #pu8932
 {
 	z-index: 24;
-	margin-top: 15px;
+	margin-top: 7px;
 	width: 95.63%;
 }
 
@@ -483,6 +483,7 @@
 	z-index: 24;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 8px;
 	width: 27.35%;
 	left: 36.72%;
 	margin-left: 2.4%;
@@ -495,7 +496,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 20px;
+	margin-top: 28px;
 	width: 100%;
 	left: 0%;
 	margin-left: 2.4%;
@@ -516,10 +517,9 @@
 	z-index: 210;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
 	width: 27.56%;
 	margin-left: 38.51%;
-	left: -3px;
+	left: 3px;
 }
 
 #u12834
