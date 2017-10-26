@@ -1,7 +1,7 @@
 .version.chem_chap_1 /* version checker */
 {
-	color: #00000A;
-	background-color: #CF0C30;
+	color: #000017;
+	background-color: #FBF77B;
 }
 
 #muse_css_mq
@@ -460,7 +460,7 @@
 {
 	z-index: 24;
 	margin-top: 15px;
-	width: 95.11%;
+	width: 26.98%;
 }
 
 #u8932
@@ -468,22 +468,9 @@
 	z-index: 24;
 	position: relative;
 	margin-right: -10000px;
-	width: 27.5%;
-	left: 36.7%;
-	margin-left: 2.63%;
-}
-
-#u10943-13
-{
-	z-index: 26;
-	min-height: 340px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 83px;
-	width: 100%;
-	left: 0%;
-	margin-left: 2.63%;
+	width: 96.92%;
+	left: 3.09%;
+	margin-left: 135.53%;
 }
 
 #pamphletu12829
@@ -492,9 +479,9 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
-	width: 34.4%;
-	margin-left: 35.38%;
-	left: 3px;
+	width: 97.69%;
+	margin-left: 136.49%;
+	left: -3px;
 }
 
 #u12834
@@ -503,7 +490,7 @@
 	width: 314px;
 	height: 621px;
 	margin-left: 50%;
-	left: -314px;
+	left: -309.5px;
 }
 
 #u12834popup
@@ -928,8 +915,7 @@
 	z-index: 120;
 	position: relative;
 	margin-right: -10000px;
-	width: 80.58%;
-	left: 8.29%;
+	width: 100%;
 }
 
 #u12860
@@ -954,9 +940,21 @@
 	width: 100%;
 }
 
+#u10943-13
+{
+	z-index: 26;
+	min-height: 340px;
+	background-color: transparent;
+	margin-top: 18px;
+	position: relative;
+	width: 95.11%;
+	left: 0%;
+	margin-left: 2.5%;
+}
+
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1047px);
+	height: calc(100vh - 793px);
 }
 
 #u6883
@@ -1055,7 +1053,7 @@ body
 
 .verticalspacer
 {
-	min-height: 11px;
+	min-height: 266px;
 }
 
 #u104_img,#u7683_img,#u7675_img,#u7679_img,#u7687_img,#u8932_img,#u6898_img
