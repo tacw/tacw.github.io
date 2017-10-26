@@ -25,12 +25,6 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#pbuttonu9209:hover #u9210-4 p
-{
-	color: #2C2C2C;
-	visibility: inherit;
-}
-
 #u9211
 {
 	background-color: transparent;
@@ -72,12 +66,6 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#pbuttonu9217:hover #u9218-4 p
-{
-	color: #2C2C2C;
-	visibility: inherit;
-}
-
 #u9219
 {
 	background-color: transparent;
@@ -117,12 +105,6 @@
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#pbuttonu9205:hover #u9206-4 p
-{
-	color: #2C2C2C;
-	visibility: inherit;
 }
 
 #u9207
@@ -168,6 +150,12 @@
 	visibility: inherit;
 }
 
+#pbuttonu9209.ButtonSelected #u9210-4 p,#pbuttonu9209.ButtonSelected #u9210-4 span,#pbuttonu9217.ButtonSelected #u9218-4 p,#pbuttonu9217.ButtonSelected #u9218-4 span,#pbuttonu9205.ButtonSelected #u9206-4 p,#pbuttonu9205.ButtonSelected #u9206-4 span,#pbuttonu9213.ButtonSelected #u9214-4 p,#pbuttonu9213.ButtonSelected #u9214-4 span
+{
+	color: #E4E4E4;
+	visibility: inherit;
+}
+
 #u9214-2
 {
 	padding-top: 1px;
@@ -179,18 +167,6 @@
 	font-size: 13px;
 	color: #E4E4E4;
 	line-height: 16px;
-}
-
-#pbuttonu9213:hover #u9214-4 p
-{
-	color: #2C2C2C;
-	visibility: inherit;
-}
-
-#pbuttonu9209.ButtonSelected #u9210-4 p,#pbuttonu9209.ButtonSelected #u9210-4 span,#pbuttonu9209.ButtonSelected #u9210-4 p,#pbuttonu9217.ButtonSelected #u9218-4 p,#pbuttonu9217.ButtonSelected #u9218-4 span,#pbuttonu9217.ButtonSelected #u9218-4 p,#pbuttonu9205.ButtonSelected #u9206-4 p,#pbuttonu9205.ButtonSelected #u9206-4 span,#pbuttonu9205.ButtonSelected #u9206-4 p,#pbuttonu9213.ButtonSelected #u9214-4 p,#pbuttonu9213.ButtonSelected #u9214-4 span,#pbuttonu9213.ButtonSelected #u9214-4 p
-{
-	color: #E4E4E4;
-	visibility: inherit;
 }
 
 #u9215
@@ -215,14 +191,7 @@
 	filter: alpha(opacity=0);
 }
 
-#u12950
-{
-	background-color: #565656;
-	background-color: rgba(68,68,68,0.9);
-	-pie-background: rgba(68,68,68,0.9);
-}
-
-#u12951
+#u13055
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -230,7 +199,7 @@
 	border-radius: 12px;
 }
 
-#u12960
+#u13064
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -238,7 +207,7 @@
 	border-radius: 10px 10px 0px 0px ;
 }
 
-#u12973-4
+#u13077-4
 {
 	background-color: transparent;
 	letter-spacing: 1px;
@@ -249,45 +218,45 @@
 	font-weight: 300;
 }
 
-#u12973-4:hover p,#u12973-4:hover span
+#u13077-4:hover p,#u13077-4:hover span
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#u12973
+#u13077
 {
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 }
 
-#u10485,#u9204,#buttonu12952
+#u10485,#u9204,#buttonu13056
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 }
 
-#buttonu12952:hover
+#buttonu13056:hover
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #D4BFE1;
 }
 
-#u12953-4
+#u13057-4
 {
 	background-color: transparent;
 	text-align: center;
 }
 
-#u12953-2
+#u13057-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u12954
+#u13058
 {
 	border-width: 0px;
 	background-color: transparent;
@@ -296,7 +265,7 @@
 	filter: alpha(opacity=1);
 }
 
-#u12954::before
+#u13058::before
 {
 	content: "";
 	position: absolute;
@@ -304,43 +273,43 @@
 	box-shadow: none;
 }
 
-#u9265,#u10272,#buttonu12952.ButtonSelected,#buttonu12952:hover #u12954
+#u9265,#u10272,#u13054,#buttonu13056.ButtonSelected,#buttonu13056:hover #u13058
 {
 	background-color: transparent;
 }
 
-#buttonu12952:active #u12954
+#buttonu13056:active #u13058
 {
 	background-color: transparent;
 }
 
-#buttonu12969
+#buttonu13073
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 }
 
-#buttonu12969:hover
+#buttonu13073:hover
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #D4BFE1;
 }
 
-#u12970-4
+#u13074-4
 {
 	background-color: transparent;
 	text-align: center;
 }
 
-#u12970-2
+#u13074-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u12971
+#u13075
 {
 	border-width: 0px;
 	background-color: transparent;
@@ -349,7 +318,7 @@
 	filter: alpha(opacity=1);
 }
 
-#u12971::before
+#u13075::before
 {
 	content: "";
 	position: absolute;
@@ -357,43 +326,43 @@
 	box-shadow: none;
 }
 
-#buttonu12952.ButtonSelected #u12954,#buttonu12969.ButtonSelected,#buttonu12969:hover #u12971
+#buttonu13056.ButtonSelected #u13058,#buttonu13073.ButtonSelected,#buttonu13073:hover #u13075
 {
 	background-color: transparent;
 }
 
-#buttonu12969:active #u12971
+#buttonu13073:active #u13075
 {
 	background-color: transparent;
 }
 
-#buttonu12965
+#buttonu13069
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 }
 
-#buttonu12965:hover
+#buttonu13069:hover
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #D4BFE1;
 }
 
-#u12966-4
+#u13070-4
 {
 	background-color: transparent;
 	text-align: center;
 }
 
-#u12966-2
+#u13070-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u12967
+#u13071
 {
 	border-width: 0px;
 	background-color: transparent;
@@ -402,7 +371,7 @@
 	filter: alpha(opacity=1);
 }
 
-#u12967::before
+#u13071::before
 {
 	content: "";
 	position: absolute;
@@ -410,43 +379,43 @@
 	box-shadow: none;
 }
 
-#buttonu12969.ButtonSelected #u12971,#buttonu12965.ButtonSelected,#buttonu12965:hover #u12967
+#buttonu13073.ButtonSelected #u13075,#buttonu13069.ButtonSelected,#buttonu13069:hover #u13071
 {
 	background-color: transparent;
 }
 
-#buttonu12965:active #u12967
+#buttonu13069:active #u13071
 {
 	background-color: transparent;
 }
 
-#buttonu12956
+#buttonu13060
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 }
 
-#buttonu12956:hover
+#buttonu13060:hover
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #D4BFE1;
 }
 
-#u12957-4
+#u13061-4
 {
 	background-color: transparent;
 	text-align: center;
 }
 
-#u12957-2
+#u13061-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u12958
+#u13062
 {
 	border-width: 0px;
 	background-color: transparent;
@@ -455,7 +424,7 @@
 	filter: alpha(opacity=1);
 }
 
-#u12958::before
+#u13062::before
 {
 	content: "";
 	position: absolute;
@@ -463,48 +432,48 @@
 	box-shadow: none;
 }
 
-#buttonu12965.ButtonSelected #u12967,#buttonu12956.ButtonSelected,#buttonu12956:hover #u12958
+#buttonu13069.ButtonSelected #u13071,#buttonu13060.ButtonSelected,#buttonu13060:hover #u13062
 {
 	background-color: transparent;
 }
 
-#buttonu12956:active #u12958
+#buttonu13060:active #u13062
 {
 	background-color: transparent;
 }
 
-#buttonu12961
+#buttonu13065
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 }
 
-#buttonu12961:hover
+#buttonu13065:hover
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #D4BFE1;
 }
 
-#u12964-4
+#u13068-4
 {
 	background-color: transparent;
 	text-align: center;
 }
 
-#u12964-2
+#u13068-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u12953,#u12970,#u12966,#u12957,#u12964
+#u13057,#u13074,#u13070,#u13061,#u13068
 {
 	line-height: 19px;
 }
 
-#u12962
+#u13066
 {
 	border-width: 0px;
 	background-color: transparent;
@@ -513,7 +482,7 @@
 	filter: alpha(opacity=1);
 }
 
-#u12962::before
+#u13066::before
 {
 	content: "";
 	position: absolute;
@@ -521,12 +490,12 @@
 	box-shadow: none;
 }
 
-#buttonu12956.ButtonSelected #u12958,#buttonu12961.ButtonSelected,#buttonu12961:hover #u12962
+#buttonu13060.ButtonSelected #u13062,#buttonu13065.ButtonSelected,#buttonu13065:hover #u13066
 {
 	background-color: transparent;
 }
 
-#buttonu12961:active #u12962
+#buttonu13065:active #u13066
 {
 	background-color: transparent;
 }
@@ -536,7 +505,7 @@
 	cursor: pointer;
 }
 
-#buttonu12961.ButtonSelected #u12962,#u12065
+#buttonu13065.ButtonSelected #u13066,#u12065
 {
 	background-color: transparent;
 }
