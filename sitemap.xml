@@ -566,7 +566,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/school.html</loc>
-    <lastmod>2017-10-25</lastmod>
+    <lastmod>2017-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4484,7 +4484,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht.html</loc>
-    <lastmod>2017-10-25</lastmod>
+    <lastmod>2017-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4856,7 +4856,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht10.html</loc>
-    <lastmod>2017-10-25</lastmod>
+    <lastmod>2017-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4873,6 +4873,12 @@
     </image:image>
     <image:image>
       <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/photoshop_2017-10-27_17-54-41.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/photoshop_2017-10-27_17-54-48.jpg</image:loc>
     </image:image>
   </url>
   <url>
