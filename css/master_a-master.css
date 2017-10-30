@@ -32,6 +32,12 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
+#pbuttonu7682:hover #u7685-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
+}
+
 #u7683
 {
 	background-color: transparent;
@@ -74,6 +80,12 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
+#pbuttonu7674:hover #u7677-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
+}
+
 #u7675
 {
 	background-color: transparent;
@@ -114,6 +126,12 @@
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#pbuttonu7678:hover #u7681-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
 }
 
 #u7679
@@ -159,12 +177,6 @@
 	visibility: inherit;
 }
 
-#pbuttonu7682.ButtonSelected #u7685-4 p,#pbuttonu7682.ButtonSelected #u7685-4 span,#pbuttonu7674.ButtonSelected #u7677-4 p,#pbuttonu7674.ButtonSelected #u7677-4 span,#pbuttonu7678.ButtonSelected #u7681-4 p,#pbuttonu7678.ButtonSelected #u7681-4 span,#pbuttonu7686.ButtonSelected #u7689-4 p,#pbuttonu7686.ButtonSelected #u7689-4 span
-{
-	color: #E4E4E4;
-	visibility: inherit;
-}
-
 #u7689-2
 {
 	padding-top: 1px;
@@ -176,6 +188,18 @@
 	font-size: 13px;
 	color: #E4E4E4;
 	line-height: 16px;
+}
+
+#pbuttonu7686:hover #u7689-4 p
+{
+	color: #2C2C2C;
+	visibility: inherit;
+}
+
+#pbuttonu7682.ButtonSelected #u7685-4 p,#pbuttonu7682.ButtonSelected #u7685-4 span,#pbuttonu7682.ButtonSelected #u7685-4 p,#pbuttonu7674.ButtonSelected #u7677-4 p,#pbuttonu7674.ButtonSelected #u7677-4 span,#pbuttonu7674.ButtonSelected #u7677-4 p,#pbuttonu7678.ButtonSelected #u7681-4 p,#pbuttonu7678.ButtonSelected #u7681-4 span,#pbuttonu7678.ButtonSelected #u7681-4 p,#pbuttonu7686.ButtonSelected #u7689-4 p,#pbuttonu7686.ButtonSelected #u7689-4 span,#pbuttonu7686.ButtonSelected #u7689-4 p
+{
+	color: #E4E4E4;
+	visibility: inherit;
 }
 
 #u7687
@@ -224,8 +248,8 @@
 	border-color: #FFCA00;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	letter-spacing: -1px;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
@@ -238,8 +262,8 @@
 	border-color: #FFCA00;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 }
