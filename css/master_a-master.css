@@ -247,10 +247,10 @@
 	border-width: 2px;
 	border-color: #FFCA00;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 29px;
 	font-size: 24px;
 	letter-spacing: -1px;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 }
@@ -261,9 +261,9 @@
 	border-width: 2px;
 	border-color: #FFCA00;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 29px;
 	font-size: 24px;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 }
