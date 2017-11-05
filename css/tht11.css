@@ -1,7 +1,7 @@
 .version.tht11 /* version checker */
 {
-	color: #0000EE;
-	background-color: #55F81F;
+	color: #0000E8;
+	background-color: #C7D610;
 }
 
 #muse_css_mq
@@ -29,13 +29,13 @@
 	z-index: 0;
 	margin-right: -10000px;
 	margin-top: -151px;
-	width: 98.86%;
+	width: 97.82%;
 }
 
 #pu10485
 {
 	z-index: 71;
-	width: 71.03%;
+	width: 71.78%;
 }
 
 #u10485
@@ -65,9 +65,9 @@
 	z-index: 32;
 	margin-top: 13px;
 	position: relative;
-	width: 54.48%;
+	width: 55.06%;
 	left: 0%;
-	margin-left: 23.82%;
+	margin-left: 24.07%;
 }
 
 #pbuttonu9209
@@ -433,7 +433,7 @@
 {
 	z-index: 22;
 	margin-top: 11px;
-	width: 98.95%;
+	width: 97.13%;
 }
 
 #u13400-6
@@ -444,21 +444,9 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 46px;
-	width: 97.13%;
-	left: 1.28%;
-	margin-left: 1.18%;
-}
-
-#u13403
-{
-	z-index: 28;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 331px;
 	width: 100%;
 	left: 0%;
-	margin-left: 1.18%;
+	margin-left: 2.53%;
 }
 
 #u10272
@@ -467,9 +455,9 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
-	width: 26.74%;
-	margin-left: 37.76%;
-	left: -1px;
+	width: 27.53%;
+	margin-left: 38.88%;
+	left: 1px;
 }
 
 #pamphletu13053
@@ -477,9 +465,9 @@
 	z-index: 72;
 	position: relative;
 	margin-right: -10000px;
-	width: 26.95%;
-	margin-left: 37.65%;
-	left: -1px;
+	width: 27.75%;
+	margin-left: 38.77%;
+	left: 0px;
 }
 
 #u13054
@@ -956,15 +944,33 @@
 	width: 100%;
 }
 
+#pu13413
+{
+	z-index: 28;
+	margin-top: -3px;
+	width: 100%;
+	left: 0%;
+	margin-left: 0.11%;
+}
+
 #u13413
+{
+	z-index: 28;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 543px;
+	width: 100%;
+}
+
+#u13423
 {
 	z-index: 30;
 	background-color: transparent;
-	margin-top: 3px;
 	position: relative;
-	width: 98.95%;
-	left: 0%;
-	margin-left: 0.11%;
+	margin-right: -10000px;
+	width: 98.3%;
+	left: 1.71%;
 }
 
 .css_verticalspacer .verticalspacer
@@ -1050,7 +1056,7 @@ body
 	min-height: 1px;
 }
 
-#u13403_img,#u13413_img,#u9265_img,#u9211_img,#u9219_img,#u9207_img,#u9215_img,#u10272_img,#u12065_img
+#u13413_img,#u13423_img,#u9265_img,#u9211_img,#u9219_img,#u9207_img,#u9215_img,#u10272_img,#u12065_img
 {
 	width: 100%;
 }
