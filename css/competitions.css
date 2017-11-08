@@ -1,7 +1,7 @@
 .version.competitions /* version checker */
 {
-	color: #0000F8;
-	background-color: #0B04E5;
+	color: #0000FD;
+	background-color: #5AE8C2;
 }
 
 #muse_css_mq
@@ -35,13 +35,13 @@
 
 #pu3573
 {
-	z-index: 89;
+	z-index: 305;
 	width: 71.88%;
 }
 
 #u3573
 {
-	z-index: 89;
+	z-index: 305;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
@@ -88,7 +88,7 @@
 
 #u7673
 {
-	z-index: 90;
+	z-index: 306;
 	top: -4px;
 	margin-bottom: -4px;
 	position: relative;
@@ -99,7 +99,7 @@
 
 #pbuttonu7682
 {
-	z-index: 92;
+	z-index: 308;
 	margin-right: -10000px;
 	width: 24.96%;
 	margin-left: 75.05%;
@@ -107,7 +107,7 @@
 
 #buttonu7682
 {
-	z-index: 92;
+	z-index: 308;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -128,7 +128,7 @@
 
 #u7685-4
 {
-	z-index: 93;
+	z-index: 309;
 	min-height: 24px;
 	width: 78.75%;
 }
@@ -155,7 +155,7 @@
 
 #u7683
 {
-	z-index: 97;
+	z-index: 313;
 	width: 15.75%;
 }
 
@@ -183,7 +183,7 @@
 
 #pbuttonu7674
 {
-	z-index: 101;
+	z-index: 317;
 	margin-right: -10000px;
 	width: 24.57%;
 	margin-left: 50.68%;
@@ -191,7 +191,7 @@
 
 #buttonu7674
 {
-	z-index: 101;
+	z-index: 317;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -212,7 +212,7 @@
 
 #u7677-4
 {
-	z-index: 102;
+	z-index: 318;
 	min-height: 24px;
 	width: 80%;
 }
@@ -247,7 +247,7 @@
 
 #u7675
 {
-	z-index: 106;
+	z-index: 322;
 	width: 16%;
 }
 
@@ -275,7 +275,7 @@
 
 #pbuttonu7678
 {
-	z-index: 110;
+	z-index: 326;
 	margin-right: -10000px;
 	width: 25.73%;
 	margin-left: 25.15%;
@@ -283,7 +283,7 @@
 
 #buttonu7678
 {
-	z-index: 110;
+	z-index: 326;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -304,7 +304,7 @@
 
 #u7681-4
 {
-	z-index: 111;
+	z-index: 327;
 	min-height: 24px;
 	width: 76.34%;
 }
@@ -339,7 +339,7 @@
 
 #u7679
 {
-	z-index: 115;
+	z-index: 331;
 	width: 15.27%;
 }
 
@@ -367,14 +367,14 @@
 
 #pbuttonu7686
 {
-	z-index: 119;
+	z-index: 335;
 	margin-right: -10000px;
 	width: 25.34%;
 }
 
 #buttonu7686
 {
-	z-index: 119;
+	z-index: 335;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -395,7 +395,7 @@
 
 #u7689-4
 {
-	z-index: 120;
+	z-index: 336;
 	min-height: 24px;
 	width: 77.52%;
 }
@@ -430,7 +430,7 @@
 
 #u7687
 {
-	z-index: 124;
+	z-index: 340;
 	width: 15.51%;
 }
 
@@ -458,7 +458,7 @@
 
 #pu7822
 {
-	z-index: 127;
+	z-index: 343;
 	margin-top: 29px;
 	width: 27.4%;
 	left: 0%;
@@ -467,7 +467,7 @@
 
 #u7822
 {
-	z-index: 127;
+	z-index: 343;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
@@ -475,7 +475,7 @@
 
 #u7819
 {
-	z-index: 128;
+	z-index: 344;
 	padding-top: 46px;
 	padding-bottom: 7px;
 	position: relative;
@@ -485,7 +485,7 @@
 
 #buttonu3637
 {
-	z-index: 129;
+	z-index: 345;
 	padding-bottom: 4px;
 	position: relative;
 	width: 87.84%;
@@ -508,7 +508,7 @@
 
 #u3638-4
 {
-	z-index: 130;
+	z-index: 346;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -528,7 +528,7 @@
 
 #u3639
 {
-	z-index: 134;
+	z-index: 350;
 	height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -547,7 +547,7 @@
 
 #buttonu7810
 {
-	z-index: 135;
+	z-index: 351;
 	padding-bottom: 4px;
 	position: relative;
 	width: 87.84%;
@@ -570,7 +570,7 @@
 
 #u7812-4
 {
-	z-index: 136;
+	z-index: 352;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -599,7 +599,7 @@
 
 #u7811
 {
-	z-index: 140;
+	z-index: 356;
 	height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -626,7 +626,7 @@
 
 #buttonu8589
 {
-	z-index: 141;
+	z-index: 357;
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
@@ -651,7 +651,7 @@
 
 #u8590-4
 {
-	z-index: 142;
+	z-index: 358;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -680,7 +680,7 @@
 
 #u8591
 {
-	z-index: 146;
+	z-index: 362;
 	height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -705,7 +705,7 @@
 	margin: 15px -10000px 0px 0%;
 }
 
-#u12692-65
+#u12692-281
 {
 	z-index: 24;
 	min-height: 341px;
@@ -717,9 +717,137 @@
 	margin-left: 2.82%;
 }
 
+#u12692-2
+{
+	font-size: 24px;
+	line-height: 29px;
+	color: #F83D00;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u12692-3,#u12692-5,#u12692-91,#u12692-103
+{
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u12692-136
+{
+	font-size: 18px;
+	text-decoration: underline;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 22px;
+}
+
+#u12692-141
+{
+	text-decoration: underline;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u12692-146
+{
+	font-size: 24px;
+	line-height: 29px;
+	color: #E64C00;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u12692-149
+{
+	font-size: 19px;
+	line-height: 23px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u12692-124,#u12692-131,#u12692-138,#u12692-156
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u12692-6,#u12692-89,#u12692-122,#u12692-129,#u12692-154
+{
+	font-size: 20px;
+	text-decoration: underline;
+	line-height: 24px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u12692-121,#u12692-123,#u12692-128,#u12692-130,#u12692-135,#u12692-137,#u12692-155
+{
+	line-height: 17px;
+}
+
+#u12692-159
+{
+	font-size: 24px;
+	line-height: 29px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u12692-160
+{
+	font-size: 24px;
+	text-decoration: underline;
+	line-height: 29px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u12692-272
+{
+	font-size: 20px;
+	line-height: 24px;
+	color: #FF5118;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u12692,#u12692-4,#u12692-90,#u12692-102,#u12692-145,#u12692-148,#u12692-158,#u12692-252,#u12692-271
+{
+	text-decoration: underline;
+}
+
+#u12692-256,#u12692-258,#u12692-261,#u12692-263,#u12692-266,#u12692-275
+{
+	font-size: 24px;
+	color: #911400;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u12692-255,#u12692-257,#u12692-260,#u12692-262,#u12692-265,#u12692-274
+{
+	font-size: 12px;
+	text-decoration: none;
+	color: #000000;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 14px;
+}
+
+#u12692-253,#u12692-254,#u12692-259,#u12692-264,#u12692-267,#u12692-268,#u12692-269,#u12692-270,#u12692-273,#u12692-276,#u12692-277,#u12692-278,#u12692-279
+{
+	font-size: 24px;
+	line-height: 29px;
+	color: #911400;
+	font-weight: bold;
+	font-style: italic;
+}
+
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1079px);
+	height: calc(100vh - 3357px);
 }
 
 #u6883
