@@ -1,7 +1,7 @@
 .version.competitions /* version checker */
 {
-	color: #0000FD;
-	background-color: #5AE8C2;
+	color: #00000E;
+	background-color: #9AA0AE;
 }
 
 #muse_css_mq
@@ -35,13 +35,13 @@
 
 #pu3573
 {
-	z-index: 305;
+	z-index: 371;
 	width: 71.88%;
 }
 
 #u3573
 {
-	z-index: 305;
+	z-index: 371;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
@@ -88,7 +88,7 @@
 
 #u7673
 {
-	z-index: 306;
+	z-index: 372;
 	top: -4px;
 	margin-bottom: -4px;
 	position: relative;
@@ -99,7 +99,7 @@
 
 #pbuttonu7682
 {
-	z-index: 308;
+	z-index: 374;
 	margin-right: -10000px;
 	width: 24.96%;
 	margin-left: 75.05%;
@@ -107,7 +107,7 @@
 
 #buttonu7682
 {
-	z-index: 308;
+	z-index: 374;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -128,7 +128,7 @@
 
 #u7685-4
 {
-	z-index: 309;
+	z-index: 375;
 	min-height: 24px;
 	width: 78.75%;
 }
@@ -155,7 +155,7 @@
 
 #u7683
 {
-	z-index: 313;
+	z-index: 379;
 	width: 15.75%;
 }
 
@@ -183,7 +183,7 @@
 
 #pbuttonu7674
 {
-	z-index: 317;
+	z-index: 383;
 	margin-right: -10000px;
 	width: 24.57%;
 	margin-left: 50.68%;
@@ -191,7 +191,7 @@
 
 #buttonu7674
 {
-	z-index: 317;
+	z-index: 383;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -212,7 +212,7 @@
 
 #u7677-4
 {
-	z-index: 318;
+	z-index: 384;
 	min-height: 24px;
 	width: 80%;
 }
@@ -247,7 +247,7 @@
 
 #u7675
 {
-	z-index: 322;
+	z-index: 388;
 	width: 16%;
 }
 
@@ -275,7 +275,7 @@
 
 #pbuttonu7678
 {
-	z-index: 326;
+	z-index: 392;
 	margin-right: -10000px;
 	width: 25.73%;
 	margin-left: 25.15%;
@@ -283,7 +283,7 @@
 
 #buttonu7678
 {
-	z-index: 326;
+	z-index: 392;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -304,7 +304,7 @@
 
 #u7681-4
 {
-	z-index: 327;
+	z-index: 393;
 	min-height: 24px;
 	width: 76.34%;
 }
@@ -339,7 +339,7 @@
 
 #u7679
 {
-	z-index: 331;
+	z-index: 397;
 	width: 15.27%;
 }
 
@@ -367,14 +367,14 @@
 
 #pbuttonu7686
 {
-	z-index: 335;
+	z-index: 401;
 	margin-right: -10000px;
 	width: 25.34%;
 }
 
 #buttonu7686
 {
-	z-index: 335;
+	z-index: 401;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -395,7 +395,7 @@
 
 #u7689-4
 {
-	z-index: 336;
+	z-index: 402;
 	min-height: 24px;
 	width: 77.52%;
 }
@@ -430,7 +430,7 @@
 
 #u7687
 {
-	z-index: 340;
+	z-index: 406;
 	width: 15.51%;
 }
 
@@ -458,7 +458,7 @@
 
 #pu7822
 {
-	z-index: 343;
+	z-index: 409;
 	margin-top: 29px;
 	width: 27.4%;
 	left: 0%;
@@ -467,7 +467,7 @@
 
 #u7822
 {
-	z-index: 343;
+	z-index: 409;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
@@ -475,7 +475,7 @@
 
 #u7819
 {
-	z-index: 344;
+	z-index: 410;
 	padding-top: 46px;
 	padding-bottom: 7px;
 	position: relative;
@@ -485,7 +485,7 @@
 
 #buttonu3637
 {
-	z-index: 345;
+	z-index: 411;
 	padding-bottom: 4px;
 	position: relative;
 	width: 87.84%;
@@ -508,7 +508,7 @@
 
 #u3638-4
 {
-	z-index: 346;
+	z-index: 412;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -528,7 +528,7 @@
 
 #u3639
 {
-	z-index: 350;
+	z-index: 416;
 	height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -547,7 +547,7 @@
 
 #buttonu7810
 {
-	z-index: 351;
+	z-index: 417;
 	padding-bottom: 4px;
 	position: relative;
 	width: 87.84%;
@@ -570,7 +570,7 @@
 
 #u7812-4
 {
-	z-index: 352;
+	z-index: 418;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -599,7 +599,7 @@
 
 #u7811
 {
-	z-index: 356;
+	z-index: 422;
 	height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -626,7 +626,7 @@
 
 #buttonu8589
 {
-	z-index: 357;
+	z-index: 423;
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
@@ -651,7 +651,7 @@
 
 #u8590-4
 {
-	z-index: 358;
+	z-index: 424;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -680,7 +680,7 @@
 
 #u8591
 {
-	z-index: 362;
+	z-index: 428;
 	height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -705,7 +705,7 @@
 	margin: 15px -10000px 0px 0%;
 }
 
-#u12692-281
+#u12692-347
 {
 	z-index: 24;
 	min-height: 341px;
@@ -817,7 +817,16 @@
 	text-decoration: underline;
 }
 
-#u12692-256,#u12692-258,#u12692-261,#u12692-263,#u12692-266,#u12692-275
+#u12692-284,#u12692-285
+{
+	font-size: 12px;
+	line-height: 14px;
+	color: #000000;
+	font-weight: normal;
+	font-style: normal;
+}
+
+#u12692-256,#u12692-258,#u12692-261,#u12692-263,#u12692-266,#u12692-275,#u12692-279,#u12692-282,#u12692-287,#u12692-293,#u12692-300
 {
 	font-size: 24px;
 	color: #911400;
@@ -826,7 +835,7 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u12692-255,#u12692-257,#u12692-260,#u12692-262,#u12692-265,#u12692-274
+#u12692-255,#u12692-257,#u12692-260,#u12692-262,#u12692-265,#u12692-274,#u12692-278,#u12692-281,#u12692-286,#u12692-292,#u12692-299
 {
 	font-size: 12px;
 	text-decoration: none;
@@ -836,7 +845,7 @@
 	line-height: 14px;
 }
 
-#u12692-253,#u12692-254,#u12692-259,#u12692-264,#u12692-267,#u12692-268,#u12692-269,#u12692-270,#u12692-273,#u12692-276,#u12692-277,#u12692-278,#u12692-279
+#u12692-253,#u12692-254,#u12692-259,#u12692-264,#u12692-267,#u12692-268,#u12692-269,#u12692-270,#u12692-273,#u12692-276,#u12692-277,#u12692-280,#u12692-288,#u12692-289,#u12692-290,#u12692-291,#u12692-294,#u12692-295,#u12692-296,#u12692-297,#u12692-298,#u12692-301
 {
 	font-size: 24px;
 	line-height: 29px;
@@ -845,9 +854,32 @@
 	font-style: italic;
 }
 
+#u12692-309
+{
+	color: #000000;
+}
+
+#u12692-331,#u12692-333,#u12692-335,#u12692-337,#u12692-341,#u12692-343
+{
+	font-size: 12px;
+	text-decoration: none;
+	color: #000000;
+	font-weight: normal;
+	font-style: normal;
+}
+
+#u12692-303,#u12692-304,#u12692-306,#u12692-307,#u12692-311,#u12692-312,#u12692-314,#u12692-315,#u12692-317,#u12692-318,#u12692-320,#u12692-321,#u12692-323,#u12692-324,#u12692-326,#u12692-328,#u12692-329,#u12692-330,#u12692-332,#u12692-334,#u12692-336,#u12692-338,#u12692-339,#u12692-340,#u12692-342,#u12692-344,#u12692-345
+{
+	font-size: 12px;
+	line-height: 14px;
+	color: #000000;
+	font-weight: normal;
+	font-style: italic;
+}
+
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 3357px);
+	height: calc(100vh - 4142px);
 }
 
 #u6883
