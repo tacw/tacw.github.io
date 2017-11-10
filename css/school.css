@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #0000F0;
-	background-color: #3F9DCF;
+	color: #0000E2;
+	background-color: #7E59A6;
 }
 
 #muse_css_mq
@@ -35,13 +35,13 @@
 
 #pu3573
 {
-	z-index: 289;
+	z-index: 293;
 	width: 71.88%;
 }
 
 #u3573
 {
-	z-index: 289;
+	z-index: 293;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
@@ -94,7 +94,7 @@
 
 #u7673
 {
-	z-index: 290;
+	z-index: 294;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 36px;
@@ -105,7 +105,7 @@
 
 #pbuttonu7682
 {
-	z-index: 292;
+	z-index: 296;
 	margin-right: -10000px;
 	width: 24.96%;
 	margin-left: 75.05%;
@@ -113,7 +113,7 @@
 
 #buttonu7682
 {
-	z-index: 292;
+	z-index: 296;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -134,7 +134,7 @@
 
 #u7685-4
 {
-	z-index: 293;
+	z-index: 297;
 	min-height: 24px;
 	width: 78.75%;
 }
@@ -161,7 +161,7 @@
 
 #u7683
 {
-	z-index: 297;
+	z-index: 301;
 	width: 15.75%;
 }
 
@@ -189,7 +189,7 @@
 
 #pbuttonu7674
 {
-	z-index: 301;
+	z-index: 305;
 	margin-right: -10000px;
 	width: 24.57%;
 	margin-left: 50.68%;
@@ -197,7 +197,7 @@
 
 #buttonu7674
 {
-	z-index: 301;
+	z-index: 305;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -218,7 +218,7 @@
 
 #u7677-4
 {
-	z-index: 302;
+	z-index: 306;
 	min-height: 24px;
 	width: 80%;
 }
@@ -253,7 +253,7 @@
 
 #u7675
 {
-	z-index: 306;
+	z-index: 310;
 	width: 16%;
 }
 
@@ -281,7 +281,7 @@
 
 #pbuttonu7678
 {
-	z-index: 310;
+	z-index: 314;
 	margin-right: -10000px;
 	width: 25.73%;
 	margin-left: 25.15%;
@@ -289,7 +289,7 @@
 
 #buttonu7678
 {
-	z-index: 310;
+	z-index: 314;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -310,7 +310,7 @@
 
 #u7681-4
 {
-	z-index: 311;
+	z-index: 315;
 	min-height: 24px;
 	width: 76.34%;
 }
@@ -345,7 +345,7 @@
 
 #u7679
 {
-	z-index: 315;
+	z-index: 319;
 	width: 15.27%;
 }
 
@@ -373,14 +373,14 @@
 
 #pbuttonu7686
 {
-	z-index: 319;
+	z-index: 323;
 	margin-right: -10000px;
 	width: 25.34%;
 }
 
 #buttonu7686
 {
-	z-index: 319;
+	z-index: 323;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -401,7 +401,7 @@
 
 #u7689-4
 {
-	z-index: 320;
+	z-index: 324;
 	min-height: 24px;
 	width: 77.52%;
 }
@@ -436,7 +436,7 @@
 
 #u7687
 {
-	z-index: 324;
+	z-index: 328;
 	width: 15.51%;
 }
 
@@ -464,7 +464,7 @@
 
 #u12944
 {
-	z-index: 372;
+	z-index: 376;
 	width: 210px;
 	min-height: 98px;
 	border-width: 0px;
@@ -494,7 +494,7 @@
 	margin-left: 2.4%;
 }
 
-#u3545-263
+#u3545-267
 {
 	z-index: 26;
 	min-height: 461px;
@@ -507,19 +507,24 @@
 	margin-left: 2.4%;
 }
 
-#u3545-2,#u3545-4,#u3545-6,#u3545-8,#u3545-13,#u3545-15,#u3545-17,#u3545-19,#u3545-20,#u3545-24,#u3545-27,#u3545-29
+#u3545-22 > li:before
+{
+	content: '-';
+}
+
+#u3545-2,#u3545-4,#u3545-6,#u3545-8,#u3545-13,#u3545-16,#u3545-18,#u3545-20,#u3545-23,#u3545-24,#u3545-28,#u3545-31,#u3545-33
 {
 	font-weight: normal;
 }
 
-#u3545,#u3545-3,#u3545-5,#u3545-7,#u3545-9,#u3545-10,#u3545-11,#u3545-12,#u3545-14,#u3545-16,#u3545-18,#u3545-22,#u3545-23,#u3545-25,#u3545-26,#u3545-28,#u3545-30,#u3545-31,#u3545-33,#u3545-50,#u3545-64
+#u3545,#u3545-3,#u3545-5,#u3545-7,#u3545-9,#u3545-10,#u3545-11,#u3545-12,#u3545-14,#u3545-15,#u3545-19,#u3545-21,#u3545-26,#u3545-27,#u3545-29,#u3545-30,#u3545-32,#u3545-34,#u3545-35,#u3545-37,#u3545-54,#u3545-68
 {
 	font-weight: bold;
 }
 
 #pamphletu12829
 {
-	z-index: 327;
+	z-index: 331;
 	position: relative;
 	margin-right: -10000px;
 	width: 27.56%;
@@ -538,7 +543,7 @@
 
 #u12834popup
 {
-	z-index: 328;
+	z-index: 332;
 	margin-top: 54px;
 	width: 314px;
 	height: 621px;
@@ -548,7 +553,7 @@
 
 #u12835
 {
-	z-index: 329;
+	z-index: 333;
 	width: 314px;
 	height: 504px;
 	padding-bottom: 117px;
@@ -560,13 +565,13 @@
 
 #pu12840
 {
-	z-index: 365;
+	z-index: 369;
 	width: 100%;
 }
 
 #u12840
 {
-	z-index: 365;
+	z-index: 369;
 	width: 314px;
 	height: 94px;
 	position: relative;
@@ -577,7 +582,7 @@
 
 #u12931-4
 {
-	z-index: 366;
+	z-index: 370;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -598,7 +603,7 @@
 
 #buttonu12853
 {
-	z-index: 330;
+	z-index: 334;
 	width: 313px;
 	height: 58px;
 	padding-bottom: 24px;
@@ -615,7 +620,7 @@
 
 #u12854-4
 {
-	z-index: 331;
+	z-index: 335;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -635,7 +640,7 @@
 
 #u12855
 {
-	z-index: 335;
+	z-index: 339;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -659,7 +664,7 @@
 
 #buttonu12849
 {
-	z-index: 344;
+	z-index: 348;
 	width: 313px;
 	height: 58px;
 	padding-bottom: 24px;
@@ -676,7 +681,7 @@
 
 #u12852-4
 {
-	z-index: 345;
+	z-index: 349;
 	width: 140px;
 	min-height: 24px;
 	position: relative;
@@ -705,7 +710,7 @@
 
 #u12850
 {
-	z-index: 349;
+	z-index: 353;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -729,7 +734,7 @@
 
 #buttonu12845
 {
-	z-index: 351;
+	z-index: 355;
 	width: 313px;
 	height: 58px;
 	padding-bottom: 24px;
@@ -756,7 +761,7 @@
 
 #u12848-4
 {
-	z-index: 352;
+	z-index: 356;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -776,7 +781,7 @@
 
 #u12846
 {
-	z-index: 356;
+	z-index: 360;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -800,7 +805,7 @@
 
 #buttonu12841
 {
-	z-index: 337;
+	z-index: 341;
 	width: 313px;
 	height: 58px;
 	padding-bottom: 24px;
@@ -825,7 +830,7 @@
 
 #u12842-4
 {
-	z-index: 338;
+	z-index: 342;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -845,7 +850,7 @@
 
 #u12843
 {
-	z-index: 342;
+	z-index: 346;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -869,7 +874,7 @@
 
 #buttonu12836
 {
-	z-index: 358;
+	z-index: 362;
 	width: 313px;
 	height: 58px;
 	padding-bottom: 24px;
@@ -895,7 +900,7 @@
 
 #u12839-4
 {
-	z-index: 359;
+	z-index: 363;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -924,7 +929,7 @@
 
 #u12837
 {
-	z-index: 363;
+	z-index: 367;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -955,7 +960,7 @@
 
 #u12859
 {
-	z-index: 370;
+	z-index: 374;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
@@ -985,7 +990,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 2821px);
+	height: calc(100vh - 2838px);
 }
 
 #u6883
