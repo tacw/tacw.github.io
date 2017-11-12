@@ -176,6 +176,26 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.quote-text
+{
+	color: #25C4AA;
+	font-family: open-sans, sans-serif;
+	font-size: 36px;
+	font-weight: 300;
+	text-align: center;
+	padding: 0px;
+}
+
+.quote-author
+{
+	color: #5F5F5F;
+	font-family: open-sans, sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	text-align: center;
+	padding: 0px;
+}
+
 .Menu-Buttons
 {
 	color: #383838;

@@ -17,10 +17,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/favicon.ico?crc=271725686"/>
   <title>IBO</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3883103917"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=416412750"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4146471815"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=112396283"/>
   <link rel="stylesheet" type="text/css" href="css/master_ib.css?crc=292093135"/>
-  <link rel="stylesheet" type="text/css" href="css/ibo.css?crc=496146496" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/ibo.css?crc=3952870613" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -116,9 +116,18 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 	a, button, input, video, audio:hover { cursor: url(assets/mouse2.png), auto !important; }
 </style>	
 
+    <style>
+	    ::-moz-selection {color: #FFFFFF; background: #E08906;}
+	    ::selection {color: #FFFFFF; background: #E08906;}
+    </style>
+ 
  </head>
  <body>
 
+  <!--HTML Widget code-->
+  
+ 
+  
   <div class="rounded-corners clearfix borderbox" id="page"><!-- group -->
    <div class="clearfix grpelem" id="pppu14091"><!-- column -->
     <div class="clearfix colelem" id="ppu14091"><!-- group -->
@@ -128,7 +137,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        
     
       </div>
-      <div class="size_fixed colelem" id="u3573" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
+      <div class="clearfix colelem" id="pu3573"><!-- group -->
+       <div class="size_fixed grpelem" id="u3573" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
+       </div>
+       <div class="size_fixed grpelem" id="u14264" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- custom html -->
+        
+ 
+       </div>
       </div>
      </div>
      <div class="clip_frame grpelem" id="u104"><!-- image -->
@@ -333,10 +348,10 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 
         $(document).ready(function(){
 
-          var buttonText = 'Return to Top';
+          var buttonText = '';
 
           if (buttonText.length > 0) {
-            $('body').append('<a href="#" class="u14091-mt_btn_top">Return to Top <span class="u14091-mt-scrolltop-arrow"></span></a>');
+            $('body').append('<a href="#" class="u14091-mt_btn_top"> <span class="u14091-mt-scrolltop-arrow"></span></a>');
           } else {
             $('body').append('<a href="#" class="u14091-mt_btn_top arrow-only"><span class="u14091-mt-scrolltop-arrow"></span></a>');
           }
@@ -412,6 +427,10 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
       </script>
 
     
+	<script>
+		console.log("Text Highlighter - Version 1.0 - MuseThemes.com");
+	</script>
+ 
 		<script>
 			function marqueetext1(a, b) {
 			var width = b.width();
