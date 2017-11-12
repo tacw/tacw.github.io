@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E0;
-	background-color: #616721;
+	color: #00000F;
+	background-color: #1F060C;
 }
 
 #muse_css_mq
@@ -16,7 +16,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #F8F8F8;
+	background-color: #FFFFFF;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
@@ -915,5 +915,4 @@ body
 {
 	width: 100%;
 }
-
 

@@ -16,8 +16,8 @@
 
 .version.iq /* version checker */
 {
-	color: #000017;
-	background-color: #850BD3;
+	color: #000019;
+	background-color: #6598D7;
 }
 
 #muse_css_mq
@@ -32,7 +32,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #F7F7F7;
+	background-color: #FFFFFF;
 	border-radius: 10px 10px 0px 0px ;
 	width: 100%;
 	max-width: 960px;

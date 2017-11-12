@@ -1,7 +1,7 @@
 .version.period_1 /* version checker */
 {
-	color: #000015;
-	background-color: #A9CED0;
+	color: #0000FA;
+	background-color: #2C1ADC;
 }
 
 #muse_css_mq
@@ -16,7 +16,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #F7F7F7;
+	background-color: #FFFFFF;
 	border-radius: 10px 10px 0px 0px ;
 	width: 100%;
 	max-width: 960px;

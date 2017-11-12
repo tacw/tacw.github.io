@@ -16,8 +16,8 @@
 
 .version.kapkan /* version checker */
 {
-	color: #0000E7;
-	background-color: #ED10E5;
+	color: #0000ED;
+	background-color: #BCC46A;
 }
 
 #muse_css_mq
@@ -32,7 +32,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #F7F7F7;
+	background-color: #FFFFFF;
 	border-radius: 10px 10px 0px 0px ;
 	width: 100%;
 	max-width: 960px;

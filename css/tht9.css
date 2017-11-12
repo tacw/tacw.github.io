@@ -1,7 +1,7 @@
 .version.tht9 /* version checker */
 {
-	color: #0000FA;
-	background-color: #32067A;
+	color: #000004;
+	background-color: #C3C23F;
 }
 
 #muse_css_mq
@@ -16,7 +16,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #F7F7F7;
+	background-color: #FFFFFF;
 	border-radius: 10px 10px 0px 0px ;
 	width: 100%;
 	max-width: 960px;
