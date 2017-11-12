@@ -11,7 +11,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.musemenu.js", "calc-programs.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "calc-programs.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=271725686"/>
@@ -19,7 +19,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3828951269"/>
   <link rel="stylesheet" type="text/css" href="css/master_g-master.css?crc=233987386"/>
-  <link rel="stylesheet" type="text/css" href="css/calc-programs.css?crc=4082633470" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/calc-programs.css?crc=4071597785" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -56,7 +56,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         </div>
        </nav>
        <div class="clip_frame grpelem" id="u15824" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
-        <img class="block" id="u15824_img" src="images/logomakr_9a9qwa2.png?crc=505840068" alt="" width="240" height="75"/>
+        <img class="block" id="u15824_img" src="images/logomakr_9a9qwa.png?crc=505840068" alt="" width="240" height="75"/>
        </div>
       </div>
      </div>
@@ -73,154 +73,174 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <a class="nonblock nontext Button ButtonSelected clearfix grpelem" id="buttonu15979" href="calc-programs.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u15981-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>Calc programs</p></div><div class="grpelem" id="u15980"><!-- simple frame --></div></a>
     </div>
-    <div class="clearfix colelem" id="u8586-268" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-     <p>Misc Calc programs for pre-calculus:</p>
-     <p>&nbsp;</p>
-     <p>(use <a class="nonblock" href="https://www.cemetech.net/sc/">this</a> to open calc files)</p>
-     <p>&nbsp;</p>
-     <p>Finding the Angle Between Two Vectors</p>
-     <p>This program will graph two vectors and calculate the measure of the angle between the vectors. Be sure to set an appropriate viewing window. After the vectors are drawn, press &quot;Enter&quot; to view the angle between the vectors.</p>
-     <p>&nbsp;</p>
-     <p>:ClrHome</p>
-     <p>:Degree</p>
-     <p>:Disp “ENTER (A,B)”</p>
-     <p>:Input “ENTER A”,A</p>
-     <p>:Input “ENTER B”,B</p>
-     <p>:ClrHome</p>
-     <p>:Disp “ENTER (C,D)”</p>
-     <p>:Input “ENTER C”,C</p>
-     <p>:Input “ENTER D”,D</p>
-     <p>:Line(0,0,A,B)</p>
-     <p>:Line(0,0,C,D)</p>
-     <p>:Pause</p>
-     <p>:AC+BD→E</p>
-     <p>: Sqr(A^2+B^2)→U</p>
-     <p>: Sqr(C^2+D^2)→V</p>
-     <p>:cos-1(E (UV))→Z</p>
-     <p>:ClrDraw:ClrHome</p>
-     <p>:Disp “angle=”,Z</p>
-     <p>:Stop</p>
-     <p>&nbsp;</p>
-     <p>(there are a TON of more potential vector programs, but vectors are really easy so ¯\_(ツ)_/¯)</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>LAW OF COSINE</p>
-     <p>&nbsp;</p>
-     <p>Menu(&quot;Law of cosine&quot;,&quot;No side A&quot;,A,&quot;No side B&quot;,B,&quot;No side C&quot;,C,&quot;No angle C&quot;,D)</p>
-     <p>&nbsp;</p>
-     <p>Lbl C</p>
-     <p>Prompt A,B,D</p>
-     <p>sqrt(A^2+B^2-2ABcos(D))-&gt;C</p>
-     <p>Disp &quot;C IS&quot;,C</p>
-     <p>Stop</p>
-     <p>&nbsp;</p>
-     <p>Lbl D</p>
-     <p>Prompt A,B,C</p>
-     <p>cos^-1((C^2-A^2-B^2)/((~2)AB))-&gt;D</p>
-     <p>Disp &quot;Angle is&quot;,D</p>
-     <p>Stop</p>
-     <p>&nbsp;</p>
-     <p>Lbl A</p>
-     <p>Prompt B,C,D</p>
-     <p>If (B^2(cos(D))^2-B^2+C^2)&lt;0</p>
-     <p>Then</p>
-     <p>&nbsp;Disp &quot;No such triangle</p>
-     <p>&nbsp;Else</p>
-     <p>&nbsp;(Bcos(D)+sqrt(B^2(cos(D))^2-B^2+C^2)-&gt;P</p>
-     <p>&nbsp;(Bcos(D)-sqrt(B^2(cos(D))^2-B^2+C^2)-&gt;Q</p>
-     <p>&nbsp;Disp &quot;SIDE POSSIBILITIES&quot;,P,Q</p>
-     <p>&nbsp;Stop</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;Lbl B</p>
-     <p>&nbsp;Prompt A,C,D</p>
-     <p>&nbsp;If (A^2(cos(D))^2-A^2+C^2)&lt;0</p>
-     <p>&nbsp;Then</p>
-     <p>&nbsp; Disp &quot;No such triangle</p>
-     <p>&nbsp; Else</p>
-     <p>&nbsp; (Acos(D)+sqrt(A^2(cos(D))^2-A^2+C^2)-&gt;R</p>
-     <p>&nbsp; (Acos(D)-sqrt(A^2(cos(D))^2-A^2+C^2)-&gt;S</p>
-     <p>&nbsp; Disp &quot;SIDE POSSIBILITIES&quot;,R,S</p>
-     <p>&nbsp; Stop</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>LAW OF SINE:</p>
-     <p>&nbsp;</p>
-     <p>ClrHome</p>
-     <p>Menu(&quot;WHAT?&quot;,&quot;ANGLE B&quot;,Z,&quot;SIDE B&quot;,Y)</p>
-     <p>Lbl Z</p>
-     <p>Input &quot;SIDE A=&nbsp;&nbsp; &quot;,A</p>
-     <p>Input &quot;ANGLE A=&nbsp; &quot;,B</p>
-     <p>Input &quot;SIDE B=&nbsp;&nbsp; &quot;,C</p>
-     <p>Disp &quot;&quot;,&quot;&quot;,&quot;ANGLE B=&quot;</p>
-     <p>(sin^-1(Csin(B)/A))-&gt;Y</p>
-     <p>Disp Y</p>
-     <p>Disp &quot;Or&quot;, 180-Y</p>
-     <p>Pause</p>
-     <p>ClrHome</p>
-     <p>Lbl Y</p>
-     <p>Input &quot;SIDE A=&nbsp;&nbsp; &quot;,A</p>
-     <p>Input &quot;ANGLE A=&nbsp; &quot;,B</p>
-     <p>Input &quot;ANGLE B=&nbsp; &quot;,C</p>
-     <p>Disp &quot;&quot;,&quot;&quot;,&quot;SIDE B=&quot;,Asin(C)/sin(B)</p>
-     <p>Pause</p>
-     <p>ClrHome</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>Convert between radians and degrees</p>
-     <p>&nbsp;</p>
-     <p>Radian</p>
-     <p>ClrHome</p>
-     <p>Menu(&quot;CONVERSION&quot;,&quot;Rad -&gt; Deg&quot;,A,&quot;Deg -&gt; Rad&quot;,B)</p>
-     <p>&nbsp;</p>
-     <p>Lbl A</p>
-     <p>Input &quot;Radian: &quot;,A</p>
-     <p>(180A/pi)-&gt;A</p>
-     <p>ClrHome</p>
-     <p>Output(1,1,A</p>
-     <p>Output(2,1,&quot;degrees</p>
-     <p>Pause</p>
-     <p>ClrHome</p>
-     <p>&nbsp;</p>
-     <p>Lbl B</p>
-     <p>Input &quot;Degrees: &quot;,A</p>
-     <p>ClrHome</p>
-     <p>(A/180)-&gt;B</p>
-     <p>Disp B&gt;Frac&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Math, 1)</p>
-     <p>Output(2,16,&quot;pi</p>
-     <p>Output(4,10,&quot;degrees</p>
-     <p>Pause</p>
-     <p>ClrHome</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>Finding triangle area SAS</p>
-     <p>&nbsp;</p>
-     <p>Pause &quot;INPUT SAS</p>
-     <p>Input &quot;adj side: &quot;,A</p>
-     <p>Input &quot;angle: &quot;, B</p>
-     <p>Input &quot;adj side 2: &quot;, C</p>
-     <p>((ACsin(B))/2)-&gt;D</p>
-     <p>Disp &quot;AREA&quot;, D</p>
-     <p>Pause</p>
-     <p>ClrHome</p>
-     <p>Stop</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>Finding triangle area SSS</p>
-     <p>&nbsp;</p>
-     <p>Pause &quot;INPUT SIDES&quot;</p>
-     <p>Prompt A,B,C</p>
-     <p>((A+B+C)/2)-&gt;D</p>
-     <p>(Sqr(D(D-A)(D-B)(D-C)))-&gt;E</p>
-     <p>Disp &quot;Area&quot;, E</p>
-     <p>Pause</p>
-     <p>ClrHome</p>
-     <p>Stop</p>
+    <div class="clearfix colelem" id="pu16044"><!-- group -->
+     <div class="browser_width grpelem" id="u16044-bw">
+      <div id="u16044"><!-- simple frame --></div>
+     </div>
+     <div class="browser_width grpelem" id="u16047-bw">
+      <div id="u16047"><!-- simple frame --></div>
+     </div>
+     <div class="browser_width grpelem" id="u16050-bw">
+      <div id="u16050"><!-- simple frame --></div>
+     </div>
+     <div class="browser_width grpelem" id="u16053-bw">
+      <div id="u16053"><!-- simple frame --></div>
+     </div>
+     <div class="browser_width grpelem" id="u16056-bw">
+      <div id="u16056"><!-- simple frame --></div>
+     </div>
+     <div class="browser_width grpelem" id="u16059-bw">
+      <div id="u16059"><!-- simple frame --></div>
+     </div>
+     <div class="clearfix grpelem" id="u8586-268" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Misc Calc programs for pre-calculus:</p>
+      <p>&nbsp;</p>
+      <p>(use <a class="nonblock" href="https://www.cemetech.net/sc/">this</a> to open calc files)</p>
+      <p>&nbsp;</p>
+      <p>Finding the Angle Between Two Vectors</p>
+      <p>This program will graph two vectors and calculate the measure of the angle between the vectors. Be sure to set an appropriate viewing window. After the vectors are drawn, press &quot;Enter&quot; to view the angle between the vectors.</p>
+      <p>&nbsp;</p>
+      <p>:ClrHome</p>
+      <p>:Degree</p>
+      <p>:Disp “ENTER (A,B)”</p>
+      <p>:Input “ENTER A”,A</p>
+      <p>:Input “ENTER B”,B</p>
+      <p>:ClrHome</p>
+      <p>:Disp “ENTER (C,D)”</p>
+      <p>:Input “ENTER C”,C</p>
+      <p>:Input “ENTER D”,D</p>
+      <p>:Line(0,0,A,B)</p>
+      <p>:Line(0,0,C,D)</p>
+      <p>:Pause</p>
+      <p>:AC+BD→E</p>
+      <p>: Sqr(A^2+B^2)→U</p>
+      <p>: Sqr(C^2+D^2)→V</p>
+      <p>:cos-1(E (UV))→Z</p>
+      <p>:ClrDraw:ClrHome</p>
+      <p>:Disp “angle=”,Z</p>
+      <p>:Stop</p>
+      <p>&nbsp;</p>
+      <p>(there are a TON of more potential vector programs, but vectors are really easy so ¯\_(ツ)_/¯)</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>LAW OF COSINE</p>
+      <p>&nbsp;</p>
+      <p>Menu(&quot;Law of cosine&quot;,&quot;No side A&quot;,A,&quot;No side B&quot;,B,&quot;No side C&quot;,C,&quot;No angle C&quot;,D)</p>
+      <p>&nbsp;</p>
+      <p>Lbl C</p>
+      <p>Prompt A,B,D</p>
+      <p>sqrt(A^2+B^2-2ABcos(D))-&gt;C</p>
+      <p>Disp &quot;C IS&quot;,C</p>
+      <p>Stop</p>
+      <p>&nbsp;</p>
+      <p>Lbl D</p>
+      <p>Prompt A,B,C</p>
+      <p>cos^-1((C^2-A^2-B^2)/((~2)AB))-&gt;D</p>
+      <p>Disp &quot;Angle is&quot;,D</p>
+      <p>Stop</p>
+      <p>&nbsp;</p>
+      <p>Lbl A</p>
+      <p>Prompt B,C,D</p>
+      <p>If (B^2(cos(D))^2-B^2+C^2)&lt;0</p>
+      <p>Then</p>
+      <p>&nbsp;Disp &quot;No such triangle</p>
+      <p>&nbsp;Else</p>
+      <p>&nbsp;(Bcos(D)+sqrt(B^2(cos(D))^2-B^2+C^2)-&gt;P</p>
+      <p>&nbsp;(Bcos(D)-sqrt(B^2(cos(D))^2-B^2+C^2)-&gt;Q</p>
+      <p>&nbsp;Disp &quot;SIDE POSSIBILITIES&quot;,P,Q</p>
+      <p>&nbsp;Stop</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;Lbl B</p>
+      <p>&nbsp;Prompt A,C,D</p>
+      <p>&nbsp;If (A^2(cos(D))^2-A^2+C^2)&lt;0</p>
+      <p>&nbsp;Then</p>
+      <p>&nbsp; Disp &quot;No such triangle</p>
+      <p>&nbsp; Else</p>
+      <p>&nbsp; (Acos(D)+sqrt(A^2(cos(D))^2-A^2+C^2)-&gt;R</p>
+      <p>&nbsp; (Acos(D)-sqrt(A^2(cos(D))^2-A^2+C^2)-&gt;S</p>
+      <p>&nbsp; Disp &quot;SIDE POSSIBILITIES&quot;,R,S</p>
+      <p>&nbsp; Stop</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>LAW OF SINE:</p>
+      <p>&nbsp;</p>
+      <p>ClrHome</p>
+      <p>Menu(&quot;WHAT?&quot;,&quot;ANGLE B&quot;,Z,&quot;SIDE B&quot;,Y)</p>
+      <p>Lbl Z</p>
+      <p>Input &quot;SIDE A=&nbsp;&nbsp; &quot;,A</p>
+      <p>Input &quot;ANGLE A=&nbsp; &quot;,B</p>
+      <p>Input &quot;SIDE B=&nbsp;&nbsp; &quot;,C</p>
+      <p>Disp &quot;&quot;,&quot;&quot;,&quot;ANGLE B=&quot;</p>
+      <p>(sin^-1(Csin(B)/A))-&gt;Y</p>
+      <p>Disp Y</p>
+      <p>Disp &quot;Or&quot;, 180-Y</p>
+      <p>Pause</p>
+      <p>ClrHome</p>
+      <p>Lbl Y</p>
+      <p>Input &quot;SIDE A=&nbsp;&nbsp; &quot;,A</p>
+      <p>Input &quot;ANGLE A=&nbsp; &quot;,B</p>
+      <p>Input &quot;ANGLE B=&nbsp; &quot;,C</p>
+      <p>Disp &quot;&quot;,&quot;&quot;,&quot;SIDE B=&quot;,Asin(C)/sin(B)</p>
+      <p>Pause</p>
+      <p>ClrHome</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>Convert between radians and degrees</p>
+      <p>&nbsp;</p>
+      <p>Radian</p>
+      <p>ClrHome</p>
+      <p>Menu(&quot;CONVERSION&quot;,&quot;Rad -&gt; Deg&quot;,A,&quot;Deg -&gt; Rad&quot;,B)</p>
+      <p>&nbsp;</p>
+      <p>Lbl A</p>
+      <p>Input &quot;Radian: &quot;,A</p>
+      <p>(180A/pi)-&gt;A</p>
+      <p>ClrHome</p>
+      <p>Output(1,1,A</p>
+      <p>Output(2,1,&quot;degrees</p>
+      <p>Pause</p>
+      <p>ClrHome</p>
+      <p>&nbsp;</p>
+      <p>Lbl B</p>
+      <p>Input &quot;Degrees: &quot;,A</p>
+      <p>ClrHome</p>
+      <p>(A/180)-&gt;B</p>
+      <p>Disp B&gt;Frac&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Math, 1)</p>
+      <p>Output(2,16,&quot;pi</p>
+      <p>Output(4,10,&quot;degrees</p>
+      <p>Pause</p>
+      <p>ClrHome</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>Finding triangle area SAS</p>
+      <p>&nbsp;</p>
+      <p>Pause &quot;INPUT SAS</p>
+      <p>Input &quot;adj side: &quot;,A</p>
+      <p>Input &quot;angle: &quot;, B</p>
+      <p>Input &quot;adj side 2: &quot;, C</p>
+      <p>((ACsin(B))/2)-&gt;D</p>
+      <p>Disp &quot;AREA&quot;, D</p>
+      <p>Pause</p>
+      <p>ClrHome</p>
+      <p>Stop</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>Finding triangle area SSS</p>
+      <p>&nbsp;</p>
+      <p>Pause &quot;INPUT SIDES&quot;</p>
+      <p>Prompt A,B,C</p>
+      <p>((A+B+C)/2)-&gt;D</p>
+      <p>(Sqr(D(D-A)(D-B)(D-C)))-&gt;E</p>
+      <p>Disp &quot;Area&quot;, E</p>
+      <p>Pause</p>
+      <p>ClrHome</p>
+      <p>Stop</p>
+     </div>
     </div>
    </div>
    <div class="verticalspacer" data-offset-top="2846" data-content-above-spacer="2866" data-content-below-spacer="174" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>

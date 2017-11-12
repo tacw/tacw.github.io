@@ -1,7 +1,7 @@
 .version.troll /* version checker */
 {
-	color: #0000F7;
-	background-color: #3ED5AB;
+	color: #000007;
+	background-color: #E56054;
 }
 
 #page
@@ -514,14 +514,14 @@
 	margin-right: -10000px;
 	margin-top: 30px;
 	width: 28.97%;
-	left: 32.82%;
+	left: 32.93%;
 }
 
 #u15972
 {
 	z-index: 237;
 	padding-top: 46px;
-	padding-bottom: 7.000000000000057px;
+	padding-bottom: 7px;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
@@ -532,15 +532,15 @@
 	z-index: 238;
 	padding-bottom: 4px;
 	position: relative;
-	width: 87.84%;
-	margin-left: 5.71%;
+	width: 87.46%;
+	margin-left: 6.09%;
 }
 
 #buttonu15976:hover
 {
 	min-height: 0px;
-	width: 87.84%;
-	margin: 0px 0px 0px 5.7034220532319395%;
+	width: 87.46%;
+	margin: 0px 0px 0px 6.083650190114068%;
 }
 
 #u15977-4
@@ -550,8 +550,8 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
-	width: 51.52%;
-	left: 29.44%;
+	width: 51.74%;
+	left: 29.57%;
 }
 
 #buttonu15976:hover #u15977-4
@@ -559,7 +559,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 23px;
-	width: 51.52%;
+	width: 51.74%;
 	margin: 13px -10000px 0px 0%;
 }
 
@@ -570,15 +570,15 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 15px;
-	width: 7.8%;
-	left: 22.08%;
+	width: 7.83%;
+	left: 22.18%;
 }
 
 #buttonu15976:hover #u15978
 {
 	height: 17px;
 	min-height: 0px;
-	width: 7.8%;
+	width: 7.83%;
 	margin: 15px -10000px 0px 0%;
 }
 
@@ -587,22 +587,22 @@
 	z-index: 244;
 	padding-bottom: 4px;
 	position: relative;
-	width: 87.84%;
-	margin-left: 5.71%;
+	width: 87.46%;
+	margin-left: 6.09%;
 }
 
 #buttonu15976.ButtonSelected,#buttonu15973:hover
 {
 	min-height: 0px;
-	width: 87.84%;
-	margin: 0px 0px 0px 5.7034220532319395%;
+	width: 87.46%;
+	margin: 0px 0px 0px 6.083650190114068%;
 }
 
 #buttonu15973.ButtonSelected
 {
 	min-height: 0px;
-	width: 87.84%;
-	margin: 0px 0px 0px 5.7034220532319395%;
+	width: 87.46%;
+	margin: 0px 0px 0px 6.083650190114068%;
 }
 
 #u15975-4
@@ -612,8 +612,8 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
-	width: 51.52%;
-	left: 29.44%;
+	width: 51.74%;
+	left: 29.57%;
 }
 
 #buttonu15976.ButtonSelected #u15977-4,#buttonu15973:hover #u15975-4
@@ -621,16 +621,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 23px;
-	width: 51.52%;
-	margin: 13px -10000px 0px 0%;
-}
-
-#buttonu15973.ButtonSelected #u15975-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 51.52%;
+	width: 51.74%;
 	margin: 13px -10000px 0px 0%;
 }
 
@@ -641,23 +632,15 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 15px;
-	width: 7.8%;
-	left: 22.08%;
+	width: 7.83%;
+	left: 22.18%;
 }
 
 #buttonu15976.ButtonSelected #u15978,#buttonu15973:hover #u15974
 {
 	height: 17px;
 	min-height: 0px;
-	width: 7.8%;
-	margin: 15px -10000px 0px 0%;
-}
-
-#buttonu15973.ButtonSelected #u15974
-{
-	height: 17px;
-	min-height: 0px;
-	width: 7.8%;
+	width: 7.83%;
 	margin: 15px -10000px 0px 0%;
 }
 
@@ -669,7 +652,7 @@
 	margin-right: -10000px;
 	margin-top: 36px;
 	width: 25.34%;
-	left: 34.59%;
+	left: 34.7%;
 }
 
 #buttonu15979:hover
@@ -697,7 +680,7 @@
 	left: 29.57%;
 }
 
-#buttonu15979:hover #u15981-4
+#buttonu15973.ButtonSelected #u15975-4,#buttonu15979:hover #u15981-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -726,7 +709,7 @@
 	left: 22.18%;
 }
 
-#buttonu15979:hover #u15980
+#buttonu15973.ButtonSelected #u15974,#buttonu15979:hover #u15980
 {
 	height: 17px;
 	min-height: 0px;
