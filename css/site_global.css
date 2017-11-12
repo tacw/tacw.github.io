@@ -168,6 +168,14 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.Icona-Light---Sub-Menu-Text
+{
+	color: #FFFFFF;
+	font-size: 13px;
+	text-align: left;
+	padding: 0px;
+}
+
 .Menu-Buttons
 {
 	color: #383838;

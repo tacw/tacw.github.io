@@ -1,7 +1,7 @@
 .version.chemistry /* version checker */
 {
-	color: #0000E9;
-	background-color: #536833;
+	color: #0000ED;
+	background-color: #E297BE;
 }
 
 #muse_css_mq
@@ -24,7 +24,7 @@
 	margin-right: auto;
 }
 
-#ppu3573
+#pppu14091
 {
 	z-index: 0;
 	padding-bottom: 0px;
@@ -33,20 +33,38 @@
 	width: 100%;
 }
 
-#pu3573
+#ppu14091
 {
-	z-index: 109;
-	width: 71.88%;
+	z-index: 0;
+	width: 76.05%;
+}
+
+#pu14091
+{
+	z-index: 24;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 27px;
+	width: 27.4%;
+}
+
+#u14091
+{
+	z-index: 24;
+	height: 66px;
+	position: relative;
+	width: 100%;
+	left: 0%;
+	margin-left: 4.5%;
 }
 
 #u3573
 {
-	z-index: 109;
+	z-index: 113;
 	width: 40px;
 	min-height: 40px;
+	margin-top: 26px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 119px;
 	left: 0px;
 	margin-left: 49px;
 }
@@ -56,9 +74,9 @@
 	z-index: 2;
 	position: relative;
 	margin-right: -10000px;
-	width: 74.93%;
-	left: 25.08%;
-	margin-left: 7.11%;
+	width: 70.83%;
+	left: 29.18%;
+	margin-left: 1.24%;
 }
 
 #u900
@@ -88,7 +106,7 @@
 
 #u7673
 {
-	z-index: 110;
+	z-index: 114;
 	top: -4px;
 	margin-bottom: -4px;
 	position: relative;
@@ -99,7 +117,7 @@
 
 #pbuttonu7682
 {
-	z-index: 112;
+	z-index: 116;
 	margin-right: -10000px;
 	width: 24.96%;
 	margin-left: 75.05%;
@@ -107,7 +125,7 @@
 
 #buttonu7682
 {
-	z-index: 112;
+	z-index: 116;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -128,7 +146,7 @@
 
 #u7685-4
 {
-	z-index: 113;
+	z-index: 117;
 	min-height: 24px;
 	width: 78.75%;
 }
@@ -155,7 +173,7 @@
 
 #u7683
 {
-	z-index: 117;
+	z-index: 121;
 	width: 15.75%;
 }
 
@@ -183,7 +201,7 @@
 
 #pbuttonu7674
 {
-	z-index: 121;
+	z-index: 125;
 	margin-right: -10000px;
 	width: 24.57%;
 	margin-left: 50.68%;
@@ -191,7 +209,7 @@
 
 #buttonu7674
 {
-	z-index: 121;
+	z-index: 125;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -212,7 +230,7 @@
 
 #u7677-4
 {
-	z-index: 122;
+	z-index: 126;
 	min-height: 24px;
 	width: 80%;
 }
@@ -247,7 +265,7 @@
 
 #u7675
 {
-	z-index: 126;
+	z-index: 130;
 	width: 16%;
 }
 
@@ -275,7 +293,7 @@
 
 #pbuttonu7678
 {
-	z-index: 130;
+	z-index: 134;
 	margin-right: -10000px;
 	width: 25.73%;
 	margin-left: 25.15%;
@@ -283,7 +301,7 @@
 
 #buttonu7678
 {
-	z-index: 130;
+	z-index: 134;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -304,7 +322,7 @@
 
 #u7681-4
 {
-	z-index: 131;
+	z-index: 135;
 	min-height: 24px;
 	width: 76.34%;
 }
@@ -339,7 +357,7 @@
 
 #u7679
 {
-	z-index: 135;
+	z-index: 139;
 	width: 15.27%;
 }
 
@@ -367,14 +385,14 @@
 
 #pbuttonu7686
 {
-	z-index: 139;
+	z-index: 143;
 	margin-right: -10000px;
 	width: 25.34%;
 }
 
 #buttonu7686
 {
-	z-index: 139;
+	z-index: 143;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -395,7 +413,7 @@
 
 #u7689-4
 {
-	z-index: 140;
+	z-index: 144;
 	min-height: 24px;
 	width: 77.52%;
 }
@@ -430,7 +448,7 @@
 
 #u7687
 {
-	z-index: 144;
+	z-index: 148;
 	width: 15.51%;
 }
 
@@ -458,14 +476,14 @@
 
 #pu8932
 {
-	z-index: 24;
+	z-index: 25;
 	margin-top: 7px;
 	width: 94.8%;
 }
 
 #u8932
 {
-	z-index: 24;
+	z-index: 25;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
@@ -474,9 +492,9 @@
 	margin-left: 2.64%;
 }
 
-#u8637-83
+#u8637-86
 {
-	z-index: 26;
+	z-index: 27;
 	min-height: 390px;
 	background-color: transparent;
 	position: relative;
@@ -487,9 +505,23 @@
 	margin-left: 2.64%;
 }
 
+#u8637-33
+{
+	font-size: 20px;
+	line-height: 24px;
+	color: #D42800;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u8637-32
+{
+	text-decoration: underline;
+}
+
 #pamphletu12829
 {
-	z-index: 147;
+	z-index: 151;
 	position: relative;
 	margin-right: -10000px;
 	width: 27.81%;
@@ -508,7 +540,7 @@
 
 #u12834popup
 {
-	z-index: 148;
+	z-index: 152;
 	margin-top: 54px;
 	width: 314px;
 	height: 621px;
@@ -518,7 +550,7 @@
 
 #u12835
 {
-	z-index: 149;
+	z-index: 153;
 	width: 314px;
 	height: 504px;
 	padding-bottom: 117px;
@@ -530,13 +562,13 @@
 
 #pu12840
 {
-	z-index: 185;
+	z-index: 189;
 	width: 100%;
 }
 
 #u12840
 {
-	z-index: 185;
+	z-index: 189;
 	width: 314px;
 	height: 94px;
 	position: relative;
@@ -547,7 +579,7 @@
 
 #u12931-4
 {
-	z-index: 186;
+	z-index: 190;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -568,7 +600,7 @@
 
 #buttonu12853
 {
-	z-index: 150;
+	z-index: 154;
 	width: 313px;
 	height: 58px;
 	padding-bottom: 24px;
@@ -585,7 +617,7 @@
 
 #u12854-4
 {
-	z-index: 151;
+	z-index: 155;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -605,7 +637,7 @@
 
 #u12855
 {
-	z-index: 155;
+	z-index: 159;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -629,7 +661,7 @@
 
 #buttonu12849
 {
-	z-index: 164;
+	z-index: 168;
 	width: 313px;
 	height: 58px;
 	padding-bottom: 24px;
@@ -646,7 +678,7 @@
 
 #u12852-4
 {
-	z-index: 165;
+	z-index: 169;
 	width: 140px;
 	min-height: 24px;
 	position: relative;
@@ -675,7 +707,7 @@
 
 #u12850
 {
-	z-index: 169;
+	z-index: 173;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -699,7 +731,7 @@
 
 #buttonu12845
 {
-	z-index: 171;
+	z-index: 175;
 	width: 313px;
 	height: 58px;
 	padding-bottom: 24px;
@@ -726,7 +758,7 @@
 
 #u12848-4
 {
-	z-index: 172;
+	z-index: 176;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -746,7 +778,7 @@
 
 #u12846
 {
-	z-index: 176;
+	z-index: 180;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -770,7 +802,7 @@
 
 #buttonu12841
 {
-	z-index: 157;
+	z-index: 161;
 	width: 313px;
 	height: 58px;
 	padding-bottom: 24px;
@@ -795,7 +827,7 @@
 
 #u12842-4
 {
-	z-index: 158;
+	z-index: 162;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -815,7 +847,7 @@
 
 #u12843
 {
-	z-index: 162;
+	z-index: 166;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -839,7 +871,7 @@
 
 #buttonu12836
 {
-	z-index: 178;
+	z-index: 182;
 	width: 313px;
 	height: 58px;
 	padding-bottom: 24px;
@@ -865,7 +897,7 @@
 
 #u12839-4
 {
-	z-index: 179;
+	z-index: 183;
 	width: 122px;
 	min-height: 24px;
 	position: relative;
@@ -894,7 +926,7 @@
 
 #u12837
 {
-	z-index: 183;
+	z-index: 187;
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -925,7 +957,7 @@
 
 #u12859
 {
-	z-index: 190;
+	z-index: 194;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
@@ -955,7 +987,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1088px);
+	height: calc(100vh - 1095px);
 }
 
 #u6883
