@@ -1,7 +1,7 @@
 .version.chem_chap_6 /* version checker */
 {
-	color: #0000EB;
-	background-color: #B86F27;
+	color: #000013;
+	background-color: #9F8D1D;
 }
 
 #muse_css_mq
@@ -16,7 +16,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F7F7F7;
 	border-radius: 15px 15px 0px 0px ;
 	width: 100%;
 	max-width: 960px;

@@ -1,7 +1,7 @@
 .version.combatguide /* version checker */
 {
-	color: #0000E4;
-	background-color: #7FFECE;
+	color: #000002;
+	background-color: #2A285C;
 }
 
 #muse_css_mq
@@ -16,7 +16,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F7F7F7;
 	border-radius: 15px 15px 0px 0px ;
 	width: 100%;
 	max-width: 960px;

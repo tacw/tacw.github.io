@@ -1,3 +1,11 @@
+#u14342
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	max-width: 100000px;
+}
+
 #buttonu9209
 {
 	border-style: solid;
@@ -23,12 +31,6 @@
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#pbuttonu9209:hover #u9210-4 p
-{
-	color: #2C2C2C;
-	visibility: inherit;
 }
 
 #u9211
@@ -72,12 +74,6 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#pbuttonu9217:hover #u9218-4 p
-{
-	color: #2C2C2C;
-	visibility: inherit;
-}
-
 #u9219
 {
 	background-color: transparent;
@@ -117,12 +113,6 @@
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#pbuttonu9205:hover #u9206-4 p
-{
-	color: #2C2C2C;
-	visibility: inherit;
 }
 
 #u9207
@@ -168,6 +158,12 @@
 	visibility: inherit;
 }
 
+#pbuttonu9209.ButtonSelected #u9210-4 p,#pbuttonu9209.ButtonSelected #u9210-4 span,#pbuttonu9217.ButtonSelected #u9218-4 p,#pbuttonu9217.ButtonSelected #u9218-4 span,#pbuttonu9205.ButtonSelected #u9206-4 p,#pbuttonu9205.ButtonSelected #u9206-4 span,#pbuttonu9213.ButtonSelected #u9214-4 p,#pbuttonu9213.ButtonSelected #u9214-4 span
+{
+	color: #E4E4E4;
+	visibility: inherit;
+}
+
 #u9214-2
 {
 	padding-top: 1px;
@@ -179,18 +175,6 @@
 	font-size: 13px;
 	color: #E4E4E4;
 	line-height: 16px;
-}
-
-#pbuttonu9213:hover #u9214-4 p
-{
-	color: #2C2C2C;
-	visibility: inherit;
-}
-
-#pbuttonu9209.ButtonSelected #u9210-4 p,#pbuttonu9209.ButtonSelected #u9210-4 span,#pbuttonu9209.ButtonSelected #u9210-4 p,#pbuttonu9217.ButtonSelected #u9218-4 p,#pbuttonu9217.ButtonSelected #u9218-4 span,#pbuttonu9217.ButtonSelected #u9218-4 p,#pbuttonu9205.ButtonSelected #u9206-4 p,#pbuttonu9205.ButtonSelected #u9206-4 span,#pbuttonu9205.ButtonSelected #u9206-4 p,#pbuttonu9213.ButtonSelected #u9214-4 p,#pbuttonu9213.ButtonSelected #u9214-4 span,#pbuttonu9213.ButtonSelected #u9214-4 p
-{
-	color: #E4E4E4;
-	visibility: inherit;
 }
 
 #u9215
@@ -234,10 +218,10 @@
 #u13077-4
 {
 	background-color: transparent;
-	text-align: center;
-	font-size: 14px;
 	letter-spacing: 1px;
 	color: #3C3C3C;
+	font-size: 14px;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 }
@@ -254,7 +238,7 @@
 	font-weight: 300;
 }
 
-#u10485,#u9204,#buttonu13056
+#u10485,#u14343,#u9204,#buttonu13056
 {
 	border-width: 0px;
 	border-color: transparent;

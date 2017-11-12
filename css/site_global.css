@@ -109,6 +109,12 @@ body
 	font-feature-settings: 'liga';
 }
 
+a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 a:link
 {
 	color: #1953AC;
@@ -192,6 +198,16 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-family: open-sans, sans-serif;
 	font-size: 14px;
 	font-weight: 600;
+	text-align: center;
+	padding: 0px;
+}
+
+.H1
+{
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-size: 60px;
+	font-weight: 400;
 	text-align: center;
 	padding: 0px;
 }

@@ -1,7 +1,7 @@
 .version.calc /* version checker */
 {
-	color: #0000FF;
-	background-color: #23F528;
+	color: #000003;
+	background-color: #C0FA52;
 }
 
 #muse_css_mq
@@ -16,7 +16,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F7F7F7;
 	border-radius: 15px 15px 0px 0px ;
 	width: 100%;
 	max-width: 960px;

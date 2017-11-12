@@ -1,7 +1,7 @@
 .version.ib_program /* version checker */
 {
-	color: #00001A;
-	background-color: #098949;
+	color: #0000F6;
+	background-color: #0BABAF;
 }
 
 #muse_css_mq
@@ -16,7 +16,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F7F7F7;
 	border-radius: 15px 15px 0px 0px ;
 	width: 100%;
 	max-width: 960px;
