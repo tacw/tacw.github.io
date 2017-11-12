@@ -1,3 +1,11 @@
+#u16064
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	max-width: 100000px;
+}
+
 #menuu15788,#u15799
 {
 	border-color: #39393A;
@@ -78,6 +86,18 @@
 }
 
 #u15799:hover #u15801-4 p,#u15799:hover #u15801-4 span,#u15799:active #u15801-4 p,#u15799:active #u15801-4 span
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+#u15799:hover #u15801-4 p
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+#u15799:active #u15801-4 p
 {
 	letter-spacing: 1px;
 	text-decoration: none;
@@ -169,6 +189,18 @@
 	text-decoration: none;
 }
 
+#u15806:hover #u15809-4 p
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+#u15806:active #u15809-4 p
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
 #u15790
 {
 	border-color: #39393A;
@@ -250,6 +282,18 @@
 }
 
 #u15790:hover #u15793-4 p,#u15790:hover #u15793-4 span,#u15790:active #u15793-4 p,#u15790:active #u15793-4 span
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+#u15790:hover #u15793-4 p
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+#u15790:active #u15793-4 p
 {
 	letter-spacing: 1px;
 	text-decoration: none;
@@ -342,6 +386,18 @@
 	text-decoration: none;
 }
 
+#u15811:hover #u15814-4 p
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+#u15811:active #u15814-4 p
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
 #u15820
 {
 	border-color: #39393A;
@@ -423,6 +479,18 @@
 }
 
 #u15820:hover #u15821-4 p,#u15820:hover #u15821-4 span,#u15820:active #u15821-4 p,#u15820:active #u15821-4 span
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+#u15820:hover #u15821-4 p
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+#u15820:active #u15821-4 p
 {
 	letter-spacing: 1px;
 	text-decoration: none;
@@ -514,11 +582,6 @@
 	text-decoration: none;
 }
 
-#u15799.MuseMenuActive #u15801-4 p,#u15799.MuseMenuActive #u15801-4 span,#u15806.MuseMenuActive #u15809-4 p,#u15806.MuseMenuActive #u15809-4 span,#u15790.MuseMenuActive #u15793-4 p,#u15790.MuseMenuActive #u15793-4 span,#u15811.MuseMenuActive #u15814-4 p,#u15811.MuseMenuActive #u15814-4 span,#u15820.MuseMenuActive #u15821-4 p,#u15820.MuseMenuActive #u15821-4 span,#u15933.MuseMenuActive #u15936-4 p,#u15933.MuseMenuActive #u15936-4 span
-{
-	text-decoration: underline;
-}
-
 #u15801-2,#u15809-2,#u15793-2,#u15814-2,#u15821-2,#u15936-2
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
@@ -533,20 +596,29 @@
 	line-height: 16px;
 }
 
+#u15933:hover #u15936-4 p
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+#u15933:active #u15936-4 p
+{
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+#u15799.MuseMenuActive #u15801-4 p,#u15799.MuseMenuActive #u15801-4 span,#u15799.MuseMenuActive #u15801-4 p,#u15806.MuseMenuActive #u15809-4 p,#u15806.MuseMenuActive #u15809-4 span,#u15806.MuseMenuActive #u15809-4 p,#u15790.MuseMenuActive #u15793-4 p,#u15790.MuseMenuActive #u15793-4 span,#u15790.MuseMenuActive #u15793-4 p,#u15811.MuseMenuActive #u15814-4 p,#u15811.MuseMenuActive #u15814-4 span,#u15811.MuseMenuActive #u15814-4 p,#u15820.MuseMenuActive #u15821-4 p,#u15820.MuseMenuActive #u15821-4 span,#u15820.MuseMenuActive #u15821-4 p,#u15933.MuseMenuActive #u15936-4 p,#u15933.MuseMenuActive #u15936-4 span,#u15933.MuseMenuActive #u15936-4 p
+{
+	text-decoration: underline;
+}
+
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
 }
 
-#u15781
-{
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	background-color: #000000;
-}
-
-#u15971
+#u16065,#u16066,#u15971
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -685,6 +757,14 @@
 #buttonu15976.ButtonSelected #u15978,#buttonu15973.ButtonSelected #u15974,#buttonu15979.ButtonSelected #u15980
 {
 	background-color: #545454;
+}
+
+#u15781
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	background-color: #000000;
 }
 
 #u15782,#u15783
