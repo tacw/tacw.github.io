@@ -1,7 +1,7 @@
 .version.dungeonguides /* version checker */
 {
-	color: #00000A;
-	background-color: #3DCDC0;
+	color: #00000E;
+	background-color: #08B8A4;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 892px;
+	min-height: 908px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -42,7 +42,7 @@
 
 #pu14091
 {
-	z-index: 24;
+	z-index: 2;
 	margin-right: -10000px;
 	margin-top: 27px;
 	width: 27.4%;
@@ -50,7 +50,7 @@
 
 #u14091
 {
-	z-index: 24;
+	z-index: 2;
 	height: 66px;
 	position: relative;
 	width: 100%;
@@ -79,7 +79,7 @@
 
 #u14264
 {
-	z-index: 25;
+	z-index: 3;
 	width: 60px;
 	min-height: 64px;
 	position: relative;
@@ -90,7 +90,7 @@
 
 #u104
 {
-	z-index: 2;
+	z-index: 4;
 	position: relative;
 	margin-right: -10000px;
 	width: 70.83%;
@@ -100,7 +100,7 @@
 
 #u900
 {
-	z-index: 4;
+	z-index: 6;
 	min-height: 40px;
 }
 
@@ -116,7 +116,7 @@
 
 #u900-bw
 {
-	z-index: 4;
+	z-index: 6;
 	min-height: 40px;
 	margin-top: 21px;
 	left: 0px;
@@ -852,14 +852,13 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 3791px);
+	height: calc(100vh - 3814px);
 }
 
 #u6883
 {
-	z-index: 5;
-	min-height: 211px;
-	padding-bottom: 93px;
+	z-index: 7;
+	min-height: 304px;
 }
 
 #u6883_align_to_page
@@ -867,71 +866,84 @@
 	margin-left: auto;
 	margin-right: auto;
 	position: relative;
-}
-
-#pu6898
-{
-	z-index: 6;
-	margin-right: -10000px;
-	margin-top: 103px;
-	width: 30.53%;
-	margin-left: 3.55%;
+	padding-top: 42px;
+	padding-bottom: 22px;
 }
 
 #u6898
 {
-	z-index: 6;
+	z-index: 8;
 	position: relative;
-	width: 60.76%;
+	width: 18.55%;
+	left: 6.05%;
+}
+
+#pu11932-4
+{
+	z-index: 10;
+	margin-top: 17px;
+	position: relative;
+	width: 100%;
 }
 
 #u11932-4
 {
-	z-index: 8;
+	z-index: 10;
 	min-height: 39px;
-	margin-top: 17px;
+	margin-bottom: -1px;
 	position: relative;
-	width: 42.67%;
-	margin-left: 55.98%;
+	margin-right: -10000px;
+	width: 13.03%;
+	left: 23.13%;
 }
 
 #u11933-4
 {
-	z-index: 12;
+	z-index: 14;
 	min-height: 39px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 167px;
+	margin-top: -1px;
 	width: 13.03%;
-	left: 36.57%;
+	left: 39.07%;
 }
 
 #u11934-4
 {
-	z-index: 16;
+	z-index: 18;
 	min-height: 39px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 167px;
+	margin-top: -1px;
 	width: 13.03%;
-	left: 51.98%;
+	left: 54.48%;
 }
 
 #u11935-4
 {
-	z-index: 20;
+	z-index: 22;
 	min-height: 39px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 167px;
+	margin-top: -1px;
 	width: 13.03%;
-	left: 67.5%;
+	left: 70%;
+}
+
+#u16117-7
+{
+	z-index: 378;
+	min-height: 54px;
+	margin-top: 80px;
+	position: relative;
+	width: 95.94%;
+	left: 2.19%;
 }
 
 #u6883-bw
 {
-	z-index: 5;
-	min-height: 211px;
+	z-index: 7;
+	min-height: 304px;
 	margin-bottom: -240px;
 	margin-top: -1px;
 }
@@ -946,7 +958,7 @@ body
 	position: relative;
 	min-width: 240px;
 	padding-top: 155px;
-	padding-bottom: 12px;
+	padding-bottom: 35px;
 }
 
 .verticalspacer

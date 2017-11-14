@@ -16,8 +16,8 @@
 
 .version.rainbowsix /* version checker */
 {
-	color: #00000A;
-	background-color: #31A583;
+	color: #000019;
+	background-color: #E0B774;
 }
 
 #muse_css_mq
@@ -28,7 +28,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 1178px;
+	min-height: 1209px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -992,14 +992,13 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1453px);
+	height: calc(100vh - 1533px);
 }
 
 #u8195
 {
 	z-index: 4;
-	min-height: 221px;
-	padding-bottom: 83px;
+	min-height: 345px;
 }
 
 #u8195_align_to_page
@@ -1007,42 +1006,46 @@
 	margin-left: auto;
 	margin-right: auto;
 	position: relative;
-}
-
-#pu8196
-{
-	z-index: 5;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 103px;
-	width: 26.25%;
-	margin-left: 5.53%;
+	padding-top: 103px;
+	padding-bottom: 29px;
 }
 
 #u8196
 {
 	z-index: 5;
 	position: relative;
-	width: 70.64%;
+	width: 18.55%;
+	left: 5.53%;
+}
+
+#pu12015-4
+{
+	z-index: 7;
+	margin-top: 28px;
+	position: relative;
+	width: 100%;
 }
 
 #u12015-4
 {
 	z-index: 7;
 	min-height: 39px;
-	margin-top: 27px;
+	margin-bottom: -1px;
 	position: relative;
-	width: 49.61%;
-	margin-left: 48.81%;
+	margin-right: -10000px;
+	margin-top: -1px;
+	width: 13.03%;
+	left: 18.34%;
 }
 
 #u12016-4
 {
 	z-index: 11;
 	min-height: 39px;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 178px;
+	margin-top: -1px;
 	width: 13.03%;
 	left: 34.28%;
 }
@@ -1051,9 +1054,10 @@
 {
 	z-index: 15;
 	min-height: 39px;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 178px;
+	margin-top: -1px;
 	width: 13.03%;
 	left: 49.69%;
 }
@@ -1062,11 +1066,22 @@
 {
 	z-index: 19;
 	min-height: 39px;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 178px;
+	margin-top: -1px;
 	width: 13.03%;
 	left: 65.21%;
+}
+
+#u16123-7
+{
+	z-index: 192;
+	min-height: 54px;
+	margin-top: 42px;
+	position: relative;
+	width: 95.94%;
+	left: 1.88%;
 }
 
 .js body
@@ -1082,8 +1097,8 @@
 #u8195-bw
 {
 	z-index: 4;
-	min-height: 221px;
-	margin-bottom: -6px;
+	min-height: 345px;
+	margin-bottom: -17px;
 	margin-top: 2px;
 }
 
@@ -1097,6 +1112,7 @@ body
 	position: relative;
 	min-width: 240px;
 	padding-top: 156px;
+	padding-bottom: 49px;
 }
 
 .verticalspacer
