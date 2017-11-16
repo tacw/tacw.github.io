@@ -1,7 +1,7 @@
 .version.tht1 /* version checker */
 {
-	color: #0000F9;
-	background-color: #C2D8B4;
+	color: #0000FE;
+	background-color: #FE8CD7;
 }
 
 #muse_css_mq
@@ -102,7 +102,7 @@
 	z-index: 83;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 260px;
+	margin-top: 254px;
 	width: 27.2%;
 	margin-left: 38.41%;
 	left: -1px;
@@ -125,7 +125,7 @@
 	z-index: 86;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 257px;
+	margin-top: 258px;
 	width: 27.42%;
 	margin-left: 38.3%;
 	left: 0px;
@@ -610,7 +610,7 @@
 	z-index: 138;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 153px;
+	margin-top: 151px;
 	width: 90.58%;
 	left: 5.42%;
 	margin-left: 0.98%;

@@ -1,7 +1,7 @@
 .version.tht8 /* version checker */
 {
-	color: #0000FF;
-	background-color: #F6BA57;
+	color: #000010;
+	background-color: #B8C9C7;
 }
 
 #muse_css_mq
@@ -89,7 +89,7 @@
 	z-index: 93;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 153px;
+	margin-top: 151px;
 	width: 94.36%;
 	left: 5.65%;
 	margin-left: 1.02%;
@@ -537,7 +537,7 @@
 #pu11190-10
 {
 	z-index: 24;
-	margin-top: 2px;
+	margin-top: 1px;
 	width: 97.67%;
 }
 
@@ -548,7 +548,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 43px;
+	margin-top: 46px;
 	width: 75.42%;
 	left: 0.83%;
 	margin-left: 0.83%;
@@ -560,7 +560,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 194px;
+	margin-top: 197px;
 	width: 100%;
 	left: 0%;
 	margin-left: 0.83%;
@@ -571,7 +571,6 @@
 	z-index: 38;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
 	width: 20.71%;
 	margin-left: 29.25%;
 	left: -2px;
@@ -582,6 +581,7 @@
 	z-index: 41;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 4px;
 	width: 20.88%;
 	margin-left: 29.17%;
 	left: -1px;

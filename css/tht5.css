@@ -1,7 +1,7 @@
 .version.tht5 /* version checker */
 {
-	color: #000009;
-	background-color: #B805BC;
+	color: #0000EC;
+	background-color: #290592;
 }
 
 #muse_css_mq
@@ -89,7 +89,7 @@
 	z-index: 134;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 153px;
+	margin-top: 151px;
 	width: 94.36%;
 	left: 5.65%;
 	margin-left: 1.02%;
@@ -537,7 +537,7 @@
 #pu10893
 {
 	z-index: 24;
-	margin-top: 2px;
+	margin-top: 1px;
 	width: 98.38%;
 }
 
@@ -547,7 +547,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 136px;
+	margin-top: 139px;
 	width: 84.15%;
 	left: 6.83%;
 	margin-left: 2.65%;
@@ -560,7 +560,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 41px;
+	margin-top: 44px;
 	width: 100%;
 	left: 0%;
 	margin-left: 2.65%;
@@ -571,7 +571,6 @@
 	z-index: 79;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
 	width: 27.65%;
 	margin-left: 39.05%;
 	left: 0px;
@@ -582,6 +581,7 @@
 	z-index: 82;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 4px;
 	width: 27.87%;
 	margin-left: 38.94%;
 	left: 1px;

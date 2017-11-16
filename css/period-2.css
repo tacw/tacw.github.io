@@ -1,7 +1,7 @@
 .version.period_2 /* version checker */
 {
-	color: #000019;
-	background-color: #A9EAC7;
+	color: #0000FC;
+	background-color: #AE0BC2;
 }
 
 #muse_css_mq
@@ -89,7 +89,7 @@
 	z-index: 234;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 153px;
+	margin-top: 151px;
 	width: 94.36%;
 	left: 5.65%;
 	margin-left: 1.02%;
@@ -537,7 +537,7 @@
 #pu10269-155
 {
 	z-index: 24;
-	margin-top: 2px;
+	margin-top: 1px;
 	width: 98.7%;
 }
 
@@ -548,7 +548,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 48px;
+	margin-top: 51px;
 	width: 100%;
 	left: 0%;
 	margin-left: 2.31%;
@@ -559,7 +559,6 @@
 	z-index: 179;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
 	width: 27.56%;
 	margin-left: 38.92%;
 	left: 0px;
@@ -570,6 +569,7 @@
 	z-index: 182;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 4px;
 	width: 27.78%;
 	margin-left: 38.81%;
 	left: -1px;
