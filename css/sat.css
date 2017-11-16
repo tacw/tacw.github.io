@@ -1,7 +1,7 @@
-.version.competitions /* version checker */
+.version.sat /* version checker */
 {
-	color: #000017;
-	background-color: #9AF514;
+	color: #00001E;
+	background-color: #A897EF;
 }
 
 #page
@@ -560,7 +560,7 @@
 
 #pu15971
 {
-	z-index: 404;
+	z-index: 122;
 	margin-top: 27px;
 	width: 27.37%;
 	left: 0%;
@@ -569,7 +569,7 @@
 
 #u15971
 {
-	z-index: 404;
+	z-index: 122;
 	position: relative;
 	margin-right: -10000px;
 	width: 100%;
@@ -577,7 +577,7 @@
 
 #u15972
 {
-	z-index: 405;
+	z-index: 123;
 	padding-top: 46px;
 	padding-bottom: 7px;
 	position: relative;
@@ -587,7 +587,7 @@
 
 #buttonu15976
 {
-	z-index: 406;
+	z-index: 124;
 	padding-bottom: 4px;
 	position: relative;
 	width: 87.46%;
@@ -603,7 +603,7 @@
 
 #u15977-4
 {
-	z-index: 407;
+	z-index: 125;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -623,7 +623,7 @@
 
 #u15978
 {
-	z-index: 411;
+	z-index: 129;
 	height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -642,7 +642,7 @@
 
 #buttonu15973
 {
-	z-index: 412;
+	z-index: 130;
 	padding-bottom: 4px;
 	position: relative;
 	width: 87.46%;
@@ -665,7 +665,7 @@
 
 #u15975-4
 {
-	z-index: 413;
+	z-index: 131;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -685,7 +685,7 @@
 
 #u15974
 {
-	z-index: 417;
+	z-index: 135;
 	height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -704,7 +704,7 @@
 
 #buttonu15979
 {
-	z-index: 418;
+	z-index: 136;
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
@@ -729,7 +729,7 @@
 
 #u15981-4
 {
-	z-index: 419;
+	z-index: 137;
 	min-height: 23px;
 	position: relative;
 	margin-right: -10000px;
@@ -758,7 +758,7 @@
 
 #u15980
 {
-	z-index: 423;
+	z-index: 141;
 	height: 17px;
 	position: relative;
 	margin-right: -10000px;
@@ -783,182 +783,22 @@
 	margin: 15px -10000px 0px 0%;
 }
 
-#u12692-353
+#u16493-71
 {
 	z-index: 51;
-	min-height: 341px;
+	min-height: 298px;
 	background-color: transparent;
-	top: -4px;
-	margin-bottom: -4px;
+	top: -1px;
+	margin-bottom: -1px;
 	position: relative;
-	width: 94.07%;
+	width: 95.32%;
 	left: 0%;
-	margin-left: 2.81%;
-}
-
-#u12692-2
-{
-	font-size: 24px;
-	line-height: 29px;
-	color: #F83D00;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#u12692-3,#u12692-5,#u12692-91,#u12692-105
-{
-	font-size: 20px;
-	line-height: 24px;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#u12692-138
-{
-	font-size: 18px;
-	text-decoration: underline;
-	font-weight: bold;
-	font-style: italic;
-	line-height: 22px;
-}
-
-#u12692-143
-{
-	text-decoration: underline;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#u12692-148
-{
-	font-size: 24px;
-	line-height: 29px;
-	color: #E64C00;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#u12692-151
-{
-	font-size: 19px;
-	line-height: 23px;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#u12692-126,#u12692-133,#u12692-140,#u12692-158
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u12692-6,#u12692-89,#u12692-124,#u12692-131,#u12692-156
-{
-	font-size: 20px;
-	text-decoration: underline;
-	line-height: 24px;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#u12692-123,#u12692-125,#u12692-130,#u12692-132,#u12692-137,#u12692-139,#u12692-157
-{
-	line-height: 17px;
-}
-
-#u12692-161
-{
-	font-size: 24px;
-	line-height: 29px;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#u12692-162
-{
-	font-size: 24px;
-	text-decoration: underline;
-	line-height: 29px;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#u12692-274
-{
-	font-size: 20px;
-	line-height: 24px;
-	color: #FF5118;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#u12692,#u12692-4,#u12692-90,#u12692-104,#u12692-147,#u12692-150,#u12692-160,#u12692-254,#u12692-273
-{
-	text-decoration: underline;
-}
-
-#u12692-286,#u12692-287
-{
-	font-size: 12px;
-	line-height: 14px;
-	color: #000000;
-	font-weight: normal;
-	font-style: normal;
-}
-
-#u12692-258,#u12692-260,#u12692-263,#u12692-265,#u12692-268,#u12692-277,#u12692-281,#u12692-284,#u12692-289,#u12692-295,#u12692-302
-{
-	font-size: 24px;
-	color: #911400;
-	font-weight: bold;
-	font-style: italic;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u12692-257,#u12692-259,#u12692-262,#u12692-264,#u12692-267,#u12692-276,#u12692-280,#u12692-283,#u12692-288,#u12692-294,#u12692-301
-{
-	font-size: 12px;
-	text-decoration: none;
-	color: #000000;
-	font-weight: normal;
-	font-style: normal;
-	line-height: 14px;
-}
-
-#u12692-255,#u12692-256,#u12692-261,#u12692-266,#u12692-269,#u12692-270,#u12692-271,#u12692-272,#u12692-275,#u12692-278,#u12692-279,#u12692-282,#u12692-290,#u12692-291,#u12692-292,#u12692-293,#u12692-296,#u12692-297,#u12692-298,#u12692-299,#u12692-300,#u12692-303
-{
-	font-size: 24px;
-	line-height: 29px;
-	color: #911400;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#u12692-311
-{
-	color: #000000;
-}
-
-#u12692-333,#u12692-335,#u12692-337,#u12692-339,#u12692-343,#u12692-345,#u12692-349
-{
-	font-size: 12px;
-	text-decoration: none;
-	color: #000000;
-	font-weight: normal;
-	font-style: normal;
-}
-
-#u12692-305,#u12692-306,#u12692-308,#u12692-309,#u12692-313,#u12692-314,#u12692-316,#u12692-317,#u12692-319,#u12692-320,#u12692-322,#u12692-323,#u12692-325,#u12692-326,#u12692-328,#u12692-330,#u12692-331,#u12692-332,#u12692-334,#u12692-336,#u12692-338,#u12692-340,#u12692-341,#u12692-342,#u12692-344,#u12692-346,#u12692-347,#u12692-348,#u12692-350,#u12692-351
-{
-	font-size: 12px;
-	line-height: 14px;
-	color: #000000;
-	font-weight: normal;
-	font-style: italic;
+	margin-left: 2.19%;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 4166px);
+	height: calc(100vh - 1047px);
 }
 
 #u15783
