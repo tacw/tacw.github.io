@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #000001;
-	background-color: #09828C;
+	color: #000005;
+	background-color: #22EA3C;
 }
 
 #muse_css_mq
@@ -100,13 +100,6 @@
 	margin-left: 1.24%;
 }
 
-#pu900
-{
-	z-index: 6;
-	margin-top: 21px;
-	width: 100%;
-}
-
 #u900
 {
 	z-index: 6;
@@ -127,6 +120,7 @@
 {
 	z-index: 6;
 	min-height: 40px;
+	margin-top: 21px;
 	left: 0px;
 	margin-left: 0px;
 }
@@ -134,12 +128,12 @@
 #u7673
 {
 	z-index: 310;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 36px;
 	width: 53.86%;
-	left: 23.13%;
-	margin-left: 0%;
+	left: 0%;
+	margin-left: 23.13%;
 }
 
 #pbuttonu7682
@@ -499,20 +493,6 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 42.64%;
-}
-
-#u12944
-{
-	z-index: 399;
-	width: 210px;
-	min-height: 98px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 19px;
-	margin-left: 0px;
 }
 
 #pu8932
@@ -1160,4 +1140,5 @@ body
 {
 	width: 100%;
 }
+
 

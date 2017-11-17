@@ -6,6 +6,11 @@
 	max-width: 100000px;
 }
 
+#menuu16851
+{
+	border-radius: 10px 10px 0px 0px ;
+}
+
 .Icona-Light---Main-Menu-Bar
 {
 	border-width: 0px;
@@ -110,157 +115,6 @@
 {
 	color: #444444;
 	visibility: inherit;
-}
-
-#u16865
-{
-	border-radius: 0px;
-}
-
-.Icona-Light---Sub-Menu-Background
-{
-	border-width: 0px;
-	border-color: #000000;
-	background-color: #919191;
-	border-radius: 0px 0px 10px 10px ;
-}
-
-#u16869
-{
-	overflow: hidden;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #444444;
-}
-
-#u16869::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	top: 0px;
-	left: -2px;
-	bottom: 0px;
-	right: -2px;
-	box-shadow: inset 0px 2px 2px rgba(255,255,255,0.08), inset 0px -2px 2px rgba(0,0,0,0.08);
-}
-
-#u16869:hover
-{
-	background-color: #EAEAEA;
-}
-
-.Icona-Light---Sub-Menu-Button--Normal
-{
-	border-width: 0px;
-	overflow: hidden;
-	border-color: #777777;
-	background-color: #919191;
-}
-
-.Icona-Light---Sub-Menu-Button--Normal::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	top: 0px;
-	left: -2px;
-	bottom: 0px;
-	right: -2px;
-	box-shadow: inset 0px 2px 2px rgba(255,255,255,0.18), inset 0px -2px 2px rgba(0,0,0,0.18);
-}
-
-#u9265,#u16887,#u16859,#u16864,#u16866,#u16872-4
-{
-	background-color: transparent;
-}
-
-#u16869:hover #u16872-4 p
-{
-	color: #444444;
-	visibility: inherit;
-}
-
-#u16881
-{
-	overflow: hidden;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #444444;
-}
-
-#u16881::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	top: 0px;
-	left: -2px;
-	bottom: 0px;
-	right: -2px;
-	box-shadow: inset 0px 2px 2px rgba(255,255,255,0.08), inset 0px -2px 2px rgba(0,0,0,0.08);
-}
-
-#u16881:hover
-{
-	background-color: #EAEAEA;
-}
-
-#u16880,#u16884-4
-{
-	background-color: transparent;
-}
-
-#u16881:hover #u16884-4 p
-{
-	color: #444444;
-	visibility: inherit;
-}
-
-#u16876
-{
-	overflow: hidden;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #444444;
-}
-
-#u16876::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	top: 0px;
-	left: -2px;
-	bottom: 0px;
-	right: -2px;
-	box-shadow: inset 0px 2px 2px rgba(255,255,255,0.08), inset 0px -2px 2px rgba(0,0,0,0.08);
-}
-
-#u16876:hover
-{
-	background-color: #EAEAEA;
-}
-
-#u16873,#u16879-4
-{
-	background-color: transparent;
-}
-
-#u16876:hover #u16879-4 p
-{
-	color: #444444;
-	visibility: inherit;
-}
-
-#u16872-3,#u16884-3,#u16879-3
-{
-	text-align: center;
-	font-size: 12px;
-	letter-spacing: 2px;
-	line-height: 14px;
-	font-family: open-sans, sans-serif;
-	font-weight: 300;
 }
 
 #u16853
@@ -379,7 +233,7 @@
 	background-color: #EAEAEA;
 }
 
-#u16888.MuseMenuActive,#u16860.MuseMenuActive,#u16869.MuseMenuActive,#u16881.MuseMenuActive,#u16876.MuseMenuActive,#u16853.MuseMenuActive,#u16904.MuseMenuActive,#u16895.MuseMenuActive
+#u16888.MuseMenuActive,#u16860.MuseMenuActive,#u16853.MuseMenuActive,#u16904.MuseMenuActive,#u16895.MuseMenuActive
 {
 	background-color: #848484;
 }
@@ -451,7 +305,7 @@
 	font-weight: 300;
 }
 
-#u16869.MuseMenuActive #u16872-4 p,#u16881.MuseMenuActive #u16884-4 p,#u16876.MuseMenuActive #u16879-4 p,#u13077-4:hover p,#u13077-4:hover span
+#u13077-4:hover p,#u13077-4:hover span
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -506,7 +360,7 @@
 	box-shadow: none;
 }
 
-#u16852,#u16901,#u16894,#u10272,#u13054,#buttonu13056.ButtonSelected,#buttonu13056:hover #u13058
+#u9265,#u16887,#u16859,#u16852,#u16901,#u16894,#u10272,#u13054,#buttonu13056.ButtonSelected,#buttonu13056:hover #u13058
 {
 	background-color: transparent;
 }
