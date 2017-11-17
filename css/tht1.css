@@ -1,7 +1,7 @@
 .version.tht1 /* version checker */
 {
-	color: #000017;
-	background-color: #F274CA;
+	color: #0000F3;
+	background-color: #D0F32A;
 }
 
 #muse_css_mq
@@ -611,8 +611,8 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 151px;
-	width: 90.36%;
-	left: 5.64%;
+	width: 76.49%;
+	left: 13.01%;
 	margin-left: 0.98%;
 }
 
@@ -621,7 +621,7 @@
 	min-height: 102px;
 	position: relative;
 	margin-right: -10000px;
-	width: 19.91%;
+	width: 24.93%;
 }
 
 #u16888
@@ -663,8 +663,8 @@
 	min-height: 102px;
 	position: relative;
 	margin-right: -10000px;
-	width: 20.03%;
-	left: 19.91%;
+	width: 24.93%;
+	left: 24.93%;
 }
 
 #u16860
@@ -722,8 +722,8 @@
 	min-height: 102px;
 	position: relative;
 	margin-right: -10000px;
-	width: 20.03%;
-	left: 39.93%;
+	width: 25.08%;
+	left: 49.86%;
 }
 
 #u16853
@@ -781,8 +781,8 @@
 	min-height: 102px;
 	position: relative;
 	margin-right: -10000px;
-	width: 20.03%;
-	left: 59.96%;
+	width: 25.08%;
+	left: 74.93%;
 }
 
 #u16904
@@ -800,6 +800,13 @@
 }
 
 #u16904:active
+{
+	min-height: 1px;
+	width: 100%;
+	margin: 0px 0px -1px 0%;
+}
+
+#u16904.MuseMenuActive
 {
 	min-height: 1px;
 	width: 100%;
@@ -835,55 +842,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u16894
-{
-	min-height: 102px;
-	position: relative;
-	margin-right: -10000px;
-	width: 20.03%;
-	left: 79.98%;
-}
-
-#u16895
-{
-	padding-bottom: 46px;
-	position: relative;
-	width: 100%;
-}
-
-#u16904.MuseMenuActive,#u16895:hover
-{
-	min-height: 1px;
-	width: 100%;
-	margin: 0px 0px -1px 0%;
-}
-
-#u16895:active
-{
-	min-height: 1px;
-	width: 100%;
-	margin: 0px 0px -1px 0%;
-}
-
-#u16895.MuseMenuActive
-{
-	min-height: 1px;
-	width: 100%;
-	margin: 0px 0px -1px 0%;
-}
-
-#u16898-4
-{
-	min-height: 14px;
-	padding-top: 30px;
-	padding-bottom: 10px;
-	position: relative;
-	margin-right: -10000px;
-	top: 12px;
-	width: 100%;
-}
-
-#u16904.MuseMenuActive #u16905-4,#u16895:hover #u16898-4
+#u16904.MuseMenuActive #u16905-4
 {
 	padding-top: 30px;
 	padding-bottom: 10px;
@@ -892,25 +851,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u16895:active #u16898-4
-{
-	padding-top: 30px;
-	padding-bottom: 10px;
-	min-height: 14px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u16895.MuseMenuActive #u16898-4
-{
-	padding-top: 30px;
-	padding-bottom: 10px;
-	min-height: 14px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u16889-3,#u16862-3,#u16854-3,#u16905-3,#u16898-3
+#u16889-3,#u16862-3,#u16854-3,#u16905-3
 {
 	margin-left: 6px;
 	margin-right: 6px;
