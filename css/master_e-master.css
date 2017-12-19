@@ -226,9 +226,9 @@
 {
 	font-size: 12px;
 	letter-spacing: 6px;
-	color: #FFFFFF;
 	line-height: 14px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 }
@@ -558,9 +558,9 @@
 	border-width: 2px;
 	border-color: #FFCA00;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 29px;
 	font-size: 24px;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 }
