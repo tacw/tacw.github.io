@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001E;
-	background-color: #662A21;
+	color: #000007;
+	background-color: #622F92;
 }
 
 #muse_css_mq
@@ -25,17 +25,6 @@
 	max-width: 960px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#u17151-3
-{
-	z-index: 26;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1080px;
-	width: 0.94%;
-	left: -21.36%;
 }
 
 #pppu14091
@@ -73,14 +62,14 @@
 
 #pu3573
 {
-	z-index: 156;
+	z-index: 153;
 	margin-top: 3px;
 	width: 55.51%;
 }
 
 #u3573
 {
-	z-index: 156;
+	z-index: 153;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
@@ -138,7 +127,7 @@
 
 #u7673
 {
-	z-index: 157;
+	z-index: 154;
 	top: -4px;
 	margin-bottom: -4px;
 	position: relative;
@@ -149,7 +138,7 @@
 
 #pbuttonu7682
 {
-	z-index: 159;
+	z-index: 156;
 	margin-right: -10000px;
 	width: 24.96%;
 	margin-left: 75.05%;
@@ -157,7 +146,7 @@
 
 #buttonu7682
 {
-	z-index: 159;
+	z-index: 156;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -178,7 +167,7 @@
 
 #u7685-4
 {
-	z-index: 160;
+	z-index: 157;
 	min-height: 24px;
 	width: 78.75%;
 }
@@ -205,7 +194,7 @@
 
 #u7683
 {
-	z-index: 164;
+	z-index: 161;
 	width: 15.75%;
 }
 
@@ -233,7 +222,7 @@
 
 #pbuttonu7674
 {
-	z-index: 168;
+	z-index: 165;
 	margin-right: -10000px;
 	width: 24.57%;
 	margin-left: 50.68%;
@@ -241,7 +230,7 @@
 
 #buttonu7674
 {
-	z-index: 168;
+	z-index: 165;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -262,7 +251,7 @@
 
 #u7677-4
 {
-	z-index: 169;
+	z-index: 166;
 	min-height: 24px;
 	width: 80%;
 }
@@ -297,7 +286,7 @@
 
 #u7675
 {
-	z-index: 173;
+	z-index: 170;
 	width: 16%;
 }
 
@@ -325,7 +314,7 @@
 
 #pbuttonu7678
 {
-	z-index: 177;
+	z-index: 174;
 	margin-right: -10000px;
 	width: 25.73%;
 	margin-left: 25.15%;
@@ -333,7 +322,7 @@
 
 #buttonu7678
 {
-	z-index: 177;
+	z-index: 174;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -354,7 +343,7 @@
 
 #u7681-4
 {
-	z-index: 178;
+	z-index: 175;
 	min-height: 24px;
 	width: 76.34%;
 }
@@ -389,7 +378,7 @@
 
 #u7679
 {
-	z-index: 182;
+	z-index: 179;
 	width: 15.27%;
 }
 
@@ -417,14 +406,14 @@
 
 #pbuttonu7686
 {
-	z-index: 186;
+	z-index: 183;
 	margin-right: -10000px;
 	width: 25.34%;
 }
 
 #buttonu7686
 {
-	z-index: 186;
+	z-index: 183;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -445,7 +434,7 @@
 
 #u7689-4
 {
-	z-index: 187;
+	z-index: 184;
 	min-height: 24px;
 	width: 77.52%;
 }
@@ -480,7 +469,7 @@
 
 #u7687
 {
-	z-index: 191;
+	z-index: 188;
 	width: 15.51%;
 }
 
@@ -508,14 +497,14 @@
 
 #pu2430-127
 {
-	z-index: 29;
+	z-index: 26;
 	margin-top: 12px;
 	width: 95.42%;
 }
 
 #u2430-127
 {
-	z-index: 29;
+	z-index: 26;
 	min-height: 318px;
 	background-color: transparent;
 	position: relative;
@@ -557,7 +546,7 @@
 
 #slideshowu7117
 {
-	z-index: 201;
+	z-index: 198;
 	width: 0.01px;
 	height: 410px;
 	position: relative;
@@ -577,12 +566,12 @@
 
 #u7127popup
 {
-	z-index: 202;
+	z-index: 199;
 }
 
 #u7128
 {
-	z-index: 203;
+	z-index: 200;
 	width: 892px;
 	height: 360px;
 	border-width: 0px;
@@ -594,7 +583,7 @@
 
 #u7181
 {
-	z-index: 205;
+	z-index: 202;
 	width: 892px;
 	height: 360px;
 	border-width: 0px;
@@ -606,7 +595,7 @@
 
 #u7215
 {
-	z-index: 207;
+	z-index: 204;
 	width: 892px;
 	height: 360px;
 	border-width: 0px;
@@ -624,7 +613,7 @@
 
 #u7249
 {
-	z-index: 209;
+	z-index: 206;
 	width: 892px;
 	height: 360px;
 	border-width: 0px;
@@ -650,12 +639,12 @@
 
 #u7125popup
 {
-	z-index: 211;
+	z-index: 208;
 }
 
 #u7126-4
 {
-	z-index: 212;
+	z-index: 209;
 	width: 154px;
 	height: 40px;
 	border-width: 0px;
@@ -671,7 +660,7 @@
 
 #u7198-4
 {
-	z-index: 216;
+	z-index: 213;
 	width: 154px;
 	height: 40px;
 	border-width: 0px;
@@ -687,7 +676,7 @@
 
 #u7232-4
 {
-	z-index: 220;
+	z-index: 217;
 	width: 154px;
 	height: 40px;
 	border-width: 0px;
@@ -703,7 +692,7 @@
 
 #u7266-4
 {
-	z-index: 224;
+	z-index: 221;
 	width: 154px;
 	height: 40px;
 	border-width: 0px;
@@ -737,7 +726,7 @@
 
 #u7123-4popup
 {
-	z-index: 228;
+	z-index: 225;
 }
 
 #u7124-4
@@ -760,7 +749,7 @@
 
 #u7124-4popup
 {
-	z-index: 232;
+	z-index: 229;
 }
 
 #u7122-4
@@ -783,7 +772,7 @@
 
 #u7122-4popup
 {
-	z-index: 236;
+	z-index: 233;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -878,7 +867,7 @@
 
 #u16117-7
 {
-	z-index: 194;
+	z-index: 191;
 	min-height: 54px;
 	margin-top: 80px;
 	position: relative;
