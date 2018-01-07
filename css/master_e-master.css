@@ -224,11 +224,11 @@
 
 #u16889-3,#u16862-3,#u16854-3,#u16905-3
 {
-	font-size: 12px;
 	line-height: 14px;
-	letter-spacing: 6px;
-	color: #FFFFFF;
 	text-align: center;
+	letter-spacing: 6px;
+	font-size: 12px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 }
