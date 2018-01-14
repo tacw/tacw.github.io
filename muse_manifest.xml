@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1515365179189">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tacw.github.io" resolutions="1x" timestamp="1515963887128">
   <folder name="css">
-    <file name="site_global.css" crc="3828951269"/>
+    <file name="site_global.css" crc="278961385"/>
     <file name="master_b-master.css" crc="4255750071" ref="chem-chap-2:chem-chap-3:physicss:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-8:chem-chap-7:chem-chap-9:ib-program:chem-chap-10:chem-option:chem-chap-11:chem-chap-1:psychology:college:school:apush:calculus:chemistry:ap:mesa:template"/>
     <file name="master_d-master.css" crc="468135434" ref="civ6-guide:dungeonguides:combatguide:civilization:games:bns"/>
     <file name="master_civ.css" crc="4119103858" ref="civ6-guide:combatguide:civilization"/>
@@ -8,7 +8,7 @@
     <file name="master_bns.css" crc="3925399535" ref="dungeonguides:bns"/>
     <file name="master_a-master.css" crc="3947904787" ref="calc:stats:takehomes:history:chem-chap-2:civ6-guide:chem-chap-3:physicss:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-8:chem-chap-7:chem-chap-9:ib-program:dungeonguides:chem-chap-10:chem-option:chem-chap-11:chem-chap-1:combatguide:psychology:college:group1:ibo:group3:school:group4:index:civilization:games:lit:apush:group5:calculus:econ:bio:chemistry:chem:physics:further:bns:psych:core:ap:mesa:template:calc-disclaimer"/>
     <file name="master_ib.css" crc="202536964" ref="calc:stats:takehomes:history:group1:ibo:group3:group4:lit:group5:econ:bio:chem:physics:further:psych:core:calc-disclaimer"/>
-    <file name="master_e-master.css" crc="1605140" ref="period-4:period-5:tht:period-6:period-8:tht1:period-7:tht3:period-9:tht2:tht4:tht5:period-1:period-2:period-3:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:tht16:tht17:tht18:tht19"/>
+    <file name="master_e-master.css" crc="4257829142" ref="period-4:period-5:tht:period-6:period-8:tht1:period-7:tht3:period-9:tht2:tht4:tht5:period-1:period-2:period-3:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:tht16:tht17:tht18:tht19:tht20"/>
     <file name="jager.css" crc="3782177171" ref="jager"/>
     <file name="valkyrie.css" crc="3782177171" ref="valkyrie"/>
     <file name="frost.css" crc="3782177171" ref="frost"/>
@@ -32,7 +32,7 @@
     <file name="chem-chap-3.css" crc="3828299035" ref="chem-chap-3"/>
     <file name="physicss.css" crc="3869895129" ref="physicss"/>
     <file name="period-5.css" crc="109067113" ref="period-5"/>
-    <file name="tht.css" crc="4000174243" ref="tht"/>
+    <file name="tht.css" crc="454888611" ref="tht"/>
     <file name="period-6.css" crc="109067113" ref="period-6"/>
     <file name="kapkan.css" crc="3782177171" ref="kapkan"/>
     <file name="blackbeard.css" crc="3977414349" ref="blackbeard"/>
@@ -130,10 +130,11 @@
     <file name="template.css" crc="3944550280" ref="template"/>
     <file name="sat.css" crc="101742847" ref="sat"/>
     <file name="tht16.css" crc="142184673" ref="tht16"/>
-    <file name="tht17.css" crc="4195767093" ref="tht17"/>
+    <file name="tht17.css" crc="354009951" ref="tht17"/>
     <file name="tht18.css" crc="3970327243" ref="tht18"/>
     <file name="calc-disclaimer.css" crc="199141618" ref="calc-disclaimer"/>
-    <file name="tht19.css" crc="259491742" ref="tht19"/>
+    <file name="tht19.css" crc="523418497" ref="tht19"/>
+    <file name="tht20.css" crc="3922256286" ref="tht20"/>
   </folder>
   <folder name="assets">
     <file name="mouse.png" crc="3969800286" seo="true" mt="1492475813000"/>
@@ -164,146 +165,147 @@
     <file name="ap_multiple_choice.pdf" crc="297342104" seo="true" mt="1514399471000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19"/>
-    <file name="museutils.js" crc="3803043152" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19"/>
-    <file name="museconfig.js" crc="380897831" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19"/>
-    <file name="webpro.js" crc="242022427" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19"/>
-    <file name="require.js" crc="4157109226" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20"/>
+    <file name="museutils.js" crc="3803043152" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20"/>
+    <file name="museconfig.js" crc="380897831" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20"/>
+    <file name="webpro.js" crc="242022427" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20"/>
+    <file name="require.js" crc="4157109226" ref="index:school:games:misc:apush:calculus:chemistry:torrenting:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:troll:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:adobe:competitions:core:ap:mesa:sat:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="iq:pulse:doc:jackal"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="civilization:bns:dungeonguides:combatguide:civ6-guide:misc:torrenting:change-log:trashed-ideas:calc-programs:troll:adobe:competitions:sat:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:period-4:period-5:period-6:period-7:period-8:period-9:tht16:tht17:tht18:tht19"/>
-    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:troll:adobe:physicss:ib-program:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:core:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:competitions:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:tht6:tht7:tht8:tht9:tht10:tht11:tht13:tht14:tht15:period-4:period-5:period-6:period-7:period-8:period-9:misc:torrenting:tht12:tht:sat:template:chem-chap-4:ap:tht16:tht17:calc-disclaimer:tht18:tht19"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="civilization:bns:dungeonguides:combatguide:civ6-guide:misc:torrenting:change-log:trashed-ideas:calc-programs:troll:adobe:competitions:sat:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:period-4:period-5:period-6:period-7:period-8:period-9:tht16:tht17:tht18:tht19:tht20"/>
+    <file name="html5shiv.js" crc="4241844378" ref="civilization:bns:dungeonguides:combatguide:change-log:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:calc-programs:civ6-guide:troll:adobe:physicss:ib-program:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:core:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:competitions:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:tht6:tht7:tht8:tht9:tht10:tht11:tht13:tht14:tht15:period-4:period-5:period-6:period-7:period-8:period-9:misc:torrenting:tht12:tht:sat:template:chem-chap-4:ap:tht16:tht17:calc-disclaimer:tht18:tht19:tht20"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="271725686" ref="index:chemistry:mesa:apush:school:calculus"/>
-    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19">
-      <caption webpage="period-1" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="blackbeard" alt=""/>
-      <caption webpage="adobe" alt=""/>
-      <caption webpage="sledge" alt=""/>
-      <caption webpage="skyscraper" alt=""/>
-      <caption webpage="jackal" alt=""/>
-      <caption webpage="ap" alt=""/>
-      <caption webpage="frost" alt=""/>
-      <caption webpage="group2" alt=""/>
-      <caption webpage="misc" alt=""/>
-      <caption webpage="tht3" alt=""/>
-      <caption webpage="tht8" alt=""/>
-      <caption webpage="hereford-base" alt=""/>
-      <caption webpage="period-2" alt=""/>
-      <caption webpage="chem-chap-11" alt=""/>
-      <caption webpage="period-8" alt=""/>
-      <caption webpage="chem-chap-7" alt=""/>
-      <caption webpage="rook" alt=""/>
-      <caption webpage="group3" alt=""/>
-      <caption webpage="thermite" alt=""/>
-      <caption webpage="jager" alt=""/>
-      <caption webpage="period-4" alt=""/>
-      <caption webpage="tht11" alt=""/>
-      <caption webpage="twitch" alt=""/>
-      <caption webpage="apush" alt=""/>
-      <caption webpage="castle" alt=""/>
-      <caption webpage="blitz" alt=""/>
-      <caption webpage="school" alt=""/>
-      <caption webpage="physicss" alt=""/>
-      <caption webpage="calc-disclaimer" alt=""/>
-      <caption webpage="ib-program" alt=""/>
-      <caption webpage="iq" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="group5" alt=""/>
-      <caption webpage="period-6" alt=""/>
-      <caption webpage="glaz" alt=""/>
-      <caption webpage="caveira" alt=""/>
-      <caption webpage="lit" alt=""/>
-      <caption webpage="calc-programs" alt=""/>
-      <caption webpage="dungeonguides" alt=""/>
-      <caption webpage="competitions" alt=""/>
-      <caption webpage="bandit" alt=""/>
-      <caption webpage="mesa" alt=""/>
-      <caption webpage="calc" alt=""/>
-      <caption webpage="tht9" alt=""/>
-      <caption webpage="period-7" alt=""/>
-      <caption webpage="period-9" alt=""/>
-      <caption webpage="trashed-ideas" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="mira" alt=""/>
-      <caption webpage="civilization" alt=""/>
-      <caption webpage="pulse" alt=""/>
-      <caption webpage="echo" alt=""/>
-      <caption webpage="psych" alt=""/>
-      <caption webpage="house" alt=""/>
+    <file name="favicon.ico" crc="271725686" ref="index:chemistry:mesa:apush:school:calculus:tht"/>
+    <file name="logomakr_9a9qwa.png" crc="3930183419" seo="true" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20">
       <caption webpage="tht4" alt=""/>
-      <caption webpage="stats" alt=""/>
-      <caption webpage="econ" alt=""/>
-      <caption webpage="tht7" alt=""/>
-      <caption webpage="torrenting" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="tht16" alt=""/>
-      <caption webpage="takehomes" alt=""/>
-      <caption webpage="chem-chap-4" alt=""/>
-      <caption webpage="tht2" alt=""/>
-      <caption webpage="college" alt=""/>
-      <caption webpage="doc" alt=""/>
-      <caption webpage="chem-chap-8" alt=""/>
-      <caption webpage="fuze" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="rook" alt=""/>
       <caption webpage="chem-chap-2" alt=""/>
-      <caption webpage="captitao" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="tht14" alt=""/>
-      <caption webpage="games" alt=""/>
-      <caption webpage="kapkan" alt=""/>
-      <caption webpage="chem-chap-5" alt=""/>
-      <caption webpage="thatcher" alt=""/>
-      <caption webpage="chem" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="civ6-guide" alt=""/>
-      <caption webpage="tachanka" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="tht13" alt=""/>
-      <caption webpage="bns" alt=""/>
-      <caption webpage="template" alt=""/>
-      <caption webpage="chem-chap-6" alt=""/>
-      <caption webpage="tht6" alt=""/>
-      <caption webpage="troll" alt=""/>
-      <caption webpage="buck" alt=""/>
-      <caption webpage="chinese" alt=""/>
-      <caption webpage="ibo" alt=""/>
-      <caption webpage="group1" alt=""/>
-      <caption webpage="montagne" alt=""/>
-      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-7" alt=""/>
       <caption webpage="tht1" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="adobe" alt=""/>
+      <caption webpage="twitch" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="mesa" alt=""/>
       <caption webpage="bio" alt=""/>
-      <caption webpage="group4" alt=""/>
-      <caption webpage="smoke" alt=""/>
+      <caption webpage="tht15" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="tht20" alt=""/>
+      <caption webpage="ash" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="bns" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="tht3" alt=""/>
       <caption webpage="tht12" alt=""/>
-      <caption webpage="valkyrie" alt=""/>
-      <caption webpage="combatguide" alt=""/>
-      <caption webpage="tht10" alt=""/>
-      <caption webpage="period-5" alt=""/>
-      <caption webpage="chem-option" alt=""/>
-      <caption webpage="mute" alt=""/>
-      <caption webpage="tht18" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="chem-chap-9" alt=""/>
-      <caption webpage="chem-chap-10" alt=""/>
-      <caption webpage="tht17" alt=""/>
       <caption webpage="consulate" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="tht17" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="torrenting" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="house" alt=""/>
+      <caption webpage="troll" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="calc-programs" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="tht18" alt=""/>
+      <caption webpage="tht16" alt=""/>
+      <caption webpage="competitions" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="template" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="ap" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="dungeonguides" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="civ6-guide" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="combatguide" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="civilization" alt=""/>
+      <caption webpage="mute" alt=""/>
       <caption webpage="tht19" alt=""/>
       <caption webpage="tht" alt=""/>
-      <caption webpage="tht15" alt=""/>
-      <caption webpage="change-log" alt=""/>
-      <caption webpage="rainbowsix" alt=""/>
-      <caption webpage="ash" alt=""/>
-      <caption webpage="bank" alt=""/>
-      <caption webpage="tht5" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="period-2" alt=""/>
       <caption webpage="hibana" alt=""/>
-      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="calc-disclaimer" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="change-log" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="misc" alt=""/>
     </file>
     <file name="pointerb.png" crc="3780694765" seo="true" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:trashed-ideas:skyscraper:consulate:civ6-guide:physicss:ib-program:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:calc-disclaimer">
       <caption webpage="period-1" alt=""/>
@@ -792,251 +794,228 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="logomakr_1jtcoh.png" crc="374159385" seo="true" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19">
-      <caption webpage="period-1" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="blackbeard" alt=""/>
-      <caption webpage="adobe" alt=""/>
-      <caption webpage="sledge" alt=""/>
-      <caption webpage="skyscraper" alt=""/>
-      <caption webpage="jackal" alt=""/>
-      <caption webpage="ap" alt=""/>
-      <caption webpage="frost" alt=""/>
-      <caption webpage="group2" alt=""/>
-      <caption webpage="misc" alt=""/>
-      <caption webpage="tht3" alt=""/>
-      <caption webpage="tht8" alt=""/>
-      <caption webpage="hereford-base" alt=""/>
-      <caption webpage="period-2" alt=""/>
-      <caption webpage="chem-chap-11" alt=""/>
-      <caption webpage="period-8" alt=""/>
-      <caption webpage="chem-chap-7" alt=""/>
+    <file name="logomakr_1jtcoh.png" crc="374159385" seo="true" ref="index:school:games:apush:calculus:chemistry:rainbowsix:iq:blitz:jager:sledge:thatcher:smoke:ash:thermite:castle:bandit:mute:pulse:twitch:montagne:doc:rook:glaz:fuze:kapkan:tachanka:buck:frost:blackbeard:valkyrie:captitao:caveira:hibana:echo:jackal:mira:civilization:bns:dungeonguides:combatguide:hereford-base:house:bank:skyscraper:consulate:civ6-guide:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20">
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="history" alt=""/>
       <caption webpage="rook" alt=""/>
-      <caption webpage="group3" alt=""/>
-      <caption webpage="thermite" alt=""/>
-      <caption webpage="jager" alt=""/>
-      <caption webpage="period-4" alt=""/>
-      <caption webpage="tht11" alt=""/>
+      <caption webpage="chem-chap-2" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="adobe" alt=""/>
       <caption webpage="twitch" alt=""/>
-      <caption webpage="apush" alt=""/>
-      <caption webpage="castle" alt=""/>
-      <caption webpage="blitz" alt=""/>
-      <caption webpage="school" alt=""/>
-      <caption webpage="physicss" alt=""/>
-      <caption webpage="calc-disclaimer" alt=""/>
-      <caption webpage="ib-program" alt=""/>
-      <caption webpage="iq" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="group5" alt=""/>
-      <caption webpage="period-6" alt=""/>
-      <caption webpage="glaz" alt=""/>
-      <caption webpage="caveira" alt=""/>
-      <caption webpage="lit" alt=""/>
-      <caption webpage="calc-programs" alt=""/>
-      <caption webpage="dungeonguides" alt=""/>
-      <caption webpage="competitions" alt=""/>
-      <caption webpage="bandit" alt=""/>
+      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="period-8" alt=""/>
       <caption webpage="mesa" alt=""/>
-      <caption webpage="calc" alt=""/>
-      <caption webpage="tht9" alt=""/>
-      <caption webpage="period-7" alt=""/>
-      <caption webpage="period-9" alt=""/>
-      <caption webpage="trashed-ideas" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="mira" alt=""/>
-      <caption webpage="civilization" alt=""/>
-      <caption webpage="pulse" alt=""/>
-      <caption webpage="echo" alt=""/>
-      <caption webpage="psych" alt=""/>
-      <caption webpage="house" alt=""/>
-      <caption webpage="tht4" alt=""/>
-      <caption webpage="stats" alt=""/>
-      <caption webpage="econ" alt=""/>
-      <caption webpage="tht7" alt=""/>
-      <caption webpage="torrenting" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="tht16" alt=""/>
-      <caption webpage="takehomes" alt=""/>
-      <caption webpage="chem-chap-4" alt=""/>
-      <caption webpage="tht2" alt=""/>
-      <caption webpage="college" alt=""/>
-      <caption webpage="doc" alt=""/>
-      <caption webpage="chem-chap-8" alt=""/>
-      <caption webpage="fuze" alt=""/>
-      <caption webpage="chem-chap-2" alt=""/>
-      <caption webpage="captitao" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="tht14" alt=""/>
-      <caption webpage="games" alt=""/>
-      <caption webpage="kapkan" alt=""/>
-      <caption webpage="chem-chap-5" alt=""/>
-      <caption webpage="thatcher" alt=""/>
-      <caption webpage="chem" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="civ6-guide" alt=""/>
-      <caption webpage="tachanka" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="tht13" alt=""/>
-      <caption webpage="bns" alt=""/>
-      <caption webpage="template" alt=""/>
-      <caption webpage="chem-chap-6" alt=""/>
-      <caption webpage="tht6" alt=""/>
-      <caption webpage="troll" alt=""/>
-      <caption webpage="buck" alt=""/>
-      <caption webpage="chinese" alt=""/>
-      <caption webpage="ibo" alt=""/>
-      <caption webpage="group1" alt=""/>
-      <caption webpage="montagne" alt=""/>
-      <caption webpage="period-3" alt=""/>
-      <caption webpage="tht1" alt=""/>
       <caption webpage="bio" alt=""/>
-      <caption webpage="group4" alt=""/>
-      <caption webpage="smoke" alt=""/>
-      <caption webpage="tht12" alt=""/>
-      <caption webpage="valkyrie" alt=""/>
-      <caption webpage="combatguide" alt=""/>
-      <caption webpage="tht10" alt=""/>
-      <caption webpage="period-5" alt=""/>
-      <caption webpage="chem-option" alt=""/>
-      <caption webpage="mute" alt=""/>
-      <caption webpage="tht18" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="chem-chap-9" alt=""/>
-      <caption webpage="chem-chap-10" alt=""/>
-      <caption webpage="tht17" alt=""/>
-      <caption webpage="consulate" alt=""/>
-      <caption webpage="tht19" alt=""/>
-      <caption webpage="tht" alt=""/>
       <caption webpage="tht15" alt=""/>
-      <caption webpage="change-log" alt=""/>
-      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="tht20" alt=""/>
       <caption webpage="ash" alt=""/>
-      <caption webpage="bank" alt=""/>
+      <caption webpage="apush" alt=""/>
       <caption webpage="tht5" alt=""/>
+      <caption webpage="blackbeard" alt=""/>
+      <caption webpage="bns" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="bandit" alt=""/>
+      <caption webpage="doc" alt=""/>
+      <caption webpage="thatcher" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="consulate" alt=""/>
+      <caption webpage="hereford-base" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="glaz" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="thermite" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="kapkan" alt=""/>
+      <caption webpage="tht17" alt=""/>
+      <caption webpage="buck" alt=""/>
+      <caption webpage="torrenting" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="skyscraper" alt=""/>
+      <caption webpage="captitao" alt=""/>
+      <caption webpage="frost" alt=""/>
+      <caption webpage="house" alt=""/>
+      <caption webpage="troll" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="caveira" alt=""/>
+      <caption webpage="calc-programs" alt=""/>
+      <caption webpage="sledge" alt=""/>
+      <caption webpage="tachanka" alt=""/>
+      <caption webpage="montagne" alt=""/>
+      <caption webpage="tht18" alt=""/>
+      <caption webpage="tht16" alt=""/>
+      <caption webpage="competitions" alt=""/>
+      <caption webpage="smoke" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="template" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="jager" alt=""/>
+      <caption webpage="chem-chap-4" alt=""/>
+      <caption webpage="ibo" alt=""/>
+      <caption webpage="blitz" alt=""/>
+      <caption webpage="group4" alt=""/>
+      <caption webpage="rainbowsix" alt=""/>
+      <caption webpage="mira" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="castle" alt=""/>
+      <caption webpage="ap" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="dungeonguides" alt=""/>
+      <caption webpage="fuze" alt=""/>
+      <caption webpage="trashed-ideas" alt=""/>
+      <caption webpage="pulse" alt=""/>
+      <caption webpage="civ6-guide" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="combatguide" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="civilization" alt=""/>
+      <caption webpage="mute" alt=""/>
+      <caption webpage="tht19" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="period-2" alt=""/>
       <caption webpage="hibana" alt=""/>
-      <caption webpage="chem-chap-1" alt=""/>
+      <caption webpage="bank" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="calc-disclaimer" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="iq" alt=""/>
+      <caption webpage="jackal" alt=""/>
+      <caption webpage="valkyrie" alt=""/>
+      <caption webpage="change-log" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="misc" alt=""/>
     </file>
-    <file name="pasdf.png" crc="223653777" seo="true" ref="school:apush:calculus:chemistry:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19">
-      <caption webpage="period-1" alt=""/>
-      <caption webpage="chem-chap-10" alt=""/>
-      <caption webpage="takehomes" alt=""/>
-      <caption webpage="chem-chap-8" alt=""/>
-      <caption webpage="tht2" alt=""/>
-      <caption webpage="tht16" alt=""/>
-      <caption webpage="ap" alt=""/>
-      <caption webpage="college" alt=""/>
+    <file name="pasdf.png" crc="223653777" seo="true" ref="school:apush:calculus:chemistry:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20">
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-7" alt=""/>
       <caption webpage="chem-chap-4" alt=""/>
       <caption webpage="chem-chap-2" alt=""/>
-      <caption webpage="tht19" alt=""/>
-      <caption webpage="tht8" alt=""/>
-      <caption webpage="group2" alt=""/>
-      <caption webpage="tht14" alt=""/>
-      <caption webpage="chem-chap-11" alt=""/>
-      <caption webpage="tht3" alt=""/>
-      <caption webpage="chinese" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="chem-chap-5" alt=""/>
-      <caption webpage="group3" alt=""/>
-      <caption webpage="chem" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="period-8" alt=""/>
-      <caption webpage="chem-chap-7" alt=""/>
-      <caption webpage="chem-chap-6" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="tht13" alt=""/>
-      <caption webpage="template" alt=""/>
-      <caption webpage="period-4" alt=""/>
-      <caption webpage="tht11" alt=""/>
-      <caption webpage="tht6" alt=""/>
-      <caption webpage="apush" alt=""/>
-      <caption webpage="group1" alt=""/>
-      <caption webpage="school" alt=""/>
       <caption webpage="ibo" alt=""/>
-      <caption webpage="physicss" alt=""/>
-      <caption webpage="calc-disclaimer" alt=""/>
-      <caption webpage="ib-program" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="period-3" alt=""/>
-      <caption webpage="group5" alt=""/>
-      <caption webpage="period-6" alt=""/>
-      <caption webpage="tht1" alt=""/>
-      <caption webpage="bio" alt=""/>
-      <caption webpage="lit" alt=""/>
       <caption webpage="group4" alt=""/>
-      <caption webpage="chem-option" alt=""/>
-      <caption webpage="calc" alt=""/>
-      <caption webpage="tht12" alt=""/>
-      <caption webpage="period-7" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="takehomes" alt=""/>
       <caption webpage="core" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="period-5" alt=""/>
-      <caption webpage="mesa" alt=""/>
-      <caption webpage="period-9" alt=""/>
-      <caption webpage="tht17" alt=""/>
-      <caption webpage="tht18" alt=""/>
-      <caption webpage="tht10" alt=""/>
-      <caption webpage="tht" alt=""/>
-      <caption webpage="tht5" alt=""/>
-      <caption webpage="tht9" alt=""/>
-      <caption webpage="psych" alt=""/>
-      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="ap" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="tht13" alt=""/>
       <caption webpage="tht15" alt=""/>
-      <caption webpage="tht4" alt=""/>
-      <caption webpage="stats" alt=""/>
-      <caption webpage="econ" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="mesa" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="tht6" alt=""/>
       <caption webpage="chem-chap-1" alt=""/>
-      <caption webpage="tht7" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="tht20" alt=""/>
+      <caption webpage="tht19" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
       <caption webpage="period-2" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="calc-disclaimer" alt=""/>
       <caption webpage="calculus" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="tht16" alt=""/>
+      <caption webpage="tht17" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="template" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht18" alt=""/>
     </file>
-    <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19">
-      <caption webpage="period-1" alt=""/>
-      <caption webpage="period-1" alt=""/>
-      <caption webpage="period-1" alt=""/>
-      <caption webpage="period-1" alt=""/>
-      <caption webpage="period-1" alt=""/>
-      <caption webpage="chem-chap-10" alt=""/>
-      <caption webpage="chem-chap-10" alt=""/>
-      <caption webpage="chem-chap-10" alt=""/>
-      <caption webpage="chem-chap-10" alt=""/>
-      <caption webpage="chem-chap-10" alt=""/>
-      <caption webpage="takehomes" alt=""/>
-      <caption webpage="takehomes" alt=""/>
-      <caption webpage="takehomes" alt=""/>
-      <caption webpage="takehomes" alt=""/>
-      <caption webpage="takehomes" alt=""/>
-      <caption webpage="chem-chap-8" alt=""/>
-      <caption webpage="chem-chap-8" alt=""/>
-      <caption webpage="chem-chap-8" alt=""/>
-      <caption webpage="chem-chap-8" alt=""/>
-      <caption webpage="chem-chap-8" alt=""/>
-      <caption webpage="tht2" alt=""/>
-      <caption webpage="tht2" alt=""/>
-      <caption webpage="tht2" alt=""/>
-      <caption webpage="tht2" alt=""/>
-      <caption webpage="tht2" alt=""/>
-      <caption webpage="tht16" alt=""/>
-      <caption webpage="tht16" alt=""/>
-      <caption webpage="tht16" alt=""/>
-      <caption webpage="tht16" alt=""/>
-      <caption webpage="tht16" alt=""/>
-      <caption webpage="ap" alt=""/>
-      <caption webpage="ap" alt=""/>
-      <caption webpage="ap" alt=""/>
-      <caption webpage="ap" alt=""/>
-      <caption webpage="ap" alt=""/>
-      <caption webpage="college" alt=""/>
-      <caption webpage="college" alt=""/>
-      <caption webpage="college" alt=""/>
-      <caption webpage="college" alt=""/>
-      <caption webpage="college" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="pointer.png" crc="3760686964" seo="true" ref="school:apush:calculus:chemistry:physicss:tht:tht1:tht2:tht3:tht4:tht5:period-1:period-2:period-3:ib-program:tht6:tht7:tht8:tht9:tht10:tht11:tht12:tht13:tht14:tht15:chem-chap-1:psychology:college:ibo:group1:group3:group4:group5:lit:econ:bio:chem:physics:further:psych:calc:stats:takehomes:history:chem-chap-2:chem-chap-3:period-4:period-5:period-6:period-7:period-8:period-9:chem-chap-4:chem-chap-5:chem-chap-6:chem-chap-7:chem-chap-8:chem-chap-9:chem-chap-10:chem-chap-11:chem-option:core:ap:mesa:template:tht16:tht17:calc-disclaimer:tht18:tht19:tht20">
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht4" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="tht7" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-4" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="period-7" alt=""/>
+      <caption webpage="period-7" alt=""/>
       <caption webpage="chem-chap-4" alt=""/>
       <caption webpage="chem-chap-4" alt=""/>
       <caption webpage="chem-chap-4" alt=""/>
@@ -1047,321 +1026,351 @@
       <caption webpage="chem-chap-2" alt=""/>
       <caption webpage="chem-chap-2" alt=""/>
       <caption webpage="chem-chap-2" alt=""/>
-      <caption webpage="tht19" alt=""/>
-      <caption webpage="tht19" alt=""/>
-      <caption webpage="tht19" alt=""/>
-      <caption webpage="tht19" alt=""/>
-      <caption webpage="tht19" alt=""/>
-      <caption webpage="tht8" alt=""/>
-      <caption webpage="tht8" alt=""/>
-      <caption webpage="tht8" alt=""/>
-      <caption webpage="tht8" alt=""/>
-      <caption webpage="tht8" alt=""/>
-      <caption webpage="group2" alt=""/>
-      <caption webpage="group2" alt=""/>
-      <caption webpage="group2" alt=""/>
-      <caption webpage="group2" alt=""/>
-      <caption webpage="group2" alt=""/>
-      <caption webpage="group2" alt=""/>
-      <caption webpage="tht14" alt=""/>
-      <caption webpage="tht14" alt=""/>
-      <caption webpage="tht14" alt=""/>
-      <caption webpage="tht14" alt=""/>
-      <caption webpage="tht14" alt=""/>
-      <caption webpage="chem-chap-11" alt=""/>
-      <caption webpage="chem-chap-11" alt=""/>
-      <caption webpage="chem-chap-11" alt=""/>
-      <caption webpage="chem-chap-11" alt=""/>
-      <caption webpage="chem-chap-11" alt=""/>
-      <caption webpage="tht3" alt=""/>
-      <caption webpage="tht3" alt=""/>
-      <caption webpage="tht3" alt=""/>
-      <caption webpage="tht3" alt=""/>
-      <caption webpage="tht3" alt=""/>
-      <caption webpage="chinese" alt=""/>
-      <caption webpage="chinese" alt=""/>
-      <caption webpage="chinese" alt=""/>
-      <caption webpage="chinese" alt=""/>
-      <caption webpage="chinese" alt=""/>
-      <caption webpage="chinese" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="chem-chap-3" alt=""/>
-      <caption webpage="chem-chap-5" alt=""/>
-      <caption webpage="chem-chap-5" alt=""/>
-      <caption webpage="chem-chap-5" alt=""/>
-      <caption webpage="chem-chap-5" alt=""/>
-      <caption webpage="chem-chap-5" alt=""/>
-      <caption webpage="group3" alt=""/>
-      <caption webpage="group3" alt=""/>
-      <caption webpage="group3" alt=""/>
-      <caption webpage="group3" alt=""/>
-      <caption webpage="group3" alt=""/>
-      <caption webpage="group3" alt=""/>
-      <caption webpage="group3" alt=""/>
-      <caption webpage="group3" alt=""/>
-      <caption webpage="chem" alt=""/>
-      <caption webpage="chem" alt=""/>
-      <caption webpage="chem" alt=""/>
-      <caption webpage="chem" alt=""/>
-      <caption webpage="chem" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="period-8" alt=""/>
-      <caption webpage="period-8" alt=""/>
-      <caption webpage="period-8" alt=""/>
-      <caption webpage="period-8" alt=""/>
-      <caption webpage="period-8" alt=""/>
-      <caption webpage="chem-chap-7" alt=""/>
-      <caption webpage="chem-chap-7" alt=""/>
-      <caption webpage="chem-chap-7" alt=""/>
-      <caption webpage="chem-chap-7" alt=""/>
-      <caption webpage="chem-chap-7" alt=""/>
-      <caption webpage="chem-chap-6" alt=""/>
-      <caption webpage="chem-chap-6" alt=""/>
-      <caption webpage="chem-chap-6" alt=""/>
-      <caption webpage="chem-chap-6" alt=""/>
-      <caption webpage="chem-chap-6" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="tht13" alt=""/>
-      <caption webpage="tht13" alt=""/>
-      <caption webpage="tht13" alt=""/>
-      <caption webpage="tht13" alt=""/>
-      <caption webpage="tht13" alt=""/>
-      <caption webpage="template" alt=""/>
-      <caption webpage="template" alt=""/>
-      <caption webpage="template" alt=""/>
-      <caption webpage="template" alt=""/>
-      <caption webpage="template" alt=""/>
-      <caption webpage="period-4" alt=""/>
-      <caption webpage="period-4" alt=""/>
-      <caption webpage="period-4" alt=""/>
-      <caption webpage="period-4" alt=""/>
-      <caption webpage="period-4" alt=""/>
-      <caption webpage="tht11" alt=""/>
-      <caption webpage="tht11" alt=""/>
-      <caption webpage="tht11" alt=""/>
-      <caption webpage="tht11" alt=""/>
-      <caption webpage="tht11" alt=""/>
-      <caption webpage="tht6" alt=""/>
-      <caption webpage="tht6" alt=""/>
-      <caption webpage="tht6" alt=""/>
-      <caption webpage="tht6" alt=""/>
-      <caption webpage="tht6" alt=""/>
-      <caption webpage="apush" alt=""/>
-      <caption webpage="apush" alt=""/>
-      <caption webpage="apush" alt=""/>
-      <caption webpage="apush" alt=""/>
-      <caption webpage="apush" alt=""/>
-      <caption webpage="group1" alt=""/>
-      <caption webpage="group1" alt=""/>
-      <caption webpage="group1" alt=""/>
-      <caption webpage="group1" alt=""/>
-      <caption webpage="group1" alt=""/>
-      <caption webpage="school" alt=""/>
-      <caption webpage="school" alt=""/>
-      <caption webpage="school" alt=""/>
-      <caption webpage="school" alt=""/>
-      <caption webpage="school" alt=""/>
       <caption webpage="ibo" alt=""/>
       <caption webpage="ibo" alt=""/>
       <caption webpage="ibo" alt=""/>
       <caption webpage="ibo" alt=""/>
       <caption webpage="ibo" alt=""/>
-      <caption webpage="physicss" alt=""/>
-      <caption webpage="physicss" alt=""/>
-      <caption webpage="physicss" alt=""/>
-      <caption webpage="physicss" alt=""/>
-      <caption webpage="physicss" alt=""/>
-      <caption webpage="calc-disclaimer" alt=""/>
-      <caption webpage="calc-disclaimer" alt=""/>
-      <caption webpage="calc-disclaimer" alt=""/>
-      <caption webpage="calc-disclaimer" alt=""/>
-      <caption webpage="calc-disclaimer" alt=""/>
-      <caption webpage="ib-program" alt=""/>
-      <caption webpage="ib-program" alt=""/>
-      <caption webpage="ib-program" alt=""/>
-      <caption webpage="ib-program" alt=""/>
-      <caption webpage="ib-program" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="period-3" alt=""/>
-      <caption webpage="period-3" alt=""/>
-      <caption webpage="period-3" alt=""/>
-      <caption webpage="period-3" alt=""/>
-      <caption webpage="period-3" alt=""/>
-      <caption webpage="group5" alt=""/>
-      <caption webpage="group5" alt=""/>
-      <caption webpage="group5" alt=""/>
-      <caption webpage="group5" alt=""/>
-      <caption webpage="group5" alt=""/>
-      <caption webpage="period-6" alt=""/>
-      <caption webpage="period-6" alt=""/>
-      <caption webpage="period-6" alt=""/>
-      <caption webpage="period-6" alt=""/>
-      <caption webpage="period-6" alt=""/>
-      <caption webpage="tht1" alt=""/>
-      <caption webpage="tht1" alt=""/>
-      <caption webpage="tht1" alt=""/>
-      <caption webpage="tht1" alt=""/>
-      <caption webpage="tht1" alt=""/>
-      <caption webpage="bio" alt=""/>
-      <caption webpage="bio" alt=""/>
-      <caption webpage="bio" alt=""/>
-      <caption webpage="bio" alt=""/>
-      <caption webpage="bio" alt=""/>
-      <caption webpage="lit" alt=""/>
-      <caption webpage="lit" alt=""/>
-      <caption webpage="lit" alt=""/>
-      <caption webpage="lit" alt=""/>
-      <caption webpage="lit" alt=""/>
       <caption webpage="group4" alt=""/>
       <caption webpage="group4" alt=""/>
       <caption webpage="group4" alt=""/>
       <caption webpage="group4" alt=""/>
       <caption webpage="group4" alt=""/>
-      <caption webpage="chem-option" alt=""/>
-      <caption webpage="chem-option" alt=""/>
-      <caption webpage="chem-option" alt=""/>
-      <caption webpage="chem-option" alt=""/>
-      <caption webpage="chem-option" alt=""/>
-      <caption webpage="calc" alt=""/>
-      <caption webpage="calc" alt=""/>
-      <caption webpage="calc" alt=""/>
-      <caption webpage="calc" alt=""/>
-      <caption webpage="calc" alt=""/>
-      <caption webpage="tht12" alt=""/>
-      <caption webpage="tht12" alt=""/>
-      <caption webpage="tht12" alt=""/>
-      <caption webpage="tht12" alt=""/>
-      <caption webpage="tht12" alt=""/>
-      <caption webpage="period-7" alt=""/>
-      <caption webpage="period-7" alt=""/>
-      <caption webpage="period-7" alt=""/>
-      <caption webpage="period-7" alt=""/>
-      <caption webpage="period-7" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="chem-chap-10" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="tht1" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
+      <caption webpage="takehomes" alt=""/>
       <caption webpage="core" alt=""/>
       <caption webpage="core" alt=""/>
       <caption webpage="core" alt=""/>
       <caption webpage="core" alt=""/>
       <caption webpage="core" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="period-5" alt=""/>
-      <caption webpage="period-5" alt=""/>
-      <caption webpage="period-5" alt=""/>
-      <caption webpage="period-5" alt=""/>
-      <caption webpage="period-5" alt=""/>
-      <caption webpage="mesa" alt=""/>
-      <caption webpage="mesa" alt=""/>
-      <caption webpage="mesa" alt=""/>
-      <caption webpage="mesa" alt=""/>
-      <caption webpage="mesa" alt=""/>
-      <caption webpage="period-9" alt=""/>
-      <caption webpage="period-9" alt=""/>
-      <caption webpage="period-9" alt=""/>
-      <caption webpage="period-9" alt=""/>
-      <caption webpage="period-9" alt=""/>
-      <caption webpage="tht17" alt=""/>
-      <caption webpage="tht17" alt=""/>
-      <caption webpage="tht17" alt=""/>
-      <caption webpage="tht17" alt=""/>
-      <caption webpage="tht17" alt=""/>
-      <caption webpage="tht18" alt=""/>
-      <caption webpage="tht18" alt=""/>
-      <caption webpage="tht18" alt=""/>
-      <caption webpage="tht18" alt=""/>
-      <caption webpage="tht18" alt=""/>
-      <caption webpage="tht10" alt=""/>
-      <caption webpage="tht10" alt=""/>
-      <caption webpage="tht10" alt=""/>
-      <caption webpage="tht10" alt=""/>
-      <caption webpage="tht10" alt=""/>
-      <caption webpage="tht" alt=""/>
-      <caption webpage="tht" alt=""/>
-      <caption webpage="tht" alt=""/>
-      <caption webpage="tht" alt=""/>
-      <caption webpage="tht" alt=""/>
-      <caption webpage="tht5" alt=""/>
-      <caption webpage="tht5" alt=""/>
-      <caption webpage="tht5" alt=""/>
-      <caption webpage="tht5" alt=""/>
-      <caption webpage="tht5" alt=""/>
-      <caption webpage="tht9" alt=""/>
-      <caption webpage="tht9" alt=""/>
-      <caption webpage="tht9" alt=""/>
-      <caption webpage="tht9" alt=""/>
-      <caption webpage="tht9" alt=""/>
-      <caption webpage="psych" alt=""/>
-      <caption webpage="psych" alt=""/>
-      <caption webpage="psych" alt=""/>
-      <caption webpage="psych" alt=""/>
-      <caption webpage="psych" alt=""/>
-      <caption webpage="chem-chap-9" alt=""/>
-      <caption webpage="chem-chap-9" alt=""/>
-      <caption webpage="chem-chap-9" alt=""/>
-      <caption webpage="chem-chap-9" alt=""/>
-      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="physicss" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="group2" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="chem-option" alt=""/>
+      <caption webpage="ap" alt=""/>
+      <caption webpage="ap" alt=""/>
+      <caption webpage="ap" alt=""/>
+      <caption webpage="ap" alt=""/>
+      <caption webpage="ap" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="bio" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="tht13" alt=""/>
+      <caption webpage="tht13" alt=""/>
       <caption webpage="tht15" alt=""/>
       <caption webpage="tht15" alt=""/>
       <caption webpage="tht15" alt=""/>
       <caption webpage="tht15" alt=""/>
       <caption webpage="tht15" alt=""/>
-      <caption webpage="tht4" alt=""/>
-      <caption webpage="tht4" alt=""/>
-      <caption webpage="tht4" alt=""/>
-      <caption webpage="tht4" alt=""/>
-      <caption webpage="tht4" alt=""/>
-      <caption webpage="stats" alt=""/>
-      <caption webpage="stats" alt=""/>
-      <caption webpage="stats" alt=""/>
-      <caption webpage="stats" alt=""/>
-      <caption webpage="stats" alt=""/>
-      <caption webpage="econ" alt=""/>
-      <caption webpage="econ" alt=""/>
-      <caption webpage="econ" alt=""/>
-      <caption webpage="econ" alt=""/>
-      <caption webpage="econ" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-5" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="period-8" alt=""/>
+      <caption webpage="mesa" alt=""/>
+      <caption webpage="mesa" alt=""/>
+      <caption webpage="mesa" alt=""/>
+      <caption webpage="mesa" alt=""/>
+      <caption webpage="mesa" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="period-3" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="tht2" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="period-1" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="tht6" alt=""/>
+      <caption webpage="tht6" alt=""/>
       <caption webpage="chem-chap-1" alt=""/>
       <caption webpage="chem-chap-1" alt=""/>
       <caption webpage="chem-chap-1" alt=""/>
       <caption webpage="chem-chap-1" alt=""/>
       <caption webpage="chem-chap-1" alt=""/>
-      <caption webpage="tht7" alt=""/>
-      <caption webpage="tht7" alt=""/>
-      <caption webpage="tht7" alt=""/>
-      <caption webpage="tht7" alt=""/>
-      <caption webpage="tht7" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="econ" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="tht14" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="chem-chap-5" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="period-9" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="group3" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="period-6" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht12" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="tht3" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="school" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="tht20" alt=""/>
+      <caption webpage="tht20" alt=""/>
+      <caption webpage="tht20" alt=""/>
+      <caption webpage="tht20" alt=""/>
+      <caption webpage="tht20" alt=""/>
+      <caption webpage="tht19" alt=""/>
+      <caption webpage="tht19" alt=""/>
+      <caption webpage="tht19" alt=""/>
+      <caption webpage="tht19" alt=""/>
+      <caption webpage="tht19" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="lit" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="tht9" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="chem" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="college" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="tht5" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-6" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-7" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="chem-chap-9" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="tht8" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-3" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
+      <caption webpage="chem-chap-11" alt=""/>
       <caption webpage="period-2" alt=""/>
       <caption webpage="period-2" alt=""/>
       <caption webpage="period-2" alt=""/>
       <caption webpage="period-2" alt=""/>
       <caption webpage="period-2" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="tht10" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="chinese" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="calc" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="group1" alt=""/>
+      <caption webpage="calc-disclaimer" alt=""/>
+      <caption webpage="calc-disclaimer" alt=""/>
+      <caption webpage="calc-disclaimer" alt=""/>
+      <caption webpage="calc-disclaimer" alt=""/>
+      <caption webpage="calc-disclaimer" alt=""/>
       <caption webpage="calculus" alt=""/>
       <caption webpage="calculus" alt=""/>
       <caption webpage="calculus" alt=""/>
       <caption webpage="calculus" alt=""/>
       <caption webpage="calculus" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="psych" alt=""/>
+      <caption webpage="tht16" alt=""/>
+      <caption webpage="tht16" alt=""/>
+      <caption webpage="tht16" alt=""/>
+      <caption webpage="tht16" alt=""/>
+      <caption webpage="tht16" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="stats" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="group5" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="ib-program" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="chem-chap-8" alt=""/>
+      <caption webpage="tht17" alt=""/>
+      <caption webpage="tht17" alt=""/>
+      <caption webpage="tht17" alt=""/>
+      <caption webpage="tht17" alt=""/>
+      <caption webpage="tht17" alt=""/>
+      <caption webpage="template" alt=""/>
+      <caption webpage="template" alt=""/>
+      <caption webpage="template" alt=""/>
+      <caption webpage="template" alt=""/>
+      <caption webpage="template" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht11" alt=""/>
+      <caption webpage="tht18" alt=""/>
+      <caption webpage="tht18" alt=""/>
+      <caption webpage="tht18" alt=""/>
+      <caption webpage="tht18" alt=""/>
+      <caption webpage="tht18" alt=""/>
     </file>
     <file name="musethemes-logo-crop-u4332.jpg" crc="3814523729" seo="true" ref="games:civilization:bns:dungeonguides:combatguide:civ6-guide">
       <caption webpage="dungeonguides" alt=""/>
@@ -2746,6 +2755,12 @@
     <file name="firefox_2018-01-07_15-43-05.jpg" crc="28296108" seo="true" ref="tht19">
       <caption webpage="tht19" alt=""/>
     </file>
+    <file name="firefox_2018-01-14_14-01-30.jpg" crc="451852381" seo="true" ref="tht20">
+      <caption webpage="tht20" alt=""/>
+    </file>
+    <file name="firefox_2018-01-14_14-01-37.jpg" crc="4026024940" seo="true" ref="tht20">
+      <caption webpage="tht20" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4255640813" seo="true" mt="1514406376792" redirect="true"/>
   <file name="school.html" crc="4267175659" seo="true" mt="1514477669689" redirect="true"/>
@@ -2800,27 +2815,27 @@
   <file name="calc-programs.html" crc="4177439746" seo="true" mt="1510874798708" redirect="true"/>
   <file name="civ6-guide.html" crc="4240672052" seo="true" mt="1512837073088" redirect="true"/>
   <file name="physicss.html" crc="4090908553" seo="true" mt="1512837073088" redirect="true"/>
-  <file name="tht.html" crc="123878499" seo="true" mt="1515365166544" redirect="true"/>
-  <file name="tht1.html" crc="374425751" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht2.html" crc="439092440" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht3.html" crc="197255364" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht4.html" crc="32144865" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht5.html" crc="4248420841" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="period-1.html" crc="3824884333" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="period-2.html" crc="4279244389" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="period-3.html" crc="531913816" seo="true" mt="1513647001891" redirect="true"/>
+  <file name="tht.html" crc="67968797" seo="true" mt="1515963807043" redirect="true"/>
+  <file name="tht1.html" crc="3981741448" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht2.html" crc="3836467882" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht3.html" crc="407128568" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht4.html" crc="4137377649" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht5.html" crc="3941530013" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="period-1.html" crc="171075409" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="period-2.html" crc="3908016519" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="period-3.html" crc="3785481328" seo="true" mt="1515963742238" redirect="true"/>
   <file name="troll.html" crc="307510680" seo="true" mt="1510874798708" redirect="true"/>
   <file name="ib-program.html" crc="3997690726" seo="true" mt="1512837073088" redirect="true"/>
-  <file name="tht6.html" crc="412915602" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht7.html" crc="4120124652" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht8.html" crc="4019272447" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht9.html" crc="415392673" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht10.html" crc="201433639" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht11.html" crc="72753685" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht12.html" crc="4166396235" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht13.html" crc="3933966867" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht14.html" crc="3893207126" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht15.html" crc="4142081224" seo="true" mt="1513647001891" redirect="true"/>
+  <file name="tht6.html" crc="353260985" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht7.html" crc="3872098069" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht8.html" crc="508966713" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht9.html" crc="276649267" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht10.html" crc="4066465371" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht11.html" crc="4161454014" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht12.html" crc="4100072978" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht13.html" crc="388158110" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht14.html" crc="250221110" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht15.html" crc="86261292" seo="true" mt="1515963742238" redirect="true"/>
   <file name="chem-chap-1.html" crc="3784512438" seo="true" mt="1512837073088" redirect="true"/>
   <file name="psychology.html" crc="227867819" seo="true" mt="1512837073088" redirect="true"/>
   <file name="college.html" crc="3826189313" seo="true" mt="1512837073088" redirect="true"/>
@@ -2842,12 +2857,12 @@
   <file name="history.html" crc="3791863338" seo="true" mt="1512837073088" redirect="true"/>
   <file name="chem-chap-2.html" crc="203293877" seo="true" mt="1512837073088" redirect="true"/>
   <file name="chem-chap-3.html" crc="44388283" seo="true" mt="1512837073088" redirect="true"/>
-  <file name="period-4.html" crc="234451425" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="period-5.html" crc="3846893051" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="period-6.html" crc="133123988" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="period-7.html" crc="4015838094" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="period-8.html" crc="3942445726" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="period-9.html" crc="38760068" seo="true" mt="1513647001891" redirect="true"/>
+  <file name="period-4.html" crc="3768748912" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="period-5.html" crc="3907867629" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="period-6.html" crc="4030544458" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="period-7.html" crc="4168278743" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="period-8.html" crc="4000327471" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="period-9.html" crc="3862953906" seo="true" mt="1515963742238" redirect="true"/>
   <file name="chem-chap-4.html" crc="141671766" seo="true" mt="1512837073088" redirect="true"/>
   <file name="chem-chap-5.html" crc="4072945324" seo="true" mt="1512837073088" redirect="true"/>
   <file name="chem-chap-6.html" crc="195432793" seo="true" mt="1512837073088" redirect="true"/>
@@ -2864,9 +2879,10 @@
   <file name="mesa.html" crc="4208017360" seo="true" mt="1512960484082" redirect="true"/>
   <file name="sat.html" crc="93997332" seo="true" mt="1511652772101" redirect="true"/>
   <file name="template.html" crc="3868300526" seo="true" mt="1512837073088" redirect="true"/>
-  <file name="tht16.html" crc="134240833" seo="true" mt="1513647001891" redirect="true"/>
-  <file name="tht17.html" crc="380886707" seo="true" mt="1513647106811" redirect="true"/>
+  <file name="tht16.html" crc="217767554" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht17.html" crc="491698328" seo="true" mt="1515963742238" redirect="true"/>
   <file name="calc-disclaimer.html" crc="455372926" seo="true" mt="1513904970479" redirect="true"/>
-  <file name="tht18.html" crc="3807005770" seo="true" mt="1515365142028" redirect="true"/>
-  <file name="tht19.html" crc="185672341" seo="true" mt="1515365100246" redirect="true"/>
+  <file name="tht18.html" crc="159166356" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht19.html" crc="298167061" seo="true" mt="1515963742238" redirect="true"/>
+  <file name="tht20.html" crc="4008227398" seo="true" mt="1515963766889" redirect="true"/>
 </manifest>
