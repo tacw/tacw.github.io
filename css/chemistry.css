@@ -1,7 +1,7 @@
 .version.chemistry /* version checker */
 {
-	color: #00000B;
-	background-color: #90BBC4;
+	color: #0000E1;
+	background-color: #60DB16;
 }
 
 #muse_css_mq
@@ -523,7 +523,15 @@
 	margin-left: 2.64%;
 }
 
-#u8637-32
+#u8637-5
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #B63700;
+	font-weight: bold;
+}
+
+#u8637-49
 {
 	font-size: 20px;
 	line-height: 24px;
@@ -532,7 +540,7 @@
 	font-style: italic;
 }
 
-#u8637-31
+#u8637-48
 {
 	text-decoration: underline;
 }
@@ -1005,7 +1013,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1459px);
+	height: calc(100vh - 1512px);
 }
 
 #u6883
@@ -1123,5 +1131,4 @@ body
 {
 	width: 100%;
 }
-
 
