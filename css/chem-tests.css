@@ -1,7 +1,7 @@
 .version.chem_tests /* version checker */
 {
-	color: #0000F6;
-	background-color: #27A8BE;
+	color: #0000F9;
+	background-color: #C93144;
 }
 
 #muse_css_mq
@@ -496,7 +496,7 @@
 {
 	z-index: 26;
 	margin-top: 7px;
-	width: 26.46%;
+	width: 93.96%;
 }
 
 #u8932
@@ -505,9 +505,22 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
-	width: 98.82%;
-	left: 1.19%;
-	margin-left: 140.16%;
+	width: 27.83%;
+	left: 36.48%;
+	margin-left: 3.33%;
+}
+
+#u18161-44
+{
+	z-index: 28;
+	min-height: 470px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 51px;
+	width: 100%;
+	left: 0%;
+	margin-left: 3.33%;
 }
 
 #pamphletu12829
@@ -515,8 +528,8 @@
 	z-index: 117;
 	position: relative;
 	margin-right: -10000px;
-	width: 99.61%;
-	margin-left: 139.18%;
+	width: 28.05%;
+	margin-left: 39.2%;
 	left: 3px;
 }
 
@@ -976,21 +989,9 @@
 	width: 100%;
 }
 
-#u18161-44
-{
-	z-index: 28;
-	min-height: 470px;
-	background-color: transparent;
-	margin-top: 2px;
-	position: relative;
-	width: 93.96%;
-	left: 0%;
-	margin-left: 3.13%;
-}
-
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 919px);
+	height: calc(100vh - 906px);
 }
 
 #u6883
@@ -1102,7 +1103,7 @@ body
 
 .verticalspacer
 {
-	min-height: 179px;
+	min-height: 192px;
 }
 
 #u104_img,#u7683_img,#u7675_img,#u7679_img,#u7687_img,#u8932_img,#u6898_img
