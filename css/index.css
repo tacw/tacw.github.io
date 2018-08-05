@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000B;
-	background-color: #34E580;
+	color: #000006;
+	background-color: #FFD9BF;
 }
 
 #muse_css_mq
@@ -62,14 +62,14 @@
 
 #pu3573
 {
-	z-index: 157;
+	z-index: 162;
 	margin-top: 3px;
 	width: 55.51%;
 }
 
 #u3573
 {
-	z-index: 157;
+	z-index: 162;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
@@ -127,7 +127,7 @@
 
 #u7673
 {
-	z-index: 158;
+	z-index: 163;
 	top: -4px;
 	margin-bottom: -4px;
 	position: relative;
@@ -138,7 +138,7 @@
 
 #pbuttonu7682
 {
-	z-index: 160;
+	z-index: 165;
 	margin-right: -10000px;
 	width: 24.96%;
 	margin-left: 75.05%;
@@ -146,7 +146,7 @@
 
 #buttonu7682
 {
-	z-index: 160;
+	z-index: 165;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -167,7 +167,7 @@
 
 #u7685-4
 {
-	z-index: 161;
+	z-index: 166;
 	min-height: 24px;
 	width: 78.75%;
 }
@@ -194,7 +194,7 @@
 
 #u7683
 {
-	z-index: 165;
+	z-index: 170;
 	width: 15.75%;
 }
 
@@ -222,7 +222,7 @@
 
 #pbuttonu7674
 {
-	z-index: 169;
+	z-index: 174;
 	margin-right: -10000px;
 	width: 24.57%;
 	margin-left: 50.68%;
@@ -230,7 +230,7 @@
 
 #buttonu7674
 {
-	z-index: 169;
+	z-index: 174;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -251,7 +251,7 @@
 
 #u7677-4
 {
-	z-index: 170;
+	z-index: 175;
 	min-height: 24px;
 	width: 80%;
 }
@@ -286,7 +286,7 @@
 
 #u7675
 {
-	z-index: 174;
+	z-index: 179;
 	width: 16%;
 }
 
@@ -314,7 +314,7 @@
 
 #pbuttonu7678
 {
-	z-index: 178;
+	z-index: 183;
 	margin-right: -10000px;
 	width: 25.73%;
 	margin-left: 25.15%;
@@ -322,7 +322,7 @@
 
 #buttonu7678
 {
-	z-index: 178;
+	z-index: 183;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -343,7 +343,7 @@
 
 #u7681-4
 {
-	z-index: 179;
+	z-index: 184;
 	min-height: 24px;
 	width: 76.34%;
 }
@@ -378,7 +378,7 @@
 
 #u7679
 {
-	z-index: 183;
+	z-index: 188;
 	width: 15.27%;
 }
 
@@ -406,14 +406,14 @@
 
 #pbuttonu7686
 {
-	z-index: 187;
+	z-index: 192;
 	margin-right: -10000px;
 	width: 25.34%;
 }
 
 #buttonu7686
 {
-	z-index: 187;
+	z-index: 192;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -434,7 +434,7 @@
 
 #u7689-4
 {
-	z-index: 188;
+	z-index: 193;
 	min-height: 24px;
 	width: 77.52%;
 }
@@ -469,7 +469,7 @@
 
 #u7687
 {
-	z-index: 192;
+	z-index: 197;
 	width: 15.51%;
 }
 
@@ -495,37 +495,38 @@
 	left: 42.64%;
 }
 
-#u18164
-{
-	z-index: 241;
-	min-height: 35px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	margin-top: 18px;
-	position: relative;
-	width: 12.61%;
-	margin-left: 43.7%;
-	left: 2px;
-}
-
-#pu2430-131
+#pu18201
 {
 	z-index: 26;
-	margin-top: -1px;
+	margin-top: 5px;
 	width: 95.42%;
 }
 
-#u2430-131
+#u18201
 {
 	z-index: 26;
+	min-height: 100px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 21.84%;
+	margin-left: 41.49%;
+	left: 79px;
+}
+
+#u2430-135
+{
+	z-index: 27;
 	min-height: 318px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 47px;
 	width: 100%;
 	left: 0%;
-	margin-left: 2.41%;
+	margin-left: 2.52%;
 }
 
 #u2430-4
@@ -542,32 +543,32 @@
 	color: #FFC318;
 }
 
-#u2430-70
+#u2430-72
 {
 	font-weight: bold;
 	font-style: normal;
 }
 
-#u2430-86
+#u2430-88
 {
 	font-weight: bold;
 }
 
-#u2430-69,#u2430-85
+#u2430-71,#u2430-87
 {
 	text-decoration: underline;
 }
 
 #slideshowu7117
 {
-	z-index: 202;
+	z-index: 207;
 	width: 0.01px;
 	height: 410px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 549px;
+	margin-top: 522px;
 	margin-left: 52.41%;
-	left: -445px;
+	left: -448px;
 }
 
 #u7127
@@ -580,12 +581,12 @@
 
 #u7127popup
 {
-	z-index: 203;
+	z-index: 208;
 }
 
 #u7128
 {
-	z-index: 204;
+	z-index: 209;
 	width: 892px;
 	height: 360px;
 	border-width: 0px;
@@ -597,7 +598,7 @@
 
 #u7181
 {
-	z-index: 206;
+	z-index: 211;
 	width: 892px;
 	height: 360px;
 	border-width: 0px;
@@ -609,7 +610,7 @@
 
 #u7215
 {
-	z-index: 208;
+	z-index: 213;
 	width: 892px;
 	height: 360px;
 	border-width: 0px;
@@ -627,7 +628,7 @@
 
 #u7249
 {
-	z-index: 210;
+	z-index: 215;
 	width: 892px;
 	height: 360px;
 	border-width: 0px;
@@ -653,12 +654,12 @@
 
 #u7125popup
 {
-	z-index: 212;
+	z-index: 217;
 }
 
 #u7126-4
 {
-	z-index: 213;
+	z-index: 218;
 	width: 154px;
 	height: 40px;
 	border-width: 0px;
@@ -674,7 +675,7 @@
 
 #u7198-4
 {
-	z-index: 217;
+	z-index: 222;
 	width: 154px;
 	height: 40px;
 	border-width: 0px;
@@ -690,7 +691,7 @@
 
 #u7232-4
 {
-	z-index: 221;
+	z-index: 226;
 	width: 154px;
 	height: 40px;
 	border-width: 0px;
@@ -706,7 +707,7 @@
 
 #u7266-4
 {
-	z-index: 225;
+	z-index: 230;
 	width: 154px;
 	height: 40px;
 	border-width: 0px;
@@ -731,8 +732,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: center;
 	color: #999999;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 369px;
 	left: 396px;
@@ -740,7 +741,7 @@
 
 #u7123-4popup
 {
-	z-index: 229;
+	z-index: 234;
 }
 
 #u7124-4
@@ -754,8 +755,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: center;
 	color: #999999;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 369px;
 	left: 352px;
@@ -763,7 +764,7 @@
 
 #u7124-4popup
 {
-	z-index: 233;
+	z-index: 238;
 }
 
 #u7122-4
@@ -777,8 +778,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 20px;
-	text-align: center;
 	color: #999999;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 368px;
 	left: 479px;
@@ -786,7 +787,7 @@
 
 #u7122-4popup
 {
-	z-index: 237;
+	z-index: 242;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -801,7 +802,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 2313px);
+	height: calc(100vh - 2340px);
 }
 
 #u6883
@@ -881,7 +882,7 @@
 
 #u16117-7
 {
-	z-index: 195;
+	z-index: 200;
 	min-height: 54px;
 	margin-top: 80px;
 	position: relative;
@@ -918,5 +919,4 @@ body
 {
 	width: 100%;
 }
-
 

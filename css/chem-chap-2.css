@@ -1,7 +1,7 @@
 .version.chem_chap_2 /* version checker */
 {
-	color: #000006;
-	background-color: #818A91;
+	color: #0000EB;
+	background-color: #FA09C3;
 }
 
 #muse_css_mq
@@ -496,7 +496,7 @@
 {
 	z-index: 26;
 	margin-top: 7px;
-	width: 26.46%;
+	width: 94.9%;
 }
 
 #u8932
@@ -505,9 +505,28 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
-	width: 98.82%;
-	left: 1.19%;
-	margin-left: 140.16%;
+	width: 27.56%;
+	left: 36.78%;
+	margin-left: 2.64%;
+}
+
+#u11917-221
+{
+	z-index: 28;
+	min-height: 251px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 70px;
+	width: 100%;
+	left: 0%;
+	margin-left: 2.64%;
+}
+
+#u11917-62 > #u11917-61:before,#u11917-60 > #u11917-59:before,#u11917-58 > #u11917-57:before,#u11917-56 > #u11917-55:before,#u11917-54 > #u11917-53:before,#u11917-52 > #u11917-51:before,#u11917-154 > #u11917-153:before,#u11917-152 > #u11917-151:before,#u11917-150 > #u11917-149:before,#u11917-148 > #u11917-147:before,#u11917-146 > #u11917-145:before,#u11917-144 > #u11917-143:before
+{
+	visibility: hidden;
+	counter-increment: list 0;
 }
 
 #pamphletu12829
@@ -515,9 +534,9 @@
 	z-index: 294;
 	position: relative;
 	margin-right: -10000px;
-	width: 99.61%;
-	margin-left: 139.18%;
-	left: 3px;
+	width: 34.47%;
+	margin-left: 35.46%;
+	left: 7px;
 }
 
 #u12834
@@ -526,7 +545,7 @@
 	width: 314px;
 	height: 621px;
 	margin-left: 50%;
-	left: -309.5px;
+	left: -314px;
 }
 
 #u12834popup
@@ -545,8 +564,8 @@
 	width: 314px;
 	height: 504px;
 	padding-bottom: 117px;
-	margin-right: -10000px;
 	position: relative;
+	margin-right: -10000px;
 	margin-left: 50%;
 	left: -157px;
 }
@@ -951,7 +970,8 @@
 	z-index: 337;
 	position: relative;
 	margin-right: -10000px;
-	width: 100%;
+	width: 80.58%;
+	left: 8.29%;
 }
 
 #u12860
@@ -974,24 +994,6 @@
 	height: 62px;
 	margin-right: -10000px;
 	width: 100%;
-}
-
-#u11917-221
-{
-	z-index: 28;
-	min-height: 251px;
-	background-color: transparent;
-	margin-top: 8px;
-	position: relative;
-	width: 94.9%;
-	left: 0%;
-	margin-left: 2.5%;
-}
-
-#u11917-62 > #u11917-61:before,#u11917-60 > #u11917-59:before,#u11917-58 > #u11917-57:before,#u11917-56 > #u11917-55:before,#u11917-54 > #u11917-53:before,#u11917-52 > #u11917-51:before,#u11917-154 > #u11917-153:before,#u11917-152 > #u11917-151:before,#u11917-150 > #u11917-149:before,#u11917-148 > #u11917-147:before,#u11917-146 > #u11917-145:before,#u11917-144 > #u11917-143:before
-{
-	visibility: hidden;
-	counter-increment: list 0;
 }
 
 .css_verticalspacer .verticalspacer

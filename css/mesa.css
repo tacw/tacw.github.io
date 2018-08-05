@@ -1,7 +1,7 @@
 .version.mesa /* version checker */
 {
-	color: #0000F6;
-	background-color: #E8C8C8;
+	color: #0000F4;
+	background-color: #AEB950;
 }
 
 #muse_css_mq
@@ -633,9 +633,9 @@
 	z-index: 226;
 	position: relative;
 	margin-right: -10000px;
-	width: 27.84%;
-	margin-left: 38.89%;
-	left: 3px;
+	width: 34.55%;
+	margin-left: 35.54%;
+	left: 7px;
 }
 
 #u12834
@@ -644,7 +644,7 @@
 	width: 314px;
 	height: 621px;
 	margin-left: 50%;
-	left: -309.5px;
+	left: -314px;
 }
 
 #u12834popup
@@ -663,8 +663,8 @@
 	width: 314px;
 	height: 504px;
 	padding-bottom: 117px;
-	margin-right: -10000px;
 	position: relative;
+	margin-right: -10000px;
 	margin-left: 50%;
 	left: -157px;
 }
@@ -1069,7 +1069,8 @@
 	z-index: 269;
 	position: relative;
 	margin-right: -10000px;
-	width: 100%;
+	width: 80.58%;
+	left: 8.29%;
 }
 
 #u12860
@@ -1214,5 +1215,4 @@ body
 {
 	width: 100%;
 }
-
 

@@ -1,7 +1,7 @@
 .version.jungle_guide /* version checker */
 {
-	color: #000015;
-	background-color: #383C41;
+	color: #0000F5;
+	background-color: #BF09B5;
 }
 
 #muse_css_mq
@@ -27,7 +27,7 @@
 #pppu14091
 {
 	z-index: 0;
-	height: 4908.9px;
+	height: 5741.9px;
 	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: -164px;
@@ -60,14 +60,14 @@
 
 #pu3573
 {
-	z-index: 369;
+	z-index: 435;
 	margin-top: 3px;
 	width: 55.51%;
 }
 
 #u3573
 {
-	z-index: 369;
+	z-index: 435;
 	width: 40px;
 	min-height: 40px;
 	position: relative;
@@ -125,7 +125,7 @@
 
 #u7673
 {
-	z-index: 370;
+	z-index: 436;
 	top: -4px;
 	margin-bottom: -4px;
 	position: relative;
@@ -136,7 +136,7 @@
 
 #pbuttonu7682
 {
-	z-index: 372;
+	z-index: 438;
 	margin-right: -10000px;
 	width: 24.96%;
 	margin-left: 75.05%;
@@ -144,7 +144,7 @@
 
 #buttonu7682
 {
-	z-index: 372;
+	z-index: 438;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -165,7 +165,7 @@
 
 #u7685-4
 {
-	z-index: 373;
+	z-index: 439;
 	min-height: 24px;
 	width: 78.75%;
 }
@@ -192,7 +192,7 @@
 
 #u7683
 {
-	z-index: 377;
+	z-index: 443;
 	width: 15.75%;
 }
 
@@ -220,7 +220,7 @@
 
 #pbuttonu7674
 {
-	z-index: 381;
+	z-index: 447;
 	margin-right: -10000px;
 	width: 24.57%;
 	margin-left: 50.68%;
@@ -228,7 +228,7 @@
 
 #buttonu7674
 {
-	z-index: 381;
+	z-index: 447;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -249,7 +249,7 @@
 
 #u7677-4
 {
-	z-index: 382;
+	z-index: 448;
 	min-height: 24px;
 	width: 80%;
 }
@@ -284,7 +284,7 @@
 
 #u7675
 {
-	z-index: 386;
+	z-index: 452;
 	width: 16%;
 }
 
@@ -312,7 +312,7 @@
 
 #pbuttonu7678
 {
-	z-index: 390;
+	z-index: 456;
 	margin-right: -10000px;
 	width: 25.73%;
 	margin-left: 25.15%;
@@ -320,7 +320,7 @@
 
 #buttonu7678
 {
-	z-index: 390;
+	z-index: 456;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -341,7 +341,7 @@
 
 #u7681-4
 {
-	z-index: 391;
+	z-index: 457;
 	min-height: 24px;
 	width: 76.34%;
 }
@@ -376,7 +376,7 @@
 
 #u7679
 {
-	z-index: 395;
+	z-index: 461;
 	width: 15.27%;
 }
 
@@ -404,14 +404,14 @@
 
 #pbuttonu7686
 {
-	z-index: 399;
+	z-index: 465;
 	margin-right: -10000px;
 	width: 25.34%;
 }
 
 #buttonu7686
 {
-	z-index: 399;
+	z-index: 465;
 	height: 70px;
 	position: relative;
 	margin-right: -10000px;
@@ -432,7 +432,7 @@
 
 #u7689-4
 {
-	z-index: 400;
+	z-index: 466;
 	min-height: 24px;
 	width: 77.52%;
 }
@@ -467,7 +467,7 @@
 
 #u7687
 {
-	z-index: 404;
+	z-index: 470;
 	width: 15.51%;
 }
 
@@ -495,7 +495,7 @@
 
 #u4450
 {
-	z-index: 339;
+	z-index: 405;
 	padding-bottom: 1px;
 	margin-top: 70px;
 	position: relative;
@@ -506,7 +506,7 @@
 
 #u4329
 {
-	z-index: 340;
+	z-index: 406;
 	padding-bottom: 22px;
 	position: relative;
 	margin-right: -10000px;
@@ -515,7 +515,7 @@
 
 #u4332
 {
-	z-index: 341;
+	z-index: 407;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 25px;
@@ -525,7 +525,7 @@
 
 #pamphletu4334
 {
-	z-index: 343;
+	z-index: 409;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 16px;
@@ -541,7 +541,7 @@
 
 #u4345
 {
-	z-index: 363;
+	z-index: 429;
 	margin-left: 334px;
 	position: relative;
 	width: 27.51%;
@@ -565,7 +565,7 @@
 
 #u4331-4
 {
-	z-index: 365;
+	z-index: 431;
 	width: 221px;
 	min-height: 35px;
 	position: relative;
@@ -599,7 +599,7 @@
 
 #u4339popup
 {
-	z-index: 344;
+	z-index: 410;
 	width: 922px;
 	height: 238px;
 	left: -1px;
@@ -608,7 +608,7 @@
 
 #u4340
 {
-	z-index: 345;
+	z-index: 411;
 	width: 918px;
 	height: 205px;
 	padding-bottom: 29px;
@@ -618,7 +618,7 @@
 
 #u4341-5
 {
-	z-index: 346;
+	z-index: 412;
 	width: 345px;
 	min-height: 45px;
 	position: relative;
@@ -638,7 +638,7 @@
 
 #pu4401-5
 {
-	z-index: 351;
+	z-index: 417;
 	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 87px;
@@ -648,7 +648,7 @@
 
 #u4401-5
 {
-	z-index: 351;
+	z-index: 417;
 	width: 345px;
 	min-height: 45px;
 	position: relative;
@@ -665,7 +665,7 @@
 
 #u4404-5
 {
-	z-index: 356;
+	z-index: 422;
 	width: 345px;
 	min-height: 45px;
 	margin-top: 2px;
@@ -683,7 +683,7 @@
 
 #u5217
 {
-	z-index: 361;
+	z-index: 427;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 20px;
@@ -691,7 +691,7 @@
 	left: 57.3%;
 }
 
-#u17907-313
+#u17907-379
 {
 	z-index: 26;
 	min-height: 277px;
@@ -703,14 +703,25 @@
 	margin-left: 2.3%;
 }
 
-#u17907-11,#u17907-21,#u17907-29,#u17907-34,#u17907-36,#u17907-47,#u17907-67,#u17907-123,#u17907-149,#u17907-182,#u17907-204,#u17907-261,#u17907-262,#u17907-264
+#u17907-75,#u17907-77,#u17907-100,#u17907-108,#u17907-118,#u17907-138
+{
+	font-weight: normal;
+	font-style: italic;
+}
+
+#u17907-76,#u17907-99,#u17907-107,#u17907-117,#u17907-137
+{
+	text-decoration: underline;
+}
+
+#u17907-11,#u17907-21,#u17907-29,#u17907-34,#u17907-36,#u17907-47,#u17907-67,#u17907-168,#u17907-194,#u17907-241,#u17907-270,#u17907-327,#u17907-328,#u17907-330
 {
 	font-weight: bold;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 4997px);
+	height: calc(100vh - 5830px);
 }
 
 #u6883
@@ -790,7 +801,7 @@
 
 #u16117-7
 {
-	z-index: 407;
+	z-index: 473;
 	min-height: 54px;
 	margin-top: 80px;
 	position: relative;

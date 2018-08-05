@@ -1,7 +1,7 @@
 .version.chemistry /* version checker */
 {
-	color: #0000FA;
-	background-color: #2B2C03;
+	color: #0000FB;
+	background-color: #5229BB;
 }
 
 #muse_css_mq
@@ -550,9 +550,9 @@
 	z-index: 223;
 	position: relative;
 	margin-right: -10000px;
-	width: 27.81%;
-	margin-left: 38.85%;
-	left: 3px;
+	width: 34.51%;
+	margin-left: 35.5%;
+	left: 7px;
 }
 
 #u12834
@@ -561,7 +561,7 @@
 	width: 314px;
 	height: 621px;
 	margin-left: 50%;
-	left: -309.5px;
+	left: -314px;
 }
 
 #u12834popup
@@ -580,8 +580,8 @@
 	width: 314px;
 	height: 504px;
 	padding-bottom: 117px;
-	margin-right: -10000px;
 	position: relative;
+	margin-right: -10000px;
 	margin-left: 50%;
 	left: -157px;
 }
@@ -986,7 +986,8 @@
 	z-index: 266;
 	position: relative;
 	margin-right: -10000px;
-	width: 100%;
+	width: 80.58%;
+	left: 8.29%;
 }
 
 #u12860

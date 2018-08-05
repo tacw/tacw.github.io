@@ -1,7 +1,7 @@
 .version.college /* version checker */
 {
-	color: #0000E0;
-	background-color: #E2B3E0;
+	color: #0000F8;
+	background-color: #B89CE7;
 }
 
 #muse_css_mq
@@ -496,7 +496,7 @@
 {
 	z-index: 26;
 	margin-top: 7px;
-	width: 26.46%;
+	width: 94.07%;
 }
 
 #u8932
@@ -505,9 +505,22 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
-	width: 98.82%;
-	left: 1.19%;
-	margin-left: 140.16%;
+	width: 27.8%;
+	left: 36.77%;
+	margin-left: 3%;
+}
+
+#u11020-26
+{
+	z-index: 28;
+	min-height: 276px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 89px;
+	width: 100%;
+	left: 0%;
+	margin-left: 3%;
 }
 
 #pamphletu12829
@@ -515,9 +528,9 @@
 	z-index: 99;
 	position: relative;
 	margin-right: -10000px;
-	width: 99.61%;
-	margin-left: 139.18%;
-	left: 3px;
+	width: 34.78%;
+	margin-left: 35.77%;
+	left: 8px;
 }
 
 #u12834
@@ -526,7 +539,7 @@
 	width: 314px;
 	height: 621px;
 	margin-left: 50%;
-	left: -309.5px;
+	left: -314px;
 }
 
 #u12834popup
@@ -545,8 +558,8 @@
 	width: 314px;
 	height: 504px;
 	padding-bottom: 117px;
-	margin-right: -10000px;
 	position: relative;
+	margin-right: -10000px;
 	margin-left: 50%;
 	left: -157px;
 }
@@ -951,7 +964,8 @@
 	z-index: 142;
 	position: relative;
 	margin-right: -10000px;
-	width: 100%;
+	width: 80.58%;
+	left: 8.29%;
 }
 
 #u12860
@@ -976,21 +990,9 @@
 	width: 100%;
 }
 
-#u11020-26
-{
-	z-index: 28;
-	min-height: 276px;
-	background-color: transparent;
-	margin-top: 27px;
-	position: relative;
-	width: 94.07%;
-	left: 0%;
-	margin-left: 2.82%;
-}
-
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 750px);
+	height: calc(100vh - 1059px);
 }
 
 #u6883
@@ -1102,7 +1104,7 @@ body
 
 .verticalspacer
 {
-	min-height: 348px;
+	min-height: 38px;
 }
 
 #u104_img,#u7683_img,#u7675_img,#u7679_img,#u7687_img,#u8932_img,#u6898_img

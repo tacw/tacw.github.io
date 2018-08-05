@@ -1,7 +1,7 @@
 .version.sat /* version checker */
 {
-	color: #000012;
-	background-color: #8DEC92;
+	color: #0000FD;
+	background-color: #4A36D9;
 }
 
 #muse_css_mq
@@ -496,7 +496,7 @@
 {
 	z-index: 26;
 	margin-top: 7px;
-	width: 26.46%;
+	width: 95.42%;
 }
 
 #u8932
@@ -505,9 +505,35 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
-	width: 98.82%;
-	left: 1.19%;
-	margin-left: 140.16%;
+	width: 27.41%;
+	left: 37.23%;
+	margin-left: 1.97%;
+}
+
+#u17605-91
+{
+	z-index: 28;
+	min-height: 298px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 57px;
+	width: 100%;
+	left: 0%;
+	margin-left: 1.97%;
+}
+
+#u17605-9,#u17605-86
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #DA0C00;
+	font-weight: bold;
+}
+
+#u17605-8,#u17605-85
+{
+	text-decoration: underline;
 }
 
 #pamphletu12829
@@ -515,9 +541,9 @@
 	z-index: 164;
 	position: relative;
 	margin-right: -10000px;
-	width: 99.61%;
-	margin-left: 139.18%;
-	left: 3px;
+	width: 34.28%;
+	margin-left: 35.27%;
+	left: 7px;
 }
 
 #u12834
@@ -526,7 +552,7 @@
 	width: 314px;
 	height: 621px;
 	margin-left: 50%;
-	left: -309.5px;
+	left: -314px;
 }
 
 #u12834popup
@@ -545,8 +571,8 @@
 	width: 314px;
 	height: 504px;
 	padding-bottom: 117px;
-	margin-right: -10000px;
 	position: relative;
+	margin-right: -10000px;
 	margin-left: 50%;
 	left: -157px;
 }
@@ -951,7 +977,8 @@
 	z-index: 207;
 	position: relative;
 	margin-right: -10000px;
-	width: 100%;
+	width: 80.58%;
+	left: 8.29%;
 }
 
 #u12860
@@ -974,32 +1001,6 @@
 	height: 62px;
 	margin-right: -10000px;
 	width: 100%;
-}
-
-#u17605-91
-{
-	z-index: 28;
-	min-height: 298px;
-	background-color: transparent;
-	top: -5px;
-	margin-bottom: -5px;
-	position: relative;
-	width: 95.42%;
-	left: 0%;
-	margin-left: 1.88%;
-}
-
-#u17605-9,#u17605-86
-{
-	font-size: 18px;
-	line-height: 22px;
-	color: #DA0C00;
-	font-weight: bold;
-}
-
-#u17605-8,#u17605-85
-{
-	text-decoration: underline;
 }
 
 .css_verticalspacer .verticalspacer
@@ -1123,5 +1124,4 @@ body
 {
 	width: 100%;
 }
-
 

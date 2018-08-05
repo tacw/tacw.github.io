@@ -1,7 +1,7 @@
 .version.chem_chap_1 /* version checker */
 {
-	color: #000001;
-	background-color: #3C370B;
+	color: #00001B;
+	background-color: #0A16C2;
 }
 
 #muse_css_mq
@@ -528,9 +528,9 @@
 	z-index: 86;
 	position: relative;
 	margin-right: -10000px;
-	width: 27.72%;
-	margin-left: 38.72%;
-	left: 3px;
+	width: 34.4%;
+	margin-left: 35.38%;
+	left: 8px;
 }
 
 #u12834
@@ -539,7 +539,7 @@
 	width: 314px;
 	height: 621px;
 	margin-left: 50%;
-	left: -309.5px;
+	left: -314px;
 }
 
 #u12834popup
@@ -558,8 +558,8 @@
 	width: 314px;
 	height: 504px;
 	padding-bottom: 117px;
-	margin-right: -10000px;
 	position: relative;
+	margin-right: -10000px;
 	margin-left: 50%;
 	left: -157px;
 }
@@ -964,7 +964,8 @@
 	z-index: 129;
 	position: relative;
 	margin-right: -10000px;
-	width: 100%;
+	width: 80.58%;
+	left: 8.29%;
 }
 
 #u12860
@@ -991,7 +992,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 778px);
+	height: calc(100vh - 1059px);
 }
 
 #u6883
@@ -1103,7 +1104,7 @@ body
 
 .verticalspacer
 {
-	min-height: 320px;
+	min-height: 38px;
 }
 
 #u104_img,#u7683_img,#u7675_img,#u7679_img,#u7687_img,#u8932_img,#u6898_img
