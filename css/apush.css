@@ -1,7 +1,7 @@
 .version.apush /* version checker */
 {
-	color: #0000E3;
-	background-color: #A0DF57;
+	color: #0000F3;
+	background-color: #370DBB;
 }
 
 #muse_css_mq
@@ -674,7 +674,7 @@
 	margin-right: -10000px;
 	width: 32.71%;
 	margin-left: 33.65%;
-	left: 1px;
+	left: -1px;
 }
 
 #pamphletu13182_position_content
@@ -688,7 +688,7 @@
 	z-index: 297;
 	position: relative;
 	width: 80.58%;
-	margin-left: 7.97%;
+	margin-left: 8.6%;
 }
 
 #u13208
@@ -718,9 +718,6 @@
 	position: absolute;
 	width: 314px;
 	height: 590px;
-	margin-bottom: -1px;
-	margin-left: 100%;
-	left: -628px;
 }
 
 #u13183popup
@@ -728,8 +725,7 @@
 	z-index: 247;
 	width: 314px;
 	height: 590px;
-	top: -1px;
-	margin-left: 100%;
+	margin-top: 9px;
 }
 
 #u13184
@@ -740,8 +736,6 @@
 	padding-bottom: 213.00156188153164px;
 	margin-right: -10000px;
 	position: relative;
-	margin-left: 100%;
-	left: -314px;
 }
 
 #pu13205

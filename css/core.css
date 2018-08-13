@@ -1,7 +1,7 @@
 .version.core /* version checker */
 {
-	color: #0000FA;
-	background-color: #F5F48E;
+	color: #0000ED;
+	background-color: #808803;
 }
 
 #muse_css_mq
@@ -531,7 +531,7 @@
 	margin-right: -10000px;
 	width: 34.25%;
 	margin-left: 35.23%;
-	left: 0px;
+	left: -2px;
 }
 
 #pamphletu13182_position_content
@@ -545,7 +545,7 @@
 	z-index: 166;
 	position: relative;
 	width: 80.58%;
-	margin-left: 7.97%;
+	margin-left: 8.6%;
 }
 
 #u13208
@@ -575,9 +575,6 @@
 	position: absolute;
 	width: 314px;
 	height: 590px;
-	margin-bottom: -1px;
-	margin-left: 100%;
-	left: -628px;
 }
 
 #u13183popup
@@ -585,8 +582,7 @@
 	z-index: 116;
 	width: 314px;
 	height: 590px;
-	top: -1px;
-	margin-left: 100%;
+	margin-top: 9px;
 }
 
 #u13184
@@ -597,8 +593,6 @@
 	padding-bottom: 213.00156188153164px;
 	margin-right: -10000px;
 	position: relative;
-	margin-left: 100%;
-	left: -314px;
 }
 
 #pu13205
@@ -1024,7 +1018,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1263px);
+	height: calc(100vh - 1273px);
 }
 
 #u6883

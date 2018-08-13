@@ -1,7 +1,7 @@
 .version.takehomes /* version checker */
 {
-	color: #0000E8;
-	background-color: #8916B3;
+	color: #0000F6;
+	background-color: #E85C11;
 }
 
 #muse_css_mq
@@ -542,7 +542,7 @@
 	margin-right: -10000px;
 	width: 34.43%;
 	margin-left: 35.42%;
-	left: 1px;
+	left: -1px;
 }
 
 #pamphletu13182_position_content
@@ -556,7 +556,7 @@
 	z-index: 319;
 	position: relative;
 	width: 80.58%;
-	margin-left: 7.97%;
+	margin-left: 8.6%;
 }
 
 #u13208
@@ -586,9 +586,6 @@
 	position: absolute;
 	width: 314px;
 	height: 590px;
-	margin-bottom: -1px;
-	margin-left: 100%;
-	left: -628px;
 }
 
 #u13183popup
@@ -596,8 +593,7 @@
 	z-index: 269;
 	width: 314px;
 	height: 590px;
-	top: -1px;
-	margin-left: 100%;
+	margin-top: 9px;
 }
 
 #u13184
@@ -608,8 +604,6 @@
 	padding-bottom: 213.00156188153164px;
 	margin-right: -10000px;
 	position: relative;
-	margin-left: 100%;
-	left: -314px;
 }
 
 #pu13205
