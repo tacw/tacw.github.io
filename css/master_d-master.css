@@ -17,11 +17,11 @@
 	border-width: 2px;
 	border-color: #FC6B02;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	letter-spacing: 2px;
-	color: #FC6B02;
+	line-height: 22px;
 	text-align: center;
+	color: #FC6B02;
 	font-family: asap, sans-serif;
 	font-weight: 700;
 }
@@ -50,10 +50,10 @@
 	border-width: 2px;
 	border-color: #F15A24;
 	background-color: transparent;
-	line-height: 27px;
 	font-size: 14px;
-	letter-spacing: 1px;
 	color: #FC6B02;
+	line-height: 27px;
+	letter-spacing: 1px;
 }
 
 #u4341-5:hover
@@ -67,8 +67,8 @@
 	border-width: 2px;
 	border-color: #F15A24;
 	background-color: transparent;
-	line-height: 27px;
 	color: #FC6B02;
+	line-height: 27px;
 	font-size: 14px;
 	letter-spacing: 1px;
 	font-family: open-sans, sans-serif;
@@ -81,10 +81,10 @@
 	border-width: 2px;
 	border-color: #F15A24;
 	background-color: transparent;
-	line-height: 27px;
 	font-size: 14px;
-	letter-spacing: 1px;
 	color: #FC6B02;
+	line-height: 27px;
+	letter-spacing: 1px;
 }
 
 #u4401-5:hover,#u4404-5:hover
