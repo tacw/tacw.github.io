@@ -1,7 +1,7 @@
 .version.calc /* version checker */
 {
-	color: #000013;
-	background-color: #68159B;
+	color: #00001C;
+	background-color: #624F9E;
 }
 
 #muse_css_mq
@@ -1061,7 +1061,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1895px);
+	height: calc(100vh - 1940px);
 }
 
 #u6883
@@ -1180,4 +1180,5 @@ body
 {
 	width: 100%;
 }
+
 
