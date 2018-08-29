@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000001;
-	background-color: #7D56FF;
+	color: #0000E4;
+	background-color: #0BEC8B;
 }
 
 #muse_css_mq
@@ -673,8 +673,8 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -689,8 +689,8 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -705,8 +705,8 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -721,8 +721,8 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -738,9 +738,9 @@
 	border-color: #FC6B02;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 369px;
 	left: 396px;
@@ -761,9 +761,9 @@
 	border-color: #FC6B02;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 369px;
 	left: 352px;
@@ -784,9 +784,9 @@
 	border-color: #FC6B02;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 368px;
 	left: 479px;
