@@ -1,7 +1,7 @@
 .version.physics /* version checker */
 {
-	color: #0000E7;
-	background-color: #AE70C4;
+	color: #0000F8;
+	background-color: #5E4A91;
 }
 
 #muse_css_mq
@@ -312,6 +312,7 @@
 {
 	z-index: 110;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.73%;
 	margin-left: 25.15%;
 }
@@ -404,6 +405,7 @@
 {
 	z-index: 119;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.34%;
 }
 
@@ -494,7 +496,7 @@
 #pu18512-63
 {
 	z-index: 26;
-	margin-top: 11px;
+	margin-top: 16px;
 	width: 95%;
 }
 
@@ -505,7 +507,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 62px;
+	margin-top: 57px;
 	width: 100%;
 	left: 0%;
 	margin-left: 2.64%;
@@ -521,7 +523,7 @@
 	z-index: 134;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 10px;
+	margin-top: 5px;
 	width: 27.53%;
 	left: 35.97%;
 	margin-left: 2.64%;
@@ -549,7 +551,7 @@
 	z-index: 187;
 	position: relative;
 	width: 80.58%;
-	margin-left: 8.6%;
+	margin-left: 8.92%;
 }
 
 #u13208
@@ -586,7 +588,7 @@
 	z-index: 137;
 	width: 314px;
 	height: 590px;
-	margin-top: 9px;
+	margin-top: 4px;
 }
 
 #u13184
@@ -1141,5 +1143,4 @@ body
 {
 	width: 100%;
 }
-
 

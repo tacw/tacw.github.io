@@ -1,7 +1,7 @@
 .version.psychology /* version checker */
 {
-	color: #0000E7;
-	background-color: #C99EC2;
+	color: #0000F7;
+	background-color: #1DAA71;
 }
 
 #muse_css_mq
@@ -313,6 +313,7 @@
 {
 	z-index: 65;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.73%;
 	margin-left: 25.15%;
 }
@@ -405,6 +406,7 @@
 {
 	z-index: 74;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.34%;
 }
 

@@ -1,7 +1,10 @@
 #pu6357.PamphletThumbSelected #u6357
 {
 	width: 252px;
+	height: 61px;
+	top: 0px;
 	margin-top: 0px;
+	left: 0px;
 	margin-left: 0px;
 	min-height: 0px;
 }
@@ -16,8 +19,8 @@
 
 .version.glaz /* version checker */
 {
-	color: #0000E1;
-	background-color: #6F7193;
+	color: #0000FC;
+	background-color: #44955F;
 }
 
 #muse_css_mq
@@ -302,6 +305,7 @@
 {
 	z-index: 126;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.73%;
 	margin-left: 25.15%;
 }
@@ -394,6 +398,7 @@
 {
 	z-index: 135;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.34%;
 }
 
@@ -503,80 +508,12 @@
 #pamphletu6349
 {
 	z-index: 27;
+	width: 0.01px;
+	height: 62px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
-	width: 29.02%;
 	left: 33.26%;
-}
-
-#pamphletu6349_position_content
-{
-	margin-bottom: -505px;
-	width: 100%;
-}
-
-#u6356
-{
-	z-index: 98;
-	position: relative;
-	width: 100.4%;
-}
-
-#pu6357
-{
-	position: absolute;
-	width: 0.01px;
-}
-
-#u6357
-{
-	position: absolute;
-	width: 253px;
-	padding-bottom: 13px;
-}
-
-#u6346-4
-{
-	z-index: 101;
-	min-height: 35px;
-	width: 87.36%;
-}
-
-#pu6357.PamphletThumbSelected #u6346-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 9px;
-	min-height: 35px;
-	width: 87.36%;
-	left: 5.54%;
-}
-
-#pu6357 #u6346-4
-{
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 10px;
-	left: 5.93%;
-}
-
-#u6357popup
-{
-	width: 253px;
-	height: 62px;
-	margin-right: -10000px;
-	top: 0px;
-	left: 0px;
-}
-
-#pu6357popup
-{
-	width: 254px;
-	height: 63px;
-	margin-right: -10000px;
 }
 
 #u6350
@@ -584,15 +521,13 @@
 	position: absolute;
 	width: 922px;
 	height: 497px;
+	top: 70px;
+	left: -331px;
 }
 
 #u6350popup
 {
 	z-index: 28;
-	width: 922px;
-	height: 497px;
-	left: -331px;
-	margin-top: 7px;
 }
 
 #u6351
@@ -976,6 +911,63 @@
 	margin-right: -10000px;
 	left: 201px;
 	margin-left: 507px;
+}
+
+#u6356
+{
+	z-index: 98;
+	width: 254px;
+	height: 63px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu6357
+{
+	position: absolute;
+	width: 0.01px;
+}
+
+#u6357
+{
+	position: absolute;
+	width: 253px;
+	height: 62px;
+}
+
+#u6346-4
+{
+	z-index: 101;
+	min-height: 35px;
+	width: 87.36%;
+}
+
+#pu6357.PamphletThumbSelected #u6346-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	min-height: 35px;
+	width: 87.36%;
+	left: 5.54%;
+}
+
+#pu6357 #u6346-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 5.93%;
+}
+
+#pu6357popup
+{
+	width: 254px;
+	height: 63px;
+	margin-right: -10000px;
 }
 
 .css_verticalspacer .verticalspacer

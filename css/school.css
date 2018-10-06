@@ -1,7 +1,7 @@
 .version.school /* version checker */
 {
-	color: #00000E;
-	background-color: #7D5ED3;
+	color: #0000F0;
+	background-color: #A933F4;
 }
 
 #muse_css_mq
@@ -316,6 +316,7 @@
 {
 	z-index: 342;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.73%;
 	margin-left: 25.15%;
 }
@@ -408,6 +409,7 @@
 {
 	z-index: 351;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.34%;
 }
 

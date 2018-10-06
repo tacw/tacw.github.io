@@ -1,7 +1,7 @@
 .version.takehomes /* version checker */
 {
-	color: #0000F6;
-	background-color: #E85C11;
+	color: #000012;
+	background-color: #A23A86;
 }
 
 #muse_css_mq
@@ -313,6 +313,7 @@
 {
 	z-index: 242;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.73%;
 	margin-left: 25.15%;
 }
@@ -405,6 +406,7 @@
 {
 	z-index: 251;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.34%;
 }
 
@@ -540,6 +542,7 @@
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 5px;
 	width: 34.43%;
 	margin-left: 35.42%;
 	left: -1px;
@@ -556,7 +559,7 @@
 	z-index: 319;
 	position: relative;
 	width: 80.58%;
-	margin-left: 8.6%;
+	margin-left: 8.92%;
 }
 
 #u13208
@@ -593,7 +596,7 @@
 	z-index: 269;
 	width: 314px;
 	height: 590px;
-	margin-top: 9px;
+	margin-top: 4px;
 }
 
 #u13184

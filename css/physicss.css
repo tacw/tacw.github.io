@@ -1,7 +1,7 @@
 .version.physicss /* version checker */
 {
-	color: #00000A;
-	background-color: #247844;
+	color: #0000F0;
+	background-color: #84AC19;
 }
 
 #muse_css_mq
@@ -313,6 +313,7 @@
 {
 	z-index: 104;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.73%;
 	margin-left: 25.15%;
 }
@@ -405,6 +406,7 @@
 {
 	z-index: 113;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.34%;
 }
 

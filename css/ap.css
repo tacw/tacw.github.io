@@ -1,7 +1,7 @@
 .version.ap /* version checker */
 {
-	color: #0000E5;
-	background-color: #53813A;
+	color: #0000ED;
+	background-color: #AF08C0;
 }
 
 #muse_css_mq
@@ -313,6 +313,7 @@
 {
 	z-index: 95;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.73%;
 	margin-left: 25.15%;
 }
@@ -405,6 +406,7 @@
 {
 	z-index: 104;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.34%;
 }
 

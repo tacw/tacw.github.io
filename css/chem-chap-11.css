@@ -1,7 +1,7 @@
 .version.chem_chap_11 /* version checker */
 {
-	color: #0000F6;
-	background-color: #9A2F42;
+	color: #00000F;
+	background-color: #130582;
 }
 
 #muse_css_mq
@@ -313,6 +313,7 @@
 {
 	z-index: 53;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.73%;
 	margin-left: 25.15%;
 }
@@ -405,6 +406,7 @@
 {
 	z-index: 62;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.34%;
 }
 

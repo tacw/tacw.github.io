@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tacw.github.io/index.html</loc>
-    <lastmod>2018-09-23</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -18,18 +18,18 @@
       <image:loc>http://tacw.github.io/images/vicnent.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_1jtcoh.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://tacw.github.io/images/tac%20founders%201.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tacw.github.io/images/tac%20founders%202.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/logomakr_1jtcoh.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://tacw.github.io/tht1.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht2.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -92,7 +92,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/computer-science.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/nashville-building-costs.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -155,7 +155,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht31.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -173,7 +173,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht30.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht32.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -212,7 +212,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht28.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -236,7 +236,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht27.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -254,7 +254,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht29.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -275,7 +275,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht26.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -296,7 +296,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht25.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -338,7 +338,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht23.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -383,7 +383,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht24.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -404,7 +404,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht21.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -427,12 +427,15 @@
     </image:image>
   </url>
   <url>
-    <loc>http://tacw.github.io/tht20.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <loc>http://tacw.github.io/sat.html</loc>
+    <lastmod>2018-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://tacw.github.io/images/logomakr_9a9qwa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/pointerb.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tacw.github.io/images/logomakr_1jtcoh.png</image:loc>
@@ -443,16 +446,10 @@
     <image:image>
       <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/firefox_2018-01-14_14-01-30.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/firefox_2018-01-14_14-01-37.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://tacw.github.io/tht22.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -472,8 +469,35 @@
     </image:image>
   </url>
   <url>
+    <loc>http://tacw.github.io/tht19.html</loc>
+    <lastmod>2018-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/logomakr_1jtcoh.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/pasdf.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/firefox_2018-01-07_15-43-31.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/firefox_2018-01-07_15-42-53.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/firefox_2018-01-07_15-43-05.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://tacw.github.io/tht18.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -508,15 +532,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://tacw.github.io/calc-disclaimer.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <loc>http://tacw.github.io/tht20.html</loc>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://tacw.github.io/images/logomakr_9a9qwa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/pointerb.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tacw.github.io/images/logomakr_1jtcoh.png</image:loc>
@@ -526,11 +547,17 @@
     </image:image>
     <image:image>
       <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/firefox_2018-01-14_14-01-30.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/firefox_2018-01-14_14-01-37.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://tacw.github.io/tht19.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <loc>http://tacw.github.io/tht17.html</loc>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -546,18 +573,15 @@
       <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tacw.github.io/images/firefox_2018-01-07_15-43-31.jpg</image:loc>
+      <image:loc>http://tacw.github.io/images/applicationframehost_2017-12-18_18-31-13.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tacw.github.io/images/firefox_2018-01-07_15-42-53.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/firefox_2018-01-07_15-43-05.jpg</image:loc>
+      <image:loc>http://tacw.github.io/images/applicationframehost_2017-12-18_18-30-56.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://tacw.github.io/tht16.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -586,8 +610,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://tacw.github.io/template.html</loc>
-    <lastmod>2018-08-29</lastmod>
+    <loc>http://tacw.github.io/calc-disclaimer.html</loc>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -604,30 +628,6 @@
     </image:image>
     <image:image>
       <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://tacw.github.io/tht17.html</loc>
-    <lastmod>2018-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_1jtcoh.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/pasdf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/applicationframehost_2017-12-18_18-31-13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/applicationframehost_2017-12-18_18-30-56.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -673,7 +673,40 @@
     </image:image>
   </url>
   <url>
-    <loc>http://tacw.github.io/sat.html</loc>
+    <loc>http://tacw.github.io/template.html</loc>
+    <lastmod>2018-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/pointerb.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/logomakr_1jtcoh.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/pasdf.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://tacw.github.io/adobe.html</loc>
+    <lastmod>2018-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://tacw.github.io/chem-option.html</loc>
     <lastmod>2018-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -695,47 +728,14 @@
   </url>
   <url>
     <loc>http://tacw.github.io/competitions.html</loc>
-    <lastmod>2017-11-16</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://tacw.github.io/adobe.html</loc>
-    <lastmod>2017-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://tacw.github.io/core.html</loc>
-    <lastmod>2018-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/pointerb.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_1jtcoh.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/pasdf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -782,19 +782,19 @@
   </url>
   <url>
     <loc>http://tacw.github.io/misc.html</loc>
-    <lastmod>2017-11-16</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
+      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
+      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://tacw.github.io/apush.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -872,14 +872,14 @@
   </url>
   <url>
     <loc>http://tacw.github.io/torrenting.html</loc>
-    <lastmod>2017-11-16</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
+      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
+      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4223,7 +4223,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/change-log.html</loc>
-    <lastmod>2018-08-13</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4547,17 +4547,17 @@
   </url>
   <url>
     <loc>http://tacw.github.io/trashed-ideas.html</loc>
-    <lastmod>2017-11-16</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://tacw.github.io/images/pointerb.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
+      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
+      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4772,14 +4772,14 @@
   </url>
   <url>
     <loc>http://tacw.github.io/calc-programs.html</loc>
-    <lastmod>2017-11-16</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
+      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
+      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4826,7 +4826,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4844,7 +4844,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/lit.html</loc>
-    <lastmod>2018-09-23</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4865,7 +4865,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/group5.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4886,7 +4886,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht3.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4904,7 +4904,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht4.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4922,7 +4922,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht5.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4946,7 +4946,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/period-1.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4964,7 +4964,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/period-2.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4982,7 +4982,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/period-3.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5000,14 +5000,14 @@
   </url>
   <url>
     <loc>http://tacw.github.io/troll.html</loc>
-    <lastmod>2017-11-16</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
+      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tacw.github.io/images/texture_black.jpg</image:loc>
+      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5033,7 +5033,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht6.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5057,7 +5057,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht7.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5087,7 +5087,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht8.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5111,7 +5111,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht9.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5135,7 +5135,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht10.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5159,7 +5159,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht11.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5175,15 +5175,15 @@
       <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tacw.github.io/images/photoshop_2017-11-03_20-27-48-crop-u13413.jpg</image:loc>
+      <image:loc>http://tacw.github.io/images/photoshop_2017-11-04_17-09-05-crop-u13423.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tacw.github.io/images/photoshop_2017-11-04_17-09-05-crop-u13423.jpg</image:loc>
+      <image:loc>http://tacw.github.io/images/photoshop_2017-11-03_20-27-48-crop-u13413.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://tacw.github.io/tht12.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5207,7 +5207,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht13.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5234,7 +5234,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht14.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5273,7 +5273,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/tht15.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5366,7 +5366,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/ibo.html</loc>
-    <lastmod>2018-09-07</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5387,7 +5387,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/group1.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5408,7 +5408,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/group3.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5429,7 +5429,28 @@
   </url>
   <url>
     <loc>http://tacw.github.io/group4.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/pointerb.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/logomakr_1jtcoh.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/pasdf.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://tacw.github.io/chem-chap-10.html</loc>
+    <lastmod>2018-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5470,8 +5491,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://tacw.github.io/chem-option.html</loc>
-    <lastmod>2018-08-29</lastmod>
+    <loc>http://tacw.github.io/core.html</loc>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5492,7 +5513,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/econ.html</loc>
-    <lastmod>2018-09-23</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5513,7 +5534,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/bio.html</loc>
-    <lastmod>2018-09-23</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5534,7 +5555,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/chem.html</loc>
-    <lastmod>2018-09-23</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5555,7 +5576,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/physics.html</loc>
-    <lastmod>2018-09-23</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5576,7 +5597,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/further.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5597,7 +5618,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/psych.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5618,7 +5639,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/calc.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5648,7 +5669,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/stats.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5669,7 +5690,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/takehomes.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5690,7 +5711,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/history.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5753,7 +5774,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/period-4.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5771,7 +5792,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/period-5.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5789,7 +5810,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/period-6.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5807,7 +5828,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/period-7.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5825,7 +5846,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/period-8.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5843,7 +5864,7 @@
   </url>
   <url>
     <loc>http://tacw.github.io/period-9.html</loc>
-    <lastmod>2018-08-05</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5966,27 +5987,6 @@
   </url>
   <url>
     <loc>http://tacw.github.io/chem-chap-9.html</loc>
-    <lastmod>2018-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_9a9qwa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/pointerb.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/logomakr_1jtcoh.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/pasdf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tacw.github.io/images/pointer.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://tacw.github.io/chem-chap-10.html</loc>
     <lastmod>2018-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

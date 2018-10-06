@@ -1,7 +1,7 @@
 .version.sat /* version checker */
 {
-	color: #0000FD;
-	background-color: #4A36D9;
+	color: #0000F6;
+	background-color: #0F085B;
 }
 
 #muse_css_mq
@@ -313,6 +313,7 @@
 {
 	z-index: 140;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.73%;
 	margin-left: 25.15%;
 }
@@ -405,6 +406,7 @@
 {
 	z-index: 149;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.34%;
 }
 

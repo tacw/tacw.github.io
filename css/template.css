@@ -1,7 +1,7 @@
 .version.template /* version checker */
 {
-	color: #0000FC;
-	background-color: #8C5599;
+	color: #000012;
+	background-color: #BED54A;
 }
 
 #muse_css_mq
@@ -313,6 +313,7 @@
 {
 	z-index: 49;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.73%;
 	margin-left: 25.15%;
 }
@@ -405,6 +406,7 @@
 {
 	z-index: 58;
 	margin-right: -10000px;
+	margin-top: 1px;
 	width: 25.34%;
 }
 

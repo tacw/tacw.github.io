@@ -1,7 +1,7 @@
 .version.trashed_ideas /* version checker */
 {
-	color: #000013;
-	background-color: #158A6D;
+	color: #000002;
+	background-color: #22F839;
 }
 
 #page
@@ -775,9 +775,9 @@
 	border-width: 2px;
 	border-color: #FFCA00;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -795,9 +795,9 @@
 	border-width: 2px;
 	border-color: #FFCA00;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -815,9 +815,9 @@
 	border-width: 2px;
 	border-color: #FFCA00;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -835,9 +835,9 @@
 	border-width: 2px;
 	border-color: #FFCA00;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1249,10 +1249,10 @@
 
 #u16557-3,#u16543-3,#u16550-3
 {
-	text-align: center;
 	font-size: 12px;
 	letter-spacing: 2px;
 	line-height: 14px;
+	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	margin-left: 2px;
@@ -1539,11 +1539,11 @@
 
 #u16580-3,#u16536-3,#u16572-3,#u16588-3,#u16563-3
 {
-	text-align: center;
 	font-size: 12px;
-	color: #FFFFFF;
 	letter-spacing: 6px;
 	line-height: 14px;
+	text-align: center;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	margin-left: 6px;

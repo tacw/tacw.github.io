@@ -1,7 +1,7 @@
 .version.tht31 /* version checker */
 {
-	color: #0000E6;
-	background-color: #EEEF34;
+	color: #0000F1;
+	background-color: #500DB5;
 }
 
 #muse_css_mq
@@ -377,19 +377,58 @@
 	left: 0px;
 }
 
+#u13078
+{
+	z-index: 179;
+	position: relative;
+	margin-right: -10000px;
+	width: 100%;
+}
+
+#u13079
+{
+	position: absolute;
+	height: 62px;
+	width: 100%;
+}
+
+.ie #u13079
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u13079popup
+{
+	height: 62px;
+	margin-right: -10000px;
+	width: 100%;
+}
+
+#pu13054
+{
+	z-index: 137;
+	top: calc(100% + -78px);
+	position: absolute;
+	width: 124.12%;
+	margin-left: -12.06%;
+	left: 7px;
+}
+
 #u13054
 {
 	position: absolute;
 	width: 314px;
 	height: 621px;
 	margin-left: 50%;
-	left: -306.5px;
+	left: -314px;
 }
 
 #u13054popup
 {
 	z-index: 137;
-	margin-top: -16px;
 	width: 314px;
 	height: 621px;
 	margin-right: -10000px;
@@ -821,36 +860,6 @@
 	margin: 24px -10000px 0px 0px;
 }
 
-#u13078
-{
-	z-index: 179;
-	position: relative;
-	margin-right: -10000px;
-	width: 100%;
-}
-
-#u13079
-{
-	position: absolute;
-	height: 62px;
-	width: 100%;
-}
-
-.ie #u13079
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u13079popup
-{
-	height: 62px;
-	margin-right: -10000px;
-	width: 100%;
-}
-
 .css_verticalspacer .verticalspacer
 {
 	height: calc(100vh - 1581px);
@@ -868,7 +877,7 @@
 	z-index: 4;
 	position: relative;
 	width: 19.33%;
-	margin-left: 4.24%;
+	margin-left: 4.35%;
 }
 
 #pu12067-4
